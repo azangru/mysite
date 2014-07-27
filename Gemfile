@@ -6,6 +6,10 @@ gem "middleman", "~>3.3.3"
 gem "rb-inotify"
 gem "therubyracer"
 gem 'jquery-ui-middleman'
+gem 'font-awesome-middleman'
+
+# To publish on Github Pages
+gem 'middleman-gh-pages'
 
 gem "bootstrap-sass", :require => false
 

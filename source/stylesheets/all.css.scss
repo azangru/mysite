@@ -1,0 +1,340 @@
+@charset "utf-8";
+
+/*
+ *= require jquery.ui.all
+ */
+
+body {
+  background: #d4d4d4 url("../images/background.png");
+  font-family: sans-serif; }
+
+main {
+  padding-top: 2em;
+}
+
+p{
+  font-family: 'PT Serif', serif;
+}
+
+$main-width: 960px;
+main {
+  width: $main-width;
+  margin: auto;
+  h1{
+    color: #606060;
+    font: 80px/1.2em "noticia text", serif;
+    margin-bottom: -0.6em;
+    /* display: inline-block; */
+  }
+  h2{
+    /* display: inline-block; */
+    color: #606060;
+    font: 46px/1.2em "noticia text", serif;
+  }
+  h3{
+    color: #606060;
+    font: 35px/1.2em "noticia text", serif;
+  }
+}
+
+#homepage-myphoto-myname-container {
+  clear:both;
+  margin-bottom: 5em;
+}
+
+#homepage-myphoto{
+  display: inline-block;
+}
+
+#myname-container{
+  width: 500px;
+  float: right;
+  text-align: center;
+}
+
+#homepage-myname{
+  display: inline-block;
+  /* vertical-align: top; */
+  /* margin-top: 50px; */
+}
+
+// buttons
+
+.round-button-circle {
+  display: inline-block;
+  margin: 0.8em;
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  overflow: hidden;
+  -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+}
+
+#portfolio{
+  @extend.round-button-circle;
+  $portfolio-button-color: #e83556;
+  background: $portfolio-button-color;
+  &:hover{
+    background: darken($portfolio-button-color, 20%);
+  }
+}
+
+#resume{
+  @extend.round-button-circle;
+  $resume-button-color: #61cfd3;
+  background: $resume-button-color;
+  &:hover{
+    background: darken($resume-button-color, 20%);
+  }
+}
+
+#video{
+  @extend.round-button-circle;
+  $video-button-color: #d1c825;
+  background: $video-button-color;
+  &:hover{
+    background: darken($video-button-color, 20%);
+  }
+}
+
+.round-button {
+  display:block;
+  float:left;
+  width:100%;
+  padding-top:50%;
+  padding-bottom:50%;
+  line-height:1em;
+  margin-top:-0.5em;
+  text-align:center;
+  color:#e2eaf3;
+  font-family:Verdana;
+  font-size:1.2em;
+  font-weight:bold;
+  text-decoration:none;
+}
+
+// -------- End of buttons ---------
+
+
+// PORTFOLIO SECTION
+
+.portfolio nav ul {
+  text-align: center;
+  li{
+    display: inline-block;
+    margin: 0 1em;
+    a{
+      font-variant: small-caps;
+      color: #9b9897;
+      font-weight: bold;
+      font-size: 130%;
+      &:hover{
+        color: #61cfd3;
+      }
+    }
+  }
+}
+
+.portfolio nav .active{
+  color: #61cfd3;
+}
+
+// BOOK COVERS AND DESCRIPTION
+
+// Flipping book covers
+
+// entire container, keeps perspective
+
+.portfolio{
+  padding-bottom: 3em;
+}
+
+.portfolio-section{
+  a{
+    &:visited{
+      color: blue;
+    }
+  }
+}
+
+.book-container{
+  text-align: center;
+}
+
+.book{
+  padding: 1em;
+  display: inline-block;
+  text-align: left;
+  clear: both;
+}
+
+.flip-container {
+  float: left;
+  perspective: 1000;
+}
+
+// flip the pane when hovered
+.flip-container:hover .flipper {
+  transform: rotateY(180deg);
+}
+
+.flip-container, .front, .back {
+  width: 250px;
+  height: 400px;
+}
+
+// flip speed goes here
+.flipper {
+  transition: 0.6s;
+  transform-style: preserve-3d;
+
+  position: relative;
+}
+
+// hide back of pane during swap
+.front, .back {
+  backface-visibility: hidden;
+
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+// front pane, placed above back
+.front {
+  // z-index: 2;
+}
+
+// back, initially hidden pane
+.back {
+  transform: rotateY(180deg);
+}
+
+// End of flipping book covers
+
+.book-description-container{
+  margin-left: 300px;
+}
+
+.book-description{
+  width: 400px;
+  margin-left: 2em;
+  p{
+    display: inline-block;
+    padding-top: 25%;
+  }
+  small{
+    font-size: 80%;
+    font-style: italic;
+  }
+}
+
+.article-description{
+  text-align: left;
+  width: 80%;
+  margin: auto;
+}
+
+.site-image{
+  text-align: center;
+}
+
+// RESUME SECTION
+
+.resume-info-container{
+  width: 3/4 * $main-width;
+  float: left;
+  .resume-info-group{
+    display: block;
+    padding: 1em 0;
+    margin-bottom: 2em;
+    overflow: auto;
+    border-top: 1px solid #c3bfbe;
+    clear: both;
+  }
+  .resume-info-heading{
+    width: (3/4 * $main-width)/4;
+    float: left;
+    .heading-circle{
+      height: 140px;
+      width: 140px;
+      border-radius: 50%;
+      display: table;
+      background: #e83556;
+      h3{
+        font-size: 22px;
+        font-variant: small-caps;
+        color: white;
+        text-align: center;
+        display: table-cell;
+        vertical-align: middle;
+      }
+    }
+  }
+  .resume-info{
+    width: (3/4 * $main-width)*3/4;
+    float: right;
+    h4{
+      font-size: 20px;
+      color: #505050;
+      margin: 15px 0 10px 0;
+    }
+    h5{
+      font-size: 18px;
+      color: #6f6d6d;
+      margin: 0 0 10px 0;
+    }
+    p{
+      margin: 5px 0;
+    }
+  }
+}
+
+.resume-skill-container{
+  width: 1/4 * $main-width - 20px;
+  float: right;
+  .resume-skill-circle{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    display: table;
+    background: #e83556;
+    text-align: center;
+    margin-top: 25px;
+    .fa{
+      display: inline;
+      color: white;
+      font-size: 2em;
+      text-align: center;
+      vertical-align: middle;
+    }
+  }
+  .resume-skill{
+    h3{
+      font-size: 22px;
+      // display: inline-block;
+      margin: 10px 0;
+      border-bottom: 1px solid #c3bfbe;
+    }
+    h4{
+      font-size: 20px;
+      margin: 10px;
+      color: #6f6d6d;
+    }
+    p{
+      margin: 5px 0 5px 10px;
+    }
+  }
+}
+
+// VIDEO SECTION
+.video-container{
+  width: 70%;
+  margin: auto;
+  padding: 1em 0;
+  border-bottom: 1px solid #c3bfbe;
+}

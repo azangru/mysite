@@ -3,38 +3,19 @@
 //= require_tree .
 
 $ ->
+  # $('#sidebar-menu').hide()
+  $sidebarMenu = $('#sidebar-menu');
 
-	# $('.resume').hide()
-	# $('.portfolio').hide()
-	$('.site-section').hide()
-	$('.portfolio-section').hide()
+  $('#open-sidebar-button').click(() ->
+    openSidebar()
+  )
 
+  $('#close-sidebar-button').click(() ->
+    closeSidebar()
+  )
+  
+  openSidebar = () ->
+    $sidebarMenu.removeClass('closed-sidebar').addClass('open-sidebar')
 
-	$('a.round-button').click ->
-		sectionName = $(this).data('section')
-		if $('.site-section:visible').length >= 1
-			$('.site-section:visible').fadeOut 500, ->
-				$(".#{sectionName}").fadeIn(500)
-		else
-			$(".#{sectionName}").fadeIn(1000)
-
-	$('.portfolio nav li a').click (e)->
-		e.preventDefault()
-		$('.portfolio nav li a').removeClass('active')
-		$(this).addClass('active')
-		linkOrder = parseInt($(this).data('order'))
-		if $('.portfolio-section:visible').length == 0
-			$(".portfolio-section[data-order='#{linkOrder}']").fadeIn(1000)
-		else
-			divOrder = parseInt($('.portfolio-section:visible').data('order'))
-			height = $('.portfolio-section:visible').height()
-			nextHeight = $(".portfolio-section[data-order='#{linkOrder}']").height()
-			$('.portfolio').height(height)
-			if linkOrder > divOrder
-				$('.portfolio-section:visible').hide 'slide', {direction: 'left'}, 500, () ->
-					$(".portfolio-section[data-order='#{linkOrder}']").show('slide', {direction: 'right'}, 500)
-			if linkOrder < divOrder
-				$('.portfolio-section:visible').hide 'slide', {direction: 'right'}, 500, () ->
-					$(".portfolio-section[data-order='#{linkOrder}']").show('slide', {direction: 'left'}, 500)
-
-			$('.portfolio').height(nextHeight);
+  closeSidebar = () ->
+    $sidebarMenu.removeClass('open-sidebar').addClass('closed-sidebar')

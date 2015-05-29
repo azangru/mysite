@@ -11,6 +11,9 @@ gem 'font-awesome-middleman'
 # To publish on Github Pages
 gem 'middleman-gh-pages'
 
+# Blogging gem
+gem "middleman-blog"
+
 gem "bootstrap-sass", :require => false
 
 # Live-reloading plugin

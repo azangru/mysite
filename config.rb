@@ -56,6 +56,12 @@ set :images_dir, 'images'
 activate :relative_assets
 set :relative_links, true
 
+activate :i18n, :langs => [:en, :ru], :lang_map => { :en => :english, :ru => :russian }
+
+activate :blog do |blog|
+  blog.prefix = "blog"
+  blog.paginate = true
+end
 
 # Build-specific configuration
 configure :build do

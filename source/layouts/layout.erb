@@ -19,6 +19,11 @@
   
   <body class="<%= page_classes %>">
     <%= partial "menu-button" %>
-    <%= yield %>
+    <%= partial "side-menu" %>
+    <main class="with-sidemenu-closed">
+      <div class="content">
+        <%= yield %>
+      </div>
+    </main>
   </body>
 </html>

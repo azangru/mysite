@@ -2,22 +2,20 @@
 title: Андрей Азов
 ---
 
-%main
-  -# =image_tag 'azov.png'
-  #homepage
-    %h1 Андрей Азов
-    %h2 веб-разработчик
+#homepage
+  %h1 Андрей Азов
+  %h2 веб-разработчик
 
-    %ul
-      %li
-        = link_to 'о себе', '/russian/about.html'
-        %a{ href: "/russian/about.html", title: "о себе" } о себе
-      %li проекты
-      %li блог
-      %li прочее
+  %ul
+    %li
+      = link_to 'о себе', "/#{I18n.locale}/about.html"
+      %a{ href: "/russian/about.html", title: "о себе" } о себе
+    %li проекты
+    %li блог
+    %li прочее
 
-    #homepage-language
-      %p in English
+  #homepage-language
+    %p in English
 
 
         

@@ -63,6 +63,9 @@ activate :blog do |blog|
   blog.paginate = true
 end
 
+page "/index.html", :layout => "home-layout"
+page "/russian/index.html", :layout => "home-layout"
+
 # Build-specific configuration
 configure :build do
   # For example, change the Compass output style for deployment

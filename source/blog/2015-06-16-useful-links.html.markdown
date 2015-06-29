@@ -15,5 +15,7 @@ In this post I collect links to code-related pages that I found interesting and 
 [UseVim](http://usevim.com/)
 
 Webcasts
+
 [Ruby Rogues by DevChat.tv](http://devchat.tv/ruby-rogues)
+
 [The Changelog](https://changelog.com/)

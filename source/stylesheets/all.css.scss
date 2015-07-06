@@ -209,6 +209,8 @@ a{
   }
 }
 
+/* ======== THIS IS SIDEBAR ========= */
+
 #sidebar-menu{
   position: fixed;
   top: 0;
@@ -217,7 +219,7 @@ a{
   display: inline-block;
   height: 100vh;
   overflow: hidden;
-  background: silver;
+  background: #262626;
   ul{
     margin-top: 25vh;
     max-width: 90%;
@@ -227,11 +229,20 @@ a{
       font-size: 3em;
       line-height: 1.5em;
       a{
+        color: white;
+        text-decoration: none;
         &.active{
-          color: red;
+          color: #b88b58 !important;
           text-decoration: none;
         }
+        &:visited{
+          color: white;
+        }
+        &:hover{
+          text-decoration: underline;
+        }
       }
+      
     }
   }
   transition: width 0.5s;
@@ -242,11 +253,52 @@ a{
     width: 20%;
   }
   #close-sidebar-button{
+    font-size: 2em;
+    color: white;
     float: right;
     margin-top: 2vh;
     margin-right: 5%;
+    &:hover{
+      cursor: pointer;
+    }
   }
 }
+
+#sidebar-menu ul > li{
+  margin-left: -300px;
+  visibility: hidden;
+  transition: all 0.7s ease;
+}
+
+#sidebar-menu.open-sidebar ul > li:nth-child(1){
+  margin-left: 0;
+  visibility: visible;
+  transition: all 0.7s ease;
+  transition-delay: 0.1s;
+}
+
+#sidebar-menu.open-sidebar ul > li:nth-child(2){
+  margin-left: 0;
+  visibility: visible;
+  transition: all 0.7s ease;
+  transition-delay: 0.2s;
+}
+
+#sidebar-menu.open-sidebar ul > li:nth-child(3){
+  margin-left: 0;
+  visibility: visible;
+  transition: all 0.7s ease;
+  transition-delay: 0.3s;
+}
+
+#sidebar-menu.open-sidebar ul > li:nth-child(4){
+  margin-left: 0;
+  visibility: visible;
+  transition: all 0.7s ease;
+  transition-delay: 0.4s;
+}
+
+/* ======== END OF SIDEBAR ========= */
 
 .myphoto-container{
   float: right;

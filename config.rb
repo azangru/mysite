@@ -53,6 +53,9 @@ set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
 
+set :markdown_engine, :redcarpet
+set :markdown, :fenced_code_blocks => true, :smartypants => true
+
 activate :relative_assets
 set :relative_links, true
 
@@ -69,6 +72,9 @@ page "/blog/feed.xml", layout: false
 
 page "/index.html", :layout => "home-layout"
 page "/russian/index.html", :layout => "home-layout"
+
+# Syntax highlighting
+activate :syntax, :line_numbers => true
 
 # Build-specific configuration
 configure :build do

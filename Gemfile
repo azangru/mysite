@@ -15,6 +15,12 @@ gem 'middleman-gh-pages'
 gem "middleman-blog"
 gem "nokogiri"
 
+# Syntax highlighting for code snippets
+gem "middleman-syntax"
+
+# Markdown engine
+gem 'redcarpet'
+
 gem "bootstrap-sass", :require => false
 
 # Live-reloading plugin

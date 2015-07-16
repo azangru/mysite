@@ -14,6 +14,9 @@ In this post I collect links to code-related pages that I found interesting and 
 
 [UseVim](http://usevim.com/)
 
+[Essential Javascript Links](https://github.com/ericelliott/essential-javascript-links)
+
+
 Webcasts
 
 [Ruby Rogues by DevChat.tv](http://devchat.tv/ruby-rogues)

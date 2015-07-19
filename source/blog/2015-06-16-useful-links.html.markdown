@@ -22,3 +22,7 @@ Webcasts
 [Ruby Rogues by DevChat.tv](http://devchat.tv/ruby-rogues)
 
 [The Changelog](https://changelog.com/)
+
+Blogs
+
+[Ben McCormick’s blog](http://benmccormick.org/) has interesting articles on JavaScript, Backbone, Vim

@@ -2,18 +2,23 @@
 title: Andrey Azov — Other
 ---
 
-%p Here I collected a list of my translations, original publications and talks (except for some least important ones).
-
-
-Health Sciences
-Fiction
-Humanities
-Videos
-
+%p Here I collected a list of my translations, original publications and talks (except for the least important or, well, the most embarrassing ones).
 
 #bibliography
+  #table-of-contents
+    %ul
+      %li
+        %a{:href => "#health-sciences"} Health Sciences
+      %li
+        %a{:href => "#fiction"} Fiction
+      %li
+        %a{:href => "#humanities"} Humanities
+      %li
+        Videos
+
   .portfolio-section{:data => {:order => 1}}
     .book-container
+      %a{:name => "health-sciences"}
       %h2 Health Sciences
       %h3 English to Russian Translations
       .book
@@ -198,6 +203,7 @@ Videos
 
   .portfolio-section{:data => {:order => 2}}
     .book-container
+      %a{:name => "fiction"}
       %h2{style: "clear: both"} Fiction
       %h3 English to Russian Translations
 
@@ -288,6 +294,7 @@ Videos
 
   .portfolio-section{:data => {:order => 3}}
     .book-container
+      %a{:name => "humanities"}
       %h2 Humanities
       .book
         .flip-container
@@ -305,17 +312,20 @@ Videos
       .article-description
         %h4 In English
         %ol
-          %li 
-            =link_to '“Barbaric Yawp” in Russian', '/pdfs/yawp-russian.pdf'
-            \// Rocznik Komparatystyczny (Comparative Yearbook). 2013. No. 4. P. 321–325.
+          %li
+            :markdown
+              “Barbaric Yawp” in Russian // Rocznik Komparatystyczny (Comparative Yearbook). 2013. No. 4. P. 321–325 ([pdf](/pdfs/yawp-russian.pdf)).
+
         %h4 In Russian
         %ol
-          %li <a href="http://tekstologia.jimdo.com/app/download/8704868093/Azov.pdf">О переиздании перевода «Посмертных записок Пиквикского клуба» под редакцией Густава Шпета</a> // Текстология и историко-литературный процесс: II Международная конференция молодых исследователей (Москва, Московский государственный университет им. М. В. Ломоносова, филологический факультет, 21—22 марта 2013 г.): Сборник статей. М.: Лидер, 2014. С. 158–176.
           %li
-            =link_to 'К истории теории перевода в Советском Союзе. Проблема реалистического перевода', 'http://www.logosjournal.ru/arch/22/art_163.pdf'
-            \// Логос. 2012. № 3. С. 131–152.
-          %li 
-            =link_to 'Воспаление: к истории слова и понятия', '/pdfs/inflammation.pdf'
-            \// Вопросы русского языкознания: Сб. Вып. XIII. Фонетика и грамматика: настоящее, прошедшее, будущее: К 50‑летию научной деятельности Софьи Константиновны Пожарицкой / Сост. С. В. Князев, А. В. Птенцова; отв. ред. М. Л. Ремнёва, С. В. Князев. М.: Изд-во МГУ, 2010. С. 323–329.
+            :markdown
+              О переиздании перевода «Посмертных записок Пиквикского клуба» под редакцией Густава Шпета // Текстология и историко-литературный процесс: II Международная конференция молодых исследователей (Москва, Московский государственный университет им. М. В. Ломоносова, филологический факультет, 21—22 марта 2013 г.): Сборник статей. М.: Лидер, 2014. С. 158–176 ([pdf](http://tekstologia.jimdo.com/app/download/8704868093/Azov.pdf)).
+          %li
+            :markdown
+              К истории теории перевода в Советском Союзе. Проблема реалистического перевода // Логос. 2012. № 3. С. 131–152 ([pdf](http://www.logosjournal.ru/arch/22/art_163.pdf)).
+          %li
+            :markdown
+              Воспаление: к истории слова и понятия // Вопросы русского языкознания: Сб. Вып. XIII. Фонетика и грамматика: настоящее, прошедшее, будущее: К 50‑летию научной деятельности Софьи Константиновны Пожарицкой / Сост. С. В. Князев, А. В. Птенцова; отв. ред. М. Л. Ремнёва, С. В. Князев. М.: Изд-во МГУ, 2010. С. 323–329 ([pdf](/pdfs/inflammation.pdf)).
 
 

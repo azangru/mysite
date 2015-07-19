@@ -314,6 +314,16 @@ a{
 
 // BIBLIOGRAPHY
 #bibliography{
+  #table-of-contents{
+    font-size: 1.8em;
+    line-height: 1.5em;
+    ul{
+      padding-left: 1em;
+    }
+    li{
+      list-style-type: none;
+    }
+  }
   h2{
     text-align: left;
     text-transform: uppercase;

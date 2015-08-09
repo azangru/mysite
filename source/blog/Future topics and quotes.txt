@@ -1,0 +1,9 @@
+ES6 and Coffeescript
+
+People that want really cool weird features are already using transpilers. They’ve been using transpilers for the past two or three years. They were using coffeescript, before it got renamed to ES6, and they’ll be using Typescript well before it gets renamed to ES8... or 7... or whatever it is.
+(JS Jabber, episode 168: "The Future of JavaScript with Jafar Husain", 29 mins; http://devchat.tv/js-jabber/168-jsj-the-future-of-javascript-with-jafar-husain)
+
+
+Gulp and Browserify
+
+Middleman and static site generators

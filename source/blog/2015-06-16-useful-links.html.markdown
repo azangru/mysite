@@ -14,15 +14,30 @@ In this post I collect links to code-related pages that I found interesting and 
 
 [UseVim](http://usevim.com/)
 
+[PostgresGuide](http://www.postgresguide.com/)
+
 [Essential Javascript Links](https://github.com/ericelliott/essential-javascript-links)
 
+[Awesome: A curated list of awesome links](https://github.com/sindresorhus/awesome)
 
 Webcasts
 
-[Ruby Rogues by DevChat.tv](http://devchat.tv/ruby-rogues)
+[DevChat.tv](https://devchat.tv/)
+
+- [Ruby Rogues](http://devchat.tv/ruby-rogues)
+- [Javascript Jabber](https://devchat.tv/js-jabber)
+- [Adventures in Angular](https://devchat.tv/adventures-in-angular)
 
 [The Changelog](https://changelog.com/)
+
+[Jupiter Broadcasting](http://www.jupiterbroadcasting.com/)
+
+[Software Engineering Radio](http://www.se-radio.net/)
 
 Blogs
 
 [Ben McCormick’s blog](http://benmccormick.org/) has interesting articles on JavaScript, Backbone, Vim
+
+Services
+
+[Tutum — The Docker Platform for Dev and Ops](https://www.tutum.co/)

@@ -6,7 +6,7 @@ tags: docker-compose
 
 Docker is awesome. It isolates software in independent containers, which behave like virtual machines, only without huge drain of system resources.
 
-It can be used for web development, too. A Dockerfile placed in the root of the project directory will contain instructions for build a Docker image and, when a container is spun from this image, to start necessary services in that container.
+It can be used for web development, too. A Dockerfile placed in the root of the project directory will contain instructions for building a Docker image and, when a container is spun from this image, for starting necessary services in that container.
 
 An important Dockerfile command is [`ADD`](https://docs.docker.com/reference/builder/#add).
 

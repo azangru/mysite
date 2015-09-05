@@ -4,10 +4,33 @@ date: 2015-08-29 21:06 UTC
 tags:
 ---
 
-By default, frontend frameworks typically require a hash (`#`) in the url for correct routing. This is a noticeable contrast with urls used by the rest of web applications, which do routing on the backend. From the user’s perspective, this hash in the url is just an annoying superfluous character that doesn’t serve any purpose. So how to get rid of it?
+In the days of yore, javascript-based frontend frameworks used hash urls for routing. So if the root url for the application were `www.myapp.com`, then the url to render the About page would be something like `www.myapp.com/#about`.
 
-## Angular
-1) Add <base href="/" /> to the head of index.html
+As a user, I would find this hash symbol annoying. Hash urls are noticeably different from urls used on other websites, and from the user’s perspective, this hash sign in urls is just a superfluous character that doesn’t serve any purpose. From the developer’s perspective it is a sign proclaiming that this particular web app has a frontend framework — a completely unnecesary knowledge to give to the user.
+
+And it’s not just me. Developers of React router, for example, [suggest](https://rackt.github.io/react-router/#HistoryLocation) to avoid such urls and prefer the “normal”-looking urls instead. “We recommend you use this...” say the React router’s devs about their solution. “It has better looking URLs...”
+
+Well, I couldn’t agree more.
+
+So how to get rid of this hash?
+
+The solution relies on [HTML5 History API](https://developer.mozilla.org/en-US/docs/Web/API/History_API) and requires some tweaks on the server side and client side.
+
+## Server Side
+
+The server has to respond to all GET requests (apart from those that need some special server-side logic) by rendering the main view of the app and letting the frontend framework take over from there. In Express, for example, which uses `ejs` templating engine, this is achieved like this:
+
+```javascript
+app.get('*', (req, res) => {
+  res.render('index.ejs');
+});
+```
+
+## Client Side
+
+### Angular
+
+1) Add <base href="/" /> to the head of `index.html`.
 
 2) Add the following to the `.config` property of the `angular` module:
 
@@ -16,24 +39,10 @@ By default, frontend frameworks typically require a hash (`#`) in the url for co
     $locationProvider.html5Mode(true);
 ```
 
-3) Now Angular will be able to deal with routing without any hashes in the url. Next thing to do is to serve Angular on every `get` request and to let it figure out the routing itself. Here is an example from the server based on Node.js and Express. After defining all routes that the server needs to process on the backend, add:
+That’s it.
 
-```javascript
-app.get('/*',  function(req, res) {
-    res.render('index.ejs');
-});
-```
-
-The snippet above will always render the same template file (`index.ejs`) regardless of the url of requests. So, if this index.ejs will contain a reference to Angular, it means that every time a request is made to the server, the page with Angular will be rendered, and Angular will take care of routing..
-
-## React
-React router has a `HistoryLocation` component, which the documentation actually [suggests](https://rackt.github.io/react-router/#HistoryLocation) to prefer to the alternative that uses hashes in the url. “We recommend you use this location,” say the React router’s authors. “It has better looking URLs...”
-
-I couldn’t agree more.
-
-Setting up `HistoryLocation` requires small modifications both on the cliend and server side.
-
-On the client side, React’s [`Router.run`](https://rackt.github.io/react-router/#Router.run) API needs to be provided with `HistoryLocation`, which is as simple as:
+### React
+React router has a `HistoryLocation` component, which needs to be provided to React’s [`Router.run`](https://rackt.github.io/react-router/#Router.run) API. This is as simple as:
 
 ```javascript
 import React from 'react/addons';
@@ -45,10 +54,3 @@ Router.run(routes, Router.HistoryLocation, (Handler) => {
 });
 ```
 
-On the server side, the server (as in the example above for Angular) has to respond to all GET requests by rendering the main view and letting React router take over:
-
-```javascript
-app.get('*', (req, res) => {
-  res.render('index.ejs');
-});
-```

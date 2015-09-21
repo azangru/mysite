@@ -351,6 +351,56 @@ a{
   }
 }
 
+
+// BLOG
+#blog{
+  .preview{
+    margin-bottom: 3em;
+  }
+  h2{
+    font: 3em "noticia text", serif;
+    margin: 0;
+    a{
+      color: black;
+      &:hover{
+        text-decoration: underline;
+      }
+    }
+  }
+  .date{
+    font-size: 1.5em;
+    margin: 0.4em 0 0 1em;
+    padding: 0;
+  }
+  .summary{
+    margin-left: 1em;
+    padding: 0;
+  }
+}
+
+#blog-article{
+  h1{
+    font: 4em "noticia text", serif;
+    margin: 0;
+  }
+  h2{
+    font: 3em "noticia text", serif;
+  }
+  h3{
+    font: 2.5em "noticia text", serif;
+  }
+  .date{
+    font-size: 1.5em;
+    margin: 0.4em 0 0 1em;
+    padding: 0;
+  }
+}
+
+code{
+  color: #c25;
+  font-size: 1em;
+}
+
 /* ========== */
 
 #homepage-myphoto-myname-container {

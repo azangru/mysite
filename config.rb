@@ -64,6 +64,7 @@ activate :i18n, :langs => [:en, :ru], :lang_map => { :ru => :russian }
 activate :blog do |blog|
   blog.prefix = "blog"
   blog.paginate = true
+  blog.layout = "blog_layout.erb"
   blog.tag_template = "blog/tag.html"
   blog.calendar_template = "blog/calendar.html"
 end

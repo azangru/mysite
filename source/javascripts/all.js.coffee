@@ -22,3 +22,8 @@ $ ->
   closeSidebar = () ->
     $sidebarMenu.removeClass('open-sidebar').addClass('closed-sidebar')
     $main.removeClass('with-sidemenu-open').addClass('with-sidemenu-closed')
+
+  # do not underline links that contain code
+  $("code").parent('a').hover(() ->
+    $(this).css("text-decoration", "none")
+  )

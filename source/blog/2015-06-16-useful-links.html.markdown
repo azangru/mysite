@@ -12,6 +12,10 @@ In this post I collect links to code-related pages that I found interesting and 
 
 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
+[JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
+
+[Professor Frisby’s Mostly Adequate Guide to Functional Programming](http://drboolean.gitbooks.io/mostly-adequate-guide)
+
 [UseVim](http://usevim.com/)
 
 [PostgresGuide](http://www.postgresguide.com/)

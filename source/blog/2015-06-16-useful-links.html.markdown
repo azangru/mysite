@@ -22,6 +22,12 @@ In this post I collect links to code-related pages that I found interesting and 
 
 [Essential Javascript Links](https://github.com/ericelliott/essential-javascript-links)
 
+[How to keep up to date on front-end technologies](https://uptodate.frontendrescue.org)
+
+[Front-end developer interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+
+[Frontend development bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+
 [Awesome: A curated list of awesome links](https://github.com/sindresorhus/awesome)
 
 Webcasts
@@ -45,3 +51,7 @@ Blogs
 Services
 
 [Tutum — The Docker Platform for Dev and Ops](https://www.tutum.co/)
+
+Coding Challenges and Lessons
+
+[Codility lessons](https://codility.com/programmers/lessons)

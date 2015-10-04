@@ -61,6 +61,10 @@ set :relative_links, true
 
 activate :i18n, :langs => [:en, :ru], :lang_map => { :ru => :russian }
 
+activate :deploy do |deploy|
+  deploy.method = :git
+end
+
 activate :blog do |blog|
   blog.prefix = "blog"
   blog.paginate = true

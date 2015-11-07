@@ -18,6 +18,9 @@ In this post I collect links to code-related pages that I found interesting and 
 
 [UseVim](http://usevim.com/)
 
+Structure and Interpretation of Computer Programs: [book](https://mitpress.mit.edu/sicp/full-text/book/book.html)
+and [videos](https://www.youtube.com/watch?v=2Op3QLzMgSY)
+
 [PostgresGuide](http://www.postgresguide.com/)
 
 [Essential Javascript Links](https://github.com/ericelliott/essential-javascript-links)

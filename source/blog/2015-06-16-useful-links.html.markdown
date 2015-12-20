@@ -6,18 +6,19 @@ tags:
 
 In this post I collect links to code-related pages that I found interesting and useful. READMORE
 
-[A List of Must-Watch Videos about JavaScript](https://github.com/bolshchikov/js-must-watch)
-
+# Instruments and tools
+## Command line
 [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 
-[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-
-[JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
-
-[Professor Frisby’s Mostly Adequate Guide to Functional Programming](http://drboolean.gitbooks.io/mostly-adequate-guide)
-
+## Vim
 [UseVim](http://usevim.com/)
 
+## Tmux
+[The Tao of tmux](http://tmuxp.readthedocs.org/en/latest/about_tmux.html)
+[tmux shortcuts and cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
+
+# Programming
+## General
 Structure and Interpretation of Computer Programs: [book](https://mitpress.mit.edu/sicp/full-text/book/book.html)
 and [videos](https://www.youtube.com/watch?v=2Op3QLzMgSY)
 
@@ -25,8 +26,18 @@ and [videos](https://www.youtube.com/watch?v=2Op3QLzMgSY)
 
 [PostgresGuide](http://www.postgresguide.com/)
 
+## Javascript
 [Essential Javascript Links](https://github.com/ericelliott/essential-javascript-links)
 
+[A List of Must-Watch Videos about JavaScript](https://github.com/bolshchikov/js-must-watch)
+
+[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+
+[JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
+
+[Professor Frisby’s Mostly Adequate Guide to Functional Programming](http://drboolean.gitbooks.io/mostly-adequate-guide)
+
+## Frontend-related
 [How to keep up to date on front-end technologies](https://uptodate.frontendrescue.org)
 
 [Front-end developer interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
@@ -35,7 +46,7 @@ and [videos](https://www.youtube.com/watch?v=2Op3QLzMgSY)
 
 [Awesome: A curated list of awesome links](https://github.com/sindresorhus/awesome)
 
-Webcasts
+# Webcasts
 
 [DevChat.tv](https://devchat.tv/)
 
@@ -57,6 +68,3 @@ Services
 
 [Tutum — The Docker Platform for Dev and Ops](https://www.tutum.co/)
 
-Coding Challenges and Lessons
-
-[Codility lessons](https://codility.com/programmers/lessons)

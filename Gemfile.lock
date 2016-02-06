@@ -89,8 +89,6 @@ GEM
       middleman-core (>= 3.2)
       net-sftp
       ptools
-    middleman-gh-pages (0.0.3)
-      rake (> 0.9.3)
     middleman-livereload (3.3.4)
       em-websocket (~> 0.5.1)
       middleman-core (~> 3.2)
@@ -123,7 +121,6 @@ GEM
       rack
     rack-test (0.6.3)
       rack (>= 1.0)
-    rake (10.4.2)
     rb-fsevent (0.9.4)
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
@@ -166,10 +163,12 @@ DEPENDENCIES
   middleman (~> 3.3.11)
   middleman-blog
   middleman-deploy (~> 1.0)
-  middleman-gh-pages
   middleman-livereload (~> 3.3.0)
   middleman-syntax
   nokogiri
   rb-inotify
   redcarpet
   therubyracer
+
+BUNDLED WITH
+   1.11.2

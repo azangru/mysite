@@ -9,7 +9,6 @@ gem 'jquery-ui-middleman'
 gem 'font-awesome-middleman'
 
 # To publish on Github Pages
-gem 'middleman-gh-pages'
 gem 'middleman-deploy', '~> 1.0'
 
 # Blogging gem

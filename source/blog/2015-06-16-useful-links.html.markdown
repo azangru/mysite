@@ -44,7 +44,15 @@ and [videos](https://www.youtube.com/watch?v=2Op3QLzMgSY)
 
 [Frontend development bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 
-[Awesome: A curated list of awesome links](https://github.com/sindresorhus/awesome)
+[Awesome: A curated list of awesome lists](https://github.com/sindresorhus/awesome)
+
+[React/Redux links](https://github.com/markerikson/react-redux-links)
+
+[Awesome React (a collection of awesome things regarding React ecosystem)](https://github.com/enaqx/awesome-react)
+
+[Awesome CSS: A curated list of CSS links](https://github.com/sotayamashita/awesome-css)
+
+[List of Youtube channels for a JavaScript developer](http://vladimirponomarev.com/blog/youtube-channels-for-a-javascript-developer)
 
 # Webcasts
 

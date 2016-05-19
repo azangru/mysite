@@ -37,6 +37,15 @@ and [videos](https://www.youtube.com/watch?v=2Op3QLzMgSY)
 
 [Professor Frisby’s Mostly Adequate Guide to Functional Programming](http://drboolean.gitbooks.io/mostly-adequate-guide)
 
+### React
+[React/Redux links](https://github.com/markerikson/react-redux-links)
+
+[Awesome React (a collection of awesome things regarding React ecosystem)](https://github.com/enaqx/awesome-react)
+
+[React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic/blob/master/README.md)
+
+[React Boilerplate](https://github.com/mxstbr/react-boilerplate/tree/master)
+
 ## Frontend-related
 [How to keep up to date on front-end technologies](https://uptodate.frontendrescue.org)
 
@@ -45,10 +54,6 @@ and [videos](https://www.youtube.com/watch?v=2Op3QLzMgSY)
 [Frontend development bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 
 [Awesome: A curated list of awesome lists](https://github.com/sindresorhus/awesome)
-
-[React/Redux links](https://github.com/markerikson/react-redux-links)
-
-[Awesome React (a collection of awesome things regarding React ecosystem)](https://github.com/enaqx/awesome-react)
 
 [Awesome CSS: A curated list of CSS links](https://github.com/sotayamashita/awesome-css)
 

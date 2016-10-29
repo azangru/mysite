@@ -40,9 +40,13 @@ and [videos](https://www.youtube.com/watch?v=2Op3QLzMgSY)
 ### React
 [React/Redux links](https://github.com/markerikson/react-redux-links)
 
+[Redux ecosystem links](https://github.com/markerikson/redux-ecosystem-links)
+
 [Awesome React (a collection of awesome things regarding React ecosystem)](https://github.com/enaqx/awesome-react)
 
 [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic/blob/master/README.md)
+
+[Javascript stack from scratch](https://github.com/verekia/js-stack-from-scratch) (tooling around React-based web apps)
 
 [React Boilerplate](https://github.com/mxstbr/react-boilerplate/tree/master)
 

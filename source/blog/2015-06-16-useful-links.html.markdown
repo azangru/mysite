@@ -81,6 +81,9 @@ Blogs
 
 [Ben McCormick’s blog](http://benmccormick.org/) has interesting articles on JavaScript, Backbone, Vim
 
+# Miscellaneous
+- [Cyber Chef](https://gchq.github.io/CyberChef/) (can encrypt a string and view results online)
+
 Services
 
 [Tutum — The Docker Platform for Dev and Ops](https://www.tutum.co/)

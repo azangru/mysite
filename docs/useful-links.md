@@ -3,3 +3,6 @@ Middleman examples:
 - Sean Griffin’s site: https://github.com/sgrif/diesel.rs-website
 - Oleg Mokhniulk’s site: https://github.com/mokhniuk/oleg.codes
 - Capra Design Agency’s site: https://github.com/thisiscapra/thisiscapra.com
+
+Examples of using Middleman with Webpack:
+- https://github.com/matthewlehner/middleman-webpack

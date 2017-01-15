@@ -1,9 +1,4 @@
 @charset "utf-8";
-@import "font-awesome";
-
-/*
- *= require jquery.ui.all
- */
 
 body {
   background: white;
@@ -242,7 +237,7 @@ a{
           text-decoration: underline;
         }
       }
-      
+
     }
   }
   transition: width 0.5s;

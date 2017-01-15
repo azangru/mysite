@@ -1,6 +1,8 @@
 # This is an approach once used in the Proteus-Middleman project
 # for neater directory structure. It allows placing templates in a custom folder,
 # insde the source folder, called "views"
+# as per this commit:
+# https://github.com/thoughtbot/proteus-middleman/blob/50b3e0d6987e4e0f9cce2e057be77b6672059c52/extensions/views.rb
 
 class Middleman::Extensions::ViewsDirectory < Middleman::Extension
   ::Middleman::Extensions.register(:views, self)

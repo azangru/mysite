@@ -1,33 +1,20 @@
-# If you have OpenSSL installed, we recommend updating
-# the following line to use "https"
-source 'http://rubygems.org'
-
-gem "middleman", "~>3.3.11"
-gem "rb-inotify"
-gem "therubyracer"
-gem 'jquery-ui-middleman'
-gem 'font-awesome-middleman'
-
-# To publish on Github Pages
-gem 'middleman-deploy', '~> 1.0'
-
-# Blogging gem
-gem "middleman-blog"
-gem "nokogiri"
-
-# Syntax highlighting for code snippets
-gem "middleman-syntax"
-
-# Markdown engine
-gem 'redcarpet'
-
-gem "bootstrap-sass", :require => false
-
-# Live-reloading plugin
-gem "middleman-livereload", "~> 3.3.0"
+# If you do not have OpenSSL installed, change
+# the following line to use 'http://'
+source 'https://rubygems.org'
 
 # For faster file watcher updates on Windows:
-#gem "wdm", "~> 0.1.0", :platforms => [:mswin, :mingw]
+gem 'wdm', '~> 0.1.0', platforms: [:mswin, :mingw]
 
 # Windows does not come with time zone data
-#gem "tzinfo-data", platforms: [:mswin, :mingw]
+gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
+
+# Middleman Gems
+gem 'middleman', '>= 4.0.0'
+gem 'middleman-livereload'
+
+# Blogging Gems
+gem 'middleman-blog', '~> 4.0'
+gem 'nokogiri'
+gem 'redcarpet', '~> 3.3', '>= 3.3.3'
+# For feed.xml.builder
+gem "builder", "~> 3.0"

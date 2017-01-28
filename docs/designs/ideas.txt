@@ -1,1 +1,3 @@
-https://pixls.us 
+https://pixls.us
+https://html5up.net/
+https://github.com/iRaul/awesome-portfolios

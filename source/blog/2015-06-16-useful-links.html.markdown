@@ -77,6 +77,16 @@ and [videos](https://www.youtube.com/watch?v=2Op3QLzMgSY)
 
 [Software Engineering Radio](http://www.se-radio.net/)
 
+[Software Engineering Daily](https://softwareengineeringdaily.com/)
+
+[Soft Skills Engineering](https://softskills.audio/)
+
+[Frontend Happy Hour](http://frontendhappyhour.com/)
+
+[The Web Platform Podcast](http://thewebplatformpodcast.com/) (and their [YouTube channel](https://www.youtube.com/channel/UCjz3j22CyBpy6Qk5SL6UwcQ/videos))
+
+[Magic Read Along](http://www.magicreadalong.com/)
+
 Blogs
 
 [Ben McCormick’s blog](http://benmccormick.org/) has interesting articles on JavaScript, Backbone, Vim

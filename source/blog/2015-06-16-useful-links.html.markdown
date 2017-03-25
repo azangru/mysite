@@ -22,9 +22,16 @@ In this post I collect links to code-related pages that I found interesting and 
 Structure and Interpretation of Computer Programs: [book](https://mitpress.mit.edu/sicp/full-text/book/book.html)
 and [videos](https://www.youtube.com/watch?v=2Op3QLzMgSY)
 
+## Databanks of programming problems, exercises and challenges
+
 [Programming problems from Codility](https://codility.com/programmers/lessons)
 
+[Project Euler](https://projecteuler.net/)
+
+## Databases
 [PostgresGuide](http://www.postgresguide.com/)
+
+[DB5 SQL](https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/info) — a course by Jennifer Widom (also see her additional courses [here](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about))
 
 ## Javascript
 [Essential Javascript Links](https://github.com/ericelliott/essential-javascript-links)
@@ -84,6 +91,12 @@ and [videos](https://www.youtube.com/watch?v=2Op3QLzMgSY)
 [Frontend Happy Hour](http://frontendhappyhour.com/)
 
 [The Web Platform Podcast](http://thewebplatformpodcast.com/) (and their [YouTube channel](https://www.youtube.com/channel/UCjz3j22CyBpy6Qk5SL6UwcQ/videos))
+
+[Full Stach Radio](http://www.fullstackradio.com/)
+
+[Modern Web Podcast](http://modernweb.podbean.com/)
+
+[JAM Stack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/) (and [other podcasts](https://www.heavybit.com/library/podcasts/) by Heavybit)
 
 [Magic Read Along](http://www.magicreadalong.com/)
 

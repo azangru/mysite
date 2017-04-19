@@ -6,3 +6,10 @@ Middleman examples:
 
 Examples of using Middleman with Webpack:
 - https://github.com/matthewlehner/middleman-webpack
+
+Examples of overall good personal websites
+- https://medium.springboard.com/the-essential-guide-to-a-stellar-design-portfolio-1913df89ada7
+- https://blog.scottnonnenberg.com/ (source: https://github.com/scottnonnenberg/blog)
+
+Talk on Gatsby
+https://blog.scottnonnenberg.com/static-site-generation-with-gatsby-js/

@@ -39,6 +39,19 @@ class Layout extends React.Component {
       body {
         font-size: 62.5%;
       }
+
+      a {
+        color: blue;
+        text-decoration: none;
+      }
+
+      a:visited {
+        color: blue;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
     `;
   }
 

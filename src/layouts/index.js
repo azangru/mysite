@@ -35,9 +35,10 @@ class Layout extends React.Component {
       html, body {
         padding: 0;
         margin: 0;
+        font-size: 10px;
       }
       body {
-        font-size: 62.5%;
+        font-family: 'PT Serif', serif;
       }
 
       a {
@@ -51,6 +52,11 @@ class Layout extends React.Component {
 
       a:hover {
         text-decoration: underline;
+      }
+
+      p {
+        font-size: 2rem;
+        line-height: 1.4;
       }
     `;
   }

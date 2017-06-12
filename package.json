@@ -14,14 +14,15 @@
   "dependencies": {
     "gatsby": "1.0.0-alpha21",
     "gatsby-link": "1.0.0-alpha20",
-    "gatsby-plugin-sharp": "^1.0.0-alpha.22",
-    "gatsby-remark-copy-linked-files": "^1.0.0-alpha.22",
-    "gatsby-remark-prismjs": "^1.0.0-alpha.22",
-    "gatsby-remark-responsive-iframe": "^1.0.0-alpha.22",
-    "gatsby-remark-responsive-image": "^1.0.0-alpha.22",
-    "gatsby-remark-smartypants": "^1.0.0-alpha.22",
-    "gatsby-source-filesystem": "^1.0.0-alpha.22",
-    "gatsby-transformer-remark": "^1.0.0-alpha.22",
+    "gatsby-plugin-react-helmet": "1.0.0-alpha.22",
+    "gatsby-plugin-sharp": "1.0.0-alpha.22",
+    "gatsby-remark-copy-linked-files": "1.0.0-alpha.22",
+    "gatsby-remark-prismjs": "1.0.0-alpha.22",
+    "gatsby-remark-responsive-iframe": "1.0.0-alpha.22",
+    "gatsby-remark-responsive-image": "1.0.0-alpha.22",
+    "gatsby-remark-smartypants": "1.0.0-alpha.22",
+    "gatsby-source-filesystem": "1.0.0-alpha.22",
+    "gatsby-transformer-remark": "1.0.0-alpha.22",
     "styled-components": "^2.0.1"
   },
   "devDependencies": {

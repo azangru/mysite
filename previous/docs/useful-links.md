@@ -13,3 +13,7 @@ Examples of overall good personal websites
 
 Talk on Gatsby
 https://blog.scottnonnenberg.com/static-site-generation-with-gatsby-js/
+
+
+Examples of Gatsby sites:
+- https://github.com/nicholaswyoung/web

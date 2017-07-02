@@ -30,6 +30,7 @@ export default class PageContainer extends Component {
     return styled.main`
       max-width: 960px;
       margin: auto;
+      font-size: 2rem;
     `;
   }
 

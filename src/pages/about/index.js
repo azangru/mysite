@@ -1,16 +1,34 @@
 import React from "react"; // a dependency of Gatsby
 import graphql from 'graphql'; // a dependency of Gatsby
+import styled from 'styled-components';
+
+import PageContainer from '../../containers/page-container';
 
 import myPhoto from './azov.png';
 
 export default class About extends React.Component {
   render() {
     let content = this.props.data.markdownRemark.html;
+
+    let MyPhotoContainer = styled.div`
+      float: right;
+      width: 300px;
+      height: 300px;
+
+      img {
+        width: 100%;
+      }
+    `;
+
     return (
-      <div>
-        <img src={myPhoto} alt="My photo" />
-        <div dangerouslySetInnerHTML={{ __html: content }} />
-      </div>
+      <PageContainer>
+        <div>
+          <MyPhotoContainer>
+            <img src={myPhoto} alt="My photo" />
+          </MyPhotoContainer>
+          <div dangerouslySetInnerHTML={{ __html: content }} />
+        </div>
+      </PageContainer>
     );
   }
 }

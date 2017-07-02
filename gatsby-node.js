@@ -28,9 +28,15 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
           reject(result.errors);
         }
 
-        const { data: { allMarkdownRemark: { edges: markdownEdges } } } = result;
+        const {
+           data: {
+             allMarkdownRemark: {
+               edges: markdownEdges
+             }
+           }
+         } = result;
 
-        // Create blog posts pages.
+        // Create pages from markdown.
         markdownEdges.forEach(edge => {
           const slug = edge.node.fields.slug;
           if (!slug) return;

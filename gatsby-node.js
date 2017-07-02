@@ -77,8 +77,8 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
       const slug = isBlogPost ? `/blog/${parsedFilePath.dir}/` : `/${parsedFilePath.dir}/`;
       createNodeField({
         node,
-        fieldName: 'slug',
-        fieldValue: slug
+        name: 'slug',
+        value: slug
       });
       return;
 
@@ -86,9 +86,9 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
       const fileNode = getNode(node.parent);
       createNodeField({
         node,
-        fieldName: 'slug',
-        fieldValue: fileNode.fields.slug,
+        name: 'slug',
+        value: fileNode.fields.slug,
       });
       return;
   }
-}
+};

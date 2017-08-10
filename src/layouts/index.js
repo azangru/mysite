@@ -22,6 +22,11 @@ class Layout extends React.Component {
         <meta charSet="utf-8" />
         <title>Andrey Azov: Personal Website</title>
         <link
+          href="https://fonts.googleapis.com/css?family=PT+Sans"
+          rel="stylesheet"
+          type='text/css'
+        />
+        <link
           href='http://fonts.googleapis.com/css?family=PT+Serif&subset=latin,cyrillic,cyrillic-ext,latin-ext'
           rel='stylesheet'
           type='text/css'
@@ -39,6 +44,21 @@ class Layout extends React.Component {
       }
       body {
         font-family: 'PT Serif', serif;
+      }
+
+      h1 {
+        font-family: 'PT Sans', serif;
+        font-size: 3.5rem;
+      }
+
+      h2 {
+        font-family: 'PT Sans', serif;
+        font-size: 2.6rem;
+      }
+
+      h3 {
+        font-family: 'PT Sans', serif;
+        font-size: 2rem;
       }
 
       a {

@@ -10,6 +10,7 @@ Examples of using Middleman with Webpack:
 Examples of overall good personal websites
 - https://medium.springboard.com/the-essential-guide-to-a-stellar-design-portfolio-1913df89ada7
 - https://blog.scottnonnenberg.com/ (source: https://github.com/scottnonnenberg/blog)
+- https://mxb.at/ (very cool static site)
 
 Talk on Gatsby
 https://blog.scottnonnenberg.com/static-site-generation-with-gatsby-js/

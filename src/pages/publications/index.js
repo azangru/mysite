@@ -23,6 +23,8 @@ export default class Publications extends React.Component {
         <div>
           { this.renderIntroduction() }
           { this.renderMedicalBooks() }
+          { this.renderFictionBooks() }
+          { this.renderHumanitiesBooks() }
         </div>
       </PageContainer>
     );
@@ -45,6 +47,7 @@ export default class Publications extends React.Component {
   renderMedicalBooks() {
     const translatedBooks = bookData.healthSciencesTranslations;
     const editedBooks = bookData.healthSciencesEditing;
+    const papers = bookData.healthSciencesPapers;
 
     return (
       <div>
@@ -59,14 +62,63 @@ export default class Publications extends React.Component {
         </div>
         <h3>Editing of Original Russian Medical Books</h3>
         <div>
-          { /**
+          {
             editedBooks.map((bookData, index) => {
               return <Book key={index} book={bookData} />;
             })
-            **/
           }
         </div>
+        <h3>Selected research papers</h3>
+        <ol>
+          { papers.map((paper, index) => <li key={index}>{paper}</li>) }
+        </ol>
       </div>
     );
   }
+
+  renderFictionBooks() {
+    const translatedBooks = bookData.fictionTranslations;
+
+    return (
+      <div>
+        <h2>Fiction</h2>
+        <h3>English to Russian translations</h3>
+        {
+          translatedBooks.map((bookData, index) => {
+            return <Book key={index} book={bookData} />;
+          })
+        }
+      </div>
+    );
+  }
+
+  renderHumanitiesBooks() {
+    const books = bookData.humanities;
+    const { english: englishPapers, russian: russianPapers } = bookData.humanitiesPapers;
+
+    return (
+      <div>
+        <h2>Humanities</h2>
+        {
+          books.map((bookData, index) => {
+            return <Book key={index} book={bookData} />;
+          })
+        }
+        <h3>Selected papers</h3>
+        <h4>In English</h4>
+        <ol>
+          {
+            englishPapers.map((paper, index) => <li key={index}>{paper}</li>)
+          }
+        </ol>
+        <h4>In Russian</h4>
+        <ol>
+          {
+            russianPapers.map((paper, index) => <li key={index}>{paper}</li>)
+          }
+        </ol>
+      </div>
+    );
+  }
+
 }

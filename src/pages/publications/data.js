@@ -1,3 +1,5 @@
+import React from "react";
+
 export default {
   healthSciencesTranslations: [
     {
@@ -86,6 +88,13 @@ export default {
       imageFront: 'eponyms-pulmonology.jpg'
     },
   ],
+  healthSciencesPapers: [
+    (
+      <span>
+        <i>A. G. Azov, J. Koch, S. J. Hamilton-Dutoit.</i> Improved diagnosis of mycobacterial infections in formalin-fixed and paraffin-embedded sections with nested polymerase chain reaction // Acta Pathologica, Microbiologica et Immunologica Scandinavica. 113:589–93, 2005 (pdf).
+      </span>
+    )
+  ],
   fictionTranslations: [
     {
       authors: 'Gregory Maguire',
@@ -134,5 +143,27 @@ export default {
       commentary: '(original title: Азов А. Г. Поверженные буквалисты: Из истории художественного перевода в СССР в 1920—1960-е годы. М.: Издательский дом Высшей школы экономики, 2013. 300 с.)',
       imageFront: 'bukvalisty.jpg'
     }
-  ]
+  ],
+  humanitiesPapers: {
+    english: [
+      <span>
+        “Barbaric Yawp” in Russian // Rocznik Komparatystyczny (Comparative Yearbook). 2013. No. 4. P. 321–325 (pdf).
+      </span>
+    ],
+    russian: [
+      <span>
+        О переиздании перевода «Посмертных записок Пиквикского клуба» под редакцией Густава Шпета // Текстология и историко-литературный процесс: II Международная конференция молодых исследователей (Москва, Московский государственный университет им. М. В. Ломоносова, филологический факультет, 21—22 марта 2013 г.): Сборник статей. М.: Лидер, 2014. С. 158–176 (
+          <a href="http://tekstologia.jimdo.com/app/download/8704868093/Azov.pdf">pdf</a>
+        ).
+      </span>,
+      <span>
+        К истории теории перевода в Советском Союзе. Проблема реалистического перевода // Логос. 2012. № 3. С. 131–152 (
+          <a href="http://www.logosjournal.ru/arch/22/art_163.pdf">pdf</a>
+        ).
+      </span>,
+      <span>
+        Воспаление: к истории слова и понятия // Вопросы русского языкознания: Сб. Вып. XIII. Фонетика и грамматика: настоящее, прошедшее, будущее: К 50‑летию научной деятельности Софьи Константиновны Пожарицкой / Сост. С. В. Князев, А. В. Птенцова; отв. ред. М. Л. Ремнёва, С. В. Князев. М.: Изд-во МГУ, 2010. С. 323–329 (pdf).
+      </span>
+    ]
+  }
 };

@@ -37,7 +37,7 @@ export default class Publications extends React.Component {
           Publications
         </h1>
         <p>
-          Here I collected a list of my translations, editorships, and original publications
+          Here, I collected a list of my translations, editorships, and original publications
           (except for the least important or, well, the most embarrassing ones).
         </p>
       </div>

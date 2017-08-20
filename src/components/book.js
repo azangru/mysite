@@ -2,69 +2,49 @@ import React from 'react'; // a dependency of Gatsby
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
 
+const BookCoverContainer = styled.div`
+  width: 250px;
+  height: 400px;
+`;
+
+const BookCoverContainerFlippable = BookCoverContainer.extend`
+  perspective: 1000px;
+`;
+
+const BookCover = styled.div`
+  position: relative;
+`;
+
+const BookCoverFlippable = BookCover.extend`
+  transform-style: preserve-3d;
+  transition: 0.6s;
+
+  ${BookCoverContainerFlippable}:hover & {
+    transform: rotateY(180deg);
+  }
+`;
+
+const BookCoverFrontSide = styled.div`
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+`;
+
+const BookCoverBackSide = BookCoverFrontSide.extend`
+  transform: rotateY(180deg);
+`;
+
 export default class Book extends React.Component {
-
-  get bookCoverContainer() {
-    return styled.div`
-      width: 250px;
-      height: 400px;
-    `;
-  }
-
-  get bookCoverContainerFlippable() {
-    let BookCoverContainer = this.bookCoverContainer;
-    return BookCoverContainer.extend`
-      perspective: 1000px;
-    `;
-  }
-
-  get bookCover() {
-    return styled.div`
-      position: relative;
-    `;
-  }
-
-  get bookCoverFlippable() {
-    let BookCover = this.bookCover;
-    return BookCover.extend`
-      transform-style: preserve-3d;
-      transition: 0.6s;
-
-      &:hover {
-        transform: rotateY(180deg);
-      }
-    `;
-  }
-
-  get bookCoverFrontSide() {
-    return styled.div`
-      width: 100%;
-      height: 100%;
-      backface-visibility: hidden;
-      position: absolute;
-      top: 0;
-      left: 0;
-    `;
-  }
-
-  get bookCoverBackSide() {
-    // same as FrontSide, but already rotated
-    return styled.div`
-      width: 100%;
-      height: 100%;
-      backface-visibility: hidden;
-      position: absolute;
-      top: 0;
-      left: 0;
-      transform: rotateY(180deg);
-    `;
-  }
 
   render() {
     const Book = styled.div`
       height: 400px;
       display: flex;
       align-items: center;
+      margin-bottom: 1rem;
     `;
 
     return (
@@ -79,18 +59,18 @@ export default class Book extends React.Component {
     const { book: { imageFront, imageBack } } = this.props;
     const isFlippable = Boolean(imageBack);
 
-    const BookCoverContainer = isFlippable ? this.bookCoverContainerFlippable : this.bookCoverContainer;
-    const BookCover = isFlippable ? this.bookCoverFlippable : this.bookCover;
+    const Container = isFlippable ? BookCoverContainerFlippable : BookCoverContainer;
+    const Cover = isFlippable ? BookCoverFlippable : BookCover;
 
-    const FrontSide = this.bookCoverFrontSide;
-    const BackSide = this.bookCoverBackSide;
+    const FrontSide = BookCoverFrontSide;
+    const BackSide = BookCoverBackSide;
 
     const frontImagePath = require(`../static/images/book-covers/${imageFront}`);
     const backImagePath = isFlippable && require(`../static/images/book-covers/${imageBack}`);
 
     return (
-      <BookCoverContainer>
-        <BookCover>
+      <Container>
+        <Cover>
           <FrontSide>
             <img src={frontImagePath} />
           </FrontSide>
@@ -100,8 +80,8 @@ export default class Book extends React.Component {
               <img src={backImagePath} />
             </BackSide>
           }
-        </BookCover>
-      </BookCoverContainer>
+        </Cover>
+      </Container>
     );
   }
 

@@ -1,4 +1,4 @@
-const path = require("path")
+const path = require("path");
 
 exports.createPages = ({ graphql, boundActionCreators }) => {
   const { createPage } = boundActionCreators;
@@ -52,7 +52,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
           } else {
             createPage({
               path: edge.node.fields.slug, // required
-              component: pageTemplate,
+              component: blogPostTemplate,
               context: {
                 slug: edge.node.fields.slug
               }
@@ -71,7 +71,7 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
   const { createNodeField } = boundActionCreators;
 
   switch (node.internal.type) {
-    case 'File':
+    case 'File': {
       const parsedFilePath = path.parse(node.relativePath);
       const isBlogPost = node.sourceInstanceName === 'blog';
       const slug = isBlogPost ? `/blog/${parsedFilePath.dir}/` : `/${parsedFilePath.dir}/`;
@@ -81,8 +81,9 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
         value: slug
       });
       return;
+    }
 
-    case 'MarkdownRemark':
+    case 'MarkdownRemark': {
       const fileNode = getNode(node.parent);
       createNodeField({
         node,
@@ -90,5 +91,6 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
         value: fileNode.fields.slug,
       });
       return;
+    }
   }
 };

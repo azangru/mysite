@@ -1,7 +1,7 @@
 import React from "react"; // a dependency of Gatsby
 import styled from 'styled-components';
 
-import bookData from './data';
+import bookData from '../../data/bibliography';
 
 import PageContainer from '../../containers/page-container';
 import Book from '../../components/book';

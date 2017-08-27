@@ -84,7 +84,7 @@ class Layout extends React.Component {
 }
 
 Layout.propTypes = {
-  children: PropTypes.function,
+  children: PropTypes.any,
   location: PropTypes.object,
   route: PropTypes.object,
 };

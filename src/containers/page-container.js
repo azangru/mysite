@@ -2,6 +2,7 @@ import React, { Component } from "react"; // a dependency of Gatsby
 import styled from 'styled-components';
 
 import MenuButton from '../components/menu-button';
+import SideMenu from '../components/side-menu';
 
 export default class PageContainer extends Component {
 
@@ -11,6 +12,21 @@ export default class PageContainer extends Component {
     this.state = {
       menuOpen: false
     };
+
+    this.openMenu = this.openMenu.bind(this);
+    this.closeMenu = this.closeMenu.bind(this);
+  }
+
+  openMenu() {
+    if (!this.state.menuOpen) {
+      this.setState({ menuOpen: true });
+    }
+  }
+
+  closeMenu() {
+    if (this.state.menuOpen) {
+      this.setState({ menuOpen: false });
+    }
   }
 
   render() {
@@ -18,7 +34,8 @@ export default class PageContainer extends Component {
 
     return (
       <div>
-        <MenuButton />
+        <MenuButton openMenu={this.openMenu} />
+        { this.renderMenu() }
         <MainContainer>
           { this.props.children }
         </MainContainer>
@@ -29,13 +46,13 @@ export default class PageContainer extends Component {
   renderMainContainer() {
     return styled.main`
       max-width: 960px;
-      margin: auto;
+      margin: 20px auto;
       font-size: 2rem;
     `;
   }
 
   renderMenu() {
-
+    return <SideMenu isOpen={this.state.menuOpen} close={this.closeMenu} />;
   }
 
   renderMenuButton() {

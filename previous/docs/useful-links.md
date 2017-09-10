@@ -18,3 +18,6 @@ https://blog.scottnonnenberg.com/static-site-generation-with-gatsby-js/
 
 Examples of Gatsby sites:
 - https://github.com/nicholaswyoung/web
+
+Nice resume example
+- http://www.lihaoyi.com/Resume/

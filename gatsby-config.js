@@ -20,6 +20,22 @@ module.exports = {
         path: `${__dirname}/src/blog/`,
       },
     },
+    // read all files in the data folder
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `data`,
+        path: `${__dirname}/src/data/`,
+      },
+    },
+    // read all files in the diary folder
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `diary`,
+        path: `${__dirname}/src/diary/`,
+      },
+    },
     {
       resolve: `gatsby-transformer-remark`,
       options: {

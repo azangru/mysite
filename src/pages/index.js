@@ -43,6 +43,7 @@ export default class MainPage extends Component {
       <Menu>
         <MenuItem>
           <Link to='/about/'>about me</Link>
+          <Link to='/blog/'>blog</Link>
         </MenuItem>
       </Menu>
     );

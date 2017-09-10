@@ -49,7 +49,10 @@ module.exports = {
           {
             resolve: `gatsby-remark-responsive-iframe`,
           },
-          `gatsby-remark-prismjs`,
+          {
+            resolve: `gatsby-remark-prismjs`,
+            classPrefix: 'language-'
+          },
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
         ],

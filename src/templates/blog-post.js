@@ -1,5 +1,6 @@
 import React from "react"; // a dependency of Gatsby
 import graphql from 'graphql'; // a dependency of Gatsby
+import styled from 'styled-components';
 
 import PageContainer from '../containers/page-container';
 
@@ -10,9 +11,25 @@ class BlogPostTemplate extends React.Component {
 
     return (
       <PageContainer>
+        { this.renderTitle(post.frontmatter.title) }
+        { this.renderDate(post.frontmatter.date) }
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
       </PageContainer>
     );
+  }
+
+  renderTitle(title) {
+    const Title = styled.h1``;
+
+    return <Title>{title}</Title>;
+  }
+
+  renderDate(date) {
+    const DateElement = styled.p`
+      font-style: italic;
+      font-size: 2.3rem;
+    `;
+    return <DateElement>{date}</DateElement>;
   }
 }
 
@@ -30,6 +47,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
+        date(formatString: "DD MMMM, YYYY")
       }
     }
   }

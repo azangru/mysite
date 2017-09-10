@@ -3,6 +3,8 @@ import React from "react";
 import Helmet from "react-helmet";
 import { injectGlobal } from 'styled-components';
 
+require('prismjs/themes/prism.css'); // prismjs is a dependency of gatsby-remark-prismjs
+
 
 class Layout extends React.Component {
 

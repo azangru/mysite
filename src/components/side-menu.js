@@ -110,7 +110,7 @@ export default class SideMenu extends Component {
       left: 50%;
       list-style: none;
       padding: 0;
-      transform: translateX(-70%) translateY(-90%);
+      transform: translateX(-90%) translateY(-90%);
     `;
 
     const MenuItem = styled.li`
@@ -126,12 +126,12 @@ export default class SideMenu extends Component {
     return (
       <MenuItemsContainer>
         <MenuItem>
-          <Link to='/about/' activeStyle={{ color: '#b88b58' }}>
-            about
+          <Link to='/about/' activeStyle={{ color: '#b88b58' }} exact={false} >
+            about me
           </Link>
         </MenuItem>
         <MenuItem>
-          <Link to='/blog/' activeStyle={{ color: '#b88b58' }}>
+          <Link to='/blog/' activeStyle={{ color: '#b88b58' }} exact={false} >
             blog
           </Link>
         </MenuItem>

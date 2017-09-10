@@ -37,4 +37,4 @@ Observe that the parameter `xkb-options` is an empty array. Insert into it the f
 
 ![dconf-editor-input-sources-typographic-layout](./images/dconf3.png)
 
-Close dconf-editor — and that’s it. Now, typographic characters are enable. Isn’t that sweet?
+Close dconf-editor — and that’s it. Now, typographic characters are enabled. Isn’t that sweet?

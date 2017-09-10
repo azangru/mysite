@@ -4,7 +4,6 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
   const { createPage } = boundActionCreators;
 
   return new Promise((resolve, reject) => {
-    const pageTemplate = path.resolve("./src/templates/blog-post.js");
     const blogPostTemplate = path.resolve("./src/templates/blog-post.js");
 
     resolve(
@@ -24,7 +23,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
         `
       ).then(result => {
         if (result.errors) {
-          console.log(result.errors);
+          console.error(result.errors);
           reject(result.errors);
         }
 
@@ -41,15 +40,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
           const slug = edge.node.fields.slug;
           if (!slug) return;
 
-          if (slug.includes('/blog/')) {
-            createPage({
-              path: edge.node.fields.slug, // required
-              component: blogPostTemplate,
-              context: {
-                slug: edge.node.fields.slug
-              }
-            });
-          } else {
+          if (slug.includes('/blog/') || slug.includes('/diary/')) {
             createPage({
               path: edge.node.fields.slug, // required
               component: blogPostTemplate,
@@ -61,7 +52,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
 
         });
 
-      }).catch(error => console.log('graphql error:', error))
+      }).catch(error => console.error('graphql error:', error))
     );
   });
 };

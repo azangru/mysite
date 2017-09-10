@@ -1,16 +1,17 @@
 import React from "react"; // a dependency of Gatsby
 import graphql from 'graphql'; // a dependency of Gatsby
 
+import PageContainer from '../containers/page-container';
+
 class BlogPostTemplate extends React.Component {
   render() {
-    console.log('BlogPostTemplate render')
     const post = this.props.data.markdownRemark;
     // const siteTitle = get(this.props, "data.site.siteMetadata.title")
 
     return (
-      <div>
+      <PageContainer>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
-      </div>
+      </PageContainer>
     );
   }
 }

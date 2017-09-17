@@ -5,6 +5,10 @@ import styled from 'styled-components';
 const BookCoverContainer = styled.div`
   width: 250px;
   height: 400px;
+
+  @media screen and (max-width: 767px) {
+    margin-bottom: 1rem;
+  }
 `;
 
 const BookCoverContainerFlippable = BookCoverContainer.extend`
@@ -45,6 +49,13 @@ export default class Book extends React.Component {
       display: flex;
       align-items: center;
       margin-bottom: 1rem;
+
+      @media screen and (max-width: 767px) {
+        width: 100%;
+        height: auto;
+        flex-direction: column;
+        margin-bottom: 3rem;
+      }
     `;
 
     return (
@@ -96,6 +107,12 @@ export default class Book extends React.Component {
     const BookDescription = styled.div`
       max-width: calc(960px - 250px);
       padding-left: 50px;
+
+      @media screen and (max-width: 767px) {
+        padding-left: 0;
+        max-width: 300px;
+        align-self: flex-start;
+      }
     `;
 
     const Authors = styled.span`

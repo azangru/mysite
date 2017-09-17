@@ -13,10 +13,16 @@ export default class About extends React.Component {
     let MyPhotoContainer = styled.div`
       float: right;
       width: 300px;
-      height: 300px;
 
       img {
         width: 100%;
+        border-radius: 50%;
+      }
+
+      @media screen and (max-width: 767px) {
+        float: none;
+        margin: auto;
+        max-width: 100%;
       }
     `;
 

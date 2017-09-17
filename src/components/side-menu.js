@@ -31,6 +31,11 @@ const SideMenuContainer = styled.div`
   display: flex;
   background: #262626;
   transform: translateX(-100%);
+  z-index: 5;
+
+  @media screen and (max-width: 767px) {
+    width: 100%;
+  }
 `;
 
 const SideMenuContainerOpening = SideMenuContainer.extend`

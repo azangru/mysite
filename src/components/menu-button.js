@@ -51,6 +51,10 @@ const HamburgerButton = styled.div`
   &:hover {
     animation: ${verticalWobble} 1s ease-in-out
   }
+
+  @media screen and (max-width: 1000px) {
+    left: 2rem;
+  }
 `;
 
 const Hamburger = styled.svg`

@@ -47,7 +47,12 @@ export default class PageContainer extends Component {
     return styled.main`
       max-width: 960px;
       margin: 20px auto;
+      padding: 0 2rem 4rem;
       font-size: 2rem;
+
+      @media screen and (max-width: 1000px) {
+        margin-top: 90px;
+      }
     `;
   }
 

@@ -63,8 +63,8 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
   switch (node.internal.type) {
     case 'File': {
       const parsedFilePath = path.parse(node.relativePath);
-      const isBlogPost = node.sourceInstanceName === 'blog';
-      const slug = isBlogPost ? `/blog/${parsedFilePath.dir}/` : `/${parsedFilePath.dir}/`;
+      const slug = ['blog', 'diary'].includes(node.sourceInstanceName) ?
+        `/${node.sourceInstanceName}/${parsedFilePath.dir}/` : `/${parsedFilePath.dir}/`;
       createNodeField({
         node,
         name: 'slug',

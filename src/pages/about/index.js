@@ -48,11 +48,7 @@ export const pageQuery = graphql`
       }
     }
     markdownRemark(fields: { slug: { eq: "/about/" }}) {
-      id
       html
-      frontmatter {
-        title
-      }
     }
   }
 `;

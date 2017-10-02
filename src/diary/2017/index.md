@@ -1,6 +1,8 @@
 ---
-title: 2017
+title: "2017"
 ---
+
+
 ## September 25
 Here are two very cool videos on the recent developments in CSS (mostly on Flexbox and CSS grid):
 

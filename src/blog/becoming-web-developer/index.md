@@ -91,6 +91,38 @@ _Bookmate,_ where I am currently employed.
 
 ## Lessons from Studying at Coding Bootcamps
 
+### Web Development Immersive program at General Assembly
+
+#### What has it taught me?
+Web Development Immersive was, properly speaking, my introduction into programming.
+I had taken some online courses, such as CS50 on EdX, or some Python courses on
+EdX and Coursera, but I still was extremely new to software development when I
+joined Web Development Immersive. Looking back now, I think of it as a foundational
+course, where I learned principles of programming, a server-side language and a
+client-side language, principles of an MVC, and the beauty of having
+a mature framework that takes care of your common development needs.
+
+#### What has it NOT taught me?
+By the end of the course, I did not appreciate the depth of my ignorance. I did
+not have any devops/sysadmin training (apart from using a service such as Heroku).
+I had no idea about mobile web development, and was not even trained to think
+about mobile as a platform with its own specific needs. I did not know anything about
+testing (except that it was supposed to be useful; we had, overall, something like a day or so devoted
+to testing, so I was pretty much confused on that subject). On the frontend side,
+I knew how to use jQuery, underscore and SCSS, but not much else. I had very little
+knowledge of the browser API, or of CSS methodologies. I had not had a chance
+to think about principles of object-oriented programming (let alone about functional
+programming), or heard of any design patterns. Essentially, I only knew my way
+about a Rails app. And I thought I was a marketable developer!
+
+### Hack Reactor
+
+### What has it taught me?
+javascript testing pair programming
+
+### What has it NOT taught me?
+conservative
+
 ## Technologies
 
 ## Irony

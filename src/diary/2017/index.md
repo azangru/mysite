@@ -1,6 +1,12 @@
 ---
 title: "2017"
 ---
+## November 5
+An interesting implementation of React app with Flux architecture using RxJS
+- [The talk by Gil Mazuz from ReactNext 2016](https://www.youtube.com/watch?v=Wh83qXOb03g)
+- [Boilerplate illustrating the ideas in the talk](https://github.com/giltig/rxfrf)
+- [Sample app demoed during the talk](https://github.com/omerts/RtC)
+
 ## October 29
 ### PWA-related finds:
 - [Can you afford it?](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/),

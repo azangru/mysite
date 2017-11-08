@@ -1,6 +1,11 @@
 ---
 title: "2017"
 ---
+## November 8
+From Berkeley Martinez (the author of [react-redux-epic](https://github.com/BerkeleyTrue/react-redux-epic)),
+an example of its use: a demo app called [React Shoppe](https://github.com/realworldreact/react-shoppe). Check
+out branches that have rx in their names.
+
 ## November 5
 An interesting implementation of React app with Flux architecture using RxJS
 - [The talk by Gil Mazuz from ReactNext 2016](https://www.youtube.com/watch?v=Wh83qXOb03g)

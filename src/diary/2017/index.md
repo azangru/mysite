@@ -1,6 +1,11 @@
 ---
 title: "2017"
 ---
+## November 11
+Heard announcements of a couple of CS courses that will hopefully be freely available. These are:
+- [Web programming with Python and JavaScript](https://cs50.github.io/web/)
+- [Introduction to Game Development](https://cs50.github.io/games/)
+
 ## November 8
 From Berkeley Martinez (the author of [react-redux-epic](https://github.com/BerkeleyTrue/react-redux-epic)),
 an example of its use: a demo app called [React Shoppe](https://github.com/realworldreact/react-shoppe). Check

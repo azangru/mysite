@@ -1,6 +1,19 @@
 ---
 title: "2017"
 ---
+## November 15
+[React meetup recordings from July, August, and September 2017](http://meetupfeed.com/react-talks-meetups-july-august-september-react-talks-digest-q3-2017/)
+
+## November 13
+Spent a long time looking wistfully at this job opening at BBC:
+[Software Engineer (Web Developer)](https://careershub.bbc.co.uk/members/modules/job/detail.php?record=20625)
+to work with BBC Moscow team. What discouraged me is that they are looking for
+the sole developer (so it seems like more of a grunt kind of work).
+
+What’s beautiful is that when this job opening announcement reached standard
+online job boards (like [Headhunters.ru](https://hh.ru/vacancy/23422897)) it lost most
+of the details of its description.
+
 ## November 11
 Heard announcements of a couple of CS courses that will hopefully be freely available. These are:
 - [Web programming with Python and JavaScript](https://cs50.github.io/web/)

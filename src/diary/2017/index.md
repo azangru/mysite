@@ -1,6 +1,10 @@
 ---
 title: "2017"
 ---
+## November 19
+A [nice explanation](https://stackoverflow.com/questions/39439653/events-vs-streams-vs-observables-vs-async-iterators/47214496#47214496)
+of the differences between the push and the pull apis for consumption of async data by Google’s Domenic Denicola on Stack Overflow
+
 ## November 15
 [React meetup recordings from July, August, and September 2017](http://meetupfeed.com/react-talks-meetups-july-august-september-react-talks-digest-q3-2017/)
 

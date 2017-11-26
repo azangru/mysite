@@ -2,7 +2,7 @@
 title: "2017"
 ---
 ## November 26
-Came across slides for the course Software Studio, about the lowly craft of web development, taught at MIT.
+Came across slides for the course *Software Studio*, about the lowly craft of web development, taught at MIT.
 
 [Course page from 2013](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-170-software-studio-spring-2013/lecture-notes/)
 [Course page from 2016](https://stellar.mit.edu/S/course/6/fa16/6.170/materials.html)

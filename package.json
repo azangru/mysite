@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "gatsby develop",
+    "start": "gatsby develop --host localhost --port 8000",
     "build": "gatsby build",
     "serve": "gatsby serve",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,6 +24,7 @@
     "gatsby-remark-smartypants": "^1.4.8",
     "gatsby-source-filesystem": "^1.5.8",
     "gatsby-transformer-remark": "^1.7.21",
+    "react-helmet": "5.2.0",
     "styled-components": "^2.2.3"
   },
   "devDependencies": {

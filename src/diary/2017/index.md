@@ -1,6 +1,35 @@
 ---
 title: "2017"
 ---
+## November 26
+Came across slides for the course Software Studio, about the lowly craft of web development, taught at MIT.
+
+[Course page from 2013](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-170-software-studio-spring-2013/lecture-notes/)
+[Course page from 2016](https://stellar.mit.edu/S/course/6/fa16/6.170/materials.html)
+
+
+What’s curious, the 2013 course taught Ruby on Rails and SQL for backend development, while the 2016 course teaches Node and MongoDB. Also, a notable addition to the 2016 course is React (which just goes on to show how commonplace and inescapably default React has become; it truly is the new jQuery).
+
+I was, however, shocked by this slide (from the lecture notes on React):
+
+![][https://imgur.com/inOTSKO.png]
+
+
+Never has the phrase "the view in MVC" (which has since generally been retired anyway, because it's not a fitting abstraction for thinking about React) been intended for use in the context of clients and servers; it has always intended to explain React’s place among other client-side MVWhatever frameworks.
+
+## November 22
+A mostly disappointing 6-hour workshop on integrating Purescript into a JavaScript app by Hardy Jones
+from the last LambdaConf. Disappointing firstly because Hardy mercilessly slaughters the ample time
+he is given, moves excruciatingly slow and demonstrates very little, and secondly because the interop
+between the Purescript and the JavaScript code looks rather ugly. As does the tooling:
+
+[part 1](https://www.youtube.com/watch?v=XbrBGxcZZYY)
+
+On the bright side, here’s an inspiring (albeit a very high-level) [talk](http://www.oredev.org/2017/sessions/purescript-tomorrows-javascript-today)
+about Purescript by a well-spoken Brit from a recent conference in Sweden:
+
+Also, some [free lectures on React Patterns](https://reacttraining.com/patterns/) by React Training.
+
 ## November 19
 A [nice explanation](https://stackoverflow.com/questions/39439653/events-vs-streams-vs-observables-vs-async-iterators/47214496#47214496)
 of the differences between the push and the pull apis for consumption of async data by Google’s Domenic Denicola on Stack Overflow

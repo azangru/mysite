@@ -94,36 +94,83 @@ _Bookmate,_ where I am currently employed.
 ### Web Development Immersive program at General Assembly
 
 #### What has it taught me?
-Web Development Immersive was, properly speaking, my introduction into programming.
-I had taken some online courses, such as CS50 on EdX, or some Python courses on
+Web Development Immersive was my true introduction into programming.
+I had taken some online courses before, such as CS50 on EdX, or some Python courses on
 EdX and Coursera, but I still was extremely new to software development when I
 joined Web Development Immersive. Looking back now, I think of it as a foundational
-course, where I learned principles of programming, a server-side language and a
-client-side language, principles of an MVC, and the beauty of having
-a mature framework that takes care of your common development needs.
+course, where I learned the basics of programming, a server-side language and a
+client-side language, principles of the MVC architecture, and the beauty of having
+a mature framework (such as Ruby on Rails) that takes care of your common development needs.
 
 #### What has it NOT taught me?
 By the end of the course, I did not appreciate the depth of my ignorance. I did
 not have any devops/sysadmin training (apart from using a service such as Heroku).
 I had no idea about mobile web development, and was not even trained to think
-about mobile as a platform with its own specific needs. I did not know anything about
-testing (except that it was supposed to be useful; we had, overall, something like a day or so devoted
-to testing, so I was pretty much confused on that subject). On the frontend side,
+about mobile as a platform with its own specific needs. I knew next to nothing about
+testing (just that it was supposed to be useful; we had, overall, about a day or so devoted
+to testing, so I was very confused on that subject). On the frontend side,
 I knew how to use jQuery, underscore and SCSS, but not much else. I had very little
-knowledge of the browser API, or of CSS methodologies. I had not had a chance
-to think about principles of object-oriented programming (let alone about functional
-programming), or heard of any design patterns. Essentially, I only knew my way
-about a Rails app. And I thought I was a marketable developer!
+knowledge of the browser API, or of CSS methodologies. Most importantly, I had not had a chance
+to think about how to architect web applications, how to structure code, how to deal with
+the pains of growing the code base, how to employ principles of object-oriented design,
+or what benefits might functional programming offer. Essentially, I only knew my way
+around a Rails app. And I thought I was a marketable developer!
 
 ### Hack Reactor
+A year after graduating from General Assembly’s Web Development Immersive, I applied
+to Hack Reactor’s remote program. By that time, I had had a chance to work on a couple
+of Rails apps and an Angular-based client-side app, been exposed to testing, and
+started watching conference talks pretty regularly. I was hoping this program would
+both reinforce the fundamentals and teach me the bleeding edge of JavaScript development.
 
 ### What has it taught me?
-javascript testing pair programming
+Hack Reactor’s 12-week program is divided in half: the first 6 weeks, students study the
+same materials and learn the fundamentals of JavaScript, as well as its main applications
+on the client and on the server. We had a great time implementing basic data structures
+in JavaScript. We pair programmed every day, which I absolutely loved. Also, the learning
+process was tightly coupled with test-driven development: we were given exercises with
+specs that needed to be implemented, and learned the material by writing code that would
+make tests pass. Also, here I for the first time properly learned about Node, and Express,
+and D3.
 
 ### What has it NOT taught me?
-conservative
+Although a great experience in general (10/10 would recommend, as the saying goes),
+Hack Reactor was disappointingly conservative when it came to technologies that were
+taught to the students. In summer 2015, the curriculum did not include ES6 and
+related tooling (to my ever-growing frustration), or Typescript (which was gaining
+in popularity), but had a module on Coffeescript instead (really, that was so 2013!).
+It did not include React (although it was already very visible on the client side), or Polymer,
+or Angular 2 (which, admittedly, was still in alpha, but which, everyone knew, was coming),
+but did include Angular 1 (which, everyone knew, was on its way out). It did not include
+Webpack or npm scripts, but did include Grunt. In other words, the curriculum was a couple
+years behind the bleeding edge, and to me that was painful.
 
-## Technologies
+## Whither now?
+It’s the end of 2017, and I am still very easily hyped by the latest trends in web
+development, which seem to go in different directions, and do not seem to have a
+single story unifying all of them. These are:
 
-## Irony
--
+- Progressive Web Apps, or the modern mobile web, which tries to solve the performance
+problem of web applications on mobile. The exciting part about this direction is
+new browser api's, such as service workers, or web workers, as well as strategies for
+being smarter and more parsimonious when creating assets bundles. This is the route
+of using as few JavaScript libraries and of getting as close to the native web platform
+as possible.
+
+- GraphQL, or making client-side apps completely in control of what they receive from
+the server. I have been burned frequently enough by our ever-changing json api's to
+want to dive deeper into this.
+
+- Type safety and functional programming. After a year of working with Backbone apps, and
+before that with Rails apps, I keep thinking in object-oriented terms. I appreciate
+class instances as collections of data co-located with methods operating on this data,
+but I am also very much intrigued by the beauty of functional programming, and very much
+want the safety guarantees offered by statically typed languages. I am torn between
+the beauty of Purescript, the practicality of Typescript, the ease of Flow, and the
+hype of ReasonML. At the same time, I recognize that each of those options will bring
+their own problems.
+
+- Functional reactive programming, or programming with observables. This is tightly
+connected to the previous point (just as functional programming, RxJS looks *beautiful*),
+but at the same time it does not look like FRP has gained significant support in
+statically typed functional languages such as Purescript or Reason.

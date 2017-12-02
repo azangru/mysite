@@ -1,6 +1,10 @@
 ---
 title: "2017"
 ---
+## November 29
+[Norvig’s Python programs to practice or demonstrate skills](https://github.com/norvig/pytudes)
+
+
 ## November 26
 Came across slides for the course *Software Studio*, about the lowly craft of web development, taught at MIT.
 

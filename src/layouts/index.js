@@ -80,6 +80,19 @@ class Layout extends React.Component {
         font-size: 2rem;
         line-height: 1.4;
       }
+
+      blockquote {
+        margin: 0;
+        padding-left: 1.2em;
+        padding-top: 0.3em;
+        padding-bottom: 0.3em;
+        border-left: 5px solid grey;
+        color: #666666;
+      }
+
+      blockquote p {
+        margin: 0;
+      }
     `;
   }
 

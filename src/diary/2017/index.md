@@ -59,7 +59,7 @@ What’s curious, the 2013 course taught Ruby on Rails and SQL for backend devel
 
 I was, however, shocked by this slide (from the lecture notes on React):
 
-![][https://imgur.com/inOTSKO.png]
+![](https://imgur.com/inOTSKO.png)
 
 Never has the phrase "the view in MVC" (which has since generally been retired anyway, because it's not a fitting abstraction for thinking about React) been intended for use in the context of clients and servers; it has always intended to explain React’s place among other client-side MVWhatever frameworks.
 
@@ -129,10 +129,8 @@ Workshop on ReasonML at ReactiveConf 2017
 - [A React Native app by Formidable for SeattleJS conference, written in Reason](https://github.com/FormidableLabs/seattlejsconf-app)
 
 ## September 25
-Here are two very cool videos on the recent developments in CSS (mostly on Flexbox and CSS grid):
+Two very cool videos on the recent developments in CSS (mostly on Flexbox and CSS grid):
 
-1. Revolutionize Your Page: Real Art Direction on the Web by Jen Simmons
-<iframe src="https://player.vimeo.com/video/209812549" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+1. [Revolutionize Your Page: Real Art Direction on the Web](https://player.vimeo.com/video/209812549) by Jen Simmons
 
-2. CSS Grid Layout by Rachel Andrew
-<iframe src="https://player.vimeo.com/video/212961112" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+2. [CSS Grid Layout](https://player.vimeo.com/video/212961112) by Rachel Andrew

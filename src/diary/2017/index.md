@@ -1,9 +1,49 @@
 ---
 title: "2017"
 ---
+## December 17
+Memo to self:
+
+One of the companies I worked at used Cucumber.js for writing integration tests
+for our frontend. The frontend was a single-page app that talked with the backend
+over a json api. That raised a question of how to fill in the database with the data
+needed to render the appropriate interface that will be checked during the test,
+and how to orchestrate the testing steps between the backend and the frontend.
+For that, we used [behat-stepler](https://github.com/fesor/behat-stepler),
+which sends strings of Gherkin over to the backend, which in turn parses those strings,
+does what is asked of it, and sends back some data when finished. For example, if a test
+needs a user with given characteristics to exist in the database, a line of Gherkin
+can describe this user, the frontend can send this line to the backend, the backend
+will create such user and send back his id to be used in further steps of the test.
+
+I thought that was ingenious. But it looks like `behat-stepler` did not really catch
+on, and the project seems to be abandoned at the moment.
+
+
+## December 16
+Andreas Antonopoulos has easily become my most favorite author/speaker of the year. I first
+heard him in the [Kevin Rose Show](https://www.kevinrose.com/single-post/andreas-antonopolous)
+podcast, purely by chance, and am now listening to his talks on YouTube. Incidentally,
+from his talk [Fake News, Fake Money](https://youtu.be/i_wOEL6dprg), I learned that there
+has been a recent monetary crisis in India. Andreas is alluding to it in another talk,
+[The Stories We Tell about Money](https://youtu.be/ONvg9SbauMg), but since he was giving
+that talk in India, the audience didn't need him to spell it out for them, and laughed
+at the hint. I was mystified at what the joke was about.
+
+Anyway, I just love this guy! His energy, his intellectual freedom, his openness to the future,
+his offhand disregard for authority, his attitude towards the internet that I think is very
+characteristic of its early adopters in the 90s strongly resonate with me.
+
+## December 10
+[Introduction to Redux Observable](https://www.youtube.com/watch?v=zk2bVBZhmcc) by a developer from Atlassian,
+where they apparently use redux-observable in production.
+
+[The Holberg Debate 2017: "Propaganda, Facts and Fake News"
+with Julian Assange, John Pilger, and Jonathan Heawood](https://youtu.be/LqEtKyuyngs).
+Powerful stuff.
+
 ## November 29
 [Norvig’s Python programs to practice or demonstrate skills](https://github.com/norvig/pytudes)
-
 
 ## November 26
 Came across slides for the course *Software Studio*, about the lowly craft of web development, taught at MIT.
@@ -11,13 +51,11 @@ Came across slides for the course *Software Studio*, about the lowly craft of we
 [Course page from 2013](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-170-software-studio-spring-2013/lecture-notes/)
 [Course page from 2016](https://stellar.mit.edu/S/course/6/fa16/6.170/materials.html)
 
-
 What’s curious, the 2013 course taught Ruby on Rails and SQL for backend development, while the 2016 course teaches Node and MongoDB. Also, a notable addition to the 2016 course is React (which just goes on to show how commonplace and inescapably default React has become; it truly is the new jQuery).
 
 I was, however, shocked by this slide (from the lecture notes on React):
 
 ![][https://imgur.com/inOTSKO.png]
-
 
 Never has the phrase "the view in MVC" (which has since generally been retired anyway, because it's not a fitting abstraction for thinking about React) been intended for use in the context of clients and servers; it has always intended to explain React’s place among other client-side MVWhatever frameworks.
 

@@ -8,7 +8,8 @@ import PageContainer from '../../containers/page-container';
 export default class BlogIndexPage extends React.Component {
 
   render() {
-    const { data: { allMarkdownRemark: { edges } } } = this.props;
+    let { data: { allMarkdownRemark: { edges } } } = this.props;
+    edges = edges.filter(({ node }) => !node.frontmatter.draft); // remove draft entries
 
     return (
       <PageContainer>
@@ -46,9 +47,8 @@ export const pageQuery = graphql`
         node {
           frontmatter {
             title
-            parent
             date
-            path
+            draft
           },
           fields {
             slug

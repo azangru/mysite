@@ -1,5 +1,9 @@
 import React from "react";
 
+import inflammationPdfPath from './pdfs/inflammation.pdf';
+import mycobacteriaPdfPath from './pdfs/diagnosis-of-mycobacterial-infections-with-nested-PCR.pdf';
+import yawpPdfPath from './pdfs/yawp-russian.pdf';
+
 export default {
   healthSciencesTranslations: [
     {
@@ -91,7 +95,9 @@ export default {
   healthSciencesPapers: [
     (
       <span>
-        <i>A. G. Azov, J. Koch, S. J. Hamilton-Dutoit.</i> Improved diagnosis of mycobacterial infections in formalin-fixed and paraffin-embedded sections with nested polymerase chain reaction // Acta Pathologica, Microbiologica et Immunologica Scandinavica. 113:589–93, 2005 (pdf).
+        <i>A. G. Azov, J. Koch, S. J. Hamilton-Dutoit.</i> Improved diagnosis of mycobacterial infections in formalin-fixed and paraffin-embedded sections with nested polymerase chain reaction // Acta Pathologica, Microbiologica et Immunologica Scandinavica. 113:589–93, 2005 (
+          <a href={mycobacteriaPdfPath}>pdf</a>
+        ).
       </span>
     )
   ],
@@ -147,7 +153,9 @@ export default {
   humanitiesPapers: {
     english: [
       <span>
-        “Barbaric Yawp” in Russian // Rocznik Komparatystyczny (Comparative Yearbook). 2013. No. 4. P. 321–325 (pdf).
+        “Barbaric Yawp” in Russian // Rocznik Komparatystyczny (Comparative Yearbook). 2013. No. 4. P. 321–325 (
+          <a href={yawpPdfPath}>pdf</a>
+        ).
       </span>
     ],
     russian: [
@@ -162,7 +170,9 @@ export default {
         ).
       </span>,
       <span>
-        Воспаление: к истории слова и понятия // Вопросы русского языкознания: Сб. Вып. XIII. Фонетика и грамматика: настоящее, прошедшее, будущее: К 50‑летию научной деятельности Софьи Константиновны Пожарицкой / Сост. С. В. Князев, А. В. Птенцова; отв. ред. М. Л. Ремнёва, С. В. Князев. М.: Изд-во МГУ, 2010. С. 323–329 (pdf).
+        Воспаление: к истории слова и понятия // Вопросы русского языкознания: Сб. Вып. XIII. Фонетика и грамматика: настоящее, прошедшее, будущее: К 50‑летию научной деятельности Софьи Константиновны Пожарицкой / Сост. С. В. Князев, А. В. Птенцова; отв. ред. М. Л. Ремнёва, С. В. Князев. М.: Изд-во МГУ, 2010. С. 323–329 (
+          <a href={inflammationPdfPath}>pdf</a>
+        ).
       </span>
     ]
   }

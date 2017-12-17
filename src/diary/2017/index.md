@@ -2,6 +2,10 @@
 title: "2017"
 ---
 ## December 17
+[Course material for Kent C. Dodds’s course "Advanced React Component Patterns"](https://github.com/kentcdodds/advanced-react-patterns)
+(course videos are behind a paywall on Egghead.io). There’s some pretty cool stuff here!
+
+## December 17
 Memo to self:
 
 One of the companies I worked at used Cucumber.js for writing integration tests

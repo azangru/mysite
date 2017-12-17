@@ -39,17 +39,17 @@ with the visitors) is suited very well.
 
 This site was initially built with [Middleman](https://middlemanapp.com/) in 2014.
 I chose Middleman, because it was based on Ruby (the language I was most familiar with
-at the time), had similar concepts to Ruby on Rails, and all in all looked pretty powerful —
-it was marketed as an instrument for building general-purpose static sites,
-not just blogs (as Jekyll pitched itself). Middleman also supported multilanguage sites,
-and it was my fancy at the moment to keep my site bilingual, both in English and in
-Russian. Turned out, I needn’t have worried about multilingual support; I never cared
-to build the Russian version of the site anyway.
+at the time), was conceptually reminiscent of Ruby on Rails (assets pipeline, erb templates),
+and all in all looked pretty powerful — it was marketed as an instrument for building
+general-purpose static web sites, not just blogs (as Jekyll pitched itself).
+Middleman also supported multilanguage sites, and it was my fancy at the moment to keep
+my site bilingual, both in English and in Russian. Turned out, I needn’t have worried
+about multilingual support; I never cared to build the Russian version of the site anyway.
 
-Some time later (was it 2015?) I updated Middleman to version 4, which introduced
-external asset pipeline, so that JavaScript and CSS assets could be compiled using
-Webpack rather than the Ruby-based assets pipeline (borrowed from Rails, I believe).
-That gave even more freedom of choice of frontend technologies.
+Some time later (was it in 2015?) I updated Middleman to version 4, which introduced
+external assets pipeline, so that JavaScript and CSS assets could be compiled using
+Webpack rather than through some Ruby gems. That gave even more freedom of choice of
+frontend technologies.
 
 The next logical step was to ditch the Ruby-based generator altogether, and move solely
 to JavaScript. Contributing to this was the mildly annoying fact that Middleman turned
@@ -63,5 +63,5 @@ after the update to Middleman version 4, so there).
 So I re-wrote the site in [Gatsby](https://www.gatsbyjs.org/), a fantastic and very tweakable
 static-site generator that uses React to generate pages and a graphql
 layer to fetch the data required for React components during the build step. For styling,
-I moved from SCSS, which turned into a mess during development of the early versions of the site,
-to styled components that conveniently co-locate styles to the React components that use them.
+I moved from SCSS (which I quickly turned into a mess) to styled components
+that conveniently co-locate styles to the React components that use them.

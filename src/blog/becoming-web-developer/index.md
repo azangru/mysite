@@ -91,12 +91,9 @@ _Bookmate,_ where I am currently employed.
 
 ## Lessons from Studying at Coding Bootcamps
 
-> Did DBC [Dev Bootcamp] give me an education equivalent to a computer science degree? No.
-
-> Did they teach me everything I need to know about data structures and algorithms? No.
-
-> Did they help me get my first programming job? Sort of, but not really.
-
+> Did DBC [Dev Bootcamp] give me an education equivalent to a computer science degree? No.  
+> Did they teach me everything I need to know about data structures and algorithms? No.  
+> Did they help me get my first programming job? Sort of, but not really.  
 > But I did learn an enormous amount of practical knowledge in a very short time...
 
 > (from a [discussion](https://news.ycombinator.com/item?id=14761485) at Hacker News)

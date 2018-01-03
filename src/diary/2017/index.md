@@ -1,6 +1,27 @@
 ---
 title: "2017"
 ---
+## December 30
+Interesting discussion of using Recompose together with graphql Apollo Client:
+[Simplify your React components with Apollo and Recompose](https://dev-blog.apollodata.com/simplify-your-react-components-with-apollo-and-recompose-8b9e302dea51)
+
+## December 20
+I was listening to The Square and the Tower, by Niall Ferguson, when he started
+reading Robert Burns's poem (which Google lists under its first line,
+"I Hae a Wife O' My Ain"). I didn’t realize it was Ferguson himself who was narrating
+the book, nor that he was Scottish, but when he started reading, and suddenly switched
+from a very proper RP to a delightful Scottish accent, with a charmingly rising inflection
+in the end of phrases (is it the [high rising terminal](https://en.wikipedia.org/wiki/High_rising_terminal)
+that Wikipedia talks about?), I was completely fascinated. So much so that I made a
+[clipping](https://youtu.be/iAFiPggIloU):
+
+## December 19
+[Repository](https://github.com/shakyShane/egghead-redux-obs) with the code for
+Shane Osbourne’s redux-observable course on Egghead.
+
+Also, John Lindquist’s [repository](https://github.com/johnlindquist/react-rxjs-lessons)
+with code for a course on React, Recompose, and RxJS.
+
 ## December 17
 [Course material for Kent C. Dodds’s course "Advanced React Component Patterns"](https://github.com/kentcdodds/advanced-react-patterns)
 (course videos are behind a paywall on Egghead.io). There’s some pretty cool stuff here!
@@ -59,7 +80,7 @@ What’s curious, the 2013 course taught Ruby on Rails and SQL for backend devel
 
 I was, however, shocked by this slide (from the lecture notes on React):
 
-![](https://imgur.com/inOTSKO.png)
+[![](https://imgur.com/inOTSKO.png)](https://i.imgur.com/inOTSKO_d.jpg?maxwidth=800)
 
 Never has the phrase "the view in MVC" (which has since generally been retired anyway, because it's not a fitting abstraction for thinking about React) been intended for use in the context of clients and servers; it has always intended to explain React’s place among other client-side MVWhatever frameworks.
 

@@ -53,6 +53,10 @@ export default class PageContainer extends Component {
       @media screen and (max-width: 1000px) {
         margin-top: 90px;
       }
+
+      img {
+        max-width: 100%;
+      }
     `;
   }
 

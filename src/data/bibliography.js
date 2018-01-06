@@ -7,6 +7,22 @@ import yawpPdfPath from './pdfs/yawp-russian.pdf';
 export default {
   healthSciencesTranslations: [
     {
+      authors: 'J. O. Cooper, T. E. Heron, W. L. Heward',
+      title: 'Applied Behavior Analysis (2nd edition)',
+      publishingInfo: 'Pearson, 2007',
+      commentary: '(translated chapters 1, 2, 14, 15)',
+      imageFront: 'aba-eng.jpg',
+      imageBack: 'aba-ru.jpg'
+    },
+    {
+      authors: 'J.-D. Fine, H. Hinter (ed.)',
+      title: 'Life with Epidermolysis Bullosa (EB)',
+      publishingInfo: 'Springer-Verlag, 2010',
+      commentary: '(co-edited the Russian translation)',
+      imageFront: 'epidermolysis-bullosa-eng-2.jpg',
+      imageBack: 'epidermolysis-bullosa-ru.jpg'
+    },
+    {
       authors: 'M. P. Schwellnus (ed.)',
       title: 'The Olympic Textbook of Medicine in Sport',
       publishingInfo: 'The Encyclopaedia of Sports Medicine. Volume XIV. Wiley-Blackwell. 2008',
@@ -102,6 +118,13 @@ export default {
     )
   ],
   fictionTranslations: [
+    {
+      authors: 'Lewis Carroll and Martin Gardner',
+      title: 'The Annotated Alice: The Definitive Edition',
+      commentary: '(edited the Russian translation of Martin Gardner’s annotations)',
+      imageFront: 'annotated-alice-eng.jpg',
+      imageBack: 'annotated-alice-ru.jpg'
+    },
     {
       authors: 'Gregory Maguire',
       title: 'Wicked: The Life and Times of the Wicked Witch of the West',

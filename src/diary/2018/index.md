@@ -7,6 +7,15 @@ devices that do not have the html5 drag-and-drop api present on the desktop.
 The project is called [dnd-multi-backend](https://github.com/LouisBrunner/dnd-multi-backend),
 and its React implementation actually works.
 
+Also, absent videos from 2017's Nodevember, here’s a
+[repository](https://github.com/tysoncadenhead/coffee-ratios) with a demonstration
+of refactoring a typically structured React app into a more functional equivalent
+using Recompose and Ramda.
+
+And a repo with code from Eric Baer’s talk
+[GraphQL For The Rest Of Us: New Things for People Who Work On Old Things](https://github.com/baer/graphql-demo-graphql-for-the-rest-of-us) —
+this looks exciting!
+
 ## January 5
 [Hot Reload All the Things](https://hackernoon.com/hot-reload-all-the-things-ec0fed8ab0)
 along with the [companion GitHub repository](https://github.com/mhaagens/hot-reload-all-the-things)

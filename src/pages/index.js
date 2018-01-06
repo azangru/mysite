@@ -27,7 +27,8 @@ export default class MainPage extends Component {
   get menu() {
     const Menu = styled.div`
       display: flex;
-      justify-content: center;
+      flex-direction: column;
+      align-items: center;
 
       @media screen and (max-width: 767px) {
         flex-direction: column;
@@ -37,13 +38,19 @@ export default class MainPage extends Component {
 
     const MenuItem = styled.span`
       font-size: 2.5rem;
+      margin-bottom: 1rem;
     `;
 
     return (
       <Menu>
         <MenuItem>
           <Link to='/about/'>about me</Link>
+        </MenuItem>
+        <MenuItem>
           <Link to='/blog/'>blog</Link>
+        </MenuItem>
+        <MenuItem>
+          <Link to='/diary/'>diary</Link>
         </MenuItem>
       </Menu>
     );

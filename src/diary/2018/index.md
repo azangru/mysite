@@ -32,7 +32,7 @@ example of using bleeding-edge React technologies, such as:
 [Razzle](https://github.com/jaredpalmer/razzle), an interesting project that
 generates universal JavaScript apps.
 
-Interesting [example](https://joelgardner.github.io/2017-07-13/part5-bnb-book-frontend-react-redux-saga/)
+And an interesting [example](https://joelgardner.github.io/2017-07-13/part5-bnb-book-frontend-react-redux-saga/)
 of combining redux-saga with Apollo (without using React-Apollo)
 
 ## January 1

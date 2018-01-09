@@ -1,7 +1,7 @@
 ---
 title: Thoughts on the current discourse on diversity
 date: "2017-09-18T02:26:25+03:00"
-draft: true
+published: false
 ---
 
 > We are an equal opportunity employer and value diversity at our company.

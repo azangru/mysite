@@ -1,6 +1,7 @@
 ---
 title: Becoming a web developer
 date: "2017-09-18T02:26:25+03:00"
+published: true
 ---
 ## The Story
 We all have our stories of how we ended up doing what we do. Here is mine.

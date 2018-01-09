@@ -3,6 +3,7 @@ import graphql from 'graphql'; // a dependency of Gatsby
 import styled from 'styled-components';
 
 import PageContainer from '../containers/page-container';
+import Title from '../components/page-title';
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -19,8 +20,6 @@ class BlogPostTemplate extends React.Component {
   }
 
   renderTitle(title) {
-    const Title = styled.h1``;
-
     return <Title>{title}</Title>;
   }
 

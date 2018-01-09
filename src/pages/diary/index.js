@@ -1,9 +1,9 @@
 import React from "react"; // a dependency of Gatsby
 import graphql from 'graphql'; // a dependency of Gatsby
-// import styled from 'styled-components';
 import Link from "gatsby-link";
 
 import PageContainer from '../../containers/page-container';
+import Title from '../../components/page-title';
 
 export default class DiaryIndexPage extends React.Component {
 
@@ -12,12 +12,11 @@ export default class DiaryIndexPage extends React.Component {
 
     return (
       <PageContainer>
+        <Title>Diary</Title>
         {
           edges.map(({ node }, index) =>
             <div key={index}>
-              <Link
-                to={node.fields.slug}
-              >
+              <Link to={node.fields.slug}>
                 { node.frontmatter.title }
               </Link>
             </div>

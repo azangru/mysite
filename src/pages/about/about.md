@@ -1,9 +1,29 @@
-Hi! My name is Andrey, and I am a web developer. The programming languages I am most comfortable with are Ruby and JavaScript. Some of the web projects I’ve been involved in, along with their short descriptions, are listed on the Projects page.
+Hi!
 
-It has been a long journey getting to this point. I graduated from a medical school in Moscow (Russia), worked for a couple of years in a laboratory of medical genetics in Denmark, then came back to study the Russian language and literature in the Moscow State University, only to realize eventually that it is actually programming that I really want to be doing for a living. Along the way, I translated and edited a number of medical books and works of fiction from English into Russian. Those are showcased in the “Other” section of this site.
+My name is Andrey, and this website is my little personal space on the Internet.
 
-In April–July 2014, I took a three-month intensive course *Web Development Immersive* offered in the London campus of a coding bootcamp *General Assembly*, happily hacking away and learning Ruby on Rails and some JavaScript. Out of my academic interest to the Russian translations of Byron’s *Don Juan,* came the idea for the final project: a [website](http://donjuan.herokuapp.com) that shows parallel texts of the original Byron’s poem (annotated by Isaac Asimov, of the *Three Laws of Robotics* fame) alongside two of its best Russian translations (a brief story of which I tell in [this Youtube video](https://youtu.be/GQWlpVrULlw)).
+I work as a web developer — frontend, mostly. I get easily excited by the words
+such as JavaScript (accompanied by the names of whatever latest features of the language
+happen to be the most hyped up at the moment), React (accompanied by such words as functional programming,
+stateless components, recompose, server-side rendering, etc.), RxJS, progressive
+web apps, and so on.
 
-A year later, hoping to experience the non-stop coding bliss again, I took another immersive coding course — this time, at *Hack Reactor Remote*. Here, I learned server-side JavaScript, and got more practice with client-side JavaScript frameworks, such as Backbone, Angular, and React. By the end of the course, I freaking loved JavaScript.
+Now a quick tour around the site. For me, it serves the purpose of social media, only without
+the "social" part. The [diary](/diary/) section is a sort of a microblog (and tends
+to morph into a collection of useful links found during the day that I would
+like to be reminded about), while the [blog](/blog/) section takes care of lengthier scrivenings.
+No mechanism is provided for leaving comments. Hello Web 1.0, my old friend!
 
-So yeah, this is where my story brings me. Time to go rock the world, I guess.
+I am a bit of an anglophile — no matter which part of the English-speaking
+world this "anglo-" is coming from, — and there was a period in my life when
+I nourished this passion by translating medical textbooks and fiction from English
+into Russian. The list of these translations, presented on the
+[publications](/publications/) page, reminds me of those fond times. (Eventually,
+I took pity both on the authors and on the readers, and decided to indulge my passion
+in a more harmless manner).
+
+What I am most emphatically *not*, as must be painfully obvious from the first glance
+at the site, is a designer. To all those whose esthetic feelings I offend by
+the choice (or lack thereof) of typeface, or font-size, or font color, or by page layout,
+or by myriads of other details, I apologize. At work, my hands would be guided by
+a professional designer, but here I am left to my own devices.

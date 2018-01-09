@@ -1,24 +1,23 @@
 import React from "react"; // a dependency of Gatsby
 import graphql from 'graphql'; // a dependency of Gatsby
-import styled from 'styled-components';
 import Link from "gatsby-link";
 
 import PageContainer from '../../containers/page-container';
+import Title from '../../components/page-title';
 
 export default class BlogIndexPage extends React.Component {
 
   render() {
     let { data: { allMarkdownRemark: { edges } } } = this.props;
-    edges = edges.filter(({ node }) => !node.frontmatter.draft); // remove draft entries
+    edges = edges.filter(({ node }) => node.frontmatter.published); // remove draft entries
 
     return (
       <PageContainer>
+        <Title>Blog</Title>
         {
           edges.map(({ node }, index) =>
             <div key={index}>
-              <Link
-                to={node.fields.slug}
-              >
+              <Link to={node.fields.slug}>
                 { node.frontmatter.title }
               </Link>
             </div>
@@ -48,7 +47,7 @@ export const pageQuery = graphql`
           frontmatter {
             title
             date
-            draft
+            published
           },
           fields {
             slug

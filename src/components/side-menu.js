@@ -132,7 +132,7 @@ export default class SideMenu extends Component {
       <MenuItemsContainer>
         <MenuItem>
           <Link to='/about/' activeStyle={{ color: '#b88b58' }} exact={false} >
-            about me
+            about
           </Link>
         </MenuItem>
         <MenuItem>

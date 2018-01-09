@@ -1,6 +1,7 @@
 ---
 title: Enabling typographic layout in modern Ubuntu
-date: "2015-05-01T22:12:03.284Z"
+date: "2015-05-01"
+published: true
 ---
 
 I use Linux as my desktop operating system. And out of the many Linux distros out there I frequently find myself using Ubuntu, despite (or maybe partly because of) their Unity graphical shell. It just feels like the simplest and the best supported Linux distro out there.

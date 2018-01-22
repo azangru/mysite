@@ -1,6 +1,15 @@
 ---
 title: "2018"
 ---
+## January 21
+Some interesting ideas on using ReasonML alongside React in a brown-field project
+already written in JS. [Article](https://dev.to/fiber_god/enable-reasonml-in-any-react-app-5bl2)
+and a [sample repo](https://github.com/fiber-god/one-punch-fitness).
+
+## January 17
+[Reddit discussion](https://www.reddit.com/r/webdev/comments/7qq91b/what_do_i_have_to_learn_to_do_this/)
+on how to do "goey stuff" in CSS.
+
 ## January 6
 A workable solution for using ReactDND (a drag-and-drop) library on touch
 devices that do not have the html5 drag-and-drop api present on the desktop.

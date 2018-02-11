@@ -17,7 +17,7 @@ No mechanism is provided for leaving comments. Hello Web 1.0, my old friend!
 I am a bit of an anglophile — no matter which part of the English-speaking
 world this "anglo-" is coming from, — and there was a period in my life when
 I nourished this passion by translating medical textbooks and fiction from English
-into Russian. The list of these translations, presented on the
+into Russian. The list of these translations, which can be found on the
 [publications](/publications/) page, reminds me of those fond times. (Eventually,
 I took pity both on the authors and on the readers, and decided to indulge my passion
 in a more harmless manner).

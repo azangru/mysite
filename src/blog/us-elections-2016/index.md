@@ -65,7 +65,7 @@ Althought it probably doesn’t quite work that way, as Jono Bacon pointed out:
 >
 > ([Bad Voltage, season 2, episode 24](https://youtu.be/ZS7a0CW7nUs?t=1h1m4s))
 
-So yeah, here they are, my biases that can cloud my arguments in what I am going
+So yeah, here they are, my biases that can cloud my judgement in what I am going
 to say below: I am Russian, and I disliked Hillary more than I disliked Trump. With
 that said, let me move on to what drives me insane about this election — the story
 of Russian meddling.

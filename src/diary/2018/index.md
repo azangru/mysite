@@ -1,9 +1,31 @@
 ---
 title: "2018"
 ---
+## February 19
+- [Command-line text processing](https://github.com/learnbyexample/Command-line-text-processing)
+- [Dev Standards Gitbook](https://bamtech.gitbook.io/dev-standards) (including "Kick start a JS
+  GraphQL 3 layers API with Apollo-server, Dataloader and Knex")
+- [PHP the Right Way](http://www.phptherightway.com/)
+- [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/)
+
+
+## February 18
+1. A [repo](https://github.com/alex/what-happens-when) explaining — in great detail — what happens
+    when the user requests a page in the browser. As the author explains, it is:
+  > An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+
+2. This article has long sat neglected in one of my browser tabs; I am not sure it’s practical,
+but still the approach is interesting:
+[React + Redux + React Router 4 code splitting w/ RxJS & Webpack](https://medium.com/@luigiplr/react-redux-react-router-4-code-splitting-w-rxjs-webpack-32eabedf0e9)
+
+## February 17
+Some ideas about testing epics in redux-observable:
+- [article 1](https://medium.com/kevin-salters-blog/writing-epic-unit-tests-bd85f05685b)
+- [article 2](https://dev.to/julioolvr/writing-tests-for-redux-observable)
+
 ## February 11
 [Universal web boilerplate](https://github.com/dtonys/universal-web-boilerplate) is a really
-nice starter that has universal rendering and code splitting, and also uses redux-saga
+nice starter kit that has universal rendering and code splitting, and also uses redux-saga
 for async effects handling.
 
 ## February 3
@@ -30,6 +52,7 @@ Several courses by Harvard’s CS50 team that might be of interest:
 - [Mobile App Development with React Native](https://cs50.github.io/mobile/)
 - [Web Programming with Python and JavaScript](https://cs50.github.io/web/)
 - [Introduction to Game Development](https://cs50.github.io/games/)
+
 They look pretty basic, but still...
 
 ## January 28

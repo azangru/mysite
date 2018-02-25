@@ -20,6 +20,8 @@ gender, sexual orientation, age, marital status, veteran status, or disability s
 - quotas (race / gender)
 
 
+I.e. the difference between "how to function in a diverse group" vs "we need to make this group more diverse"
+
 ## Example from Frontend Happy Hour
 
 — I look for a diverse team. That means that you have not just we are talking about the races or their socioeconomic background, but are they varied in their thought, cause diversity of thought is important in building a healthy company. So it’s like "yeah, we’ve got a healthy culture," but if it's all just like white dudes from, like, Harvard who all went to the same class together, I am like, "you may all be, like, the coolest and the most chill people in the world, but, like, you can’t tell me it's a healthy culture, because it’s a monoculture, and that’s not the strongest thing. So, a good diverse team, I think, is the foundation of a good culture.
@@ -40,6 +42,36 @@ http://feeds.soundcloud.com/stream/401747517-front-end-happy-hour-episode-051-gi
 — Another thing happened recently too, the open-source community did it in software engineering, where they kind of obfuscated the usernames of Github contributors in pull requests, and all of a sudden like... maybe not the exact number, but, like, you know, a surprisingly high number of women's pull requests were accepted in lot of open-source projects.
 (Frontend Happy Hour, episode 51, minute 39)
 
+## from Steven Pinker
+...economically egalitarian countries like Sweden and France differ from lopsided countries like Brazil and South Africa in many ways other than their income distribution. The egalitarian countries are, among other things, richer, better educated, better governed, and more culturally homogeneous, so a raw correlation between inequality and happiness (or any other social good) may show only that there are many reasons why it’s better to live in Denmark than in Uganda.
+
+— Steven Pinker. Why income inequality is not the injustice we perceive it to be
+http://bigthink.com/big-think-books/steven-pinker-enlightenment-now-inequality-happiness
+excerpt from Enlightenment Now
+
+(notice how cultural homogeneity correlates in this context with happiness; compare with the use of the word "monoculture")
+
+## Possible interpretation
+
+The only way for me to make sense of the diversity movement is this. Somehow, perhaps due to the spread
+of liberal ideals, the affluent strata of the white population became ashamed of their affluence, and
+of the "privileges" that helped them attain this position. They perceive this as unfair, so to compensate,
+they are trying to pull people from less prosperous strata into their environment. The narrative of diversity
+as a generaly more successful way of doing business, or a friendlier environment to work in, is just a
+distraction.
+
+If that is the case, I get it. What saddens me are: 1) propaganda, and 2) perception of jobs as means for
+getting a better socioeconomic standing, not as a calling that attracts truly passionate and focused individuals
+who can overcome the obstacles life throws in their way.
+
 ## Language Diversity
 
+The fewer languages there are, the more knowledge is accumulated in the remaining languages, and the fewer barries
+there are for accessing this knowledge. For example, currently the English language enjoys the situation when a huge
+(perhaps the largest) number of book titles, or journals, or films are released in this language. Consequently,
+anyone who understands English has access to all this wealth of knowledge and culture. If (a hypothetical scenario)
+a language disappeared, and people who might have spoken it instead joined the pool of English speakers,
+it would have more (in absolute terms) people who could generate knowledge and share it in this language.
 
+(Compare whatever is currently published in Russian with whatever is published in English — the latter is much
+more abundant and important.)

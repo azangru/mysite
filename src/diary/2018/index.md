@@ -1,6 +1,22 @@
 ---
 title: "2018"
 ---
+## March 7
+Talks from [Assert(js)](https://www.youtube.com/playlist?list=PLZ66c9_z3umNSrKSb5cmpxdXZcIPNvKGw) — a
+conference about testing (focused primarily on JavaScript).
+
+## March 3
+Had to specifically install `kio-mtp` on KDE Neon to enable phone file system browsing from the laptop
+and copying files from the desktop to the SD card. The need to install a specific package for this
+was unexpected. Luckily, with this package installed everything works perfectly.
+
+Also, it takes to install `vim-gui-common` package to enable vim clipboard sharing with other X applications.
+
+P.S.: I switched from vanilla Ubuntu to KDE neon a couple of weeks ago, after Chris Fisher
+reminded me of this option with his [tweet](https://twitter.com/chrislas/status/960002530041241600).
+The transition went smoothly, and I am really loving the new Plasma interface.
+
+
 ## February 19
 - [Command-line text processing](https://github.com/learnbyexample/Command-line-text-processing)
 - [Dev Standards Gitbook](https://bamtech.gitbook.io/dev-standards) (including "Kick start a JS

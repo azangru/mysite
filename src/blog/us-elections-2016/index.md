@@ -74,3 +74,14 @@ of Russian meddling.
 
 One of the things that really strikes me is that there are things that are alleged as, you know, traitorous illegal activities that, if you had asked me, is this traitorous or illegal, I would have said: "Doesn’t sound like it to me." For example, if the Russians had some dirt on Hillary, and if they offered it to the campaign, if you had asked me, without this news coverage in which we all learned how this works, is it illegal to gather information from someone who has information, I would say: "How is that illegal to talk to people? Why would it be illegal to know more, if it’s true, why would it be illegal to have true information?"
 (Scott Adams, in The Rubin Report, https://youtu.be/4_idhCca2XM?t=19m39s)
+
+
+
+So, let’s say that it [collusion] meant simply that the Russians told Trump: "Hey, we have this dirt on Hillary Clinton that we’d like to give you." If Trump of Trump Junior or anyone in the Trump campaign said "Oh, you have dirt on our opponent, and you want to give it to us? Sure, we’d like to take that," would that be a crime? Would that mean that Trump is an agent of Russian government? The Politico has this really great story that they wrote after the election, in which they reported that Ukrainian officials met with and worked with a contractor for the DNC to give dirt about Donald Trump to the Clinton campaign, and the DNC and the Clinton campaign eagerly accepted it, because of course you accept dirt about your political opponent, no matter where it comes from.
+
+— Glenn Greenwald, in his debate with James Risen on The Intercept
+https://youtu.be/LsY70_uIXNc
+at about 20 min 30 seconds
+
+The lesson [of Iraq War] is that we shouldn’t believe claims from the US government absent convincing evidence, meaning not anonymous sources inside of government making assertions without underlying corroboration, but actual tangible evidence that we can see and assess for ourselves.
+ibid, 24:08

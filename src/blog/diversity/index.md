@@ -51,6 +51,12 @@ excerpt from Enlightenment Now
 
 (notice how cultural homogeneity correlates in this context with happiness; compare with the use of the word "monoculture")
 
+## From panel at Portland State University
+We are not seeing anyone argue that there should be more female iron smelters, right? No-one is arguing
+for a correction of the sex ratio in fields that aren't deemed lofty.
+(Heather E. Heying at panel "We Need to Talk About Diversity", Portland State University, February 17 2018,
+ https://www.youtube.com/watch?v=VCrQ3EU8_PM, approx 32:55)
+
 ## Possible interpretation
 
 The only way for me to make sense of the diversity movement is this. Somehow, perhaps due to the spread

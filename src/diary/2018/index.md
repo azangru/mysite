@@ -1,6 +1,22 @@
 ---
 title: "2018"
 ---
+## March 18
+James Gillmore’s (skeptical) opinion on the upcoming Suspense feature of React, and of the new
+React’s context api – [here](https://gitter.im/Reactlandia/Lobby?at=5a9d321853c1dbb743a68a92)
+and [here](https://gitter.im/Reactlandia/Lobby?at=5a9f72706f8b4b9946fa0a2b).
+
+I like his passion. Don’t know if he’ll turn out to be right, but his thoughts are
+definitely interesting.
+
+## March 9
+[Layout land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag/videos) — CSS-related
+videos by Mozilla’s Jen Simmons.
+
+## March 8
+Atlassian’s [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) looks pretty
+slick!
+
 ## March 7
 Talks from [Assert(js)](https://www.youtube.com/playlist?list=PLZ66c9_z3umNSrKSb5cmpxdXZcIPNvKGw) — a
 conference about testing (focused primarily on JavaScript).

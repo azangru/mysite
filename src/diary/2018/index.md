@@ -1,6 +1,13 @@
 ---
 title: "2018"
 ---
+## April 5
+Found the [spec.fm](https://spec.fm/podcasts/) site with various podcasts for developers.
+
+## March 31
+Mike North’s [repo](https://github.com/mike-works/sql-fundamentals) for his courses
+(an introductory and a more advanced ones) about relational databases for frontend developers.
+
 ## March 18
 James Gillmore’s (skeptical) opinion on the upcoming Suspense feature of React, and of the new
 React’s context api – [here](https://gitter.im/Reactlandia/Lobby?at=5a9d321853c1dbb743a68a92)

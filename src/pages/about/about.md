@@ -9,7 +9,7 @@ stateless components, recompose, server-side rendering, etc.), RxJS, progressive
 web apps, and so on.
 
 Now a quick tour around the site. For me, it serves the purpose of social media, only without
-the "social" part. The [diary](/diary/) section is a sort of a microblog (and tends
+the "social" part. The [diary](/diary/) section is something of a microblog (and tends
 to morph into a collection of useful links found during the day that I would
 like to be reminded about), while the [blog](/blog/) section takes care of lengthier scrivenings.
 No mechanism is provided for leaving comments. Hello Web 1.0, my old friend!

@@ -1,6 +1,23 @@
 ---
 title: "2018"
 ---
+## April 14
+Some solutions for universal React-based apps with React Router 4 and server-side rendering
+(and sometimes with code splitting):
+- An [example](https://github.com/jaredpalmer/react-router-nextjs-like-data-fetching)
+by Jared Palmer.
+- An [example](https://github.com/jamesfiltness/universal-react-router-4-redux-boilerplate-with-code-splitting)
+by James Filtness.
+
+## April 13
+The [repo](https://github.com/twclark0/puppeteer-testing/tree/master) for the course
+_End to End Testing with Google's Puppeteer and Jest_ on Egghead.io. Nothing to write
+home about, but some portions of it may be interesting to review.
+
+## April 12
+A [Gitbook](https://legacy.gitbook.com/book/chrisnoring/rxjs-5-ultimate/details)
+on RxJS by Chris Norig. Might be worth a look.
+
 ## April 5
 Found the [spec.fm](https://spec.fm/podcasts/) site with various podcasts for developers.
 

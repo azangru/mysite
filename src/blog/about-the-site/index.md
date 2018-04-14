@@ -28,7 +28,7 @@ It has also become quite clear to me that I rather dislike social networks. They
 certainly have their uses, and I would from time to time check out a Twitter account
 or five to see what’s going on in the world of web development, but I am mostly
 a consumer, not a producer of such messages; I do not feel the urge to tell the world
-of my achieveemnts or grievances, to participate in flash mobs, to feel a part of
+of my achievements or grievances, to participate in flash mobs, to feel a part of
 a community and get dopamine hits from receiving likes or other forms of Bernian "stroking".
 
 I do, however, like a relatively quiet place where I would have an opportunity to

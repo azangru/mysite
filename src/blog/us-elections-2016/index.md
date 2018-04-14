@@ -1,7 +1,7 @@
 ---
-title: On the US Presidential elections 2016 and the Russian meddling
-date: "2018-01-22"
-published: false
+title: On the 2016 US Presidential elections and the Russian meddling
+date: "2018-04-07"
+published: true
 ---
 
 ## Preamble

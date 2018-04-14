@@ -22,7 +22,7 @@ Shane Osbourne’s redux-observable course on Egghead.
 Also, John Lindquist’s [repository](https://github.com/johnlindquist/react-rxjs-lessons)
 with code for a course on React, Recompose, and RxJS.
 
-## December 17
+## December 18
 [Course material for Kent C. Dodds’s course "Advanced React Component Patterns"](https://github.com/kentcdodds/advanced-react-patterns)
 (course videos are behind a paywall on Egghead.io). There’s some pretty cool stuff here!
 

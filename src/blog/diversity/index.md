@@ -1,20 +1,59 @@
 ---
 title: Thoughts on the current discourse on diversity
-date: "2017-09-18T02:26:25+03:00"
+date: "2018-04-15"
 published: false
 ---
+
+## Background
+If I am remembering correctly, I have come across the issue of diversity only after I have switched my professional interests to web development and started actively following dev-related discussions on the Internet. I was amazed to find out that there were several ideological characteristics among many (perhaps most of) developers that I wasn't previously aware about. Perhaps this is related to different intellectual traditions in modern US and modern Russia, or perhaps while I wasn't looking (and avoiding social media) I missed a major cultural shift. These ideological characteristics are:
+
+- An acute perception that certain social groups have been treated unfairly by the society. This might be correlating with a wide spread (or approval) of feminism among the young generation. (I, in contrast, do not have either such an acute feeling of social injustice, or particular sympathies towards feminism.)
+
+- An imperative to act to fix these injustices, although this is perhaps the perennial feature of the young generation. (In contrast, it is more natural for me to observe and wait and let the society improve itself in its own time.)
+
+- Strong sympathies towards the historically disadvantaged groups.
+
+It has been said that US colleges (and they are probably the strongest influence on opinions of the young generation) are strongly left-leaning, and “progressive”. This feels like a new secular religion, which includes among its doctrines a teaching of diversity.
+
+It is this teaching, or more specifically how it manifests in everyday discourse that I wanted to talk about. But first, I must account for my biases. I am white (no surprise there, for a Russian). I am a cisgender male. Socioeconomically, I belong to the middle class, and I have a university education. In other words, I belong to the group which, according to the widespread opinion, should either support the dogma of this new secular religion, or shut up.
+
+Of course, it’s a little more complicated than that. As a Russian national, I am stuck in a backward country that is relatively isolated from the rest of the world and which, due to the latest political developments, is becoming more and more of an outcast; so I do feel a certain degree of injustice in being born here. Besides, with every passing year I am getting closer to feeling another kind of discrimination, particularly prevalent in tech industry, which is ageism. So it's not like I am at the top of the social pyramid unable to grasp the concept of social injustice.
+
+Nevertheless...
+
+## Diversity as a Word
+It comes as no surprise that words change their meaning. The word _minority_, for example, is often used not in its strict quantitative sense, but as a rather specific umbrella term encompassing specific racial (blacks), ethnic (Hispanic in the US), religious (Muslim in the US) and gender (women, homosexuals, transgenders) groups. The word _progressive_, as I mentioned before, refers not simply to any supporter of progress, but to those who, to quote a dictionary, "support social and political change that aims to make a system fairer." (This is giving me no end of grief, because I feel this word, with its halo of positive connotations, has been unfairly appropriated by a particular political group. I too would regard myself as “progressive,” only in my case that would mean a strong proponent of technological progress, which is not what the word has come to mean.) Likewise, the word _diversity_ is not generally used to mean _any_ social diversity. It does not imply that a collective should consist of nationals of every country. Or that it should include people of all ages. Or that it should contain members of all religions. This word is typically restricted to the groups of people who are included in the word _minority_. It is not usually spelled out in discussions. It is implied.
+
+For me, who still, out of habit, perceives the word _diversity_ literally, it is bizarre. It also weakens one of the arguments for diversity, specifically that the variety of viewpoints helps build better products, because it is not _any_ variety the proponents of diversity are pushing for, but a specific kind of variety. And yet,  there it is.
 
 > We are an equal opportunity employer and value diversity at our company.
 We do not discriminate on the basis of race, religion, color, national origin,
 gender, sexual orientation, age, marital status, veteran status, or disability status.
 
 ## Descriptive Approach to Diversity
+Statements about diversity (and here I am focusing only on diversity in tech) can be of one of the two kinds: either descriptive or prescriptive. Descriptive statements simply describe the state of affairs. For example, one can point out that the percentage of women in tech is much smaller than the percentage of men. Robert Martin (aka Uncle Bob) likes to do the following demonstration during his talks: he would ask his audience to stand up, then for non-programmers to sit down, then for "those who are carrying only one X-chromosome" to sit down ([link](https://youtu.be/X31Jc6HQUcs?t=44s)). The demonstration is intended to make the numerical difference between male and female programmers stand out. Uncle Bob would then say how in the days of his youth (when programming was still done on mainframes using punch cards) the number of female programmers exceeded the number of male programmers, but he would not go further. He wouldn't declare it a problem or preach how to solve it.
+
+From the descriptive standpoint, I am pretty indifferent to the composition of a collective. I get annoyed when these descriptive observations are then used to provide explanation for the observed frequencies, which is a pretty common exercise that people would engage in, particularly if they have a political agenda. One school of interpreters would insist that this numeric inequality is a sign of ongoing discrimination, which must be eliminated. Others would say that this unequal distribution reflects inherent biological (or psychological) differences between men and women, and therefore is OK. None of this is of particular interest for me.
+
+What troubles me is the other, prescriptive, approach towards diversity.
 
 ## Prescriptive Approach to Diversity
+In this approach, diversity, narrowly understood as a high proportion of "minorities" in a group, is regarded as a goal in itself.
+
+Examples of this approach are numerous; here are just a few:
+
+- from a ([tweet](https://twitter.com/sebmck/status/895640889770389504) by Sebastian McKenzie):
+
+> Found out about this conf after @thejameskyle linked me to their "influencers list" which is entirely white men. Appalling speaker diversity for what is titled as the "international JavaScript conference".
+
+- from [Hack Reactor's Diversity and Inclusion Report](http://hrhqdir.s3.amazonaws.com/hr/diversity-reports/hack-reactor-diversity-report-2017.pdf):
+
+> By Q1 of 2020, Hack Reactor’s graduating class will be made up of
+50/50 gender balance and 20% underrepresented people of color.
 
 - affirmative action (see definition)
 
-- see https://www.youtube.com/watch?v=-rH-W483sUg (JavaScript Air e.g. at 34 minutes)
+- see https://www.youtube.com/watch?v=-rH-W483sUg&feature=youtu.be&t=33m30s (JavaScript Air e.g. at 34 minutes)
 - see https://youtu.be/rKfwde2cOEk?t=15m39s
 
 - quotas (race / gender)

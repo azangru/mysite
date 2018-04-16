@@ -1,6 +1,12 @@
 ---
 title: "2018"
 ---
+##
+- [Site](https://eduardoboucas.com/) of Eduardo Boucas, an interesting case of how rich
+a statically-generaed site can be.
+- Alexander Pope [talks](https://www.youtube.com/watch?v=pvZiB7NkT8M&t=1146s) about the proper
+use of service workers (common misconceptions, pitfalls, etc.).
+
 ## April 14
 Some solutions for universal React-based apps with React Router 4 and server-side rendering
 (and sometimes with code splitting):

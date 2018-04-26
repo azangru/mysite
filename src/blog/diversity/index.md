@@ -15,7 +15,7 @@ If I am remembering correctly, I have come across the issue of diversity only af
 
 It has been said that US colleges (and they are probably the strongest influence on opinions of the young generation) are strongly left-leaning, and “progressive”. This feels like a new secular religion, which includes among its doctrines a teaching of diversity.
 
-It is this teaching, or more specifically how it manifests in everyday discourse that I wanted to talk about. But first, I must account for my biases. I am white (no surprise there, for a Russian). I am a cisgender male. Socioeconomically, I belong to the middle class, and I have a university education. In other words, I belong to the group which, according to the widespread opinion, should either support the dogma of this new secular religion, or shut up.
+It is this teaching, or more specifically how it manifests in everyday discourse that I wanted to talk about. But first, I must account for my biases. I am white (no surprise there, for a Russian). I am a cisgender male. Socioeconomically, I belong to the middle class, and I have a university education. In other words, I belong to a privileged group which, according to the widespread opinion, should either support the dogma of this new secular religion, or shut up.
 
 Of course, it’s a little more complicated than that. As a Russian national, I am stuck in a backward country that is relatively isolated from the rest of the world and which, due to the latest political developments, is becoming more and more of an outcast; so I do feel a certain degree of injustice in being born here. Besides, with every passing year I am getting closer to feeling another kind of discrimination, particularly prevalent in tech industry, which is ageism. So it's not like I am at the top of the social pyramid unable to grasp the concept of social injustice.
 
@@ -38,18 +38,45 @@ From the descriptive standpoint, I am pretty indifferent to the composition of a
 What troubles me is the other, prescriptive, approach towards diversity.
 
 ## Prescriptive Approach to Diversity
-In this approach, diversity, narrowly understood as a high proportion of "minorities" in a group, is regarded as a goal in itself.
+In this approach, diversity, narrowly understood as a high proportion of "minorities" in a group, is regarded as a goal in itself. Here are just a few of a countless examples of this approach in action:
 
-Examples of this approach are numerous; here are just a few:
-
-- from a ([tweet](https://twitter.com/sebmck/status/895640889770389504) by Sebastian McKenzie):
+- a [tweet](https://twitter.com/sebmck/status/895640889770389504) by Sebastian McKenzie):
 
 > Found out about this conf after @thejameskyle linked me to their "influencers list" which is entirely white men. Appalling speaker diversity for what is titled as the "international JavaScript conference".
 
-- from [Hack Reactor's Diversity and Inclusion Report](http://hrhqdir.s3.amazonaws.com/hr/diversity-reports/hack-reactor-diversity-report-2017.pdf):
+- a quote from [Hack Reactor's Diversity and Inclusion Report](http://hrhqdir.s3.amazonaws.com/hr/diversity-reports/hack-reactor-diversity-report-2017.pdf):
 
 > By Q1 of 2020, Hack Reactor’s graduating class will be made up of
 50/50 gender balance and 20% underrepresented people of color.
+
+- a [tweet](https://twitter.com/estellevw/status/938101138280161280) by Estelle Weyl:
+
+> If you're a man, especially a white man, and you're invited to do a podcast, be an ally. Check the history of the podcast. If there is no diversity in previous lineups, decline the invite and give them referrals to women and other URMs, and give them a talking to as well. Thx.
+
+- from a discussion on Frontend Happy Hour podcast ([episode 51](http://feeds.soundcloud.com/stream/401747517-front-end-happy-hour-episode-051-gin-and-toxic-culture.mp3), February 18 2018, at approx. minute 8), a response to the question, what one looks for in a company when deciding whether it's a good fit for them:
+
+> — I look for a diverse team. That means that you have not just we are talking about the races or their socioeconomic background, but are they varied in their thought, cause diversity of thought is important in building a healthy company. So it’s like "yeah, we’ve got a healthy culture," but if it's all just like white dudes from, like, Harvard who all went to the same class together, I am like, "you may all be, like, the coolest and the most chill people in the world, but, like, you can’t tell me it's a healthy culture, because it’s a monoculture, and that’s not the strongest thing." So, a good diverse team, I think, is the foundation of a good culture.
+>
+> — Yeah, I think it builds a better product, too
+
+This prescriptive approach, this imperative to have diversity is confusing to me, because I do not understand why exactly it is so desirable; why it is thought of as mandatory instead of as optional. Here are the reasons that I expect the defenders of this idea to put forth.
+
+### This is a universal law
+> In Federalist no. 2, John Jay highlights the lack of diversity in the colonies by writing: "Providence has been pleased to give this one connected country to one united people--a people descended from the same ancestors, speaking the same language, professing the same religion, attached to the same principles of government, very similar in their manners and customs". (The Politically Incorrect Guide to American History, the beginning of the audio fragment on Amazon: https://www.amazon.com/Politically-Incorrect-Guide-American-History/dp/0895260476)
+
+### Competitive advantage: diverse teams are more likely to build products that are well-suited for the largest possible audience
+
+This is speculative: I am not sure there exists strong data (apart from anecdotal evidence) suggesting that a diverse team of, say, backend web developers, or database specialists, or devops specialists will be more effective than a non-diverse team. No doubt, if a web development team is concerned with, let's say, web accessibility, the resulting web app will be more suitable for use by people with disabilities, but it does not follow that therefore this team should have members with all kinds of disabilities who will have first-hand experience of developing and using the web app.
+
+In fact, I was surprised to see Steven Pinker write:
+
+> ...economically egalitarian countries like Sweden and France differ from lopsided countries like Brazil and South Africa in many ways other than their income distribution. The egalitarian countries are, among other things, richer, better educated, better governed, and more culturally homogeneous, so a raw correlation between inequality and happiness (or any other social good) may show only that there are many reasons why it’s better to live in Denmark than in Uganda.
+>
+> Steven Pinker. [Why income inequality is not the injustice we perceive it to be](http://bigthink.com/big-think-books/steven-pinker-enlightenment-now-inequality-happiness) (excerpt from Enlightenment Now)
+
+Notice how "more cultural homogeneity" in this passage correlates with happiness? Isn't this surprising? Doesn't it go against the diversity dogma?
+
+_(Just to make myself clear, far be it from me to suggest that diversity is contributing to unhappiness or to company's failure; all I am saying is, I am not sure there exists the evidence to convincingly argue the opposite point.)_
 
 - affirmative action (see definition)
 

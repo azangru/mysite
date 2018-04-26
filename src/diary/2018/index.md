@@ -1,7 +1,16 @@
 ---
 title: "2018"
 ---
-##
+## April 26
+- [Repo](https://github.com/FrontendMasters/advanced-graphql) for Scott Moss's Advanced GraphQL course
+- [Repo](https://github.com/FrontendMasters/serverless-with-aws) for Scott Moss's AWS serverless course
+- [Repo](https://github.com/FrontendMasters/api-design-node-v2) for Scott Moss's course on API design in node
+
+## April 22
+Talks from conferences held by the Smashing Magazine can actually be found by searching
+for `Smashing Conf` in the Google videos section.
+
+## April 15
 - [Site](https://eduardoboucas.com/) of Eduardo Boucas, an interesting case of how rich
 a statically-generaed site can be.
 - Alexander Pope [talks](https://www.youtube.com/watch?v=pvZiB7NkT8M&t=1146s) about the proper

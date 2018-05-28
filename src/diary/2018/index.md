@@ -1,6 +1,36 @@
 ---
 title: "2018"
 ---
+## May 28
+Interesting: [React State Museum](https://github.com/GantMan/ReactStateMuseum) — a repo containing a list
+of different state management libraries alongside examples of their usage. As follows from the name, this
+is mostly relevant for React and similar view libraries.
+
+## May 27
+Interesting talks from React Europe 2018:
+- Joshua Comeau. [The Case for Whimsy](https://www.youtube.com/watch?v=Z2d9rw9RwyE)
+
+
+## May 9
+- A [repo](https://github.com/TheLarkInn/webpack-workshop-2018) for Sean Larkin's workshop on Webpack (2018).
+- [Everything is a plugin](https://youtu.be/4tQiJaFzuJ8), a talk by Sean Larkin about how Webpack works
+  (and its plugin system)
+
+## May 6
+Old but good: a [talk](https://www.youtube.com/watch?v=Vur2dAFZ4GE) about creation of React Router v.4.
+
+## May 5
+- Andre Stalz's [talk](https://www.youtube.com/watch?v=fdol03pcvMA) on getters and setters as fundamental
+  abstractions (and iterables and observables that are derived from them). This is not the first time he
+  is giving this talk, so by now it's very polished.
+- Also, the [repo](https://github.com/staltz/uphill-rxjs-training) for Andre's workshop on observables.
+- Michael Jackson's famous [talk](https://www.youtube.com/watch?v=BcVAq3YFiuc) on render props.
+- Michael Jackson's [talk](https://www.youtube.com/watch?v=vyO5wKHlWZg) on React as a tool for making the DOM declarative.
+
+## May 1
+- [Node Flowtype Boilerplate](https://github.com/jsynowiec/node-flowtype-boilerplate). Might come useful.
+- A [blog post](https://jaketrent.com/post/flowtype-nodejs-backend/) on setting up Flow to use on the backend.
+
 ## April 26
 - [Repo](https://github.com/FrontendMasters/advanced-graphql) for Scott Moss's Advanced GraphQL course
 - [Repo](https://github.com/FrontendMasters/serverless-with-aws) for Scott Moss's AWS serverless course

@@ -123,6 +123,9 @@ for a correction of the sex ratio in fields that aren't deemed lofty.
 (Heather E. Heying at panel "We Need to Talk About Diversity", Portland State University, February 17 2018,
  https://www.youtube.com/watch?v=VCrQ3EU8_PM, approx 32:55)
 
+Nearly 82 percent of obstetrics and gynaecology medical residents in 2016 were female, but no-one is complaining about gender bias against males.
+Heather Mac Donald, https://youtu.be/zS_RtvrsoIs?t=25m35s
+
 ## Possible interpretation
 
 The only way for me to make sense of the diversity movement is this. Somehow, perhaps due to the spread
@@ -135,6 +138,11 @@ distraction.
 If that is the case, I get it. What saddens me are: 1) propaganda, and 2) perception of jobs as means for
 getting a better socioeconomic standing, not as a calling that attracts truly passionate and focused individuals
 who can overcome the obstacles life throws in their way.
+
+## Diversity as a means for a minority group to feel comfortable
+Slides for the talk "Does Diversity Really Matter": http://breakthebox.ch/diversity.shtml
+(from UphillConf, 2018)
+What they are talking about is that tech may not be a comfortable place for women to work in.
 
 ## Language Diversity
 

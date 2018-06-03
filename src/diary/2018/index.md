@@ -1,6 +1,9 @@
 ---
 title: "2018"
 ---
+## June 2
+Nancy Kanwisher's MIT [course](https://nancysbraintalks.mit.edu/) on human brain. She is an amazing lecturer.
+
 ## May 28
 Interesting: [React State Museum](https://github.com/GantMan/ReactStateMuseum) — a repo containing a list
 of different state management libraries alongside examples of their usage. As follows from the name, this

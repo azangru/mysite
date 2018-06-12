@@ -1,6 +1,19 @@
 ---
 title: "2018"
 ---
+## June 12
+Probably interesting:
+- Fullstack-GraphQL book ([source on Github](https://github.com/GraphQLCollege/fullstack-graphql))
+- Oh, and have I posted the link to the [HowToGraphQL tutorial](https://www.howtographql.com/)?
+- On a related note, Robin Wieruch’s [blog posts](https://www.robinwieruch.de/) look interesting.
+
+## June 9
+Might be interesting: [videos](https://laracon.net/2017) from Laracon 2017.
+
+## June 8
+- Andre Staltz’s [talk](https://www.youtube.com/watch?v=HssczgaY9BM) about the callbag pattern.
+- Someone’s cool [experiment](https://github.com/Lucifier129/rxjs-react) of making reactive React components with RxJS.
+
 ## June 2
 Nancy Kanwisher's MIT [course](https://nancysbraintalks.mit.edu/) on human brain. She is an amazing lecturer.
 

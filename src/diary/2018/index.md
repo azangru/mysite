@@ -1,6 +1,10 @@
 ---
 title: "2018"
 ---
+## June 16
+Looks like a neat [idea](https://github.com/bradfrost/gatsby-style-guide-guide): use Gatsby
+to create a style guide / design systems site.
+
 ## June 12
 Probably interesting:
 - Fullstack-GraphQL book ([source on Github](https://github.com/GraphQLCollege/fullstack-graphql))

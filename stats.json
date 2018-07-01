@@ -1,0 +1,98 @@
+{
+  "assetsByChunkName": {
+    "path---diary-2018": [
+      "path---diary-2018-0a9c95343cc65a2fd296.js",
+      "path---diary-2018-0a9c95343cc65a2fd296.js.map"
+    ],
+    "component---src-pages-about-index-js": [
+      "component---src-pages-about-index-js-d8655798cce644e90fcc.js",
+      "component---src-pages-about-index-js-d8655798cce644e90fcc.js.map"
+    ],
+    "path---blog-language-diversity": [
+      "path---blog-language-diversity-36e5c71a8fbac178c752.js",
+      "path---blog-language-diversity-36e5c71a8fbac178c752.js.map"
+    ],
+    "path---publications": [
+      "path---publications-a0e39f21c11f6a62c5ab.js",
+      "path---publications-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-871cc4fa92621296d277.js",
+      "component---src-pages-index-js-871cc4fa92621296d277.js.map"
+    ],
+    "path---blog-becoming-web-developer": [
+      "path---blog-becoming-web-developer-0374bfdbafef2686dd68.js",
+      "path---blog-becoming-web-developer-0374bfdbafef2686dd68.js.map"
+    ],
+    "path---blog": [
+      "path---blog-58b2f051510611f034fb.js",
+      "path---blog-58b2f051510611f034fb.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-e5d33a3739151161108c.js",
+      "component---src-templates-blog-post-js-e5d33a3739151161108c.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-f5ad7a6f5e4c6a202426.js",
+      "component---src-layouts-index-js-f5ad7a6f5e4c6a202426.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-publications-index-js": [
+      "component---src-pages-publications-index-js-e01210d1b857129cd983.js",
+      "component---src-pages-publications-index-js-e01210d1b857129cd983.js.map"
+    ],
+    "path---blog-about-the-site": [
+      "path---blog-about-the-site-79bc150ef22facb00d30.js",
+      "path---blog-about-the-site-79bc150ef22facb00d30.js.map"
+    ],
+    "component---src-pages-blog-index-js": [
+      "component---src-pages-blog-index-js-4978047a7cc662726dd4.js",
+      "component---src-pages-blog-index-js-4978047a7cc662726dd4.js.map"
+    ],
+    "path---diary-2017": [
+      "path---diary-2017-31da0cc878987fa2c34a.js",
+      "path---diary-2017-31da0cc878987fa2c34a.js.map"
+    ],
+    "path---blog-us-elections-2016": [
+      "path---blog-us-elections-2016-5f72c74d4d5bac73a03e.js",
+      "path---blog-us-elections-2016-5f72c74d4d5bac73a03e.js.map"
+    ],
+    "path---diary": [
+      "path---diary-894d27086a59876ab447.js",
+      "path---diary-894d27086a59876ab447.js.map"
+    ],
+    "path---blog-diversity": [
+      "path---blog-diversity-2bce0520ec7690f71870.js",
+      "path---blog-diversity-2bce0520ec7690f71870.js.map"
+    ],
+    "commons": [
+      "commons-5dfa3959b3e8b38e89b9.js",
+      "commons-5dfa3959b3e8b38e89b9.js.map"
+    ],
+    "path---blog-ubuntu-typographic-layout": [
+      "path---blog-ubuntu-typographic-layout-3b8e891b1e8a040193a5.js",
+      "path---blog-ubuntu-typographic-layout-3b8e891b1e8a040193a5.js.map"
+    ],
+    "app": [
+      "app-f9062b2455972142378d.js",
+      "build-js-styles.css",
+      "app-f9062b2455972142378d.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-pages-diary-index-js": [
+      "component---src-pages-diary-index-js-cad41ae96ae2861adaa4.js",
+      "component---src-pages-diary-index-js-cad41ae96ae2861adaa4.js.map"
+    ],
+    "path---about": [
+      "path---about-ba76142317eb8a69aa21.js",
+      "path---about-ba76142317eb8a69aa21.js.map"
+    ]
+  }
+}

@@ -7,7 +7,7 @@
     "start": "gatsby develop --host localhost --port 8000",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "author": "",
   "license": "ISC",
@@ -24,6 +24,7 @@
     "gatsby-remark-smartypants": "^1.4.12",
     "gatsby-source-filesystem": "^1.5.28",
     "gatsby-transformer-remark": "^1.7.39",
+    "gh-pages": "1.2.0",
     "react-helmet": "^5.2.0",
     "styled-components": "^3.2.5"
   },

@@ -1,7 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `My Sweet Gatsby Site!`,
+    title: `My personal site`,
   },
+  pathPrefix: `/mysite`,
   plugins: [
     `gatsby-plugin-styled-components`,
     // read all files in the pages folder

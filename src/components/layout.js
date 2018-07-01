@@ -13,7 +13,7 @@ class Layout extends React.Component {
       <div>
         { this.renderHead() }
         { this.renderBaseStyles() }
-        { this.props.children() }
+        { this.props.children }
       </div>
     );
   }

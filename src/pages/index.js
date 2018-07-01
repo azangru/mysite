@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
-import Link from "gatsby-link";
+import { Link } from "gatsby";
 import styled from 'styled-components';
+
+import Layout from '../components/layout';
 
 
 export default class MainPage extends Component {
@@ -58,11 +60,11 @@ export default class MainPage extends Component {
 
   render() {
     return (
-      <div>
+      <Layout>
         { this.title }
         { this.subheader }
         { this.menu }
-      </div>
+      </Layout>
     );
   }
 

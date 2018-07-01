@@ -1,6 +1,7 @@
-import React, { Component } from "react"; // a dependency of Gatsby
+import React, { Component } from "react";
 import styled from 'styled-components';
 
+import Layout from '../components/layout';
 import MenuButton from '../components/menu-button';
 import SideMenu from '../components/side-menu';
 
@@ -33,13 +34,13 @@ export default class PageContainer extends Component {
     const MainContainer = this.renderMainContainer();
 
     return (
-      <div>
+      <Layout>
         <MenuButton openMenu={this.openMenu} />
         { this.renderMenu() }
         <MainContainer>
           { this.props.children }
         </MainContainer>
-      </div>
+      </Layout>
     );
   }
 
@@ -64,7 +65,4 @@ export default class PageContainer extends Component {
     return <SideMenu isOpen={this.state.menuOpen} close={this.closeMenu} />;
   }
 
-  renderMenuButton() {
-
-  }
 }

@@ -116,7 +116,13 @@ It all makes sense. But the alternative is to enforce affirmative action, impose
 
 A common trend in tech is study groups or meetups exclusively for women or ethnic and gender minorities. It’s not that I object against these groups as such, but it seems to me that their very existence presents an argument against the virtues of diversity and the undesirability of a monoculture.
 
-### It is only focusing on the high-paying jobs or on the historically disadvantaged groups
+### It focuses on specific observable traits
+
+Talks about diversity almost always center around several recognizable physical traits, namely gender and race/ethnicity. Sometimes they would also include people with disabilities. There is little to zero emphasis on the diversity of thought (which might not necessarily go hand in hand with the diversity of gender or of ethnicity/race). Critics of companies’ hiring practices or of the makeup of conference panels comment almost exclusively on gender and skin color; not on the areas of expertise of individuals.
+
+_(This, of course, can present a problem only for the argument that diversity is an intellectual and economic good. It has no consequence for the argument that diversity is an ethical imperative.)_
+
+### It focuses on high-paying jobs or on historically disadvantaged groups
 
 If the normative approach towards diversity were consistent, it would insist on diversity in every single job, but that of course is not the case. As Heather Heying [said](https://youtu.be/VCrQ3EU8_PM?t=32m55s) at the panel "We Need to Talk About Diversity":
 

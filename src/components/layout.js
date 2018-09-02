@@ -23,11 +23,8 @@ class Layout extends React.Component {
       <Helmet>
         <meta charSet="utf-8" />
         <title>Andrey Azov: Personal Website</title>
-        <link
-          href="https://fonts.googleapis.com/css?family=PT+Sans"
-          rel="stylesheet"
-          type='text/css'
-        />
+        <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet"/>
+        <link href="https://fonts.googleapis.com/css?family=PT+Serif" rel="stylesheet"/>
       </Helmet>
     );
   }

@@ -1,6 +1,19 @@
 ---
 title: "2018"
 ---
+## August 30
+John Resig is co-authoring a book about GraphQL. I don't know his co-author; meanwhile this co-author
+keeps an org ["The GraphQL Guide"](https://github.com/GraphQLGuide). Might be interesting.
+
+## August 11
+Henrik Joreteg’s book [Human Redux](https://read.reduxbook.com/)
+
+## July 21
+- A [frontend performance checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist#html) (many grammar
+errors, but the content is solid).
+- Relevant: [Frontend Performance Checklist](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
+from Smashing Magazine (January 3, 2018).
+
 ## June 16
 Looks like a neat [idea](https://github.com/bradfrost/gatsby-style-guide-guide): use Gatsby
 to create a style guide / design systems site.

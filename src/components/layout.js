@@ -28,11 +28,6 @@ class Layout extends React.Component {
           rel="stylesheet"
           type='text/css'
         />
-        <link
-          href='http://fonts.googleapis.com/css?family=PT+Serif&subset=latin,cyrillic,cyrillic-ext,latin-ext'
-          rel='stylesheet'
-          type='text/css'
-        />
       </Helmet>
     );
   }

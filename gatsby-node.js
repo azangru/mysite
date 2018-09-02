@@ -1,7 +1,7 @@
 const path = require("path");
 
-exports.createPages = ({ graphql, boundActionCreators }) => {
-  const { createPage } = boundActionCreators;
+exports.createPages = ({ graphql, actions }) => {
+  const { createPage } = actions;
 
   return new Promise((resolve, reject) => {
     const blogPostTemplate = path.resolve("./src/templates/blog-post.js");
@@ -58,8 +58,8 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
 };
 
 // Add custom slug for blog posts to both File and MarkdownRemark nodes.
-exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
-  const { createNodeField } = boundActionCreators;
+exports.onCreateNode = ({ node, actions, getNode }) => {
+  const { createNodeField } = actions;
   switch (node.internal.type) {
     case 'File': {
       const parsedFilePath = path.parse(node.relativePath);
@@ -83,4 +83,18 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
       return;
     }
   }
+};
+
+// TODO: this is a temporary config hack to load pdfs; remove when v2 stabilizes
+exports.onCreateWebpackConfig = ({ actions }) => {
+  actions.setWebpackConfig({
+    module: {
+      rules: [
+        {
+          test: /\.pdf$/,
+          use: 'url-loader',
+        },
+      ],
+    },
+  });
 };

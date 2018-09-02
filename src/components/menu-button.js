@@ -1,4 +1,4 @@
-import React from 'react'; // a dependency of Gatsby
+import React from 'react';
 import styled, { keyframes } from 'styled-components';
 
 const verticalWobble = keyframes`

@@ -13,7 +13,7 @@ class Layout extends React.Component {
       <div>
         { this.renderHead() }
         { this.renderBaseStyles() }
-        { this.props.children() }
+        { this.props.children }
       </div>
     );
   }
@@ -26,11 +26,6 @@ class Layout extends React.Component {
         <link
           href="https://fonts.googleapis.com/css?family=PT+Sans"
           rel="stylesheet"
-          type='text/css'
-        />
-        <link
-          href='http://fonts.googleapis.com/css?family=PT+Serif&subset=latin,cyrillic,cyrillic-ext,latin-ext'
-          rel='stylesheet'
           type='text/css'
         />
       </Helmet>
@@ -99,9 +94,7 @@ class Layout extends React.Component {
 }
 
 Layout.propTypes = {
-  children: PropTypes.any,
-  location: PropTypes.object,
-  route: PropTypes.object,
+  children: PropTypes.any
 };
 
 export default Layout;

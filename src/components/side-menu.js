@@ -1,5 +1,5 @@
-import React, { Component } from "react"; // a dependency of Gatsby
-import Link from "gatsby-link";
+import React, { Component } from "react";
+import { Link } from 'gatsby';
 import styled, { keyframes } from 'styled-components';
 
 const openingAnimation = keyframes`

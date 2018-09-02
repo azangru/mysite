@@ -4,3 +4,7 @@ Examples of overall good personal websites
 - https://mxb.at/ (very cool static site)
 
 https://github.com/iRaul/awesome-portfolios
+
+Fonts to examine:
+- Merriweather: https://fonts.google.com/specimen/Merriweather
+- IBM Plex: https://fonts.google.com/specimen/IBM+Plex+Serif

@@ -4,6 +4,7 @@ module.exports = {
   },
   pathPrefix: `/mysite`,
   plugins: [
+    'gatsby-plugin-react-helmet',
     `gatsby-plugin-styled-components`,
     // read all files in the pages folder
     {

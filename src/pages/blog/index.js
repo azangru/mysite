@@ -1,6 +1,5 @@
-import React from "react"; // a dependency of Gatsby
-import graphql from 'graphql'; // a dependency of Gatsby
-import Link from "gatsby-link";
+import React from "react";
+import { graphql, Link } from "gatsby";
 
 import PageContainer from '../../containers/page-container';
 import Title from '../../components/page-title';

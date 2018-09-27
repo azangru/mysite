@@ -5,7 +5,7 @@ published: true
 ---
 
 ## Background
-If I am remembering correctly, I have come across the issue of diversity only after I have switched my professional interests to web development and started actively following dev-related discussions on the Internet. Somewhat to my surprise, I started observing certain ideological characteristics among many (perhaps most of) developers. The reason that it was surprising might be due to objective differences in socio-intellectual milieu of the modern US and the modern Russia, or just to me missing a major cultural shift in the social media I wasn’t following. These ideological characteristics are:
+If I am remembering correctly, I have come across the issue of diversity only after I have switched my professional interests to web development and started actively following dev-related discussions on the Internet. Somewhat to my surprise, I started observing certain ideological characteristics among many (perhaps most of) developers. The reason that it was surprising might be due to objective differences in socio-intellectual milieu of the modern US and the modern Russia (Jonathan Heidt seems to think that the years since 2012 were particularly seminal for social justice activism), or just to me missing a major cultural shift in the social media I wasn’t following. These ideological characteristics are:
 
 - An acute perception that certain social groups have been treated unfairly by society. This might be correlating with the popularity of feminism among the younger generation. (I, in contrast, do not have either such an acute feeling of social injustice, or particular sympathies towards feminism.)
 

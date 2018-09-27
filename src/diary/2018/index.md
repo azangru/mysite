@@ -1,6 +1,14 @@
 ---
 title: "2018"
 ---
+## September 5
+Jon Kuperman’s [repo](https://github.com/jkup/mastering-chrome-devtools) for teaching Chrome Dev tools
+(beginner level, but still might be worth checking out).
+
+## September 2
+[CSS guidelines](https://cssguidelin.es/) are an interesting document, although they might refer
+to the slightly outdated practices of writing CSS.
+
 ## August 30
 John Resig is co-authoring a book about GraphQL. I don't know his co-author; meanwhile this co-author
 keeps an org ["The GraphQL Guide"](https://github.com/GraphQLGuide). Might be interesting.

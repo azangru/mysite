@@ -1,6 +1,17 @@
 ---
 title: "2018"
 ---
+## November 7
+[Source](https://github.com/the-road-to-graphql/the-road-to-graphql/tree/master/manuscript) of Robin Wieruch’s book
+_The Road to GraphQL_
+
+## October 13
+[Learn RxJS gitbook](https://www.learnrxjs.io/) and its [repo](https://github.com/btroncone/learn-rxjs/) on GitHub.
+
+## September 29
+John Lindquist’s [repo](https://github.com/johnlindquist/rxjs-operator-lessons) for his Egghead course
+"Build your own RxJS Pipeable Operators".
+
 ## September 5
 Jon Kuperman’s [repo](https://github.com/jkup/mastering-chrome-devtools) for teaching Chrome Dev tools
 (beginner level, but still might be worth checking out).

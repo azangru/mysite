@@ -1,6 +1,20 @@
 ---
 title: "2018"
 ---
+## November 18
+Wow, tons of interesting talks to watch and keep up with
+- Obviously, [ReactConf 2018](https://www.youtube.com/channel/UCz5vTaEhvh7dOHEyd1efcaQ/videos)
+- Just as obviously, [Chrome Dev Summit 2018](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDjlCx1PcphPpmf43aKOAdF)
+- The [Web.dev](https://web.dev) docs site I learned about from Chrome Dev Summit talks
+- A github [repo](https://github.com/PolymerLabs/actor-boilerplate) from Chrome Dev Summit
+talk about using the Actor Pattern for architecting your apps
+- [Framework Summit 2018](https://www.youtube.com/playlist?list=PL11ax2Wu22iFcWLiPD7nIeXm6dNRjmN4S)
+- [Design Systems London](https://www.youtube.com/watch?v=Z7vapa6p92k&t=3886s) meetup
+- Andre Staltz's [talk](https://youtu.be/NH-bL6Bd7Tw?t=16372) about using profunctor
+lenses for state management (with an example using React)
+- And, as if the above wasn’t enough, there are also talks from React Boston 2018
+[released](https://www.youtube.com/channel/UCEvOJSbEEBkXw40FqHGPVRA/videos) during the previous week
+
 ## November 7
 [Source](https://github.com/the-road-to-graphql/the-road-to-graphql/tree/master/manuscript) of Robin Wieruch’s book
 _The Road to GraphQL_

@@ -84,17 +84,3 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     }
   }
 };
-
-// TODO: this is a temporary config hack to load pdfs; remove when v2 stabilizes
-exports.onCreateWebpackConfig = ({ actions }) => {
-  actions.setWebpackConfig({
-    module: {
-      rules: [
-        {
-          test: /\.pdf$/,
-          use: 'url-loader',
-        },
-      ],
-    },
-  });
-};

@@ -38,12 +38,12 @@ const SideMenuContainer = styled.div`
   }
 `;
 
-const SideMenuContainerOpening = SideMenuContainer.extend`
+const SideMenuContainerOpening = styled(SideMenuContainer)`
   transform: translateX(0);
   animation: ${openingAnimation} 0.5s ease-in-out
 `;
 
-const SideMenuContainerClosing = SideMenuContainer.extend`
+const SideMenuContainerClosing = styled(SideMenuContainer)`
   animation: ${closingAnimation} 0.5s ease-in-out
 `;
 

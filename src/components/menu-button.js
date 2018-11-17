@@ -1,7 +1,7 @@
 import React from 'react';
-import styled, { keyframes } from 'styled-components';
+import styled, { css, keyframes } from 'styled-components';
 
-const verticalWobble = keyframes`
+const verticalWobbleKeyframes = keyframes`
   16.65% {
     -webkit-transform: translateY(8px);
     transform: translateY(3px);
@@ -33,6 +33,10 @@ const verticalWobble = keyframes`
   }
 `;
 
+const verticalWobbleAnimation = css`
+  ${verticalWobbleKeyframes} 1s ease-in-out
+`;
+
 const HamburgerButton = styled.div`
   display: flex;
   align-items: center;
@@ -49,7 +53,7 @@ const HamburgerButton = styled.div`
   user-select: none;
 
   &:hover {
-    animation: ${verticalWobble} 1s ease-in-out
+    animation: ${verticalWobbleAnimation}
   }
 
   @media screen and (max-width: 1000px) {

@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import React from "react";
 import Helmet from "react-helmet";
-import { injectGlobal } from 'styled-components';
+import { createGlobalStyle } from 'styled-components';
 
 require('prismjs/themes/prism.css'); // prismjs is a dependency of gatsby-remark-prismjs
 
@@ -9,10 +9,11 @@ require('prismjs/themes/prism.css'); // prismjs is a dependency of gatsby-remark
 class Layout extends React.Component {
 
   render() {
+    const BaseStyles = this.renderBaseStyles();
     return (
       <div>
         { this.renderHead() }
-        { this.renderBaseStyles() }
+        <BaseStyles />
         { this.props.children }
       </div>
     );
@@ -30,7 +31,7 @@ class Layout extends React.Component {
   }
 
   renderBaseStyles() {
-    return injectGlobal`
+    return createGlobalStyle`
       html, body {
         padding: 0;
         margin: 0;

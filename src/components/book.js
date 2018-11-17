@@ -11,7 +11,7 @@ const BookCoverContainer = styled.div`
   }
 `;
 
-const BookCoverContainerFlippable = BookCoverContainer.extend`
+const BookCoverContainerFlippable = styled(BookCoverContainer)`
   perspective: 1000px;
 `;
 
@@ -19,7 +19,7 @@ const BookCover = styled.div`
   position: relative;
 `;
 
-const BookCoverFlippable = BookCover.extend`
+const BookCoverFlippable = styled(BookCover)`
   transform-style: preserve-3d;
   transition: 0.6s;
 
@@ -37,7 +37,7 @@ const BookCoverFrontSide = styled.div`
   left: 0;
 `;
 
-const BookCoverBackSide = BookCoverFrontSide.extend`
+const BookCoverBackSide = styled(BookCoverFrontSide)`
   transform: rotateY(180deg);
 `;
 

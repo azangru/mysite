@@ -14,6 +14,11 @@ talk about using the Actor Pattern for architecting your apps
 lenses for state management (with an example using React)
 - And, as if the above wasn’t enough, there are also talks from React Boston 2018
 [released](https://www.youtube.com/channel/UCEvOJSbEEBkXw40FqHGPVRA/videos) during the previous week
+- Oh, and there also was [ReactiveConf 2018](https://www.youtube.com/channel/UCBHdUnixTWymmXBIw12Y8Qg/videos)
+ during the last days of October! Completely missed it!
+- And there are lots of new videos on Smashing Magazine’s [Vimeo channel](https://vimeo.com/smashingmagazine)
+- Also, it looks like JSConf US 2018 has [released](https://www.youtube.com/playlist?list=PL37ZVnwpeshGGVeMxXxCxjQZBJq5bqM7b)
+its videos
 
 ## November 7
 [Source](https://github.com/the-road-to-graphql/the-road-to-graphql/tree/master/manuscript) of Robin Wieruch’s book

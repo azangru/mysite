@@ -1,6 +1,9 @@
 ---
 title: "2018"
 ---
+## November 21
+Ben Lesh’s talk [Complex Features Made Easy with RxJS](https://youtu.be/B-nFj2o03i8)
+
 ## November 18
 Wow, tons of interesting talks to watch and keep up with
 - Obviously, [ReactConf 2018](https://www.youtube.com/channel/UCz5vTaEhvh7dOHEyd1efcaQ/videos)

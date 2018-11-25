@@ -1,6 +1,20 @@
 ---
 title: "2018"
 ---
+## November 25
+- There is an Apollo GraphQL [YouTube channel](https://www.youtube.com/channel/UC0pEW_GOrMJ23l8QcrGdKSw/videos),
+but it does not (yet?) have videos from the recent [GraphQL Summit 2018](https://summit.graphql.com/#agenda-1).
+Hopefully, they will add the videos at some point.
+- Also, noticed the [repo](https://github.com/apollographql/fullstack-tutorial) with a sample full-stack
+GraphQL app for the [Apollo tutorial](https://github.com/apollographql/fullstack-tutorial).
+
+## November 24
+- [33-js-concepts](https://github.com/leonardomso/33-js-concepts) might be an interesting repository collecting
+various resources on various JavaScript concepts; for example a link to all GoF design patterns implemented
+in JS looks interesting.
+- Also, came across videos on the [NDC conferences](https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q/videos)
+channel.
+
 ## November 21
 Ben Lesh’s talk [Complex Features Made Easy with RxJS](https://youtu.be/B-nFj2o03i8)
 

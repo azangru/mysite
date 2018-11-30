@@ -1,6 +1,15 @@
 ---
 title: "2018"
 ---
+# November 30
+A wonderful [talk](https://youtu.be/Qsoj4s_Ml6s) by Chris Toomey from Thoughtbot about client-side GraphQL
+given at React Boston 2018 (in September), and the [sample app](https://github.com/christoomey/boston-react-conf-2018-graphql-talk)
+that goes along with it.
+
+Also, Youtube followed it with another interesting talk, about an experience of using GraphQL in production,
+titled [GraphQL - A Production Retrospective](https://youtu.be/HVuSi5pVC1U). It's mostly about the server-side
+staff, something people rarely give talks about.
+
 ## November 25
 - There is an Apollo GraphQL [YouTube channel](https://www.youtube.com/channel/UC0pEW_GOrMJ23l8QcrGdKSw/videos),
 but it does not (yet?) have videos from the recent [GraphQL Summit 2018](https://summit.graphql.com/#agenda-1).

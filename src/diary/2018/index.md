@@ -1,7 +1,11 @@
 ---
 title: "2018"
 ---
-# November 30
+## December 2
+A [repo](https://github.com/coryhouse/graphql) with graphql resources by Cory House
+(related to [this talk](https://www.infoq.com/presentations/rest-graphql)).
+
+## November 30
 A wonderful [talk](https://youtu.be/Qsoj4s_Ml6s) by Chris Toomey from Thoughtbot about client-side GraphQL
 given at React Boston 2018 (in September), and the [sample app](https://github.com/christoomey/boston-react-conf-2018-graphql-talk)
 that goes along with it.

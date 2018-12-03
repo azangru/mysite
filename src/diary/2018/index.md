@@ -1,6 +1,11 @@
 ---
 title: "2018"
 ---
+## December 3
+[Videos](https://www.youtube.com/channel/UC0XtR2kcXnqtfrGSsxM8oAg/videos) from the
+[Oredev conference 2018](http://oredev.org/2018/sessions). Containing some interesting
+web-related talks.
+
 ## December 2
 A [repo](https://github.com/coryhouse/graphql) with graphql resources by Cory House
 (related to [this talk](https://www.infoq.com/presentations/rest-graphql)).

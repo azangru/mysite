@@ -1,6 +1,13 @@
 ---
 title: "2018"
 ---
+## December 4
+- Boris Cherny from Facebook [talks](https://youtu.be/CpOE-JrtAdc) about his new state management library,
+Undux, at React Boston 2018. Interestingly, his store is, first, easy to type, and, second, is
+based on RxJS, so its behavior can be modified with RxJS operators.
+- [ReactNext 2018](https://www.youtube.com/channel/UC3BT8hh3yTTYxbLQy_wbk2w/videos), a recent conference in Tel Aviv,
+had some interesting talks, one of which is [How to Write Bad Code in Redux](https://www.youtube.com/watch?v=5JALXEkft2E).
+
 ## December 3
 [Videos](https://www.youtube.com/channel/UC0XtR2kcXnqtfrGSsxM8oAg/videos) from the
 [Oredev conference 2018](http://oredev.org/2018/sessions). Containing some interesting

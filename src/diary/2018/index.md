@@ -7,6 +7,22 @@ Undux, at React Boston 2018. Interestingly, his store is, first, easy to type, a
 based on RxJS, so its behavior can be modified with RxJS operators.
 - [ReactNext 2018](https://www.youtube.com/channel/UC3BT8hh3yTTYxbLQy_wbk2w/videos), a recent conference in Tel Aviv,
 had some interesting talks, one of which is [How to Write Bad Code in Redux](https://www.youtube.com/watch?v=5JALXEkft2E).
+- Materials for the latest Scott Moss's courses on Frontend Masters:
+[API design in Node.js with Express](https://github.com/FrontendMasters/api-design-node-v3) and
+[Intro to GraphQL](https://github.com/FrontendMasters/intro-to-graphql). Although basic, they might still
+be worth checking out. For example, I’ve never used the `router.route()` api of Express before,
+alghough it offers very concise description of RESTful routes:
+
+```
+router.route('/users')
+  .get(indexController)
+  .post(createController)
+
+router.route('/users/:id')
+  .get(showController)
+  .put(updateController)
+  .delete(deleteController)
+```
 
 ## December 3
 [Videos](https://www.youtube.com/channel/UC0XtR2kcXnqtfrGSsxM8oAg/videos) from the

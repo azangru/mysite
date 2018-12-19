@@ -1,6 +1,23 @@
 ---
 title: "2018"
 ---
+# December 19
+Quite a lot of interesting content in the [Massey Lectures](https://www.cbc.ca/radio/ideas/past-masseys-lectures-1.4439273)
+on CBC Radio One.
+
+## December 8
+Woot! The videos from GraphQL Summit 2018 are finally [online](https://www.youtube.com/playlist?list=PLpi1lPB6opQzSqSuIkDbIL7f73EXcjB_7)!
+
+## December 7
+- Robert Herbst summarizes React patterns that are fairly rarely used in
+[this](https://youtu.be/GjkIxno8bik) talk from ReactNext 2018.
+- Also, there are videos from [React NYC](https://www.youtube.com/channel/UC87H0RRqawG6I7oWAf9i48g/videos).
+
+## December 5
+Perhaps an interesting, framework-agnostic concept of ["immutable web apps"](https://immutablewebapps.org/),
+suggesting that production builds should not in any way depend on the environment (i.e. should not
+bundle environment variables into built static assets). At my job, we do bundle env variable into assets.
+
 ## December 4
 - Boris Cherny from Facebook [talks](https://youtu.be/CpOE-JrtAdc) about his new state management library,
 Undux, at React Boston 2018. Interestingly, his store is, first, easy to type, and, second, is

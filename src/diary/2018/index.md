@@ -1,7 +1,34 @@
 ---
 title: "2018"
 ---
-# December 19
+## December 30
+Matt Podwysocki made [RxJS Advent Calendar lessons for 2018](https://github.com/mattpodwysocki/rxjs-advent-2018)
+and even accompanied them by a series of [videos](https://www.youtube.com/watch?v=v-d54rOzVCQ). Very cool!
+
+## December 26
+Angular Connect 2018 [playlist](https://www.youtube.com/playlist?list=PLAw7NFdKKYpGr_je48akFwcw8tYUk4nzl)
+
+## December 25
+Don't know if I ever get to this, but this [series](https://medium.com/@james_32022/purescript-series-now-available-b3d832e49147)
+on Purescript as compared to Haskell looks interesting.
+
+Also, LambdaConf 2018 videos have been recently [uploaded](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhzLs7nLb57N75EY4py_P7pI)
+to YouTube.
+
+## December 24
+17 lectures of [Neural networks in Javascript](https://scrimba.com/g/gneuralnetworks)
+
+## December 23
+[Collection of links](https://news.ycombinator.com/item?id=18740939) to interesting talks from 2018 on Hacker News.
+
+## December 22
+Hmm, interesting, it looks like the videos of 2018 Perfmatters conference are available
+on [Estelle Weyl’s Youtube channel](https://www.youtube.com/channel/UCwaHe4CW6qhDI3Eu0uSJgRA).
+Perfmatters web site does not show the 2018 schedule any more, so here's the
+[quick review](https://www.machmetrics.com/speed-blog/highlights-perfmatters-2018-web-performance-conference/)
+from someone’s blog.
+
+## December 19
 Quite a lot of interesting content in the [Massey Lectures](https://www.cbc.ca/radio/ideas/past-masseys-lectures-1.4439273)
 on CBC Radio One.
 

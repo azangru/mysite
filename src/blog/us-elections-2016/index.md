@@ -267,3 +267,12 @@ should be treated. Yes, it took 10 years until the results of the inquiry were p
 but at least they were, and now everyone can familiarize themselves with the details
 of that case, and assess how convincing the arguments are. Why not do the same for
 Skripal case? Why all the rush?
+
+## Post Scriptum
+On July 07, 2018, the US Department of Justice announced indictments against 12 Russians
+for hacking the DNC. The text of the indictment is available for anyone interested on the
+[justice.gov website](https://www.justice.gov/file/1080281/download). This was
+probably the first detailed description of the available evidence made open
+to public scrutiny. To me, this marks the date only after which public debate
+about the Russian involvement should have started, because prior to that the factual
+basis for such an allegation was kept secret from the public.

@@ -1,6 +1,9 @@
 ---
 title: "2019"
 ---
+## January 21
+[Videos](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg/videos) from JamStack conf (late October 2018) are online. Could be meh, or could be interesting.
+
 ## January 20
 - A [video course](https://youtu.be/ifGeR-4mzSM) that someone copied from Egghead about using very hardcore (Haskell-inspired) functional javascript to write a guessing card game. There is a companion [repo](https://github.com/Hawk94/anger-the-bunny), also copied from somewhere. The creator of this course, Ian Hofmann-Hicks, has a [Youtube channel](https://www.youtube.com/playlist?list=PLjvgv-FpMo7XvlfO8YKiz4_onf8WonhiA) with more goodness.
 - An [amazing talk](https://youtu.be/JsvElHDuqoA) by Adam Neary from Airbnb about graphQL-based frontend tooling that they use, with a live demo.

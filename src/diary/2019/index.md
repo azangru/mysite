@@ -15,7 +15,7 @@ Works like a charm!
 - [Videos](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg/videos) from JamStack conf (late October 2018) are online. Could be meh, or could be interesting.
 
 ## January 7
-There’s a [graphql design tutorial](Tutorial: Designing a GraphQL API) published by Shopify.
+There’s a [graphql api design tutorial](https://github.com/Shopify/graphql-design-tutorial/blob/master/TUTORIAL.md) published by Shopify.
 
 ## January 6
 - A great talk/workshop by Ben Lesh about [creating Observables from scratch](https://youtu.be/m40cF91F8_A).

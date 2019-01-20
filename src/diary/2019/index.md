@@ -1,6 +1,10 @@
 ---
 title: "2019"
 ---
+## January 20
+- A [video course](https://youtu.be/ifGeR-4mzSM) that someone copied from Egghead about using very hardcore (Haskell-inspired) functional javascript to write a guessing card game. There is also a companion [repo](https://github.com/Hawk94/anger-the-bunny), also copied from somewhere.
+- An [amazing talk](https://youtu.be/JsvElHDuqoA) by Adam Neary from Airbnb about graphQL-based frontend tooling that they use, with a live demo.
+
 ## January 7
 There’s a [graphql design tutorial](Tutorial: Designing a GraphQL API) published by Shopify.
 

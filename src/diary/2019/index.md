@@ -1,6 +1,24 @@
 ---
 title: "2019"
 ---
+
+## February 24
+- A [playlist with video recordings](https://www.youtube.com/playlist?list=PLTQ1nMZTXSUUpcRf1y4o2f6FJjx20EQM0) from Design Systems Virtual Summit.
+- A [list](https://houssein.me/progressive-react) of practices for speeding up React apps’ load time, by Houssein Djirdeh. Mostly well-known, but still.
+- Same, but as a [talk](https://youtu.be/zSECXuCB8wg)
+- A valuable [reaction](https://www.reddit.com/r/reactjs/comments/at7uh4/a_brain_dump_of_all_the_things_you_can_do_to_make/) to it: "Rendering React synchronously on the server blocks the main thread, and it's tough to get streaming working properly in a big app. Make sure that you spawn multiple server processes to overcome that. Nginx and pm2 can help with that."
+
+## January 31
+Lea Verou’s [Even More CSS Secrets](https://youtu.be/vs34f9FiHps)
+
+## January 26
+Might be worth a look:
+- [Typescript Deep Dive](https://basarat.gitbooks.io/typescript/) a gitbook about typescript
+[reactive.how](https://reactive.how) may have some interesting content on RxJS.
+
+## January 23
+Matthew Gerstman’s [example](https://github.com/matthew-gerstman/redux-codesplit-typecheck-example) of codesplit and type-checked Redux store.
+
 ## January 21
 Tried `npm link` and `npm pack` to test a React component about to be published to npm locally. Couldn't make it work with `npm link`, but the `npm pack` technique proved very reliable. The idea is:
 

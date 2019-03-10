@@ -1,6 +1,53 @@
 ---
 title: "2019"
 ---
+## March 10
+From a [test repo](https://github.com/intelcoder/imported-test) with heavy use of module aliases:
+
+```javascript
+// aliases.js
+
+var path = require('path')
+var CWD = process.cwd()
+
+module.exports = {
+  '@CSSVars': path.resolve(CWD, './config/styles/cssvars/' + 'property'),
+
+  'Config': path.resolve(CWD, './config/'),
+  'Components': path.resolve(CWD, './react/components/'),
+  'Containers': path.resolve(CWD, './react/containers/'),
+  'Defaults': path.resolve(CWD, './react/defaults/'),
+  'Utils': path.resolve(CWD, './react/utils'),
+  'Layout': path.resolve(CWD, './react/containers/layout/'),
+  'Pages': path.resolve(CWD, './react/containers/pages'),
+  'Root': path.resolve(CWD, './react/containers/root'),
+  'HeroMap': path.resolve(CWD, './react/components/GoogleMaps/HeroMapV2/'),
+  'Redux': path.resolve(CWD, './react/redux/'),
+  'Actions': path.resolve(CWD, './react/redux/actions'),
+  'Modules': path.resolve(CWD, './react/redux/modules'),
+  'Services': path.resolve(CWD, './react/redux/services'),
+
+  'Static': path.resolve(CWD, './static/'),
+}
+```
+
+```javascript
+// webpack.config.js
+
+const aliases = require('../aliases/aliases.js')
+
+export default {
+  // various stuff
+  resolve: {
+    extensions: ['.js', '.json', '.css'],
+    alias: aliases
+  },
+}
+```
+
+## March 4
+- [Marble.js](https://docs.marblejs.com/), a JavaScript server-side framework based on RxJS is... interesting.
+- [Another one](https://youtu.be/ZaUxIX_Q0R4) of Michael Hladky’s presentations on RxJS essentially implementing a kind of Redux
 
 ## February 24
 - A [playlist with video recordings](https://www.youtube.com/playlist?list=PLTQ1nMZTXSUUpcRf1y4o2f6FJjx20EQM0) from Design Systems Virtual Summit.

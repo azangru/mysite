@@ -1,6 +1,10 @@
 ---
 title: "2019"
 ---
+## April 20
+- [Videos](https://www.youtube.com/watch?v=4KfAS3zrvX8&t=3268s) from the React Amsterdam conference. Of those, the most interesting, I thought, was Siddharth Kshetrapal’s [Refactoring React](https://www.youtube.com/watch?v=4KfAS3zrvX8&t=3268s).
+- Came across [playlists](https://www.youtube.com/channel/UCB_pokQ27mY3DGlGrSdNKKw/playlists) of lectures of Ted Sherman on the English literature.
+
 ## March 10
 From a [test repo](https://github.com/intelcoder/imported-test) with heavy use of module aliases:
 

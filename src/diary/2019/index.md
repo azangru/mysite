@@ -1,6 +1,9 @@
 ---
 title: "2019"
 ---
+## April 22
+- The [Vue-Rx talk](https://www.vuemastery.com/conferences/vueconf-us-2018/vue-rx-john-lindquist) by John Lindquist from VueConf US 2018. This and other talks are hosted on VueMastery web site in the [Conferences](https://www.vuemastery.com/conferences) section.
+
 ## April 20
 - [Videos](https://www.youtube.com/watch?v=4KfAS3zrvX8&t=3268s) from the React Amsterdam conference. Of those, the most interesting, I thought, was Siddharth Kshetrapal’s [Refactoring React](https://www.youtube.com/watch?v=4KfAS3zrvX8&t=3268s).
 - Came across [playlists](https://www.youtube.com/channel/UCB_pokQ27mY3DGlGrSdNKKw/playlists) of lectures of Ted Sherman on the English literature.

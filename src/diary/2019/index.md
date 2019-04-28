@@ -1,6 +1,12 @@
 ---
 title: "2019"
 ---
+## April 28
+- Just wanted to leave here the link to [Infinityfree](https://infinityfree.net/), a free and unlimited web hosting (although it imposes a limit of 50,000 hits in a single day, but in practical terms, for a personal site, 50,000 hits is plenty).
+
+## April 25
+- Videos from the [You Gotta Love Frontend Code Camp 2019](https://www.youtube.com/playlist?list=PLII-CO3Ff0qbr3KApN3656borU1wuEFH_) conference, where, among other things, Rich Harris talked about Svelte v.3.0.
+
 ## April 22
 - The [Vue-Rx talk](https://www.vuemastery.com/conferences/vueconf-us-2018/vue-rx-john-lindquist) by John Lindquist from VueConf US 2018. This and other talks are hosted on VueMastery web site in the [Conferences](https://www.vuemastery.com/conferences) section.
 

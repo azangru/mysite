@@ -1,6 +1,10 @@
 ---
 title: "2019"
 ---
+## May 04
+- [Video recordings](https://www.youtube.com/playlist?list=PLOETEcp3DkCpimylVKTDe968yNmNIajlR) of the talks from ng-conf 2019.
+- Smashing Magazine [article](https://www.smashingmagazine.com/2019/04/smashingconf-san-francisco-2019/) with links to the videos from SmashingConf San Francisco 2019.
+
 ## April 28
 - Just wanted to leave here the link to [Infinityfree](https://infinityfree.net/), a free and unlimited web hosting (although it imposes a limit of 50,000 hits in a single day, but in practical terms, for a personal site, 50,000 hits is plenty).
 

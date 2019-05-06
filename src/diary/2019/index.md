@@ -1,6 +1,9 @@
 ---
 title: "2019"
 ---
+## May 05
+- Brian McKenna’s teaching [videos](https://www.youtube.com/watch?v=NzIZzvbplSM) in which he introduces Haskell.
+
 ## May 04
 - [Video recordings](https://www.youtube.com/playlist?list=PLOETEcp3DkCpimylVKTDe968yNmNIajlR) of the talks from ng-conf 2019.
 - Smashing Magazine [article](https://www.smashingmagazine.com/2019/04/smashingconf-san-francisco-2019/) with links to the videos from SmashingConf San Francisco 2019.

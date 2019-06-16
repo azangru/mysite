@@ -1,6 +1,9 @@
 ---
 title: "2019"
 ---
+## June 16
+The [Relearn CSS layout](https://every-layout.dev/) site is definitely worth a read.
+
 ## May 05
 - Brian McKenna’s teaching [videos](https://www.youtube.com/watch?v=NzIZzvbplSM) in which he introduces Haskell.
 

@@ -1,6 +1,9 @@
 ---
 title: "2019"
 ---
+## July 23
+Someone put together a [starter](https://github.com/christophediprima/razzle-react-redux-observable-found) that uses redux-observable and the Found router with server-side rendering (courtesy of Razzle).
+
 ## June 30
 [Recordings of some talks](https://www.youtube.com/playlist?list=PLSmH2HL6l9pw47J-xWZSIH7HpEgqlGiXD) from Perfmatters 2019.
 

@@ -1,6 +1,9 @@
 ---
 title: "2019"
 ---
+## July 30
+[Github repo](https://github.com/marcysutton/js-a11y-workshop/) from Marcy Sutton’s course on accessibility of javascript-driven sites.
+
 ## July 23
 Someone put together a [starter](https://github.com/christophediprima/razzle-react-redux-observable-found) that uses redux-observable and the Found router with server-side rendering (courtesy of Razzle).
 

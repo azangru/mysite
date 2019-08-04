@@ -1,6 +1,10 @@
 ---
 title: "2019"
 ---
+### August 3
+- [Videos from CSS Day 2019](https://www.youtube.com/playlist?list=PLjnstNlepBvNTimR5FhD5tdbbQr57o1Oh)
+- [Videos from an Event Apart](https://www.youtube.com/channel/UCGmeG7HfRRrF6_svGyS3BqQ/videos)
+
 ## July 30
 [Github repo](https://github.com/marcysutton/js-a11y-workshop/) from Marcy Sutton’s course on accessibility of javascript-driven sites.
 

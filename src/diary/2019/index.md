@@ -1,7 +1,10 @@
 ---
 title: "2019"
 ---
-### August 3
+## August 4
+GraphQL conf 2019 had surprisingly many talks about server-side concerns (videos — [part 1](https://youtu.be/VjP0T4CzAHk), [part 2](https://youtu.be/5qvvs0cz73k), [part 3](https://youtu.be/zSzn1f1TjRc)).
+
+## August 3
 - [Videos from CSS Day 2019](https://www.youtube.com/playlist?list=PLjnstNlepBvNTimR5FhD5tdbbQr57o1Oh)
 - [Videos from an Event Apart](https://www.youtube.com/channel/UCGmeG7HfRRrF6_svGyS3BqQ/videos)
 

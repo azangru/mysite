@@ -1,6 +1,9 @@
 ---
 title: "2019"
 ---
+## August 20
+Estelle Weyl’s [repo](https://github.com/estelle/CSS) with presentations for her four-day CSS workshop.
+
 ## August 4
 GraphQL conf 2019 had surprisingly many talks about server-side concerns (videos — [part 1](https://youtu.be/VjP0T4CzAHk), [part 2](https://youtu.be/5qvvs0cz73k), [part 3](https://youtu.be/zSzn1f1TjRc)).
 

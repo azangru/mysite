@@ -1,6 +1,9 @@
 ---
 title: "2019"
 ---
+## September 7
+Someone’s [YouTube channel](https://www.youtube.com/user/cjgammon/videos) with tutorials on pixi.js and three.js.
+
 ## August 20
 Estelle Weyl’s [repo](https://github.com/estelle/CSS) with presentations for her four-day CSS workshop.
 

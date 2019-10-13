@@ -1,6 +1,11 @@
 ---
 title: "2019"
 ---
+## October 13
+- Paul Lewis's [talk](https://vimeo.com/364370506) from Fronteers conference 2019
+- A really good [talk](https://vimeo.com/362260166) by Philip Walton about service workers, from SmashingConf Freiburg, 2019
+- [Talks](https://www.youtube.com/channel/UCmvhqGbbqkhJ63V3g-l-5Gg/videos) from RxJS Live conference (not yet all of them; but hopefully others will be added as well).
+
 ## September 29
 [Repository](https://github.com/jen4web/fem-adv-css-layout) for Jen Kramer’s Advanced CSS Layout course.
 

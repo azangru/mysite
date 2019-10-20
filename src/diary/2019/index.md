@@ -1,6 +1,9 @@
 ---
 title: "2019"
 ---
+## October 20
+A beautiful [talk](https://youtu.be/Zgx0o8QjJk4) on the best practices of using Node with Docker from DockerCon 2019. The `depends_on` rule with `condition: service_healthy` and a `healthcheck` in the container that needs to start before the one that depends on it when using `docker-compose` for local development was a particularly useful tip (I had this problem back in 2015, and we used `sleep` in the dependent container back then).
+
 ## October 13
 - Paul Lewis's [talk](https://vimeo.com/364370506) from Fronteers conference 2019
 - A really good [talk](https://vimeo.com/362260166) by Philip Walton about service workers, from SmashingConf Freiburg, 2019

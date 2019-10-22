@@ -1,6 +1,9 @@
 ---
 title: "2019"
 ---
+## October 22
+Learnt of a new developer podcast, [FishAndScripts](https://fishandscripts.com/). The unfortunate bit about it though is that there isn’t an obvious way to download episodes from the podcast page to the phone (sure, there are links to m4a files in the audio tags, but the audio elements are hidden on the page, and not clickable on the phone).
+
 ## October 20
 A beautiful [talk](https://youtu.be/Zgx0o8QjJk4) on the best practices of using Node with Docker from DockerCon 2019. The `depends_on` rule with `condition: service_healthy` and a `healthcheck` in the container that needs to start before the one that depends on it when using `docker-compose` for local development was a particularly useful tip (I had this problem back in 2015, and we used `sleep` in the dependent container back then).
 

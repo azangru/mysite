@@ -1,6 +1,13 @@
 ---
 title: "2019"
 ---
+## October 26
+Talks from ReactConf2019 worth watching:
+- Using hooks and codegen to bring the benefits of GraphQL to REST APIs by Tejas Kumar
+- Building a Custom React Renderer by Sophie Alpert
+- React Developer Tooling by Brian Vaughn
+- Data Fetching With Suspense In Relay by Joe Savona
+
 ## October 22
 Learnt of a new developer podcast, [FishAndScripts](https://fishandscripts.com/). The unfortunate bit about it though is that there isn’t an obvious way to download episodes from the podcast page to the phone (sure, there are links to m4a files in the audio tags, but the audio elements are hidden on the page, and not clickable on the phone).
 

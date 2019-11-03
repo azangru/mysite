@@ -2,7 +2,7 @@
 title: "2019"
 ---
 ## November 2
-Meanwhile, React Advanced London happened. What I liked from their talks so far is Nik Graf’s [talk](https://www.youtube.com/watch?v=q6TD3PvmQts&t=24379s) about designing graphql schemas. Ken Wheeler’s [keynote](https://www.youtube.com/watch?v=q6TD3PvmQts&t=1902s) on performance was also decent, mostly due to the demos.
+Meanwhile, React Advanced London happened. What I liked from their talks so far is Nik Graf’s [talk](https://www.youtube.com/watch?v=q6TD3PvmQts&t=24379s) about designing graphql schemas and Jared Palmer’s [talk](https://www.youtube.com/watch?v=q6TD3PvmQts&t=28328s) on Formik 2. Ken Wheeler’s [keynote](https://www.youtube.com/watch?v=q6TD3PvmQts&t=1902s) on performance was also decent, mostly due to the demos.
 
 Also, ReactiveConf 2019 happened, and there are already videos from the conference on their [youtube channel](https://www.youtube.com/channel/UCBHdUnixTWymmXBIw12Y8Qg/videos).
 

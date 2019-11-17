@@ -1,6 +1,9 @@
 ---
 title: "2019"
 ---
+## November 17
+A good SEO [talk](https://www.youtube.com/watch?v=XF08jiOKaiQ) by Martin Splitt (surprizingly, at HolyJS; which is also a bit unfortunate, because it contains some Russian references). First talk I’ve seen that delves into crawl budget and why discovered pages do not get indexed.
+
 ## November 2
 Meanwhile, React Advanced London happened. What I liked from their talks so far is Nik Graf’s [talk](https://www.youtube.com/watch?v=q6TD3PvmQts&t=24379s) about designing graphql schemas and Jared Palmer’s [talk](https://www.youtube.com/watch?v=q6TD3PvmQts&t=28328s) on Formik 2. Ken Wheeler’s [keynote](https://www.youtube.com/watch?v=q6TD3PvmQts&t=1902s) on performance was also decent, mostly due to the demos.
 

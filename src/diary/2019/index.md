@@ -1,6 +1,16 @@
 ---
 title: "2019"
 ---
+## December 19
+Today, while experimenting with Github actions to deploy a site to Github pages, I learned that Github’s latest (v3) REST api allows communication about Github pages. It’s possible to force a build, to get a list of builds, or get the latest build. The basic format of interaction is:
+
+```bash
+# to force page build
+curl -u yourname:yourtoken -X POST https://api.github.com/repos/yourname/yourrepo/pages/builds
+```
+
+See [this Stack Overflow answer](https://stackoverflow.com/a/54088985/3925302) and the [Github API docs](https://developer.github.com/v3/repos/pages/).
+
 ## November 17
 A good SEO [talk](https://www.youtube.com/watch?v=XF08jiOKaiQ) by Martin Splitt (surprizingly, at HolyJS; which is also a bit unfortunate, because it contains some Russian references). First talk I’ve seen that delves into crawl budget and why discovered pages do not get indexed.
 

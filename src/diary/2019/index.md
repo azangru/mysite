@@ -1,6 +1,11 @@
 ---
 title: "2019"
 ---
+## December 30
+Interesting Eleventy templates:
+- [Supermaya](https://github.com/MadeByMike/supermaya), by Mike Riethmuller, integrates Webpack and SCSS into Eleventy’s build process.
+- [Site for Chrome Dev Summit](https://github.com/GoogleChrome/devsummit), made by Jake Archibald and Surma; tries to implement CSS modules in Eleventy.
+
 ## December 19
 Today, while experimenting with Github actions to deploy a site to Github pages, I learned that Github’s latest (v3) REST api allows communication about Github pages. It’s possible to force a build, to get a list of builds, or get the latest build. The basic format of interaction is:
 

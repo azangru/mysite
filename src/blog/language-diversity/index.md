@@ -26,3 +26,6 @@ more abundant and important.)
 > Added to these problems, of course, [is] ... the fact that English often leads to the dying out of many of the world’s lesser known languages.
 
 > _(from Dan McIntyre. History of English: A Resource Book for Students, 2008)_
+
+- translation
+- localization

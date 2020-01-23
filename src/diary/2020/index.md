@@ -1,6 +1,8 @@
 ---
 title: "2020"
 ---
+## January 23
+[SWR](https://github.com/zeit/swr), Zeit's data fetcher for React, might be interesting.
 
 ## January 16
 Interesting talks from DotJS 2019:

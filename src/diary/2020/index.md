@@ -1,6 +1,9 @@
 ---
 title: "2020"
 ---
+## January 28
+A [talk](https://www.youtube.com/watch?v=5EtnG85c-Zc) on RxJS subjects, by Michael Hladky and Jan-Niklas Wortmann, at ngSpain
+
 ## January 25
 [Having your cake and eating it too](https://youtu.be/r-rWWseD6Vw) — a good intro talk by Sean Grove about GraphQL, ReasonML, and the combination of the two, demoing all the different goodness.
 

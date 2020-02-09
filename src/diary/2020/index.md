@@ -261,6 +261,9 @@ Output: [""]
 ## February 8
 HTTP 203 podcast praised public speaking style of Zach Holman, Simon Willison, and Mike Taylor. Should listen to their talks...
 
+## February 7
+A [gist](https://gist.github.com/nikcub/3833406) with examples of real php code at Facebook from around 2007.
+
 ## January 28
 A [talk](https://www.youtube.com/watch?v=5EtnG85c-Zc) on RxJS subjects, by Michael Hladky and Jan-Niklas Wortmann, at ngSpain
 

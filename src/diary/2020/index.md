@@ -1,6 +1,266 @@
 ---
 title: "2020"
 ---
+## February 9
+Saw a [Medium post](https://medium.com/javascript-in-plain-english/facebook-on-site-technical-interview-1264cacad263) with examples of technical interview questions in javascript given at Facebook interviews. Several days passed, and the post started requiring the reader to log in to read the text (that’s a dick move, Medium). I recovered the questions from that post (and related posts) through some googling, and thought I will copy them here. At least they won't be paywalled here.
+
+### From Microsoft online interview
+
+#### Question 1
+
+Write a function `solution` that, given a string S of N lowercase English letters, returns a string with no instances of three identical consecutive letters, obtained from S by deleting the minimum possible number of letters.
+
+Examples:
+- Given S = `eedaaad` , the function should return `eedaad`. One occurrence of letter a is deleted.
+- Given S = `xxxtxxx`, the function should return `xxtxx`. Note that letter x can occur more than three times in the returned string, if the occurrences are not consecutive.
+- Given S = `uuuuxaaaaxuuu`, the function should return `uuxaaxuu`.
+Write an efficient algorithm for the following assumptions:
+
+- N is an integer within the range [1..200,000]
+- string S consists only of lowercase letters (a-z)
+
+#### Question 2
+Write a function `solution` that, given an array A consisting of N integers, returns the maximum sum of two numbers whose digits add up to an equal sum. If there are no two numbers whose digits have an equal sum, the function should return -1.
+
+Examples:
+
+- Given A = [51, 71, 17, 42], the function should return 93. There are two pairs of numbers whose digits add up to an equal sum: (51, 42) and (17, 71). The first pair sums up to 93.
+- Given A = [42, 33, 60], the function should return 102. The digits of all the numbers in A add up to the same sum, and choosing to add 42 and 60 gives the result 102.
+- Given A = [51, 32, 43], the function should return -1, since all numbers in A have digits that add up to different, unique sums.
+
+Write an efficient algorithm for the following assumptions:
+
+- N is an integer within the range [1..200,000]
+- each element of array A is an integer within the range [1..1,000,000,000]
+
+#### Question 3
+You are given a string S consisting of N letters ‘a’ and/or ‘b’. In one move, you can swap one letter for the other (‘a’ for ‘b’ or ‘b’ for ‘a’).
+
+Write a function `solution` that, given such a string S, returns the minimum number of moves required to obtain a string containing no instances of three identical consecutive letters.
+
+Examples:
+
+- Given S = `baaaaa`, the function should return 1. The string without three identical consecutive letters which can be obtained in one move is `baabaa`.
+- Give S = `baaabbaabbba`, the function should return 2. There are four valid strings obtainable in two moves: for example, `bbaabbaabbaa`.
+- Given S = `baabab`, the function should return 0.
+
+Write an efficient algorithm for the following assumptions:
+
+- N is an integer within the range [0..200,000]
+- string S consists only of the characters ‘a’ and/or ‘b’
+
+### From Google’s online assessment for entry-level developers
+
+#### Question 1
+
+In a row of trees, the i-th tree produces fruit with type tree[i].
+
+You start at any tree of your choice, then repeatedly perform the following steps:
+
+1. Add one piece of fruit from this tree to your baskets. If you cannot, stop.
+2. Move to the next tree to the right of the current tree. If there is no tree to the right, stop.
+3. Note that you do not have any choice after the initial choice of starting tree: you must perform step 1, then step 2, then back to step 1, then step 2, and so on until you stop.
+
+You have two baskets, and each basket can carry any quantity of fruit, but you want each basket to only carry one type of fruit each.
+
+What is the total amount of fruit you can collect with this procedure?
+
+Example 1:
+
+```
+Input: [1,2,1]
+Output: 3
+Explanation: We can collect [1,2,1].
+```
+
+Example 2:
+
+```
+Input: [0,1,2,2]
+Output: 3
+Explanation: We can collect [1,2,2].
+If we started at the first tree, we would only collect [0, 1].
+```
+
+Example 3:
+
+```
+Input: [1,2,3,2,2]
+Output: 4
+Explanation: We can collect [2,3,2,2].
+If we started at the first tree, we would only collect [1, 2].
+```
+
+Example 4:
+
+```
+Input: [3,3,3,1,2,1,1,2,3,3,4]
+Output: 5
+Explanation: We can collect [1,2,1,1,2].
+If we started at the first tree or the eighth tree, we would only collect 4 fruits.
+```
+
+Note:
+
+- 1 <= tree.length <= 40000
+- 0 <= tree[i] < tree.length
+
+#### Question 2
+There is a special keyboard with all keys in a single row.
+
+Given a string keyboard of length 26 indicating the layout of the keyboard (indexed from 0 to 25), initially your finger is at index 0. To type a character, you have to move your finger to the index of the desired character. The time taken to move your finger from index i to index j is |i - j|.
+
+You want to type a string `word`. Write a function to calculate how much time it takes to type it with one finger.
+
+Example 1:
+
+```
+Input: keyboard = "abcdefghijklmnopqrstuvwxyz", word = "cba"
+Output: 4
+Explanation: The index moves from 0 to 2 to write 'c' then to 1 to write 'b' then to 0 again to write 'a'.
+Total time = 2 + 1 + 1 = 4.
+```
+
+Constraints:
+
+- keyboard.length == 26
+- keyboard contains each English lowercase letter exactly once in some order.
+- 1 <= word.length <= 10^4
+- word[i] is an English lowercase letter.
+
+#### Question 3
+
+You are given a license key represented as a string S which consists only alphanumeric character and dashes. The string is separated into N+1 groups by N dashes.
+
+Given a number K, we would want to reformat the strings such that each group contains exactly K characters, except for the first group which could be shorter than K, but still must contain at least one character. Furthermore, there must be a dash inserted between two groups and all lowercase letters should be converted to uppercase.
+
+Given a non-empty string S and a number K, format the string according to the rules described above.
+
+Example 1:
+
+```
+Input: S = "9B2A-2c-9-y", K = 4
+Output: "9B2A-2C9Y"
+Explanation: The string S has been split into two parts, each part has 4 characters.
+Note that the two extra dashes are not needed and can be removed.
+```
+
+Example 2:
+
+```
+Input: S = "2-7g-6-E", K = 2
+Output: "2-7G-6E"
+Explanation: The string S has been split into three parts, each part has 2 characters except the first part as it could be shorter as mentioned above.
+```
+
+Note:
+
+- The length of string S will not exceed 12,000, and K is a positive integer.
+- String S consists only of alphanumerical characters (a-z and/or A-Z and/or 0–9) and dashes(-).
+- String S is non-empty.
+
+### From on-site technical interview at Facebook
+
+#### Easy
+
+You are a product manager and currently leading a team to develop a new product. Unfortunately, the latest version of your product fails the quality check. Since each version is developed based on the previous version, all the versions after a bad version are also bad.
+
+Suppose you have n versions [1, 2, ..., n] and you want to find out the first bad one, which causes all the following ones to be bad.
+
+You are given an API bool isBadVersion(version) which will return whether version is bad. Implement a function to find the first bad version. You should minimize the number of calls to the API.
+
+Example:
+
+```
+Given n = 5, and version = 4 is the first bad version.
+call isBadVersion(3) -> false
+call isBadVersion(5) -> true
+call isBadVersion(4) -> true
+Then 4 is the first bad version.
+```
+
+#### Medium
+1. Design a data structure that supports the following two operations:
+
+```
+void addWord(word)
+bool search(word)
+```
+
+`search(word)` can search a literal word or a regular expression string containing only letters `a-z` or `.`. A `.` means it can represent any one letter.
+
+Example:
+
+```
+addWord("bad")
+addWord("dad")
+addWord("mad")
+search("pad") -> false
+search("bad") -> true
+search(".ad") -> true
+search("b..") -> true
+```
+
+Note:
+You may assume that all words are consist of lowercase letters a-z.
+
+2. Given a 2d grid map of `1`s (land) and `0`s (water), count the number of islands. An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.
+
+
+Example 1:
+
+```
+Input:
+11110
+11010
+11000
+00000
+
+Output: 1
+```
+
+Example 2:
+
+```
+Input:
+11000
+11000
+00100
+00011
+
+Output: 3
+```
+
+#### Hard
+
+Remove the minimum number of invalid parentheses in order to make the input string valid. Return all possible results.
+
+Note: The input string may contain letters other than the parentheses `(` and `)`.
+
+Example 1:
+
+```
+Input: "()())()"
+Output: ["()()()", "(())()"]
+```
+
+Example 2:
+
+```
+Input: "(a)())()"
+Output: ["(a)()()", "(a())()"]
+```
+
+Example 3:
+
+```
+Input: ")("
+Output: [""]
+```
+
+## February 8
+HTTP 203 podcast praised public speaking style of Zach Holman, Simon Willison, and Mike Taylor. Should listen to their talks...
+
 ## January 28
 A [talk](https://www.youtube.com/watch?v=5EtnG85c-Zc) on RxJS subjects, by Michael Hladky and Jan-Niklas Wortmann, at ngSpain
 

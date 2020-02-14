@@ -1,6 +1,9 @@
 ---
 title: "2020"
 ---
+## February 14
+Ben Lesh [gives a demonstration](https://youtu.be/_2hvpWLyd0o?t=1967) of writing unit tests for components that have RxJS logic in it (as well as of writing unit tests with marble diagrams).
+
 ## February 9
 Saw a [Medium post](https://medium.com/javascript-in-plain-english/facebook-on-site-technical-interview-1264cacad263) with examples of technical interview questions in javascript given at Facebook interviews. Several days passed, and the post started requiring the reader to log in to read the text (that’s a dick move, Medium). I recovered the questions from that post (and related posts) through some googling, and thought I will copy them here. At least they won't be paywalled here.
 

@@ -1,6 +1,11 @@
 ---
 title: "2020"
 ---
+## February 17
+Good GraphQL talks:
+- [GraphQL before GraphQL](https://www.youtube.com/watch?v=gb1R-fWP1Yw) by Dan Schafer
+- [Lessons from 4 years of GraphQL](https://www.youtube.com/watch?v=zVNrqo9XGOs), by Lee Byron
+
 ## February 14
 Ben Lesh [gives a demonstration](https://youtu.be/_2hvpWLyd0o?t=1967) of writing unit tests for components that have RxJS logic in it (as well as of writing unit tests with marble diagrams).
 

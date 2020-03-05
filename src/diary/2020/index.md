@@ -1,6 +1,9 @@
 ---
 title: "2020"
 ---
+## March 4
+A [blog post](https://love2dev.com/serviceworker/development-best-practices) on service worker development best practices.
+
 ## February 17
 Good GraphQL talks:
 - [GraphQL before GraphQL](https://www.youtube.com/watch?v=gb1R-fWP1Yw) by Dan Schafer

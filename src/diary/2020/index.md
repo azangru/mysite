@@ -1,6 +1,9 @@
 ---
 title: "2020"
 ---
+## March 20
+[actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) looks like it can actually be the github action that has figured out deployment to github pages (reminder: the problem was that it was impossible to deploy to github pages from a public repository). At the very least, it has sweet docs.
+
 ## March 4
 A [blog post](https://love2dev.com/serviceworker/development-best-practices) on service worker development best practices.
 

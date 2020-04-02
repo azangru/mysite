@@ -304,7 +304,7 @@ A [talk](https://www.youtube.com/watch?v=5EtnG85c-Zc) on RxJS subjects, by Micha
 [Having your cake and eating it too](https://youtu.be/r-rWWseD6Vw) — a good intro talk by Sean Grove about GraphQL, ReasonML, and the combination of the two, demoing all the different goodness.
 
 ## January 23
-[SWR](https://github.com/zeit/swr), Zeit's data fetcher for React, might be interesting.
+[SWR](https://github.com/zeit/swr), Zeit's data fetcher for React, might be interesting. [React-Query](https://github.com/tannerlinsley/react-query), a library with a similar purpose, might as well.
 
 ## January 16
 Interesting talks from DotJS 2019:

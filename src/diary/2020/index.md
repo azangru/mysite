@@ -2,12 +2,20 @@
 title: "2020"
 ---
 ## April 1
-Cherry-pick a range of commits (X..Y) from branch B (e.g.: preX→X→Y→Z) to branch A:
+Copy a range of commits (X..Y) from branch bar (e.g.: preX→X→Y→Z) to branch foo (ends in commit N):
 - checkout branch B
 - log history and note the sha of commit **before** the commit you are interested in (preX)
 - note the sha of the last commit in the range of commits you are interested in (Z)
 - checkout branch A
-- `git rebase --onto A preX Z`
+- `git rebase --onto N preX Z`
+- `git rebase HEAD foo`
+([link with more details](http://weblog.avp-ptr.de/20120928/git-how-to-copy-a-range-of-commits-from-one-branch-to-another/))
+
+It should also be possible to cherry-pick a range of commits:
+- `git cherry-pick X^..Z`
+Notice the caret before the double dot — this is to include the first commit in the range. Without the caret, the first commit is not included.
+
+([link](https://www.tollmanz.com/git-cherry-pick-range/))
 
 ## March 20
 - [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) looks like it can actually be the github action that has figured out deployment to github pages (reminder: the problem was that it was impossible to deploy to github pages from a public repository). At the very least, it has sweet docs.

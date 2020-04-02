@@ -9,10 +9,12 @@ Copy a range of commits (X..Y) from branch bar (e.g.: preX→X→Y→Z) to branc
 - checkout branch A
 - `git rebase --onto N preX Z`
 - `git rebase HEAD foo`
+
 ([link with more details](http://weblog.avp-ptr.de/20120928/git-how-to-copy-a-range-of-commits-from-one-branch-to-another/))
 
 It should also be possible to cherry-pick a range of commits:
 - `git cherry-pick X^..Z`
+
 Notice the caret before the double dot — this is to include the first commit in the range. Without the caret, the first commit is not included.
 
 ([link](https://www.tollmanz.com/git-cherry-pick-range/))

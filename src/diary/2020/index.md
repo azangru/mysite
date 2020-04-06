@@ -1,6 +1,12 @@
 ---
 title: "2020"
 ---
+## April 6
+Today’s findings:
+- A [library](https://github.com/jimmywarting/StreamSaver.js) for saving files as streams from the browser
+- A [SO comment](https://stackoverflow.com/a/31192753/3925302) describing syncing browsers via PouchDB
+- ]What happens when... Kubernetes edition](https://github.com/jamiehannaford/what-happens-when-k8s)
+
 ## April 1
 Copy a range of commits (X..Y) from branch bar (e.g.: preX→X→Y→Z) to branch foo (ends in commit N):
 - checkout branch B

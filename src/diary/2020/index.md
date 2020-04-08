@@ -1,6 +1,9 @@
 ---
 title: "2020"
 ---
+## April 7
+[Subtitle horse SHIRE](https://subtitle-horse.com/) is a fantastic browser-based subtitles editor. It’s very impressive what modern web technologies can do.
+
 ## April 6
 Today’s findings:
 - A [library](https://github.com/jimmywarting/StreamSaver.js) for saving files as streams from the browser

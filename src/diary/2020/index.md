@@ -1,6 +1,9 @@
 ---
 title: "2020"
 ---
+## April 17
+An interesting resource with CSS exercises — [100 days CSS challenge](https://100dayscss.com/).
+
 ## April 7
 [Subtitle horse SHIRE](https://subtitle-horse.com/) is a fantastic browser-based subtitles editor. It’s very impressive what modern web technologies can do.
 

@@ -32,7 +32,7 @@ Notice the caret before the double dot — this is to include the first commit i
 ([link](https://www.tollmanz.com/git-cherry-pick-range/))
 
 ## March 20
-- [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) looks like it can actually be the github action that has figured out deployment to github pages (reminder: the problem was that it was impossible to deploy to github pages from a public repository). At the very least, it has sweet docs.
+- [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) looks like it can actually be the github action that has figured out deployment to github pages (reminder: the problem was that it was impossible to deploy to github pages from a public repository). At the very least, it has sweet docs. Notice that for the first deployment using GithubToken some extra steps are required.
 - Admired the style of Basecamp job postings — with [this](https://m.signalvnoise.com/basecamp-is-hiring-a-front-end-programmer/) as an example. Very attractive and personal job description.
 
 ## March 4

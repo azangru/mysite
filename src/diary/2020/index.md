@@ -1,6 +1,9 @@
 ---
 title: "2020"
 ---
+## June 9
+Saw [what I wish I knew when learning purescript](https://github.com/mjepronk/wiwinwl-purescript) — a cheatsheet containing newish purescript practices (npm and spago instead of bower).
+
 ## April 17
 An interesting resource with CSS exercises — [100 days CSS challenge](https://100dayscss.com/).
 

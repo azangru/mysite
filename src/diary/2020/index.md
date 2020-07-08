@@ -1,6 +1,17 @@
 ---
 title: "2020"
 ---
+## July 8
+Kent C. Dodds’ React teaching materials:
+- [React fundamentals](https://github.com/kentcdodds/react-fundamentals)
+- [React hooks](https://github.com/kentcdodds/react-hooks)
+- [Advanced React hooks](https://github.com/kentcdodds/advanced-react-hooks)
+- [Advanced React patterns](https://github.com/kentcdodds/advanced-react-patterns)
+- [Testing React apps](https://github.com/kentcdodds/testing-react-apps)
+- [React performance](https://github.com/kentcdodds/react-performance)
+- [React suspense](https://github.com/kentcdodds/react-suspense)
+- ["Bookshelf"](https://github.com/kentcdodds/bookshelf)
+
 ## June 9
 Saw [what I wish I knew when learning purescript](https://github.com/mjepronk/wiwinwl-purescript) — a cheatsheet containing newish purescript practices (npm and spago instead of bower).
 

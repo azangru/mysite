@@ -1,6 +1,13 @@
 ---
 title: "2020"
 ---
+## July 25
+- Ben Lesh does a fantastic job explaining RxJS in three hour-long videos on This dot media Youtube channel:
+  - [Learning RxJS in one hour](https://www.youtube.com/watch?v=oFDVf0shWYE)
+  - [Flattening operators in RxJS](https://www.youtube.com/watch?v=5098hvh2v0M)
+  - [Subjects in RxJS 101](https://www.youtube.com/watch?v=Yvgfk5EAFws)
+- Tobias Koppers [describes](https://youtu.be/3c-RFpaiUT8) the features of the upcoming webpack v.5.
+
 ## July 8
 Kent C. Dodds’ React teaching materials:
 - [React fundamentals](https://github.com/kentcdodds/react-fundamentals)
@@ -25,7 +32,7 @@ An interesting resource with CSS exercises — [100 days CSS challenge](https:/
 Today’s findings:
 - A [library](https://github.com/jimmywarting/StreamSaver.js) for saving files as streams from the browser
 - A [SO comment](https://stackoverflow.com/a/31192753/3925302) describing syncing browsers via PouchDB
-- ]What happens when... Kubernetes edition](https://github.com/jamiehannaford/what-happens-when-k8s)
+- [What happens when... Kubernetes edition](https://github.com/jamiehannaford/what-happens-when-k8s)
 
 ## April 1
 Copy a range of commits (X..Y) from branch bar (e.g.: preX→X→Y→Z) to branch foo (ends in commit N):

@@ -3,6 +3,7 @@ title: "2020"
 ---
 ## August 09
 - A [fantastic live-coding session](https://youtu.be/ZdS9uOl4OJk?t=2102) by Ben Lesh, in which he TDDs a custom RxJS operator.
+- Potentially interesting: [Building a complex application with web components and LitElement](https://youtu.be/x9YDQUJx2uw), by Justin Fagnani.
 
 ## July 25
 - Ben Lesh does a fantastic job explaining RxJS in three hour-long videos on This dot media Youtube channel:

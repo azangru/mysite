@@ -1,6 +1,9 @@
 ---
 title: "2020"
 ---
+## August 09
+- A [fantastic live-coding session](https://youtu.be/ZdS9uOl4OJk?t=2102) by Ben Lesh, in which he TDDs a custom RxJS operator.
+
 ## July 25
 - Ben Lesh does a fantastic job explaining RxJS in three hour-long videos on This dot media Youtube channel:
   - [Learning RxJS in one hour](https://www.youtube.com/watch?v=oFDVf0shWYE)

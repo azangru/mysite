@@ -1,6 +1,9 @@
 ---
 title: "2020"
 ---
+## August 27
+- Paul Henschel’s talk _[Making Games in React](https://www.youtube.com/watch?v=Go3QxQG6RK8)_ with a demo of creating a simple game.
+
 ## August 09
 - A [fantastic live-coding session](https://youtu.be/ZdS9uOl4OJk?t=2102) by Ben Lesh, in which he TDDs a custom RxJS operator.
 - Potentially interesting: [Building a complex application with web components and LitElement](https://youtu.be/x9YDQUJx2uw), by Justin Fagnani.

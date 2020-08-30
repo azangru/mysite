@@ -1,6 +1,9 @@
 ---
 title: "2020"
 ---
+## August 30
+- Kamran Ayub’s [companion repository](https://github.com/kamranayub/pluralsight-testing-progressive-web-apps) for his Testing Progressive Web Apps course.
+
 ## August 27
 - Paul Henschel’s talk _[Making Games in React](https://www.youtube.com/watch?v=Go3QxQG6RK8)_ with a demo of creating a simple game.
 

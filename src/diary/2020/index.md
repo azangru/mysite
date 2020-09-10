@@ -1,6 +1,11 @@
 ---
 title: "2020"
 ---
+## September 10
+Couple of potentially interesting online programming courses:
+- [Introduction to Computational Thinking](https://mitmath.github.io/18S191/Fall20/) (uses the Julia language).
+- [Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2020/schedule.html)
+
 ## August 30
 - Kamran Ayub’s [companion repository](https://github.com/kamranayub/pluralsight-testing-progressive-web-apps) for his Testing Progressive Web Apps course.
 

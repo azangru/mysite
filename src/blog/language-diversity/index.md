@@ -29,3 +29,12 @@ more abundant and important.)
 
 - translation
 - localization
+
+## Example
+The year is 2020. In August, Belarus holds a presidential election, which have been largely judged as unfair. The people begin protesting, and to disrupt coordination between the protesters, the Belarussian government shuts down a sizeable portion of the country's internet. This, of course, is unacceptable for Belarussian IT workers who rely on fast and stable internet in order to do their daily work. Articles appear that Belarussian IT specialists start fleeing the country. But where would they go? One option is Lithuania; another is Poland; another is Germany. Each country has its own language. In order to become a full-functioning member of the society in these countries, one must learn those languages.
+(https://news.ycombinator.com/item?id=24392905)
+
+
+## Example
+
+You are reading a book or watching a movie. Only it has originally been written or shot in a foreign language, and what you are experiencing is a translation. Which means that now are intermediaries between you and the original product — possibly one in case of a book, almost inevitably a whole team in case of a movie. The intermediaries who can distort various aspects of the original, from the meaning of the text to the delivery of the dialogue.

@@ -1,6 +1,9 @@
 ---
 title: "2020"
 ---
+## September 13
+- [Repo with notes for _Thinking Reactively with RxJS_ course at Egghead.io](https://github.com/eggheadio-projects/thinking-reactively-with-rxjs-notes)
+
 ## September 10
 Couple of potentially interesting online programming courses:
 - [Introduction to Computational Thinking](https://mitmath.github.io/18S191/Fall20/) (uses the Julia language).

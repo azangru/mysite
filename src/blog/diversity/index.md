@@ -82,7 +82,7 @@ Well, ok, Ben Shapiro is a conservative, and conservatives may be confused. But,
 
 Notice how "more cultural homogeneity" in this passage correlates with happiness? Isn't this surprising? If diversity is such a powerful force for good, then how come ethnic and cultural homogeneity are presented as advantages?
 
-### Economical argument: it is in the interest of a company to have diverse teams, because they offer competitive advantage by reaching the largest possible audience
+### Economic argument: it is in the interest of a company to have diverse teams, because they offer competitive advantage by reaching the largest possible audience
 
 This is a commonly voiced carrot kind of an argument. Here, for example, is [Kyle Simpson presenting it on JavaScript Air](https://youtu.be/-rH-W483sUg?t=33m30s):
 

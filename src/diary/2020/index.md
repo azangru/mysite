@@ -1,6 +1,9 @@
 ---
 title: "2020"
 ---
+## October 22
+- A developer shared [source of his portfolio web page](https://github.com/riyaz942/web-portfolio) with lovely react-spring transitions.
+
 ## September 13
 - [Repo with notes for _Thinking Reactively with RxJS_ course at Egghead.io](https://github.com/eggheadio-projects/thinking-reactively-with-rxjs-notes)
 

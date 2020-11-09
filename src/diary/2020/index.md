@@ -1,6 +1,9 @@
 ---
 title: "2020"
 ---
+## November 09
+- Ben Lesh [talks](https://youtu.be/F8xOnnnW6qI) about how he refactored the RxJS library for v7 to be smaller.
+
 ## October 22
 - A developer shared [source of his portfolio web page](https://github.com/riyaz942/web-portfolio) with lovely react-spring transitions.
 

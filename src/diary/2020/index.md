@@ -1,6 +1,10 @@
 ---
 title: "2020"
 ---
+
+## December 06
+- [Repository](https://github.com/nodejs-design-patterns-book/nodejsdesignpatterns.com) with source code for the book Node.js design patterns.
+
 ## November 09
 - Ben Lesh [talks](https://youtu.be/F8xOnnnW6qI) about how he refactored the RxJS library for v7 to be smaller.
 

@@ -2,6 +2,16 @@
 title: "2020"
 ---
 
+## December 08
+Interesting talks from Reactathon-2020.
+- Day 1
+  - [Lydia Hallie. JavaScript Visualized: Understanding how the V8 engine works](https://youtu.be/KgTW0xfyr9A?t=5507)
+  - [Alex Krolick. Testing Async Components Using React Testing Library](https://youtu.be/KgTW0xfyr9A?t=7526)
+  - [Jana Beck. Escaping flatland: a romance of data science in the browser](https://youtu.be/KgTW0xfyr9A?t=15730)
+
+## December 07
+Redux team is trying to catch up with `react-query`, and maybe with apollo too, by developing [redux-toolkit-query](https://rtk-query-docs.netlify.app/), a redux-based (and redux-blessed) approach to querying json apis.
+
 ## December 06
 - [Repository](https://github.com/nodejs-design-patterns-book/nodejsdesignpatterns.com) with source code for the book Node.js design patterns.
 
@@ -365,7 +375,7 @@ A [talk](https://www.youtube.com/watch?v=5EtnG85c-Zc) on RxJS subjects, by Micha
 [Having your cake and eating it too](https://youtu.be/r-rWWseD6Vw) — a good intro talk by Sean Grove about GraphQL, ReasonML, and the combination of the two, demoing all the different goodness.
 
 ## January 23
-[SWR](https://github.com/zeit/swr), Zeit's data fetcher for React, might be interesting. [React-Query](https://github.com/tannerlinsley/react-query), a library with a similar purpose, might as well.
+[SWR](https://github.com/zeit/swr), Zeit's data fetcher for React, might be interesting. [React-Query](https://github.com/tannerlinsley/react-query), a library with a similar purpose, might be as well.
 
 ## January 16
 Interesting talks from DotJS 2019:

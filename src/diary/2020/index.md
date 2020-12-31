@@ -2,6 +2,12 @@
 title: "2020"
 ---
 
+## December 31
+Companion sites to Robert Sedgewick's books (e.g. [this one for algorithms](https://algs4.cs.princeton.edu/home/)) are a treasure!
+
+## December 28
+A fantastic [article](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs) by Andrey Sitnik about the minimum modern set of files for favicons.
+
 ## December 08
 Interesting talks from Reactathon-2020.
 - Day 1

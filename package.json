@@ -4,10 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "gatsby develop --host localhost --port 8000",
-    "build": "gatsby build",
-    "serve": "gatsby serve",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "build": "eleventy",
+    "start": "eleventy --serve",
+    "deploy": "npm run build && gh-pages -d public"
   },
   "author": "",
   "license": "ISC",
@@ -16,6 +15,9 @@
     "gh-pages": "2.2.0"
   },
   "devDependencies": {
-    "eslint": "6.8.0"
+    "@11ty/eleventy-plugin-rss": "1.0.9",
+    "@11ty/eleventy-plugin-syntaxhighlight": "3.0.4",
+    "eslint": "6.8.0",
+    "markdown-it": "12.0.4"
   }
 }

@@ -12,3 +12,7 @@ https://github.com/iRaul/awesome-portfolios
 Fonts to examine:
 - Merriweather: https://fonts.google.com/specimen/Merriweather
 - IBM Plex: https://fonts.google.com/specimen/IBM+Plex+Serif
+
+Interesting Eleventy starter projects
+- https://github.com/maxboeck/eleventastic
+- https://github.com/deviousdodo/elevenpack - using webpack with webpack manifest

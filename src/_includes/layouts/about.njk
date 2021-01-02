@@ -1,0 +1,17 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-about
+---
+
+{% block styles %}
+<link rel="stylesheet" href="{{ '/css/about.css' | url }}">
+{% endblock %}
+
+<main>
+  <picture>
+    <source type="image/webp" srcset="/images/azov.webp">
+    <source type="image/jpeg" srcset="/images/azov.jpg">
+    <img class="about__my-photo" src="/images/azov.jpg" alt="My photo">
+  </picture>
+  {{ content | safe }}
+</main>

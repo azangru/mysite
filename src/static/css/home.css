@@ -32,12 +32,3 @@ nav {
   align-items: center;
   font-size: clamp(1rem, 6vw, 28px);
 }
-
-a {
-  text-decoration: none;
-  padding: 0.2rem;
-}
-
-a, a:visited {
-  color: blue;
-}

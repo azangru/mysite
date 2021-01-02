@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+html {
+  font-size: 10px;
+}
+
 html, body {
   margin: 0;
   height: 100%;
@@ -9,4 +13,21 @@ html, body {
 
 body {
   font-family: 'EB Garamond', serif;
+}
+
+main {
+  padding: 0 0.8rem 2rem;
+}
+
+p {
+  font-size: 2rem;
+}
+
+a {
+  text-decoration: none;
+  padding: 0.2rem;
+}
+
+a, a:visited {
+  color: blue;
 }

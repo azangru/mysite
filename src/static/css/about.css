@@ -1,0 +1,13 @@
+@import "global.css";
+
+main {
+  max-width: 960px;
+  margin: auto;
+}
+
+.about__my-photo {
+  border-radius: 100%;
+  float: right;
+  width: clamp(50px, 30%, 300px);
+  margin: 0.6rem;
+}

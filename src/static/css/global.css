@@ -1,3 +1,7 @@
+:root {
+  --content-width: 960px;
+}
+
 * {
   box-sizing: border-box;
 }

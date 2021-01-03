@@ -2,7 +2,7 @@
 @import "navigation.css";
 
 main {
-  max-width: 960px;
+  max-width: var(--content-width);
   margin: 90px auto;
 }
 

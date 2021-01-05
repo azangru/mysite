@@ -16,3 +16,4 @@ Fonts to examine:
 Interesting Eleventy starter projects
 - https://github.com/maxboeck/eleventastic
 - https://github.com/deviousdodo/elevenpack - using webpack with webpack manifest
+- https://github.com/google/eleventy-high-performance-blog - by Google

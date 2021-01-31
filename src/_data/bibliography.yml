@@ -1,0 +1,134 @@
+healthSciencesTranslations:
+  - title: Applied Behavior Analysis (2nd edition)
+    authors: J. O. Cooper, T. E. Heron, W. L. Heward
+    published_by: Pearson, 2007
+    image_front: aba-eng.jpg
+    image_back: aba-ru.jpg
+    comment: translated chapters 1, 2, 14, 15
+  - title: Life with Epidermolysis Bullosa (EB)
+    authors: J.-D. Fine, H. Hinter (ed.)
+    published_by: Springer-Verlag, 2010
+    image_front: epidermolysis-bullosa-eng-2.jpg
+    image_back: epidermolysis-bullosa-ru.jpg
+    comment: co-edited the Russian translation
+  - title: The Olympic Textbook of Medicine in Sport
+    authors: M. P. Schwellnus (ed.)
+    published_by: The Encyclopaedia of Sports Medicine. Volume XIV. Wiley-Blackwell. 2008
+    image_front: olympic-eng.jpg
+    image_back: olympic-ru.jpg
+    comment: translated chapter 15
+  - title: Athletic Taping and Bracing, 2nd Edition
+    authors: D. Perrin
+    published_by: Human Kinetics, 2005
+    comment: edited the Russian translation; translated accompanying instructional videos
+    image_front: taping-eng.jpg
+    image_back: taping-ru.jpg
+  - title: Current Diagnosis and Treatment in Sports Medicine
+    authors: P. McMahon (ed.)
+    published_by: LANGE, 2006
+    comment: translated chapters 2 and 5
+    image_front: sport-trauma-eng.jpg
+    image_back: sport-trauma-ru.jpg
+  - title: 'Smith’s Recognizable Patterns Of Human Malformation, 6th Edition'
+    authors: K. Jones
+    published_by: Saunders, 2005
+    comment: translated a large portion of the book and edited the entire Russian edition
+    image_front: smith-eng.jpg
+    image_back: smith-ru.jpg
+  - title: Trauma Manual, 4th Edition
+    authors: E. E. Moore, K. L. Mattox, D. V. Feliciano
+    published_by: McGraw-Hill, 2002
+    comment: translated chapters 2 and 4
+    image_front: trauma-eng.jpg
+    image_back: trauma-ru.jpg
+  - title: 100 Questions & Answers About Lymphoma
+    authors: P. Holman, ‎J. Garrett, ‎W. D. Jansen
+    published_by: Jones and Bartlett, 2004
+    comment: edited the Russian translation
+    image_front: lymphoma-eng.jpg
+    image_back: lymphoma-ru.jpg
+  - title: Pathology Secrets
+    authors: I. Damjanov
+    published_by: Hanley & Belfus, 2002
+    image_front: pathology-secrets-eng.jpg
+    image_back: pathology-secrets-ru.jpg
+  - title: Obstetrics by Ten Teachers, 17th Edition
+    authors: S. Campbell, C. Lees
+    published_by: CRC Press, 2000
+    image_front: obstetrics-eng.jpg
+    image_back: obstetrics-ru.jpg
+healthSciencesEditing:
+  - title: "Hip Replacement: All Questions Answered"
+    authors: A. P. Sereda
+    published_by: Granat, 2014
+    comment: "original title: Середа А. П. Эндопротезирование тазобедренного сустава. Ответы на все вопросы. М.: Гранат, 2014. 121 с."
+    image_front: hip-replacement.jpg
+  - title: Eponymous Syndromes and Diseases in Endocrinology
+    authors: G. A. Melnichenko, V. A. Peterkova, A. N. Тulpakov, N. V. Maksimova
+    publishingInfo: Practica, 2013
+    comment: "original title: Мельниченко Г. А., Петеркова В. А., Тюльпаков А. Н., Максимова Н. В. Эпонимические синдромы в эндокринологии. М.: Практика, 2013. 172 с."
+    image_front: eponyms-endocrinology.jpg
+  - title: Eponymous Syndromes and Diseases in Pulmonology
+    authors: N. N. Rozinova, N. S. Lev, A. E. Bogorad
+    published_by: Practica, 2011
+    comment: "original title: Розинова Н. Н., Лев Н. С., Богорад А. Е. Эпонимические синдромы в пульмонологии. М.: Практика, 2011. 87 с."
+    image_front: eponyms-pulmonology.jpg
+healthSciencesPapers:
+  - title: Improved diagnosis of mycobacterial infections in formalin-fixed and paraffin-embedded sections with nested polymerase chain reaction
+    authors: A. G. Azov, J. Koch, S. J. Hamilton-Dutoit
+    published_by: Acta Pathologica, Microbiologica et Immunologica Scandinavica. 113:589–93, 2005
+    link: ./pdfs/diagnosis-of-mycobacterial-infections-with-nested-PCR.pdf
+fictionTranslations:
+  - title: "The Annotated Alice: The Definitive Edition"
+    authors: Lewis Carroll and Martin Gardner
+    comment: edited the Russian translation of Martin Gardner’s annotations
+    image_front: annotated-alice-eng.jpg
+    image_back: annotated-alice-ru.jpg
+  - title: "Wicked: The Life and Times of the Wicked Witch of the West"
+    authors: Gregory Maguire
+    image_front: wicked-eng.jpg
+    image_back: wicked-ru.jpg
+  - title: The Position
+    authors: Meg Wolitzer
+    image_front: wolitzer-eng.jpg
+    image_back: wolitzer-ru.jpg
+  - title: Orphanage
+    authors: Robert Buettner
+    image_front: buettner-eng.jpg
+    image_back: buettner-ru.jpg
+  - title: Girl in Hyacinth Blue
+    authors: Susan Vreeland
+    image_front: vreeland-eng.jpg
+    image_back: vreeland-ru.jpg
+  - title: Hey Nostradamus!
+    authors: Douglas Coupland
+    image_front: nostradamus-eng.jpg
+    image_back: nostradamus-ru.jpg
+  - title: The Clicking of Cuthbert
+    authors: P. G. Wodehouse
+    image_front: cuthbert-eng.jpg
+    image_back: cuthbert-ru.jpg
+humanities:
+  - title: "The Literalists Defeated: An Episode from the History of Translation in the USSR in the 1920–1960s"
+    authors: A. G. Azov
+    comment: "original title: Азов А. Г. Поверженные буквалисты: Из истории художественного перевода в СССР в 1920—1960-е годы. М.: Издательский дом Высшей школы экономики, 2013. 300 с."
+    image_front: bukvalisty.jpg
+humanitiesPapers:
+    english:
+      - title: “Barbaric Yawp” in Russian
+        authors: A. G. Azov
+        published_by: Rocznik Komparatystyczny (Comparative Yearbook). 2013. No. 4. P. 321–325
+        link: ./pdfs/yawp-russian.pdf
+    russian:
+      - title: О переиздании перевода «Посмертных записок Пиквикского клуба» под редакцией Густава Шпета
+        authors: А. Г. Азов
+        published_by: "Текстология и историко-литературный процесс: II Международная конференция молодых исследователей (Москва, Московский государственный университет им. М. В. Ломоносова, филологический факультет, 21—22 марта 2013 г.): Сборник статей. М.: Лидер, 2014. С. 158–176"
+        link: "http://tekstologia.jimdo.com/app/download/8704868093/Azov.pdf"
+      - title: К истории теории перевода в Советском Союзе. Проблема реалистического перевода
+        authors: А. Г. Азов
+        published_by: Логос. 2012. № 3. С. 131–152
+        link: "http://www.logosjournal.ru/arch/22/art_163.pdf"
+      - title: "Воспаление: к истории слова и понятия"
+        authors: А. Г. Азов
+        published_by: "Вопросы русского языкознания: Сб. Вып. XIII. Фонетика и грамматика: настоящее, прошедшее, будущее: К 50‑летию научной деятельности Софьи Константиновны Пожарицкой / Сост. С. В. Князев, А. В. Птенцова; отв. ред. М. Л. Ремнёва, С. В. Князев. М.: Изд-во МГУ, 2010. С. 323–329"
+        link: ./pdfs/inflammation.pdf

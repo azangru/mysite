@@ -1,0 +1,61 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-about
+---
+
+{% from "components/bibliography/book.njk" import renderBook %}
+
+
+{% block styles %}
+<link rel="preload" href="/css/navigation.css" as="style">
+<link rel="stylesheet" href="{{ '/css/bibliography.css' | url }}">
+{% endblock %}
+
+{% block scripts %}
+<script src="/scripts/navigation.js" type="module"></script>
+{% endblock %}
+
+<main>
+  {% include "components/menu-button.njk" %}
+  {% include "components/nav-sidebar.njk" %}
+
+  <h1>Publications</h1>
+  <p>
+    Here, I collected a list of my publications, both original and where I was
+    translator or editor. The list is almost complete, excepting the least important
+    or, well, the most embarrassing ones.
+  </p>
+
+  <section class="bibliography-section">
+    <h2>Health Sciences</h2>
+    <h3>English to Russian translations</h2>
+
+    <div class="book-list">
+      {% for book in bibliography.healthSciencesTranslations %}
+        {{renderBook(book)}}
+      {% endfor %}
+    </div>
+  </section>
+
+  <section class="bibliography-section">
+    <h3>Editor of original Russian books</h2>
+
+    <div class="book-list">
+      {% for book in bibliography.healthSciencesEditing %}
+        {{renderBook(book)}}
+      {% endfor %}
+    </div>
+  </section>
+
+  <section class="bibliography-section">
+    <h2>Fiction</h2>
+    <h3>English to Russian translations</h2>
+
+    <div class="book-list">
+      {% for book in bibliography.fictionTranslations %}
+        {{renderBook(book)}}
+      {% endfor %}
+    </div>
+  </section>
+
+</main>

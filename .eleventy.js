@@ -2,12 +2,16 @@ const fs = require("fs");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const markdownIt = require("markdown-it");
+const yaml = require("js-yaml");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
 
   eleventyConfig.setDataDeepMerge(true);
+
+  eleventyConfig.addDataExtension("yml", yaml.load);
+  eleventyConfig.addDataExtension("yaml", yaml.load);
 
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 

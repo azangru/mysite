@@ -1,0 +1,9 @@
+{% from "components/bibliography/article.njk" import renderArticle %}
+
+{% macro renderArticles(articles) %}
+<ol>
+  {% for article in articles %}
+    {{renderArticle(article)}}
+  {% endfor %}
+</ol>
+{% endmacro %}

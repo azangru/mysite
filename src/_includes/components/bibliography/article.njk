@@ -1,0 +1,10 @@
+{% macro renderArticle(article) %}
+<li>
+  <span class="article__authors">{{ article.authors }}.</span>
+  <span>{{ article.title }} // {{ article.published_by }}</span>
+  {% if article.link %}
+    (<a href="{{article.link}}">pdf</a>)
+  {% endif %}
+  {{- '.' -}}
+</li>
+{% endmacro %}

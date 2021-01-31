@@ -4,6 +4,7 @@ templateClass: tmpl-about
 ---
 
 {% from "components/bibliography/book.njk" import renderBook %}
+{% from "components/bibliography/articles.njk" import renderArticles %}
 
 
 {% block styles %}
@@ -28,7 +29,7 @@ templateClass: tmpl-about
 
   <section class="bibliography-section">
     <h2>Health Sciences</h2>
-    <h3>English to Russian translations</h2>
+    <h3>English to Russian translations</h3>
 
     <div class="book-list">
       {% for book in bibliography.healthSciencesTranslations %}
@@ -38,7 +39,7 @@ templateClass: tmpl-about
   </section>
 
   <section class="bibliography-section">
-    <h3>Editor of original Russian books</h2>
+    <h3>Editor of original Russian books</h3>
 
     <div class="book-list">
       {% for book in bibliography.healthSciencesEditing %}
@@ -48,14 +49,31 @@ templateClass: tmpl-about
   </section>
 
   <section class="bibliography-section">
+    <h3>Selected papers</h3>
+    {{ renderArticles(bibliography.healthSciencesPapers) }}
+  </section>
+
+  <section class="bibliography-section">
     <h2>Fiction</h2>
-    <h3>English to Russian translations</h2>
+    <h3>English to Russian translations</h3>
 
     <div class="book-list">
       {% for book in bibliography.fictionTranslations %}
         {{renderBook(book)}}
       {% endfor %}
     </div>
+  </section>
+
+  <section class="bibliography-section">
+    <h3>Selected papers</h3>
+    <h3>In English</h3>
+    {{ renderArticles(bibliography.humanitiesPapers.english) }}
+  </section>
+
+  <section class="bibliography-section">
+    <h3>Selected papers</h3>
+    <h3>In Russian</h3>
+    {{ renderArticles(bibliography.humanitiesPapers.russian) }}
   </section>
 
 </main>

@@ -3,6 +3,7 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const markdownIt = require("markdown-it");
 const yaml = require("js-yaml");
+const { DateTime } = require("luxon");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
@@ -15,9 +16,18 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
-  // eleventyConfig.addFilter("readableDate", dateObj => {
-  //   return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("dd LLL yyyy");
-  // });
+  eleventyConfig.addCollection('blogArticles', (collection) => {
+    const blogArticles = collection.getFilteredByGlob("src/blog/**/*.md")
+      .filter(article => article.data.published);
+    blogArticles.sort((a, b) => {
+      return b.data.page.date - a.data.page.date;
+    });
+    return blogArticles;
+  });
+
+  eleventyConfig.addFilter("readableDate", dateStr => {
+    return DateTime.fromFormat(dateStr, 'yyyy-MM-dd').toFormat("dd LLL yyyy");
+  });
   //
   // // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
   // eleventyConfig.addFilter('htmlDateString', (dateObj) => {
@@ -32,9 +42,6 @@ module.exports = function(eleventyConfig) {
 
     return array.slice(0, n);
   });
-
-  // eleventyConfig.addPassthroughCopy("img");
-  // eleventyConfig.addPassthroughCopy("css");
 
   eleventyConfig.addPassthroughCopy({
     "src/static": "/"
@@ -71,16 +78,6 @@ module.exports = function(eleventyConfig) {
       "njk",
       "html"
     ],
-
-    // If your site lives in a different subdirectory, change this.
-    // Leading or trailing slashes are all normalized away, so don’t worry about those.
-
-    // If you don’t have a subdirectory, use "" or "/" (they do the same thing)
-    // This is only used for link URLs (it does not affect your file structure)
-    // Best paired with the `url` filter: https://www.11ty.dev/docs/filters/url/
-
-    // You can also pass this in on the command line using `--pathprefix`
-    // pathPrefix: "/",
 
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",

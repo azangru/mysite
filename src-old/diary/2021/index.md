@@ -2,8 +2,11 @@
 title: "2020"
 ---
 
+## February 27
+Great [article](https://piccalil.li/tutorial/improve-the-readability-of-the-content-on-your-website) about the styles for better readability of text-rich sites.
+
 ## February 7
-Just re-watched the Supercharged [episode](https://youtu.be/_ZQOUQsw_YI) about WebGL, and appreciated it so much more this time. A great introduction into the topic. 
+Just re-watched the Supercharged [episode](https://youtu.be/_ZQOUQsw_YI) about WebGL, and appreciated it so much more this time. A great introduction into the topic.
 
 ## February 3
 - [CleverCloud/clever-components](https://github.com/CleverCloud/clever-components) — collection of web components that may be interesting to explore

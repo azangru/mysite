@@ -2,6 +2,9 @@
 title: "2020"
 ---
 
+## April 04
+Ok, [this site of a web studio](https://www.sennep.com/) is very cool. Despite them using React, and despite the many animations, it feels buttery smooth. Looks great, is a pleasure to read, and is quite snappy.
+
 ## March 29
 CSS wizardry:
 - Someone [built](https://twitter.com/cobra_winfrey/status/1375888420011188226) a 3d CSS model of a cargo ship.

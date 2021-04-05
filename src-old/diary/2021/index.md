@@ -2,6 +2,9 @@
 title: "2020"
 ---
 
+## April 05
+Today I learned that the community seems to be upset with JSON web tokens and advocate for a different standard, e.g. [paseto](https://paseto.io/).
+
 ## April 04
 Ok, [this site of a web studio](https://www.sennep.com/) is very cool. Despite them using React, and despite the many animations, it feels buttery smooth. Looks great, is a pleasure to read, and is quite snappy.
 

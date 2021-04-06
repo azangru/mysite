@@ -2,6 +2,9 @@
 title: "2020"
 ---
 
+## April 06
+The [`media-chrome`](https://github.com/muxinc/media-chrome) web component for a video player affords a lot of learning opportunities.
+
 ## April 05
 Today I learned that the community seems to be upset with JSON web tokens and advocate for a different standard, e.g. [paseto](https://paseto.io/).
 

@@ -1,6 +1,8 @@
 ---
 title: "2020"
 ---
+## May 10
+An interesting [website](https://georgefrancis.dev/) with writing on generative SVG art.
 
 ## April 06
 The [`media-chrome`](https://github.com/muxinc/media-chrome) web component for a video player affords a lot of learning opportunities.

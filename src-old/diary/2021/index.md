@@ -1,6 +1,9 @@
 ---
 title: "2020"
 ---
+# May 23
+An episode of Agile for Humans from 2015 — [Agility with Allen Holub](https://youtu.be/hVF0u1WLf2E). Brings up some earnest questions, especially in the beginning — e.g. what is agile, does it even mean anything, what's the relation of scrum to agile, does the product owner role make sense, does management make sense, etc.
+
 ## May 10
 An interesting [website](https://georgefrancis.dev/) with writing on generative SVG art.
 

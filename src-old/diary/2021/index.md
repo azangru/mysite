@@ -1,12 +1,16 @@
 ---
 title: "2020"
 ---
-# May 28
+
+## June 5
+I am not a Rust guy, but [this post](https://miguelraz.github.io/blog/juliatorust) contains some useful resources on learning Rust. I wasn't aware, for example, that there's a [CS course at Stanford](https://reberhardt.com/cs110l/spring-2020/) based on Rust
+
+## May 28
 Was looking for videos on wordpress development. Found some interesting ones:
 - [Build a solid WordPress dev environment with Docker](https://youtu.be/kIqWxjDj4IU)
 - [WPCasts](https://www.youtube.com/c/WPCasts/videos) has some nice videos
 
-# May 27
+## May 27
 - Videos by Allen Holub:
   - Agile architecture (from Software Architect 2013 conference)
     - [part 1](https://www.youtube.com/watch?v=0kRCFVGpX7k)
@@ -15,7 +19,7 @@ Was looking for videos on wordpress development. Found some interesting ones:
 - [Secrets of Remote Retrospectives with Esther Derby and David Horowitz](https://www.youtube.com/watch?v=vFLysa1qLWo)
 - Also, lots of interesting materials on retrospectives at the [retrium.com](https://www.retrium.com/) site.
 
-# May 23
+## May 23
 An episode of Agile for Humans from 2015 — [Agility with Allen Holub](https://youtu.be/hVF0u1WLf2E). Brings up some earnest questions, especially in the beginning — e.g. what is agile, does it even mean anything, what's the relation of scrum to agile, does the product owner role make sense, does management make sense, etc.
 
 ## May 10

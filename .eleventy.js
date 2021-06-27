@@ -25,6 +25,14 @@ module.exports = function(eleventyConfig) {
     return blogArticles;
   });
 
+  eleventyConfig.addCollection('diary', (collection) => {
+    const diaryEntries = collection.getFilteredByGlob("src/diary/**/*.md");
+    diaryEntries.sort((a, b) => {
+      return b.data.title - a.data.title;
+    });
+    return diaryEntries;
+  });
+
   eleventyConfig.addFilter("readableDate", dateStr => {
     return DateTime.fromFormat(dateStr, 'yyyy-MM-dd').toFormat("dd LLL yyyy");
   });

@@ -1,0 +1,18 @@
+---
+layout: layouts/about.njk
+---
+
+<main>
+
+  <h1>Diary</h1>
+
+  <ul>
+    {% for page in collections.diary %}
+      <li>
+        <a href="{{page.url}}">{{ page.data.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+
+</main>

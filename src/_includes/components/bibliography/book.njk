@@ -1,22 +1,24 @@
 {% macro renderBook(book) %}
-<div class="book__cover-container {{ 'book__cover-container_flippable' if book.image_back }}">
-  <div class="book__cover">
-    <div class="book__cover-front">
-      <img src="/images/book-covers/{{book.image_front}}" />
-    </div>
-    {% if book.image_back %}
-      <div class="book__cover-back">
-        <img src="/images/book-covers/{{book.image_back}}" />
+<div class="book">
+  <div class="book__cover-container {{ 'book__cover-container_flippable' if book.image_back }}">
+    <div class="book__cover">
+      <div class="book__cover-front">
+        <img src="/images/book-covers/{{book.image_front}}" />
       </div>
+      {% if book.image_back %}
+        <div class="book__cover-back">
+          <img src="/images/book-covers/{{book.image_back}}" />
+        </div>
+      {% endif %}
+    </div>
+  </div>
+  <div class="book__description">
+    <span class="book__authors">{{book.authors}}.</span>
+    <span class="book__title">{{ book.title }}.</span>
+    <span class="book__published-by">{{ book.published_by }}.</span>
+    {% if book.comment %}
+      <span class="book__comment">({{ book.comment }})</span>
     {% endif %}
   </div>
-</div>
-<div class="book__description">
-  <span class="book__authors">{{book.authors}}.</span>
-  <span class="book__title">{{ book.title }}.</span>
-  <span class="book__published-by">{{ book.published_by }}.</span>
-  {% if book.comment %}
-    <span class="book__comment">({{ book.comment }})</span>
-  {% endif %}
 </div>
 {% endmacro %}

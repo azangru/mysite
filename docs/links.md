@@ -7,6 +7,7 @@ Examples of overall good personal websites
 - https://beta.vero.site/ (nice, clean static site made in Hugo; example of a nicely done Resume in Latex)
 - https://davnicwil.com/cv (site with a good CV)
 - https://eyelidlessness.github.io (built using a preact-based static-site generator called Microsite)
+- https://acko.net/ — just beautiful!
 
 https://github.com/iRaul/awesome-portfolios
 

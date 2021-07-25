@@ -2,6 +2,9 @@
 title: "2021"
 ---
 
+## July 26
+Ben Lesh's [_Javascript Marathon_ class on RxJS](https://www.youtube.com/watch?v=gE_K_oWn1fE) got published three days ago.
+
 ## June 5
 I am not a Rust guy, but [this post](https://miguelraz.github.io/blog/juliatorust) contains some useful resources on learning Rust. I wasn't aware, for example, that there's a [CS course at Stanford](https://reberhardt.com/cs110l/spring-2020/) based on Rust
 

@@ -2,6 +2,12 @@
 title: "2021"
 ---
 
+## August 16
+- [Bulletproof React](https://github.com/alan2207/bulletproof-react) may contain some inspiring ideas
+- [Creating a Chat Server with async Rust and Tokio](https://www.youtube.com/watch?v=4DqP57BHaXI) — a video by the author of an upcoming book _Refactoring to Rust_
+- [Talks](https://www.youtube.com/user/cohaaorg/videos) from the Central Ohio Agile Association meetups
+- [Talks](https://www.youtube.com/channel/UCSQGYCjjDLBWrb1knx_8IhQ/videos) from Agile Cymru
+
 ## July 26
 Ben Lesh's [_Javascript Marathon_ class on RxJS](https://www.youtube.com/watch?v=gE_K_oWn1fE) got published three days ago.
 

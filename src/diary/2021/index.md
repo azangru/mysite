@@ -2,6 +2,9 @@
 title: "2021"
 ---
 
+## Augist 21
+- Someone [describes](https://dev.to/itays123/using-forms-in-react-js-the-right-way-no-library-needed-8oj) their approach to building forms with React. 
+
 ## August 16
 - [Bulletproof React](https://github.com/alan2207/bulletproof-react) may contain some inspiring ideas
 - [Creating a Chat Server with async Rust and Tokio](https://www.youtube.com/watch?v=4DqP57BHaXI) — a video by the author of an upcoming book _Refactoring to Rust_

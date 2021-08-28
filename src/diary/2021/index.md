@@ -2,8 +2,11 @@
 title: "2021"
 ---
 
+## August 28
+Alex Russell [demonstrates](https://youtu.be/O0hr13Pede4) how to investigate web site performance.
+
 ## Augist 21
-- Someone [describes](https://dev.to/itays123/using-forms-in-react-js-the-right-way-no-library-needed-8oj) their approach to building forms with React. 
+- Someone [describes](https://dev.to/itays123/using-forms-in-react-js-the-right-way-no-library-needed-8oj) their approach to building forms with React.
 
 ## August 16
 - [Bulletproof React](https://github.com/alan2207/bulletproof-react) may contain some inspiring ideas

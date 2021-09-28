@@ -3,6 +3,11 @@ title: "2021"
 layout: layouts/post.njk
 ---
 
+## August 30
+Code katas (might be interesting):
+- [Roy Osherove's tdd katas](https://osherove.com/tdd-kata-1) (using the url, you can change to kata 2 and kata 3).
+- [Awesome katas](https://github.com/gamontal/awesome-katas) — a curated github repository
+
 ## August 28
 Alex Russell [demonstrates](https://youtu.be/O0hr13Pede4) how to investigate web site performance.
 

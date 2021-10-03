@@ -1,5 +1,6 @@
 ---
 title: "2021"
+layout: layouts/post.njk
 ---
 
 ## August 28

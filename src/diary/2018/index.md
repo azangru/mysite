@@ -1,5 +1,6 @@
 ---
 title: "2018"
+layout: layouts/post.njk
 ---
 ## December 30
 Matt Podwysocki made [RxJS Advent Calendar lessons for 2018](https://github.com/mattpodwysocki/rxjs-advent-2018)

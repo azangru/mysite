@@ -1,6 +1,7 @@
 ---
 title: Thoughts on the current discourse on diversity
 date: "2018-07-01"
+layout: layouts/post.njk
 published: true
 ---
 

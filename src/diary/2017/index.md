@@ -1,5 +1,6 @@
 ---
 title: "2017"
+layout: layouts/post.njk
 ---
 ## December 30
 Interesting discussion of using Recompose together with graphql Apollo Client:

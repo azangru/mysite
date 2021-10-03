@@ -1,6 +1,7 @@
 ---
 title: On the 2016 US Presidential elections and the Russian meddling
 date: "2018-04-07"
+layout: layouts/post.njk
 published: true
 ---
 

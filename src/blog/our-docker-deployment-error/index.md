@@ -1,6 +1,7 @@
 ---
 title: How our use of service workers and Docker containers caused an error
 date: "2019-08-03"
+layout: layouts/post.njk
 published: true
 ---
 

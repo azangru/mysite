@@ -1,5 +1,6 @@
 ---
 title: "2019"
+layout: layouts/post.njk
 ---
 ## December 30
 Interesting Eleventy templates:

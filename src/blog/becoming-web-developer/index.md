@@ -1,6 +1,7 @@
 ---
 title: Becoming a web developer
 date: "2017-09-18"
+layout: layouts/post.njk
 published: true
 ---
 ## The Story

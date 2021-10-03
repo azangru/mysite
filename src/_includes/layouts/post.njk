@@ -1,9 +1,14 @@
-<header>
-  This is header
-</header>
+---
+layout: layouts/base.njk
+---
+
+{% block styles %}
+<link rel="preload" href="/css/navigation.css" as="style">
+<link rel="stylesheet" href="{{ '/css/about.css' | url }}">
+{% endblock %}
 
 <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
-
+  <h1>{{ title }}</h1>
   {{ content | safe }}
 </main>
 

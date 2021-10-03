@@ -1,6 +1,7 @@
 ---
 title: Authenticating with social networks and getting user data from them
 date: "2019-01-08"
+layout: layouts/post.njk
 published: false
 ---
 

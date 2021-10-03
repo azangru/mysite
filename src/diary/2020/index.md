@@ -1,5 +1,6 @@
 ---
 title: "2020"
+layout: layouts/post.njk
 ---
 
 ## December 31

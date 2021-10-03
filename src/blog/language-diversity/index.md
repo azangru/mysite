@@ -1,6 +1,7 @@
 ---
 title: On linguistic diversity
 date: "2018-07-01"
+layout: layouts/post.njk
 published: false
 ---
 

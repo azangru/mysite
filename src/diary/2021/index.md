@@ -3,6 +3,14 @@ title: "2021"
 layout: layouts/post.njk
 ---
 
+## October 8
+- [Microsoft's repository with programming puzzles in Python](https://github.com/microsoft/PythonProgrammingPuzzles)
+
+## October 7
+- [Slide deck](https://noti.st/aarongustafson/UoYFSo/getting-started-with-pwas-workshop) from Aaron Gustafson's workshop about PWAs
+- [Code example](https://github.com/aarongustafson/pwa-summit-workshop) from the same workshop
+- [PWA Summit talks](https://www.youtube.com/watch?v=qbh_u2hvIjg)
+
 ## August 30
 Code katas (might be interesting):
 - [Roy Osherove's tdd katas](https://osherove.com/tdd-kata-1) (using the url, you can change to kata 2 and kata 3).
@@ -11,7 +19,7 @@ Code katas (might be interesting):
 ## August 28
 Alex Russell [demonstrates](https://youtu.be/O0hr13Pede4) how to investigate web site performance.
 
-## Augist 21
+## August 21
 - Someone [describes](https://dev.to/itays123/using-forms-in-react-js-the-right-way-no-library-needed-8oj) their approach to building forms with React.
 
 ## August 16

@@ -10,6 +10,8 @@ Examples of overall good personal websites
 - https://joshcrain.io/notes/2021/eleventy-garmin-connect/
 - https://www.alwaystwisted.com/
 - https://acko.net/ — just beautiful!
+- https://tink.uk/ — a very nice accessible web site
+- https://cloudfour.com/thinks/— a site of a design studio, as a PWA, with interesting blog articles
 
 https://github.com/iRaul/awesome-portfolios
 

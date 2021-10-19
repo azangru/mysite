@@ -3,6 +3,10 @@ title: "2021"
 layout: layouts/post.njk
 ---
 
+## October 19
+- [Repository with module federation examples](https://github.com/module-federation/module-federation-examples)
+- Luca Mezzalira's talk: [Micro frontends with module federation](https://youtu.be/tTwoSWJObZs) at City Jsconf London
+
 ## October 8
 - [Microsoft's repository with programming puzzles in Python](https://github.com/microsoft/PythonProgrammingPuzzles)
 

@@ -3,6 +3,12 @@ title: "2021"
 layout: layouts/post.njk
 ---
 
+## October 20
+Updates from W3C working groups including:
+- [CSS](https://www.w3.org/2021/10/TPAC/group-updates.html#css-wg)
+- [WebAssembly](https://www.w3.org/2021/10/TPAC/group-updates.html#wasm)
+- [PWA integration](https://www.w3.org/2021/10/TPAC/demos/pwa.html)
+
 ## October 19
 - [Repository with module federation examples](https://github.com/module-federation/module-federation-examples)
 - Luca Mezzalira's talk: [Micro frontends with module federation](https://youtu.be/tTwoSWJObZs) at City Jsconf London

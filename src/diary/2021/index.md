@@ -3,6 +3,9 @@ title: "2021"
 layout: layouts/post.njk
 ---
 
+## October 27
+- [Making illegal states unrepresantable in typescript](https://youtu.be/T7i2wlCqgJk) — too smart for me by far, but interesting nonetheless.
+
 ## October 20
 Updates from W3C working groups including:
 - [CSS](https://www.w3.org/2021/10/TPAC/group-updates.html#css-wg)

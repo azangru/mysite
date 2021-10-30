@@ -3,6 +3,9 @@ title: "2021"
 layout: layouts/post.njk
 ---
 
+## Octobr 30
+- [Videos of the London Web Standards group](https://www.youtube.com/channel/UCw5tAel4cbIex-hlXwKY0JA/videos)
+
 ## October 27
 - [Making illegal states unrepresantable in typescript](https://youtu.be/T7i2wlCqgJk) — too smart for me by far, but interesting nonetheless.
 

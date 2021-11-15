@@ -3,7 +3,11 @@ title: "2021"
 layout: layouts/post.njk
 ---
 
-## Octobr 30
+## November 15
+- [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book) — repository
+- [Setting up neovim for web development](https://xlwe.medium.com/setting-up-neovim-for-web-development-70c57c3d7d61) — not very well written, but may give interesting ideas
+
+## October 30
 - [Videos of the London Web Standards group](https://www.youtube.com/channel/UCw5tAel4cbIex-hlXwKY0JA/videos)
 
 ## October 27

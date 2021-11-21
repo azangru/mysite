@@ -5,6 +5,7 @@ layout: layouts/post.njk
 
 ## November 20
 - Videos from React Advanced London: [playlist](https://www.youtube.com/playlist?list=PLNBNS7NRGKMHk3w8wv7pBbBMUSjaplurj)
+- Videos from Cascadia.js conference: [playlist](https://www.youtube.com/playlist?list=PLLiioAbFTbKNhobQW0fLRzP3oesrNW5K9)
 
 ## November 16
 - Steve Kinney's [repository](https://github.com/stevekinney/rxjs-fundamentals) with exercises to introduce rxjs.

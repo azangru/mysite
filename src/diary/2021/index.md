@@ -3,6 +3,10 @@ title: "2021"
 layout: layouts/post.njk
 ---
 
+## December 2
+- [Repository](https://github.com/LeaVerou/dynamic-css) for Lea Verou's course on CSS variables
+- [Her blog post on custom properties with defaults](https://lea.verou.me/2021/10/custom-properties-with-defaults/)
+
 ## November 20
 - Videos from React Advanced London: [playlist](https://www.youtube.com/playlist?list=PLNBNS7NRGKMHk3w8wv7pBbBMUSjaplurj)
 - Videos from Cascadia.js conference: [playlist](https://www.youtube.com/playlist?list=PLLiioAbFTbKNhobQW0fLRzP3oesrNW5K9)

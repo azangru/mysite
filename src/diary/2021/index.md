@@ -3,6 +3,11 @@ title: "2021"
 layout: layouts/post.njk
 ---
 
+## December 11
+- [Videos](https://www.youtube.com/playlist?list=PLcTu2VkAIIWyuX-yNe0KNSPR7wjS2lNKz) from Vim conference 2021. For example,
+  - [Writing, editing and world-building at the speed of thought](https://www.youtube.com/watch?v=2ORWaIqyj7k)
+  - [How to turn vim into a powerful and beautiful IDE](https://www.youtube.com/watch?v=434tljD-5C8)
+
 ## December 2
 - [Repository](https://github.com/LeaVerou/dynamic-css) for Lea Verou's course on CSS variables
 - [Her blog post on custom properties with defaults](https://lea.verou.me/2021/10/custom-properties-with-defaults/)

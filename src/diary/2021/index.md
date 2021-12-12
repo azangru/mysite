@@ -3,6 +3,9 @@ title: "2021"
 layout: layouts/post.njk
 ---
 
+## December 12
+- [Crypto theses 2022](https://messari.io/pdf/messari-report-crypto-theses-for-2022.pdf), by Ryan Selkis, the founder of Messari
+
 ## December 11
 - [Videos](https://www.youtube.com/playlist?list=PLcTu2VkAIIWyuX-yNe0KNSPR7wjS2lNKz) from Vim conference 2021. For example,
   - [Writing, editing and world-building at the speed of thought](https://www.youtube.com/watch?v=2ORWaIqyj7k)

@@ -3,6 +3,9 @@ title: "2021"
 layout: layouts/post.njk
 ---
 
+## December 16
+- [Slides](https://theprimeagen.github.io/nft) from ThePrimeagen's course on ethereum and solidity (also some code dumps in [this repo](https://github.com/ThePrimeagen/jpegdegens/commits/master))
+
 ## December 12
 - [Crypto theses 2022](https://messari.io/pdf/messari-report-crypto-theses-for-2022.pdf), by Ryan Selkis, the founder of Messari
 

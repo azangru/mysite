@@ -3,6 +3,10 @@ title: "2021"
 layout: layouts/post.njk
 ---
 
+## December 23
+More talsk from [React Advanced 2021]
+- [Beyond Virtual Lists: How to Render 100K Items with 100s of Updates/sec in React](https://www.youtube.com/watch?v=FgCOcRjz68I) by Michel Weststrate
+
 ## December 16
 - [Slides](https://theprimeagen.github.io/nft) from ThePrimeagen's course on ethereum and solidity (also some code dumps in [this repo](https://github.com/ThePrimeagen/jpegdegens/commits/master))
 

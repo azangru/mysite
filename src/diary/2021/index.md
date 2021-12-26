@@ -3,8 +3,14 @@ title: "2021"
 layout: layouts/post.njk
 ---
 
+## December 26
+Mike Hartington's talk at Vimconf 2021 about using (neo)vim for frontend
+- [video of the talk](https://youtu.be/dXMHf57xs5M)
+- [slides](https://github.com/mhartington/vimconf-live)
+- [dotfiles](https://github.com/mhartington/dotfiles) (he is using MacOS)
+
 ## December 23
-More talsk from [React Advanced 2021]
+More talks from [React Advanced 2021]
 - [Beyond Virtual Lists: How to Render 100K Items with 100s of Updates/sec in React](https://www.youtube.com/watch?v=FgCOcRjz68I) by Michel Weststrate
 
 ## December 16

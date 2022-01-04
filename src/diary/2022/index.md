@@ -3,6 +3,12 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## January 3
+To explore, regarding server-side rendering with React
+- [Remix's repository](https://github.com/remix-run/remix)
+- A [code sandbox](https://codesandbox.io/s/festive-star-9hfqt) with example of server-side rendering using an alpha of React 18
+- A github discussion about new server-side architecture in React 18 (Suspense and streaming)
+
 ## January 2
 - [MIT Introduction to Algorithms course, Summer 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 - Videos from PerfMatters conferences:

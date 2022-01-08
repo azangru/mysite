@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## January 8
+- [A frontend developer‘s dev setup](https://youtu.be/gMcGb55bsaE) interesting mostly because of the vim config.
+
 ## January 3
 To explore, regarding server-side rendering with React
 - [Remix's repository](https://github.com/remix-run/remix)

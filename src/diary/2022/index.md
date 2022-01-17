@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## January 17
+- [A repository with advice on Node.js integration testing](https://github.com/testjavascript/nodejs-integration-tests-best-practices)
+
 ## January 8
 - [A frontend developer‘s dev setup](https://youtu.be/gMcGb55bsaE) interesting mostly because of the vim config.
 

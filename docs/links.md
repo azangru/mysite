@@ -14,6 +14,7 @@ Examples of overall good personal websites
 - https://cloudfour.com/thinks/— a site of a design studio, as a PWA, with interesting blog articles
 - https://www.abeautifulsite.net/ — a simple and beautiful site indeed
 - https://www.tempertemper.net/ - great site
+- https://www.kizu.ru/ — Roman Komarov's blog. Fantastic in multiple ways
 
 https://github.com/iRaul/awesome-portfolios
 

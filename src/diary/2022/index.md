@@ -3,6 +3,10 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## January 18
+- [RxJS Char with Ben Lesh, July 2021](https://youtu.be/eCikPOuiZkA)
+- [RxJS Chat with Ben Lesh, December 2021](https://www.youtube.com/watch?v=IX86lE-skeQ)
+
 ## January 17
 - [A repository with advice on Node.js integration testing](https://github.com/testjavascript/nodejs-integration-tests-best-practices)
 

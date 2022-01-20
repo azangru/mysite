@@ -5,6 +5,7 @@ layout: layouts/post.njk
 
 ## January 19
 - [Security Engineering](https://www.youtube.com/channel/UCRw25HVj1Rvl2XcEHdj4PKg) — a video series of lectures by professors at the University of Edinburgh.
+- [Solana Bootcamp Chicago](https://www.youtube.com/playlist?list=PLilwLeBwGuK7Z2dXft_pmLZ675fuPgkA0) — playlist of lectures.
 
 ## January 18
 - [RxJS Char with Ben Lesh, July 2021](https://youtu.be/eCikPOuiZkA)

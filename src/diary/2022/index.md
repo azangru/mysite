@@ -3,6 +3,16 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## January 30
+- Someone's [example](https://rohitlakhotia.com/blog/nodejs-ejs-typescript-using-gulp-webpack) of setting up node with ejs for the view layer using gulp and webpack. Plus the [repo](https://github.com/RohitLakh/node-ejs-with-typescript-starter-project). Don't know if it's any good.
+- Adobe on [using CSS modules](https://developer.adobe.com/commerce/pwa-studio/guides/general-concepts/css-modules/)
+- A [repo](https://github.com/kuychaco/algoClass) with some algo/data structures exercises in javascript. Looks similar to what hack reactor would do.
+- [Miriam Suzanne's CSS Sandbox](https://css.oddbird.net)
+- [Makefiles for frontend](https://medium.com/finn-no/makefiles-for-frontend-1779be46461b)
+- A couple of links from Reddit of youtubers who might talk abotu frontend systems design:
+  - [one](https://www.youtube.com/c/FrontEndEngineer)
+  - [two](https://www.youtube.com/c/JSerJSer)
+
 ## January 19
 - [Security Engineering](https://www.youtube.com/channel/UCRw25HVj1Rvl2XcEHdj4PKg) — a video series of lectures by professors at the University of Edinburgh.
 - [Solana Bootcamp Chicago](https://www.youtube.com/playlist?list=PLilwLeBwGuK7Z2dXft_pmLZ675fuPgkA0) — playlist of lectures.

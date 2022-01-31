@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## January 31
+- An interesting drag-and-drop library for sortable lists, [sortable.js](https://sortablejs.github.io/Sortable)
+
 ## January 30
 - Someone's [example](https://rohitlakhotia.com/blog/nodejs-ejs-typescript-using-gulp-webpack) of setting up node with ejs for the view layer using gulp and webpack. Plus the [repo](https://github.com/RohitLakh/node-ejs-with-typescript-starter-project). Don't know if it's any good.
 - Adobe on [using CSS modules](https://developer.adobe.com/commerce/pwa-studio/guides/general-concepts/css-modules/)

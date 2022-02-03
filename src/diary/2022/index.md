@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## February 3
+- Donne Martin's [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+
 ## January 31
 - An interesting drag-and-drop library for sortable lists, [sortable.js](https://sortablejs.github.io/Sortable)
 

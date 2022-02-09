@@ -7,6 +7,7 @@ layout: layouts/post.njk
 - [Open-access math textbooks](https://aimath.org/textbooks/approved-textbooks)
 - [Your content in shadow DOM portals](https://medium.com/@westbrook/your-content-in-shadow-dom-portals-b964578a2e74) — discussion of how to do portals with web components
 - JSCONF 2020 conference has started, and will probably be eventually posted to [this youtube channel](https://www.youtube.com/c/FrontendLove/videos)
+- Jacob Kaplan-Moss: [Work sample tests](https://jacobian.org/series/work-sample-tests/) series of blog posts about techi exercises when hiring
 
 ## February 3
 - Donne Martin's [The System Design Primer](https://github.com/donnemartin/system-design-primer)

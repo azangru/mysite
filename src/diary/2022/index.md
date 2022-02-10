@@ -3,6 +3,16 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## February 10
+Various resources listing questions one might ask to the technical interviewer:
+- [Hacker News thread](https://news.ycombinator.com/item?id=30278290)
+- [Dave Ceddia’s list](https://daveceddia.com/interview-questions-to-ask-company/)
+- [Mark Erikson’s list](https://gist.github.com/markerikson/bc9e16de24e46712ff80bb658766185a)
+- [Someone else’s list](https://github.com/pmulard/interview_questions)
+- [Another list](https://gitlab.com/doctorj/interview-questions)
+- [More questions](https://github.com/lkostrowski/job-interview-questions-to-ask-companies) and [this](https://github.com/viraptor/reverse-interview)
+
+
 ## February 9
 - [Open-access math textbooks](https://aimath.org/textbooks/approved-textbooks)
 - [Your content in shadow DOM portals](https://medium.com/@westbrook/your-content-in-shadow-dom-portals-b964578a2e74) — discussion of how to do portals with web components

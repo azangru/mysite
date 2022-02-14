@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## February 14
+- [PWA haven](https://github.com/ThaUnknown/pwa-haven) — a collection of small, fast, simple PWAs to replace native OS apps.
+
 ## February 10
 Various resources listing questions one might ask to the technical interviewer:
 - [Hacker News thread](https://news.ycombinator.com/item?id=30278290)

@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## February 24
+- Yelp engineers [discussing](https://engineeringblog.yelp.com/2022/02/server-side-rendering-at-scale.html) how they architected their React server-side-rendered sites for scale
+
 ## February 14
 - [PWA haven](https://github.com/ThaUnknown/pwa-haven) — a collection of small, fast, simple PWAs to replace native OS apps.
 

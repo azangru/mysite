@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## March 12
+- Robin Wieruch's [development](https://www.robinwieruch.de/mac-setup-web-development) setup for his M1 Macbook Pro
+
 ## February 24
 - Yelp engineers [discussing](https://engineeringblog.yelp.com/2022/02/server-side-rendering-at-scale.html) how they architected their React server-side-rendered sites for scale
 

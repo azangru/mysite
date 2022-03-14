@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## March 14
+- An [article](https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts) about preferring Makefiles over package.json scripts
+
 ## March 12
 - Robin Wieruch's [development](https://www.robinwieruch.de/mac-setup-web-development) setup for his M1 Macbook Pro
 

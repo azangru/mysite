@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## March 15
+- [Vim Reference Guide](https://learnbyexample.github.io/vim_reference/cover.html)
+
 ## March 14
 - An [article](https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts) about preferring Makefiles over package.json scripts
 

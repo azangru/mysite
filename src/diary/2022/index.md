@@ -3,6 +3,11 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## March 20
+- [Mark Erikson's stream about the new redux listener middleware](https://youtu.be/D5WOry6gw9c)
+- [New version of curl supports json](https://daniel.haxx.se/blog/2022/02/02/curl-dash-dash-json/)
+- [Someone's git repository demoing usage of React with Rxjs](https://daniel.haxx.se/blog/2022/02/02/curl-dash-dash-json/) 
+
 ## March 15
 - [Vim Reference Guide](https://learnbyexample.github.io/vim_reference/cover.html)
 

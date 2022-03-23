@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## March 23
+- [Google Summer of Code manual](https://google.github.io/gsocguides/student)
+
 ## March 20
 - [Mark Erikson's stream about the new redux listener middleware](https://youtu.be/D5WOry6gw9c)
 - [New version of curl supports json](https://daniel.haxx.se/blog/2022/02/02/curl-dash-dash-json/)

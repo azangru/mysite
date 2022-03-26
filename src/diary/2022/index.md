@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## March 24
+- [Video stream of CityJS London 2022](https://youtu.be/iMhtwUPbwXs)
+
 ## March 23
 - [Google Summer of Code manual](https://google.github.io/gsocguides/student)
 

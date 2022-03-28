@@ -3,8 +3,14 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## March 28
+Links from Hacker News
+- [Recommendations when publishing a wasm library](https://nickb.dev/blog/recommendations-when-publishing-a-wasm-library)
+- [Modern PHP](https://dnlytras.com/blog/modern-php/)
+
 ## March 24
 - [Video stream of CityJS London 2022](https://youtu.be/iMhtwUPbwXs)
+- [CascadiaJS youtube channel](https://www.youtube.com/user/cascadiajs/videos) now contains talks from CascadiaJS 2021 conference
 
 ## March 23
 - [Google Summer of Code manual](https://google.github.io/gsocguides/student)

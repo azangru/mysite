@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## March 29
+Today I learnt: apart from the [Molstar](https://github.com/molstar/molstar) project for viewing 3d molecule structures, there is also [NGL viewer](https://github.com/nglviewer/ngl). NGL viewer uses Three.js whereas Molstar has built their own renderer.
+
 ## March 28
 Links from Hacker News
 - [Recommendations when publishing a wasm library](https://nickb.dev/blog/recommendations-when-publishing-a-wasm-library)

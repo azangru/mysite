@@ -3,6 +3,12 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## April 1
+A reminder to myself about Docker Desktop alternatives:
+- [Minikube](https://www.youtube.com/watch?v=LGNEG-t96eE)
+- [Rancher](https://www.youtube.com/watch?v=bYVfCp9dRTE)
+- [Colima](https://github.com/abiosoft/colima)
+
 ## March 30
 - [US Web Design System](https://designsystem.digital.gov/)
 

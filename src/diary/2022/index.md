@@ -3,6 +3,15 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+
+## April 10
+Need to research:
+- Using paginated requests with Redux toolkit query
+  - [Discussion on StackOverflow](https://stackoverflow.com/questions/67909356/is-there-any-way-to-fetch-all-the-responses-stored-in-api-slice-rtk-query)
+- Server-side rendering with React 18
+  - [Github discussion](https://github.com/reactwg/react-18/discussions/37)
+  - [Codesandbox example](https://codesandbox.io/s/kind-sammet-j56ro?file=/server/render.js)
+
 ## April 1
 A reminder to myself about Docker Desktop alternatives:
 - [Minikube](https://www.youtube.com/watch?v=LGNEG-t96eE)

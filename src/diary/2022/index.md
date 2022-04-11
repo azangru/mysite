@@ -3,6 +3,8 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## April 11
+- Dave Rupert‘s [short course](https://htmlwithsuperpowers.netlify.app/) on web components (and the [corresponding repo](https://github.com/davatron5000/htmlwithsuperpowers)).
 
 ## April 10
 Need to research:

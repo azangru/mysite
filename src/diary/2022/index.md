@@ -3,6 +3,10 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## April 15
+- Martin Hinshelwood‘s [youtube channel](https://www.youtube.com/c/nakedAgilitywithMartinHinshelwood/videos) on scrum training
+- An [example repo](https://github.com/Sairyss/domain-driven-hexagon) of backend architecture using Nest.js and hexagonal architecture. I was particularly amused by the use of jest-cucumber (see [example](https://github.com/Sairyss/domain-driven-hexagon/blob/master/tests/user/create-user/create-user.e2e-spec.ts))
+
 ## April 11
 - Dave Rupert‘s [short course](https://htmlwithsuperpowers.netlify.app/) on web components (and the [corresponding repo](https://github.com/davatron5000/htmlwithsuperpowers)).
 

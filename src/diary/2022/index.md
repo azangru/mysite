@@ -3,8 +3,13 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## April 17
+- [Someone‘s thoughts on interviewing engineers](https://jacobian.org/series/work-sample-tests)
+- [A series of articles on work sample tests](https://jacobian.org/series/work-sample-tests)
+
 ## April 15
 - Martin Hinshelwood‘s [youtube channel](https://www.youtube.com/c/nakedAgilitywithMartinHinshelwood/videos) on scrum training
+- [Adventures with Agile](https://www.youtube.com/c/AdventureswithAgile/videos) — youtube channel of a Scrum Alliance - endorsed user group, containing videos of meetups
 - An [example repo](https://github.com/Sairyss/domain-driven-hexagon) of backend architecture using Nest.js and hexagonal architecture. I was particularly amused by the use of jest-cucumber (see [example](https://github.com/Sairyss/domain-driven-hexagon/blob/master/tests/user/create-user/create-user.e2e-spec.ts))
 
 ## April 11

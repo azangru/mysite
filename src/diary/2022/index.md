@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## April 18
+- [Repository](https://github.com/gnikoloff/practical-webgl-from-scratch-course) for Georgi Nikolov‘s course “Practical WebGL from scratch for web developers”
+
 ## April 17
 - [Someone‘s thoughts on interviewing engineers](https://jacobian.org/series/work-sample-tests)
 - [A series of articles on work sample tests](https://jacobian.org/series/work-sample-tests)

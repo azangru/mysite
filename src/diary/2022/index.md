@@ -5,6 +5,7 @@ layout: layouts/post.njk
 
 ## April 18
 - [Repository](https://github.com/gnikoloff/practical-webgl-from-scratch-course) for Georgi Nikolov‘s course “Practical WebGL from scratch for web developers”
+- Michael Covington: [How to Write More Clearly, Think More Clearly, and Learn Complex Material More Easily](http://www.covingtoninnovations.com/mc/WriteThinkLearn.pdf)
 
 ## April 17
 - [Someone‘s thoughts on interviewing engineers](https://jacobian.org/series/work-sample-tests)

@@ -3,6 +3,12 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## April 26
+- [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests)
+- [The Whimsical web](https://whimsical.club) — lots of delightful web sites
+- [Recommendations when publishing a wasm library](https://nickb.dev/blog/recommendations-when-publishing-a-wasm-library)
+- [A complete guide to typescript‘s `never` type](https://www.zhenghao.io/posts/ts-never)
+
 ## April 18
 - [Repository](https://github.com/gnikoloff/practical-webgl-from-scratch-course) for Georgi Nikolov‘s course “Practical WebGL from scratch for web developers”
 - Michael Covington: [How to Write More Clearly, Think More Clearly, and Learn Complex Material More Easily](http://www.covingtoninnovations.com/mc/WriteThinkLearn.pdf)

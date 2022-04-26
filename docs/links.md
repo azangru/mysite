@@ -16,6 +16,7 @@ Examples of overall good personal websites
 - https://www.tempertemper.net/ - great site
 - https://www.kizu.ru/ — Roman Komarov's blog. Fantastic in multiple ways
 - https://simonhearne.com/ — Simon Hearne's blog. Incredibly fast, all about performance
+- https://whimsical.club — websites that spark joy
 
 https://github.com/iRaul/awesome-portfolios
 

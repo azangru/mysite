@@ -3,6 +3,21 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## May 6
+Recordings of recent conferences
+- [Reactathon 2022, pre-conf, remote session 1](https://www.youtube.com/watch?v=YVN0kkm9U-c)
+- [Reactathon 2022, pre-conf, remote session 2](https://www.youtube.com/watch?v=rI-o4VeIngU)
+- [Reactathon 2022, pre-conf, remote session 3](https://www.youtube.com/watch?v=VE9G9yQoyoU)
+- [Reactathon 2022, Day 1 livestream](https://www.youtube.com/watch?v=V5hPAl1q7vo)
+- [Reactathon 2022, Day 2 livestream](https://www.youtube.com/watch?v=Ck-e3hd3pKw)
+- [Reactathon 2022, Day 3 livestream](https://www.youtube.com/watch?v=0qK2_wi4t3k)
+- [Devs for Ukr](https://www.youtube.com/playlist?list=PLxhAYc-E3agF5KgXBnxNstUq9FZoXNETE)
+
+## May 5
+Introduction to RxJS patterns in React
+- [Part 1, with Ben Lesh](https://www.youtube.com/watch?v=qF8XcEwwPpU)
+- [Part 2, with Jay Phelps](https://youtu.be/516azNix4B8)
+
 ## April 26
 - [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests)
 - [The Whimsical web](https://whimsical.club) — lots of delightful web sites

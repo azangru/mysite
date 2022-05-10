@@ -2,6 +2,8 @@
 title: "2022"
 layout: layouts/post.njk
 ---
+## May 10
+- [Stanford CS229: Machine Learning | Autumn 2018 playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
 ## May 6
 Recordings of recent conferences

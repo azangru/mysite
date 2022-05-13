@@ -144,7 +144,7 @@ Various resources listing questions one might ask to the technical interviewer:
 - [Solana Bootcamp Chicago](https://www.youtube.com/playlist?list=PLilwLeBwGuK7Z2dXft_pmLZ675fuPgkA0) — playlist of lectures.
 
 ## January 18
-- [RxJS Char with Ben Lesh, July 2021](https://youtu.be/eCikPOuiZkA)
+- [RxJS Chat with Ben Lesh, July 2021](https://youtu.be/eCikPOuiZkA)
 - [RxJS Chat with Ben Lesh, December 2021](https://www.youtube.com/watch?v=IX86lE-skeQ)
 
 ## January 17

@@ -6,6 +6,7 @@ layout: layouts/post.njk
 ## May 13
 - [Google IO 2022, the web talks](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDKuCU73tmdRN_-mI3tKFPD)
 - [Mob programming explained, with Amitai Schleier](https://youtu.be/eLLOOmS-7pY)
+- [Repo](https://github.com/davidkpiano/frontend-masters-css) with materials of David Khourshid's course on CSS animations at Frontend Masters
 
 ## May 10
 - [Stanford CS229: Machine Learning | Autumn 2018 playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)

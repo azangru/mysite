@@ -76,6 +76,7 @@ main {
   align-items: center;
   background-color: white;
   padding: 2px;
+  backface-visibility: hidden;
 }
 
 .book__cover-back {

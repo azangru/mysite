@@ -3,6 +3,10 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## May 24
+- [The Dao of Functional Programming](https://github.com/BartoszMilewski/Publications/tree/master/TheDaoOfFP), by Bartosz Milewski
+- A [list](https://www.susanrigetti.com/math) of books for studying maths
+
 ## May 13
 - [Google IO 2022, the web talks](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDKuCU73tmdRN_-mI3tKFPD)
 - [Mob programming explained, with Amitai Schleier](https://youtu.be/eLLOOmS-7pY)

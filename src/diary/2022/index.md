@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## May 27
+- [Remix Conf 2022 — recorded video](https://www.youtube.com/watch?v=4_nxvVTNY9s)
+
 ## May 24
 - [The Dao of Functional Programming](https://github.com/BartoszMilewski/Publications/tree/master/TheDaoOfFP), by Bartosz Milewski
 - A [list](https://www.susanrigetti.com/math) of books for studying maths

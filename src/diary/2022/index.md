@@ -3,6 +3,10 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## June 1
+- The [site](https://javascriptpatterns.vercel.app/patterns) for the Javascript Patterns workshop at Frontend Masters. Mostly meh though.
+- [John Coleman's videos on agile lopics](https://www.youtube.com/c/JohnColemanagilitychef/videos)
+
 ## May 27
 - [Remix Conf 2022 — recorded video](https://www.youtube.com/watch?v=4_nxvVTNY9s)
 

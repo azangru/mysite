@@ -3,6 +3,14 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## June 3
+- [Design Course](https://www.youtube.com/c/DesignCourse/videos) — a youtube channel with some potentially useful ideas.
+
+## June 2
+Render Atlanta Conference — turned out it wasn't particularly interesting, and the links below are only from one venue, whereas there were three parallel venues each day. But just for the sake of completeness, here goes:
+- [Render Atlanta Conference, day 1](https://www.youtube.com/watch?v=zED9ePuht4g)
+- [Render Atlanta Conference, day 2](https://youtu.be/Im39xsT_3HY)
+
 ## June 1
 - The [site](https://javascriptpatterns.vercel.app/patterns) for the Javascript Patterns workshop at Frontend Masters. Mostly meh though.
 - [John Coleman's videos on agile lopics](https://www.youtube.com/c/JohnColemanagilitychef/videos)

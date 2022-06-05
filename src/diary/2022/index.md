@@ -10,6 +10,7 @@ layout: layouts/post.njk
 Render Atlanta Conference — turned out it wasn't particularly interesting, and the links below are only from one venue, whereas there were three parallel venues each day. But just for the sake of completeness, here goes:
 - [Render Atlanta Conference, day 1](https://www.youtube.com/watch?v=zED9ePuht4g)
 - [Render Atlanta Conference, day 2](https://youtu.be/Im39xsT_3HY)
+Update: the video for day 2 is already down. Probably better just to check out [their channel](https://www.youtube.com/channel/UCyVg5SCSM87WMXqT8ip144A/videos) later.
 
 ## June 1
 - The [site](https://javascriptpatterns.vercel.app/patterns) for the Javascript Patterns workshop at Frontend Masters. Mostly meh though.

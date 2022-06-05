@@ -32,6 +32,7 @@ Ready tasks
 
 Definition of done
 
+Mid-sprint backlog refinement
 
 ## The daily scrum
 
@@ -41,7 +42,7 @@ Status report -> real scrum
 
 Review of pull requests
 
-Deviating from the scrum guide because we are solutioning
+Deviating from the scrum guide because we are solutioning. This might be due to the fact that we are within the same frontend team; and we want to share code examples, or ask each other about the code or about the design.
 
 The event that we have made work the most.
 
@@ -51,7 +52,17 @@ The event that we have made work the most.
 No product owner; no stakeholders.
 
 ## Sprint retrospective
-Difficult to make them engaging.
+Hard to make them engaging.
 
 
 ## Scrumbut 
+
+- cross-functional team
+- product owner
+- value
+
+
+## Areas of improvement
+- Better understanding of value? Maybe a product owner?
+- Better use of sprint reviews? Currently we are just demoing the work to each other, focusing on what each individual developer has done.
+- Better at cross-functional team? Cuurrently the team we work the closest is the backend team; and we overcome any communication difficulties due to the fact that we work in a single room, and have daiily standups, and other kinds of meetings. Would feature teams work better for us?

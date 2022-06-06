@@ -3,6 +3,21 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## June 6
+- [How to create spring animations with web animation api](https://www.kirillvasiltsov.com/writing/how-to-create-a-spring-animation-with-web-animation-api)
+- [The future of CSS: cascade layers](https://www.bram.us/2021/09/15/the-future-of-css-cascade-layers-css-at-layer/)
+- [Content-visibility and rendering performance](https://web.dev/content-visibility/)
+- [Materials for Mike North‘s course Making Typescript Stick](https://www.typescript-training.com/course/making-typescript-stick)
+- [Mob Programming explained, a talk by Amitai Schleier](https://youtu.be/eLLOOmS-7pY)
+- [Shadow DOM portals, by Westbrook Johnson](https://medium.com/@westbrook/your-content-in-shadow-dom-portals-b964578a2e74)
+- [Domain modelling in typescript](https://ikoshelev.azurewebsites.net/search/id/17/Pragmatic-uses-of-Typescript-type-system-04-Domain-Modeling-with-Typescript)
+- [Fun and games with ES proxies](https://vimeo.com/364362111)
+- [Jen Kramer's substaack – HTML and CSS](https://jen4web.substack.com/)
+- [Using iterators to write composable code](http://raganwald.com/2017/04/19/incremental.html#III)
+- [Simon Hearne's talks on web performance](https://simonhearne.com/talks/)
+- [A complete guide to typescript's never type](https://www.zhenghao.io/posts/ts-never)
+
+
 ## June 3
 - [Design Course](https://www.youtube.com/c/DesignCourse/videos) — a youtube channel with some potentially useful ideas.
 

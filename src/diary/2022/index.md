@@ -16,7 +16,10 @@ layout: layouts/post.njk
 - [Using iterators to write composable code](http://raganwald.com/2017/04/19/incremental.html#III)
 - [Simon Hearne's talks on web performance](https://simonhearne.com/talks/)
 - [A complete guide to typescript's never type](https://www.zhenghao.io/posts/ts-never)
-
+- [Scrolling images with WebGL and Three.js](https://www.youtube.com/watch?v=ivg603bYDk8) — Yuri Artiukh’s youtube channel is great in general
+- [HolyJS youtube channel](https://www.youtube.com/channel/UC2Jwo4Q0s-ucjGseHP8XUSQ/videos)
+- [NodeConf remote 2020 — playlist](https://www.youtube.com/playlist?list=PL0CdgOSSGlBalMPxFFycq7OIqQF8cJS28)
+- [Andrew Adamson’s WebGL2 playlist](https://www.youtube.com/playlist?list=PLPbmjY2NVO_X1U1JzLxLDdRn4NmtxyQQo)
 
 ## June 3
 - [Design Course](https://www.youtube.com/c/DesignCourse/videos) — a youtube channel with some potentially useful ideas.

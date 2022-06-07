@@ -20,6 +20,7 @@ layout: layouts/post.njk
 - [HolyJS youtube channel](https://www.youtube.com/channel/UC2Jwo4Q0s-ucjGseHP8XUSQ/videos)
 - [NodeConf remote 2020 — playlist](https://www.youtube.com/playlist?list=PL0CdgOSSGlBalMPxFFycq7OIqQF8cJS28)
 - [Andrew Adamson’s WebGL2 playlist](https://www.youtube.com/playlist?list=PLPbmjY2NVO_X1U1JzLxLDdRn4NmtxyQQo)
+- [Life of a pixel](https://www.youtube.com/watch?v=K2QHdgAKP-s)
 
 ## June 3
 - [Design Course](https://www.youtube.com/c/DesignCourse/videos) — a youtube channel with some potentially useful ideas.
@@ -79,6 +80,7 @@ Youtube channels of interesting Agile consultants / consultancies
 - Dave Farley — [Continuous Delivery](https://www.youtube.com/c/ContinuousDelivery/videos)
 - [Agile to Agility](https://www.youtube.com/c/Agiletoagility/videos) (conversations with different famous figures)
 - Nigel Baker — [Agile Bear](https://www.youtube.com/c/nigelagilebear/videos)
+- [Nigel Baker and Chet Hendrickson discuss the 2020 update to the Scrum Guide](https://www.youtube.com/watch?v=I9WZTg8uaiw)
 
 
 ## April 17

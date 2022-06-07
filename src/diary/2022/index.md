@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## June 7
+- [HN discussion of various clever custom robots.txt files](https://news.ycombinator.com/item?id=30299731)
+
 ## June 6
 - [How to create spring animations with web animation api](https://www.kirillvasiltsov.com/writing/how-to-create-a-spring-animation-with-web-animation-api)
 - [The future of CSS: cascade layers](https://www.bram.us/2021/09/15/the-future-of-css-cascade-layers-css-at-layer/)

@@ -18,6 +18,7 @@ Examples of overall good personal websites
 - https://simonhearne.com/ — Simon Hearne's blog. Incredibly fast, all about performance
 - https://whimsical.club — websites that spark joy
 - https://lance.dev/ — example of a good online resume
+- https://www.unqualified-reservations.org/ — love the typography and the cleanness of this site
 
 https://github.com/iRaul/awesome-portfolios
 

@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## June 9
+- Someone’s (a manager a Microsoft) [opinion](https://fev.al/posts/leet-code) on tech interviews without leet-code-kind problems
+
 ## June 7
 - [HN discussion of various clever custom robots.txt files](https://news.ycombinator.com/item?id=30299731)
 

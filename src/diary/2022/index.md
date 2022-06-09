@@ -5,6 +5,9 @@ layout: layouts/post.njk
 
 ## June 9
 - Someone’s (a manager a Microsoft) [opinion](https://fev.al/posts/leet-code) on tech interviews without leet-code-kind problems
+- [Modern Physics full lecture course](https://youtu.be/3lTQqEehEhI)
+- [WSU Special Relativity with Brian Greene](https://youtu.be/XFV2feKDK9E)
+- [Addressing Abiogenesis and Common Misconceptions](https://www.youtube.com/playlist?list=PLILWudw_84t2THBvJZFyuLA0qvxwrIBDr), by Dr. James Tour
 
 ## June 7
 - [HN discussion of various clever custom robots.txt files](https://news.ycombinator.com/item?id=30299731)

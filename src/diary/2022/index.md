@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## June 21
+- Video recordings from Wordcamp Europe 2022 added to their [youtube channel](https://www.youtube.com/channel/UCaYQGYDpXpU4A17kxN-AgJQ/videos)
+
 ## June 12
 - [Agile and Kanban Coaching Exchange channel](https://www.youtube.com/c/CoachingExchange/videos)
 

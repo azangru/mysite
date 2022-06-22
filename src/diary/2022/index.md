@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## June 22
+- [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line), a repo.
+
 ## June 21
 - Video recordings from Wordcamp Europe 2022 added to their [youtube channel](https://www.youtube.com/channel/UCaYQGYDpXpU4A17kxN-AgJQ/videos)
 - [Beginner's series to Rust, by Microsoft](https://docs.microsoft.com/en-us/shows/beginners-series-to-rust/)

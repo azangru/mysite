@@ -3,6 +3,16 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## June 26
+- [Talks from React Summit 2022](https://portal.gitnation.org/events/react-summit-2022)
+- Pluralsight seems to have opened the ng-conf workshop on RxJS with Aaron Frost and Mike Brocchi
+  - [Day 1](https://app.pluralsight.com/course-player?clipId=606bd763-e4dc-4207-83d7-9511a29b2af0)
+  - [Day 2](https://app.pluralsight.com/course-player?clipId=827c3c84-bf17-4b0d-800c-4ac2569eb172)
+- Justin Fagnani’s [talk](https://www.youtube.com/watch?v=6o5zaKHedTE) back from the Polymer Summit 2016 about providing dependencies to components via events.
+
+## June 24
+- [OCaml programming](https://cs3110.github.io/textbook/cover.html) — a textbook for a functional programming course at Cornell
+
 ## June 22
 - [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line), a repo.
 

@@ -5,6 +5,8 @@ layout: layouts/post.njk
 
 ## June 30
 - [Videos from JSNation conference 2022](https://www.youtube.com/playlist?list=PLfIM4SvaiIyz7Aom_DjSwwcftcEmEvP1A)
+- A good [episode](https://www.mountaingoatsoftware.com/agile/podcast/6-how-to-make-the-daily-scrum-more-effective-with-julie-chickering) of the Agile Mentors podcast, talking about the daily scrum
+- And, by the way, an [episode](https://youtu.be/_oIPrBcy6v4) of Your Daily Scrum, about running the daily scrum without the three questions 
 
 ## June 26
 - [Talks from React Summit 2022](https://portal.gitnation.org/events/react-summit-2022)

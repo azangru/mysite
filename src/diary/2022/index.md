@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## June 30
+- [Videos from JSNation conference 2022](https://www.youtube.com/playlist?list=PLfIM4SvaiIyz7Aom_DjSwwcftcEmEvP1A)
+
 ## June 26
 - [Talks from React Summit 2022](https://portal.gitnation.org/events/react-summit-2022)
 - Pluralsight seems to have opened the ng-conf workshop on RxJS with Aaron Frost and Mike Brocchi

@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## July 7
+- [CSS day 2022](https://cssday.nl/2022/speakers), including links to videos of talks
+
 ## June 30
 - [Videos from JSNation conference 2022](https://www.youtube.com/playlist?list=PLfIM4SvaiIyz7Aom_DjSwwcftcEmEvP1A)
 - A good [episode](https://www.mountaingoatsoftware.com/agile/podcast/6-how-to-make-the-daily-scrum-more-effective-with-julie-chickering) of the Agile Mentors podcast, talking about the daily scrum

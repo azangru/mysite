@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## July 8
+- [Youtube channel of Actineo Consulting](https://www.youtube.com/c/ActineoConsultingLLP/videos), containing videos from different meetups on agile processes.
+
 ## July 7
 - [CSS day 2022](https://cssday.nl/2022/speakers), including links to videos of talks
 

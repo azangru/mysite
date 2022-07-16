@@ -6,6 +6,8 @@ layout: layouts/post.njk
 ## July 16
 - [Teach yourself computer science](https://teachyourselfcs.com/)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) (plus the [repo](https://github.com/missing-semester)])
+- [Jeff Erickson's algorithms book](https://jeffe.cs.illinois.edu/teaching/algorithms/). His [web page](http://jeffe.cs.illinois.edu/) contains links to his courses at the University of Illinois, including a course on algorithms and on computational geometry.
+- [Video tutorials on shaders by Inigo Quilez](https://iquilezles.org/live/), including amazing demonstrations of painting with math.
 
 ## July 8
 - [Youtube channel of Actineo Consulting](https://www.youtube.com/c/ActineoConsultingLLP/videos), containing videos from different meetups on agile processes.

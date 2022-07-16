@@ -3,6 +3,10 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## July 16
+- [Teach yourself computer science](https://teachyourselfcs.com/)
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) (plus the [repo](https://github.com/missing-semester)])
+
 ## July 8
 - [Youtube channel of Actineo Consulting](https://www.youtube.com/c/ActineoConsultingLLP/videos), containing videos from different meetups on agile processes.
 

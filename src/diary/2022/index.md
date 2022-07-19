@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## July 19
+- [free-for.dev](https://free-for.dev) — a curated list of services offering free tiers that can be useful for developers
+
 ## July 16
 - [Teach yourself computer science](https://teachyourselfcs.com/)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) (plus the [repo](https://github.com/missing-semester)])

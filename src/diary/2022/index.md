@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## July 20
+- [How to use a personal website to enhance your ability to think and create?](https://michaelnotebook.com/wn/website_enhance.html)
+
 ## July 19
 - [free-for.dev](https://free-for.dev) — a curated list of services offering free tiers that can be useful for developers
 

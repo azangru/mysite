@@ -3,6 +3,11 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## July 21
+- [Scrum Masters of the Universe youtube channel](https://www.youtube.com/c/ScrumMastersoftheUniverse/videos)
+- [CSS day 2022 playlist](https://www.youtube.com/playlist?list=PLjnstNlepBvNqk-CeIgptyQFhZY0s5Ubp)
+- [List of talks by James Mickens](https://mickens.seas.harvard.edu/wisdom-james-mickens)
+
 ## July 20
 - [How to use a personal website to enhance your ability to think and create?](https://michaelnotebook.com/wn/website_enhance.html)
 

@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## July 28
+- Anton Abilov’s [talk](https://youtu.be/SlDxTsVNDao) about using RxJS in a production app, from JSConf 2019
+
 ## July 21
 - [Scrum Masters of the Universe youtube channel](https://www.youtube.com/c/ScrumMastersoftheUniverse/videos)
 - [CSS day 2022 playlist](https://www.youtube.com/playlist?list=PLjnstNlepBvNqk-CeIgptyQFhZY0s5Ubp)

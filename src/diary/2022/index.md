@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## July 31
+- [Page](https://harvard-iacs.github.io/2021-CS109A/) for Harvard’s 2021 version of the intro to data science course. Sadly, no video lectures.
+
 ## July 28
 - Anton Abilov’s [talk](https://youtu.be/SlDxTsVNDao) about using RxJS in a production app, from JSConf 2019
 

@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## August 3
+- Video recording of the talk [Web Components at the Edge](https://www.youtube.com/watch?v=ba83Zo8kf68)
+
 ## July 31
 - [Page](https://harvard-iacs.github.io/2021-CS109A/) for Harvard’s 2021 version of the intro to data science course. Sadly, no video lectures.
 

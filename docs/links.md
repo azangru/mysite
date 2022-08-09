@@ -20,6 +20,7 @@ Examples of overall good personal websites
 - https://lance.dev/ — example of a good online resume
 - https://www.unqualified-reservations.org/ — love the typography and the cleanness of this site
 - https://smth.uk — a lovely website by a web designer, with fantastic performance
+- https://ljvmiranda921.github.io/ — just some person's website
 
 https://github.com/iRaul/awesome-portfolios
 

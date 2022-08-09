@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## August 9
+- Someone’s [blog post](https://www.trysmudford.com/blog/eleventy-design-system/) on building a design system with Eleventy
+
 ## August 3
 - Video recording of the talk [Web Components at the Edge](https://www.youtube.com/watch?v=ba83Zo8kf68)
 

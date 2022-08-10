@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## August 10
+Interesting, Github is building (or perhaps has already built) its own web-components-based library called [Catalyst](https://github.github.io/catalyst). [The introductory page of the guide](https://github.github.io/catalyst/guide/introduction/) describes the motivation for building it.
+
 ## August 9
 - Someone’s [blog post](https://www.trysmudford.com/blog/eleventy-design-system/) on building a design system with Eleventy
 

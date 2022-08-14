@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## Augist 14
+- [Red Hat's Design System](https://ux.redhat.com/components/), built with web components using Lit
+
 ## August 11
 - A [site](https://theweeklychallenge.org/challenges) with weekly programming challenges. Designed mostly for Perl; but can, of course, be used with any language.
 

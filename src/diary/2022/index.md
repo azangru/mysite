@@ -6,6 +6,7 @@ layout: layouts/post.njk
 ## August 16
 - Gov.uk [writes](https://insidegovuk.blog.gov.uk/2022/06/13/what-weve-learned-from-one-year-of-real-user-monitoring-data-on-gov-uk/) about real-user monitoring. [This](https://github.com/alphagov/govuk_publishing_components/blob/main/app/assets/javascripts/govuk_publishing_components/vendor/lux/lux-reporter.js) seems to be the script that they are using for this purpose.
 - [Nord Health design system](https://nordhealth.design/), done with web components
+- [Jacob Kaplan-Moss’s Python development environment](https://jacobian.org/2019/nov/11/python-environment-2020/)
 
 ## Augist 14
 - [Red Hat's Design System](https://ux.redhat.com/components/), built with web components using Lit

@@ -11,14 +11,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@11ty/eleventy": "1.0.1",
+    "@11ty/eleventy": "2.0.0-canary.14",
     "gh-pages": "4.0.0",
-    "luxon": "2.4.0"
+    "luxon": "3.0.1"
   },
   "devDependencies": {
-    "@11ty/eleventy-plugin-rss": "1.1.2",
-    "@11ty/eleventy-plugin-syntaxhighlight": "4.0.0",
-    "eslint": "8.15.0",
+    "@11ty/eleventy-plugin-rss": "1.2.0",
+    "@11ty/eleventy-plugin-syntaxhighlight": "4.1.0",
+    "eslint": "8.22.0",
     "js-yaml": "4.1.0",
     "markdown-it": "13.0.1"
   }

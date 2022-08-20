@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "eleventy",
-    "start": "eleventy --serve",
+    "start": "eleventy --incremental --serve",
     "deploy": "npm run build && gh-pages -d public"
   },
   "author": "",

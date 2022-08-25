@@ -22,6 +22,7 @@ Examples of overall good personal websites
 - https://smth.uk — a lovely website by a web designer, with fantastic performance
 - https://ljvmiranda921.github.io/ — just some person's website
 - https://jacobian.org/ — website of a guy who co-created Django
+- https://someantics.dev/ — Ben Myer's website; pretty good
 
 https://github.com/iRaul/awesome-portfolios
 

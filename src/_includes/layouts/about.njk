@@ -4,8 +4,8 @@ templateClass: tmpl-about
 ---
 
 {% block styles %}
-<link rel="preload" href="/css/navigation.css" as="style">
-<link rel="stylesheet" href="{{ '/css/about.css' | url }}">
+<link rel="preload" href="/assets/css/navigation.css" as="style">
+<link rel="stylesheet" href="{{ '/assets/css/about.css' | url }}">
 {% endblock %}
 
 {% block scripts %}
@@ -17,9 +17,9 @@ templateClass: tmpl-about
   {% include "components/nav-sidebar.njk" %}
 
   <picture>
-    <source type="image/webp" srcset="/images/azov.webp">
-    <source type="image/jpeg" srcset="/images/azov.jpg">
-    <img class="about__my-photo" src="/images/azov.jpg" alt="My photo">
+    <source type="image/webp" srcset="/assets/images/azov.webp">
+    <source type="image/jpeg" srcset="/assets/images/azov.jpg">
+    <img class="about__my-photo" src="/assets/images/azov.jpg" alt="My photo">
   </picture>
   {{ content | safe }}
 </main>

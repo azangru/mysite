@@ -3,11 +3,11 @@
   <div class="book__cover-container {{ 'book__cover-container_flippable' if book.image_back }}">
     <div class="book__cover">
       <div class="book__cover-front">
-        <img src="/images/book-covers/{{book.image_front}}" />
+        <img src="/assets/images/book-covers/{{book.image_front}}" />
       </div>
       {% if book.image_back %}
         <div class="book__cover-back">
-          <img src="/images/book-covers/{{book.image_back}}" />
+          <img src="/assets/images/book-covers/{{book.image_back}}" />
         </div>
       {% endif %}
     </div>

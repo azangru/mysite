@@ -6,10 +6,6 @@
   box-sizing: border-box;
 }
 
-html {
-  font-size: 10px;
-}
-
 html, body {
   margin: 0;
   height: 100%;
@@ -23,10 +19,6 @@ main {
   padding: 0 1rem 2rem;
 }
 
-main {
-  font-size: 2rem;
-}
-
 a {
   text-decoration: none;
   padding: 0.2rem;
@@ -34,4 +26,9 @@ a {
 
 a, a:visited:not([class]) {
   color: blue;
+}
+
+ul {
+  margin: 0;
+  padding: 0 0 0 2ch;
 }

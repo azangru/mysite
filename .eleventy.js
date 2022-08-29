@@ -5,14 +5,12 @@ const yaml = require("js-yaml");
 const { DateTime } = require("luxon");
 
 module.exports = function(eleventyConfig) {
-  eleventyConfig.addPassthroughCopy({
-    'src/static': '/assets'
-  });
+  eleventyConfig.addPassthroughCopy('src/assets');
 
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
 
-  eleventyConfig.setDataDeepMerge(true);
+  // eleventyConfig.setDataDeepMerge(true);
 
   eleventyConfig.addDataExtension("yml", yaml.load);
   eleventyConfig.addDataExtension("yaml", yaml.load);

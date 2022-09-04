@@ -23,3 +23,6 @@ published: true
 ### Daily scrum
 - A good [episode](https://www.mountaingoatsoftware.com/agile/podcast/6-how-to-make-the-daily-scrum-more-effective-with-julie-chickering) of the Agile Mentors podcast, talking about the daily scrum
 - And, by the way, an [episode](https://youtu.be/_oIPrBcy6v4) of Your Daily Scrum, about running the daily scrum without the three questions
+
+### Retrospectives
+- [Various ideas for retrospective format](https://easyretro.io/retrospective-ideas/) at EasyRetro

@@ -4,6 +4,7 @@ layout: layouts/post.njk
 published: true
 ---
 
+- [Agile for Humans](https://www.youtube.com/c/AgileforHumans/videos) — the channel of Ryan Ripley and Todd Motto
 - [Age of Product](https://www.youtube.com/c/AgeofProduct/videos) — a youtube channel about Agile methodologies.
 - [Scrum Masters of the Universe youtube channel](https://www.youtube.com/c/ScrumMastersoftheUniverse/videos)
 - [Youtube channel of Actineo Consulting](https://www.youtube.com/c/ActineoConsultingLLP/videos), containing videos from different meetups on agile processes.
@@ -17,6 +18,7 @@ published: true
 - [Nigel Baker and Chet Hendrickson discuss the 2020 update to the Scrum Guide](https://www.youtube.com/watch?v=I9WZTg8uaiw)
 - [Martin Hinshelwood‘s youtube channel _Naked Agility_](https://www.youtube.com/c/nakedAgilitywithMartinHinshelwood/videos) on scrum training
 - [Adventures with Agile](https://www.youtube.com/c/AdventureswithAgile/videos) — youtube channel of a Scrum Alliance - endorsed user group, containing videos of meetups
+- [Lean Agile Brighton](https://www.youtube.com/channel/UCGXZWLztVMFBgAx6zvyfZqw/videos) — videos from conferences and meetups
 
 ## Scrum
 

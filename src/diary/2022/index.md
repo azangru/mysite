@@ -3,6 +3,11 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## September 13
+- [Scott Myers: Advice to Prospective Book Authors](https://www.aristeia.com/authorAdvice.html)
+- [Handbook for Writers](https://saylordotorg.github.io/text_handbook-for-writers/)
+- [Use plain-text email](https://useplaintext.email)
+
 ## August 16
 - Gov.uk [writes](https://insidegovuk.blog.gov.uk/2022/06/13/what-weve-learned-from-one-year-of-real-user-monitoring-data-on-gov-uk/) about real-user monitoring. [This](https://github.com/alphagov/govuk_publishing_components/blob/main/app/assets/javascripts/govuk_publishing_components/vendor/lux/lux-reporter.js) seems to be the script that they are using for this purpose.
 - [Nord Health design system](https://nordhealth.design/), done with web components

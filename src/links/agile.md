@@ -28,3 +28,6 @@ published: true
 
 ### Retrospectives
 - [Various ideas for retrospective format](https://easyretro.io/retrospective-ideas/) at EasyRetro
+
+### Online courses
+- [Agile and Scrum in the Real World | Google Project Management Certificate](https://www.youtube.com/watch?v=1evfn3qTYGM)

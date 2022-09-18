@@ -6,6 +6,7 @@ const { DateTime } = require("luxon");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/assets');
+  eleventyConfig.setServerPassthroughCopyBehavior("copy"); // FIXME: this is temporary; should remove when the issue is fixed
 
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);

@@ -24,6 +24,7 @@ Examples of overall good personal websites
 - https://jacobian.org/ — website of a guy who co-created Django
 - https://someantics.dev/ — Ben Myer's website; pretty good
 - https://korayer.de/ — Someone's minimalist website. The pages are tiny. Found via [1kb.club](https://1kb.club/)
+- https://www.aleksandrhovhannisyan.com/
 
 https://github.com/iRaul/awesome-portfolios
 

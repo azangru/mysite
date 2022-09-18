@@ -102,7 +102,7 @@ _Bookmate,_ where I am currently employed.
 
 ### Web Development Immersive at General Assembly
 
-#### What has it taught me?
+#### What it has taught me
 Web Development Immersive was my true introduction into programming.
 I had taken some online courses before, such as CS50 on EdX, or some Python courses on
 EdX and Coursera, but I still was extremely new to software development when I
@@ -111,7 +111,7 @@ course, where I learned the basics of programming, a server-side language and a
 client-side language, principles of the MVC architecture, and the beauty of having
 a mature framework (such as Ruby on Rails) that takes care of your common development needs.
 
-#### What has it NOT taught me?
+#### What it has NOT taught me
 By the end of the course, I was not aware of the depth of my ignorance. I did
 not have any devops/sysadmin training (apart from using a service such as Heroku).
 I had no idea about mobile web development, and was not even trained to think
@@ -132,7 +132,7 @@ of Rails apps and an Angular-based client-side app, been exposed to testing, and
 started watching conference talks pretty regularly. I was hoping this program would
 both help me review the fundamentals and teach me the bleeding edge of JavaScript development.
 
-### What has it taught me?
+#### What it has taught me
 Hack Reactor’s 12-week program is divided in half: the first 6 weeks, students study the
 same materials and learn the fundamentals of JavaScript, as well as its main applications
 on the client and on the server; the other half they apply this knowledge working on projects
@@ -143,7 +143,7 @@ specs that needed to be implemented, and learned the concepts by writing code th
 make tests pass. Also, here I for the first time properly learned about Node, and Express,
 and D3.
 
-### What has it NOT taught me?
+#### What it has NOT taught me
 Although a great experience in general (10/10 would recommend, as they say on Reddit),
 Hack Reactor was disappointingly conservative when it came to technologies that were
 taught to the students. To my dismay, in summer 2015, the curriculum did not include ES6 and
@@ -186,8 +186,7 @@ clear coherent story. Functional programming in JavaScript works well with react
 programming, but at the same time functional type-safe languages, such as ReasonML,
 do not seem particularly interested in reactive programming. Progressive web apps
 rely on the native web platform as much as possible, to save on the size of JavaScript bundles,
-whereas the functional school of thought dislikes the native solutions for being impure, non-
-composable and so on (dislike towards the native promises and async-await is a good example
+whereas the functional school of thought dislikes the native solutions for being impure, non-composable and so on (dislike of the native promises and async-await is a good example
 of this), and favors concepts implemented in additional libraries.
 
 All this is pretty confusing and exhausting, and contributing to the sense of JavaScript

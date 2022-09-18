@@ -4,12 +4,14 @@ layout: layouts/base.njk
 
 {% block styles %}
 <link rel="preload" href="/assets/css/navigation.css" as="style">
-<link rel="stylesheet" href="{{ '/assets/css/about.css' | url }}">
+<link rel="stylesheet" href="{{ '/assets/css/post.css' | url }}">
 {% endblock %}
 
 <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
-  <h1>{{ title }}</h1>
-  {{ content | safe }}
+  <article>
+    <h1>{{ title }}</h1>
+    {{ content | safe }}
+  </article>
 </main>
 
 <footer></footer>

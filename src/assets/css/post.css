@@ -5,3 +5,7 @@ main {
   max-width: var(--content-width);
   margin: 90px auto;
 }
+
+article {
+  max-width: 80ch;
+}

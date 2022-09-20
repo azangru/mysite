@@ -6,6 +6,7 @@ published: true
 
 ## College-level courses
 - [Computer science](/links/cs_courses)
+- [Natural sciences](/links/science_courses)
 - [Humanities](/links/humanities)
 
 ### Other courses

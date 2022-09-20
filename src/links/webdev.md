@@ -12,6 +12,9 @@ published: true
   - [Playlist for 2019](https://www.youtube.com/playlist?list=PLSmH2HL6l9pw47J-xWZSIH7HpEgqlGiXD)
   - [Playlist for 2020](https://www.youtube.com/playlist?list=PLSmH2HL6l9pwQmSgpKFtWiISOXua3zq8I)
 
+## CSS
+- Interesting CSS challenges at [cssbattle.dev](https://cssbattle.dev/)
+
 ## RxJS
 - [RxJS Chat with Ben Lesh, July 2021](https://youtu.be/eCikPOuiZkA)
 - [RxJS Chat with Ben Lesh, December 2021](https://www.youtube.com/watch?v=IX86lE-skeQ)

@@ -20,6 +20,8 @@ published: true
 - [Martin Hinshelwood‘s youtube channel _Naked Agility_](https://www.youtube.com/c/nakedAgilitywithMartinHinshelwood/videos) on scrum training
 - [Adventures with Agile](https://www.youtube.com/c/AdventureswithAgile/videos) — youtube channel of a Scrum Alliance - endorsed user group, containing videos of meetups
 - [Lean Agile Brighton](https://www.youtube.com/channel/UCGXZWLztVMFBgAx6zvyfZqw/videos) — videos from conferences and meetups
+- [Expert Agile Club](https://www.youtube.com/c/ExpertAgileClub/videos)
+- [Agile Online Summit](https://www.youtube.com/channel/UCWw427dFOOCK5pw7YxGod1w/videos)
 
 ## Scrum
 

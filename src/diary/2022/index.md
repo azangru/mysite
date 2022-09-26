@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## September 24
+- [Self-Driving Car with JavaScript Course – Neural Networks and Machine Learning](https://www.youtube.com/watch?v=Rs_rAxEsAvI)
+
 ## September 13
 - [Scott Myers: Advice to Prospective Book Authors](https://www.aristeia.com/authorAdvice.html)
 - [Handbook for Writers](https://saylordotorg.github.io/text_handbook-for-writers/)

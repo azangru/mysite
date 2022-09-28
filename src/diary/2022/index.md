@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## September 27
+- [Harvard Resume ans Cover Letter Guide](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
+
 ## September 24
 - [Self-Driving Car with JavaScript Course – Neural Networks and Machine Learning](https://www.youtube.com/watch?v=Rs_rAxEsAvI)
 

@@ -6,6 +6,7 @@ published: true
 
 - [Agile for Humans](https://www.youtube.com/c/AgileforHumans/videos) — the channel of Ryan Ripley and Todd Motto
 - Scrum Alliance [videos](https://resources.scrumalliance.org/?tn=Videos) and [webinars](https://resources.scrumalliance.org/?tn=Webinars)
+- [Leading Agile](https://www.youtube.com/c/Leadingagile/videos)
 - [Age of Product](https://www.youtube.com/c/AgeofProduct/videos) — a youtube channel about Agile methodologies.
 - [Scrum Masters of the Universe youtube channel](https://www.youtube.com/c/ScrumMastersoftheUniverse/videos)
 - [Youtube channel of Actineo Consulting](https://www.youtube.com/c/ActineoConsultingLLP/videos), containing videos from different meetups on agile processes.

@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## October 2
+- [Pharos](https://github.com/ithaka/pharos) – JStor's design system built with Lit.
+
 ## September 27
 - [Harvard Resume ans Cover Letter Guide](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
 

@@ -22,6 +22,7 @@ published: true
 - [Adventures with Agile](https://www.youtube.com/c/AdventureswithAgile/videos) — youtube channel of a Scrum Alliance - endorsed user group, containing videos of meetups
 - [Lean Agile Brighton](https://www.youtube.com/channel/UCGXZWLztVMFBgAx6zvyfZqw/videos) — videos from conferences and meetups
 - [Expert Agile Club](https://www.youtube.com/c/ExpertAgileClub/videos)
+- [Coaching Agile Journeys](https://www.youtube.com/channel/UCB7Qplmnr-FCAJaYHcmd5Qw/videos)
 - [Agile Online Summit](https://www.youtube.com/channel/UCWw427dFOOCK5pw7YxGod1w/videos)
 
 ## Scrum
@@ -35,3 +36,13 @@ published: true
 
 ### Online courses
 - [Agile and Scrum in the Real World | Google Project Management Certificate](https://www.youtube.com/watch?v=1evfn3qTYGM)
+
+
+## Notable People
+- James Coplien
+- Nigel Baker
+- Ron Jeffries
+- Chet Hendrickson
+- Dave Thomas (Pragmatic Programmer)
+- Lachlan Heasman (Scrum PLOP)
+- Lyssa Adkins (Agile coaching)

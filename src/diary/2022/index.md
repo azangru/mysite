@@ -3,6 +3,18 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## October 31
+- Apparently, there's [work being done on Design Tokens Format Module spec](https://design-tokens.github.io/community-group/format/). Red Hat is trying to use it [here](https://github.com/redhat-ux/red-hat-design-tokens)
+
+## October 21
+- [Write Your Own Web Store in Hours](https://github.com/bendechrai/write-your-own-web-store-in-hours) — a workshop on the use of jwt tokens, by Ben Dechrai.
+
+## October 11
+- [Logging Cheat Sheet (OWASP Cheat Sheet Series)](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html)
+
+## October 8
+- [Google's PWA training](https://web.dev/new-pwa-training/). Especially interesting is the last section, _Adopting Advanced Web App Architectures_. There's a [PWA codelab code](https://github.com/GoogleChromeLabs/pwa-workshop-codelab) on github.
+
 ## October 2
 - [Pharos](https://github.com/ithaka/pharos) – JStor's design system built with Lit.
 

@@ -3,6 +3,17 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## November 6
+- [Repository for the book _Think DSP: Digital Signal Processing in Python_](https://github.com/AllenDowney/ThinkDSP), with the text of the book and the code examples
+- [Scientific python lectures repository](https://github.com/jrjohansson/scientific-python-lectures) by the author of Numerical Python
+
+## November 1
+- [Beyond the Basics: Data Visualization in Python](https://github.com/stefmolin/python-data-viz-workshop)
+- [Exercises in Udacity's Introduction to Data Science course](https://github.com/udacity/cd0017-introduction-to-data-science)
+- [Scipy lecture notes](https://scipy-lectures.org/intro/scipy/auto_examples/#solutions-of-the-exercises-for-scipy)
+- [The Statistics and Calculus with Python Workshop](https://github.com/PacktWorkshops/The-Statistics-and-Calculus-with-Python-Workshop)
+- [Performance Now 2022 playlist](https://www.youtube.com/playlist?list=PLjnstNlepBvN4Cpv_Io-GpvJKdo1Bu-Vz)
+
 ## October 31
 - Apparently, there's [work being done on Design Tokens Format Module spec](https://design-tokens.github.io/community-group/format/). Red Hat is trying to use it [here](https://github.com/redhat-ux/red-hat-design-tokens)
 

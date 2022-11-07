@@ -17,6 +17,19 @@ published: true
 ## Programming languages
 - ECE 459: Programming for Performance, taught at University of Waterloo — has a [github repository](https://github.com/jzarnett/ece459), and [videos](https://www.youtube.com/c/JeffZarnett/videos) posted to Jeff Zarnett's channel
 
+## Natural language processing
+- CS224U: Natural Language Understanding, Stanford:
+  - [Course page](https://web.stanford.edu/class/cs224u/index.html)
+  - [Youtube playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ)
+- [CS224N, Natural Language Processing with Deep Learning, Stanford]
+  - [Course page](https://web.stanford.edu/class/cs224n/)
+  - [Youtube playlist](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+- [Computational Linguistics, University of Maryland, github repo](https://github.com/hal3/cl1f19umd#course-project) — contains syllabus of the course and links to other resources, including:
+  - [A Course in Machine Learning](http://ciml.info/)
+  - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+  - [Natural Language Processing, Jacob Eisenstein](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+  
+
 ## Operating systems
 - [Advanced programming in the UNIX environment](https://stevens.netmeister.org/631/)
 

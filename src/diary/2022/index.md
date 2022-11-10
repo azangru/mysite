@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## November 10
+- [An example of using Lit with Eleventy](https://github.com/e111077/11ty-lit)
+
 ## November 6
 - [Repository for the book _Think DSP: Digital Signal Processing in Python_](https://github.com/AllenDowney/ThinkDSP), with the text of the book and the code examples
 - [Scientific python lectures repository](https://github.com/jrjohansson/scientific-python-lectures) by the author of Numerical Python

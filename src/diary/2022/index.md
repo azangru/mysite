@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## November 12
+- [An example of server-side rendering of a React app with React Router, using Vite](https://github.com/remix-run/react-router/tree/main/examples/ssr). It's interesting how they treat the development and the production build.
+
 ## November 10
 - [An example of using Lit with Eleventy](https://github.com/e111077/11ty-lit)
 

@@ -3,6 +3,33 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## December 3
+- Someone's [rewrite](https://github.com/ChuckJonas/spotify-fp-ts-example) of Brian Lonsdorf's pf example in fp-ts
+- Someone else's [video](https://www.youtube.com/watch?v=L8quhHCCNRU) (in Russian) of using fp-ts in a React app
+
+## December 1
+- Keith Cirkel from Github is building 24 vanilla web components over the course of this advent. Videos available both on [Twitch](https://www.twitch.tv/videos/1668321469) and on [youtube](https://www.youtube.com/@keithamus/videos) 
+
+## November 21
+Examples of server-side rendering with Lit:
+- A [stackblitz instance](https://stackblitz.com/edit/lit-ssr-global)
+- [starter-spa package](https://github.com/lit/lit/tree/starter-spa-min/packages/starter-spa) on lit.dev (not yet merged into main; might disappear; who knows)
+
+## November 20
+- [Typescript generics workshop](https://github.com/total-typescript/typescript-generics-workshop) looks very good. Other repos in that org (by Matt Pockock) are promising as well.
+
+## November 16
+- An attempt to summarize information about monorepos — [monorepo.tools](https://monorepo.tools/)
+- Need to check out repos with React SSR examples for inspiration:
+  - [webpack-react-express-ssr](https://github.com/lhz516/webpack-react-express-ssr)
+  - [react-easy-ssr](https://github.com/tomtom94/react-easy-ssr)
+  - [claims that react-refresh works with React 18 and renderToPipeableStream](https://github.com/drinking-code/react-fast-refresh-renderToPipeableStream)
+  - [discussion on StackOverflow](https://stackoverflow.com/a/71111448/3925302) inspired by Nest.js
+
+## November 15
+- [Repository](https://github.com/dylanbeattie/miles-camp-2022) for JS Ray-Tracing workshop from Miles Camp 2022 (is it by Dylan Beattie? don't know)
+- [Course handbook](https://github.com/ursatile/jsray) for building a simple ray tracer in JavaScript
+
 ## November 12
 - [An example of server-side rendering of a React app with React Router, using Vite](https://github.com/remix-run/react-router/tree/main/examples/ssr). It's interesting how they treat the development and the production build.
 

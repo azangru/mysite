@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## December 18
+- [A github repo with typescript challenges](https://github.com/type-challenges/type-challenges)
+
 ## December 3
 - Someone's [rewrite](https://github.com/ChuckJonas/spotify-fp-ts-example) of Brian Lonsdorf's pf example in fp-ts
 - Someone else's [video](https://www.youtube.com/watch?v=L8quhHCCNRU) (in Russian) of using fp-ts in a React app

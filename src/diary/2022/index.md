@@ -3,6 +3,14 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## December 21
+- [Playlist](https://www.youtube.com/playlist?list=PLxQqv_fazRs1YErY-yiY19rUsjwtYQwpj) of SmashingConf New York, 2022
+- [Playlist](https://www.youtube.com/playlist?list=PLxQqv_fazRs1USdg7GRKk5nihprY2YYnu) of SmashingConf Freiburg, 2022
+- [Slides](https://noti.st/rachelandrew/YyNEXE/whats-new-in-responsive-design) from Rachel Andrew's talk "What's new in responsive design"
+
+## December 19
+- Josh Collinsworth's [article](https://joshcollinsworth.com/blog/never-use-px-for-font-size) "Why you should never use px to set font-size in CSS"
+
 ## December 18
 - [A github repo with typescript challenges](https://github.com/type-challenges/type-challenges)
 

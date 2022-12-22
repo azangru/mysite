@@ -3,6 +3,9 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## December 22
+- [Comprehensive Rust](https://google.github.io/comprehensive-rust/welcome.html) – notes for a 4-day course from a Googler on Rust and Android programming
+
 ## December 21
 - [Playlist](https://www.youtube.com/playlist?list=PLxQqv_fazRs1YErY-yiY19rUsjwtYQwpj) of SmashingConf New York, 2022
 - [Playlist](https://www.youtube.com/playlist?list=PLxQqv_fazRs1USdg7GRKk5nihprY2YYnu) of SmashingConf Freiburg, 2022

@@ -9,17 +9,17 @@ layout: layouts/post.njk
 ## December 21
 - [Playlist](https://www.youtube.com/playlist?list=PLxQqv_fazRs1YErY-yiY19rUsjwtYQwpj) of SmashingConf New York, 2022
 - [Playlist](https://www.youtube.com/playlist?list=PLxQqv_fazRs1USdg7GRKk5nihprY2YYnu) of SmashingConf Freiburg, 2022
-- [Slides](https://noti.st/rachelandrew/YyNEXE/whats-new-in-responsive-design) from Rachel Andrew's talk "What's new in responsive design"
+- [Slides](https://noti.st/rachelandrew/YyNEXE/whats-new-in-responsive-design) from Rachel Andrew’s talk "What’s new in responsive design"
 
 ## December 19
-- Josh Collinsworth's [article](https://joshcollinsworth.com/blog/never-use-px-for-font-size) "Why you should never use px to set font-size in CSS"
+- Josh Collinsworth’s [article](https://joshcollinsworth.com/blog/never-use-px-for-font-size) "Why you should never use px to set font-size in CSS"
 
 ## December 18
 - [A github repo with typescript challenges](https://github.com/type-challenges/type-challenges)
 
 ## December 3
-- Someone's [rewrite](https://github.com/ChuckJonas/spotify-fp-ts-example) of Brian Lonsdorf's pf example in fp-ts
-- Someone else's [video](https://www.youtube.com/watch?v=L8quhHCCNRU) (in Russian) of using fp-ts in a React app
+- Someone’s [rewrite](https://github.com/ChuckJonas/spotify-fp-ts-example) of Brian Lonsdorf’s functional programming examples in fp-ts
+- Someone’s [video](https://www.youtube.com/watch?v=L8quhHCCNRU) (in Russian) of using fp-ts in a React app
 
 ## December 1
 - Keith Cirkel from Github is building 24 vanilla web components over the course of this advent. Videos available both on [Twitch](https://www.twitch.tv/videos/1668321469) and on [youtube](https://www.youtube.com/@keithamus/videos) 
@@ -41,11 +41,11 @@ Examples of server-side rendering with Lit:
   - [discussion on StackOverflow](https://stackoverflow.com/a/71111448/3925302) inspired by Nest.js
 
 ## November 15
-- [Repository](https://github.com/dylanbeattie/miles-camp-2022) for JS Ray-Tracing workshop from Miles Camp 2022 (is it by Dylan Beattie? don't know)
+- [Repository](https://github.com/dylanbeattie/miles-camp-2022) for JS Ray-Tracing workshop from Miles Camp 2022 (is it by Dylan Beattie? don’t know)
 - [Course handbook](https://github.com/ursatile/jsray) for building a simple ray tracer in JavaScript
 
 ## November 12
-- [An example of server-side rendering of a React app with React Router, using Vite](https://github.com/remix-run/react-router/tree/main/examples/ssr). It's interesting how they treat the development and the production build.
+- [An example of server-side rendering of a React app with React Router, using Vite](https://github.com/remix-run/react-router/tree/main/examples/ssr). It’s interesting how they treat the development and the production build.
 
 ## November 10
 - [An example of using Lit with Eleventy](https://github.com/e111077/11ty-lit)
@@ -56,13 +56,13 @@ Examples of server-side rendering with Lit:
 
 ## November 1
 - [Beyond the Basics: Data Visualization in Python](https://github.com/stefmolin/python-data-viz-workshop)
-- [Exercises in Udacity's Introduction to Data Science course](https://github.com/udacity/cd0017-introduction-to-data-science)
+- [Exercises in Udacity’s Introduction to Data Science course](https://github.com/udacity/cd0017-introduction-to-data-science)
 - [Scipy lecture notes](https://scipy-lectures.org/intro/scipy/auto_examples/#solutions-of-the-exercises-for-scipy)
 - [The Statistics and Calculus with Python Workshop](https://github.com/PacktWorkshops/The-Statistics-and-Calculus-with-Python-Workshop)
 - [Performance Now 2022 playlist](https://www.youtube.com/playlist?list=PLjnstNlepBvN4Cpv_Io-GpvJKdo1Bu-Vz)
 
 ## October 31
-- Apparently, there's [work being done on Design Tokens Format Module spec](https://design-tokens.github.io/community-group/format/). Red Hat is trying to use it [here](https://github.com/redhat-ux/red-hat-design-tokens)
+- Apparently, there’s [work being done on Design Tokens Format Module spec](https://design-tokens.github.io/community-group/format/). Red Hat is trying to use it [here](https://github.com/redhat-ux/red-hat-design-tokens)
 
 ## October 21
 - [Write Your Own Web Store in Hours](https://github.com/bendechrai/write-your-own-web-store-in-hours) — a workshop on the use of jwt tokens, by Ben Dechrai.
@@ -71,10 +71,10 @@ Examples of server-side rendering with Lit:
 - [Logging Cheat Sheet (OWASP Cheat Sheet Series)](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html)
 
 ## October 8
-- [Google's PWA training](https://web.dev/new-pwa-training/). Especially interesting is the last section, _Adopting Advanced Web App Architectures_. There's a [PWA codelab code](https://github.com/GoogleChromeLabs/pwa-workshop-codelab) on github.
+- [Google’s PWA training](https://web.dev/new-pwa-training/). Especially interesting is the last section, _Adopting Advanced Web App Architectures_. There’s a [PWA codelab code](https://github.com/GoogleChromeLabs/pwa-workshop-codelab) on github.
 
 ## October 2
-- [Pharos](https://github.com/ithaka/pharos) – JStor's design system built with Lit.
+- [Pharos](https://github.com/ithaka/pharos) – JStor’s design system built with Lit.
 
 ## September 27
 - [Harvard Resume ans Cover Letter Guide](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
@@ -93,7 +93,7 @@ Examples of server-side rendering with Lit:
 - [Jacob Kaplan-Moss’s Python development environment](https://jacobian.org/2019/nov/11/python-environment-2020/)
 
 ## Augist 14
-- [Red Hat's Design System](https://ux.redhat.com/components/), built with web components using Lit
+- [Red Hat’s Design System](https://ux.redhat.com/components/), built with web components using Lit
 
 ## August 11
 - A [site](https://theweeklychallenge.org/challenges) with weekly programming challenges. Designed mostly for Perl; but can, of course, be used with any language.
@@ -138,11 +138,11 @@ Interesting, Github is building (or perhaps has already built) its own web-compo
 
 ## June 21
 - Video recordings from Wordcamp Europe 2022 added to their [youtube channel](https://www.youtube.com/channel/UCaYQGYDpXpU4A17kxN-AgJQ/videos)
-- [Beginner's series to Rust, by Microsoft](https://docs.microsoft.com/en-us/shows/beginners-series-to-rust/)
+- [Beginner’s series to Rust, by Microsoft](https://docs.microsoft.com/en-us/shows/beginners-series-to-rust/)
 
 
 ## June 9
-- Someone’s (a manager a Microsoft) [opinion](https://fev.al/posts/leet-code) on tech interviews without leet-code-kind problems
+- Someone’s (who is a manager at Microsoft) [opinion](https://fev.al/posts/leet-code) on tech interviews without leet-code-kind problems
 
 
 ## June 7
@@ -153,32 +153,27 @@ Interesting, Github is building (or perhaps has already built) its own web-compo
 - [The future of CSS: cascade layers](https://www.bram.us/2021/09/15/the-future-of-css-cascade-layers-css-at-layer/)
 - [Content-visibility and rendering performance](https://web.dev/content-visibility/)
 - [Materials for Mike North‘s course Making Typescript Stick](https://www.typescript-training.com/course/making-typescript-stick)
-- [Mob Programming explained, a talk by Amitai Schleier](https://youtu.be/eLLOOmS-7pY)
 - [Shadow DOM portals, by Westbrook Johnson](https://medium.com/@westbrook/your-content-in-shadow-dom-portals-b964578a2e74)
 - [Domain modelling in typescript](https://ikoshelev.azurewebsites.net/search/id/17/Pragmatic-uses-of-Typescript-type-system-04-Domain-Modeling-with-Typescript)
 - [Fun and games with ES proxies](https://vimeo.com/364362111)
-- [Jen Kramer's substaack – HTML and CSS](https://jen4web.substack.com/)
+- [Jen Kramer’s substack – HTML and CSS](https://jen4web.substack.com/)
 - [Using iterators to write composable code](http://raganwald.com/2017/04/19/incremental.html#III)
-- [Simon Hearne's talks on web performance](https://simonhearne.com/talks/)
-- [A complete guide to typescript's never type](https://www.zhenghao.io/posts/ts-never)
-- [Scrolling images with WebGL and Three.js](https://www.youtube.com/watch?v=ivg603bYDk8) — Yuri Artiukh’s youtube channel is great in general
-- [HolyJS youtube channel](https://www.youtube.com/channel/UC2Jwo4Q0s-ucjGseHP8XUSQ/videos)
-- [NodeConf remote 2020 — playlist](https://www.youtube.com/playlist?list=PL0CdgOSSGlBalMPxFFycq7OIqQF8cJS28)
-- [Andrew Adamson’s WebGL2 playlist](https://www.youtube.com/playlist?list=PLPbmjY2NVO_X1U1JzLxLDdRn4NmtxyQQo)
-- [Life of a pixel](https://www.youtube.com/watch?v=K2QHdgAKP-s)
+- [Simon Hearne’s talks on web performance](https://simonhearne.com/talks/)
+- [A complete guide to typescript’s never type](https://www.zhenghao.io/posts/ts-never)
+
 
 ## June 3
 - [Design Course](https://www.youtube.com/c/DesignCourse/videos) — a youtube channel with some potentially useful ideas.
 
 ## June 2
-Render Atlanta Conference — turned out it wasn't particularly interesting, and the links below are only from one venue, whereas there were three parallel venues each day. But just for the sake of completeness, here goes:
+Render Atlanta Conference — turned out it wasn’t particularly interesting, and the links below are only from one venue, whereas there were three parallel venues each day. But just for the sake of completeness, here goes:
 - [Render Atlanta Conference, day 1](https://www.youtube.com/watch?v=zED9ePuht4g)
 - [Render Atlanta Conference, day 2](https://youtu.be/Im39xsT_3HY)
 Update: the video for day 2 is already down. Probably better just to check out [their channel](https://www.youtube.com/channel/UCyVg5SCSM87WMXqT8ip144A/videos) later.
 
 ## June 1
 - The [site](https://javascriptpatterns.vercel.app/patterns) for the Javascript Patterns workshop at Frontend Masters. Mostly meh though.
-- [John Coleman's videos on agile lopics](https://www.youtube.com/c/JohnColemanagilitychef/videos)
+- [John Coleman’s videos on agile lopics](https://www.youtube.com/c/JohnColemanagilitychef/videos)
 
 ## May 27
 - [Remix Conf 2022 — recorded video](https://www.youtube.com/watch?v=4_nxvVTNY9s)
@@ -189,7 +184,7 @@ Update: the video for day 2 is already down. Probably better just to check out [
 
 ## May 13
 - [Google IO 2022, the web talks](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDKuCU73tmdRN_-mI3tKFPD)
-- [Repo](https://github.com/davidkpiano/frontend-masters-css) with materials of David Khourshid's course on CSS animations at Frontend Masters
+- [Repo](https://github.com/davidkpiano/frontend-masters-css) with materials of David Khourshid’s course on CSS animations at Frontend Masters
 
 
 ## May 6
@@ -247,9 +242,9 @@ Links from Hacker News
 - [Google Summer of Code manual](https://google.github.io/gsocguides/student)
 
 ## March 20
-- [Mark Erikson's stream about the new redux listener middleware](https://youtu.be/D5WOry6gw9c)
+- [Mark Erikson’s stream about the new redux listener middleware](https://youtu.be/D5WOry6gw9c)
 - [New version of curl supports json](https://daniel.haxx.se/blog/2022/02/02/curl-dash-dash-json/)
-- [Someone's git repository demoing usage of React with Rxjs](https://daniel.haxx.se/blog/2022/02/02/curl-dash-dash-json/)
+- [Someone’s git repository demoing usage of React with Rxjs](https://daniel.haxx.se/blog/2022/02/02/curl-dash-dash-json/)
 
 ## March 15
 - [Vim Reference Guide](https://learnbyexample.github.io/vim_reference/cover.html)
@@ -258,7 +253,7 @@ Links from Hacker News
 - An [article](https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts) about preferring Makefiles over package.json scripts
 
 ## March 12
-- Robin Wieruch's [development](https://www.robinwieruch.de/mac-setup-web-development) setup for his M1 Macbook Pro
+- Robin Wieruch’s [development](https://www.robinwieruch.de/mac-setup-web-development) setup for his M1 Macbook Pro
 
 ## February 24
 - Yelp engineers [discussing](https://engineeringblog.yelp.com/2022/02/server-side-rendering-at-scale.html) how they architected their React server-side-rendered sites for scale
@@ -284,16 +279,16 @@ Various resources listing questions one might ask to the technical interviewer:
 - [Videos from ReactNext 2021](https://www.youtube.com/playlist?list=PLMYVq3z1QxSq8U5MBE5XE3pcBQt75bZXk)
 
 ## February 3
-- Donne Martin's [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+- Donne Martin’s [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ## January 31
 - An interesting drag-and-drop library for sortable lists, [sortable.js](https://sortablejs.github.io/Sortable)
 
 ## January 30
-- Someone's [example](https://rohitlakhotia.com/blog/nodejs-ejs-typescript-using-gulp-webpack) of setting up node with ejs for the view layer using gulp and webpack. Plus the [repo](https://github.com/RohitLakh/node-ejs-with-typescript-starter-project). Don't know if it's any good.
+- Someone’s [example](https://rohitlakhotia.com/blog/nodejs-ejs-typescript-using-gulp-webpack) of setting up node with ejs for the view layer using gulp and webpack. Plus the [repo](https://github.com/RohitLakh/node-ejs-with-typescript-starter-project). Don’t know if it’s any good.
 - Adobe on [using CSS modules](https://developer.adobe.com/commerce/pwa-studio/guides/general-concepts/css-modules/)
 - A [repo](https://github.com/kuychaco/algoClass) with some algo/data structures exercises in javascript. Looks similar to what hack reactor would do.
-- [Miriam Suzanne's CSS Sandbox](https://css.oddbird.net)
+- [Miriam Suzanne’s CSS Sandbox](https://css.oddbird.net)
 - [Makefiles for frontend](https://medium.com/finn-no/makefiles-for-frontend-1779be46461b)
 - A couple of links from Reddit of youtubers who might talk about frontend systems design:
   - [one](https://www.youtube.com/c/FrontEndEngineer)

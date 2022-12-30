@@ -14,6 +14,9 @@ published: true
 - [Stanford CS229: Machine Learning | Autumn 2018 playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [Georgia Tech's Specialization in Computing Systems](https://omscs.gatech.edu/specialization-computing-systems), with e.g. a [course on graduate algorithms](https://omscs.gatech.edu/cs-6515-intro-graduate-algorithms), which includes videos
 
+## Computer graphics
+- 6.837: Introduction to Computer Graphics (fall 2021) ([youtube playlist](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtqt2yL3KgKV-yn0NEPbRVi))
+
 ## Programming languages
 - ECE 459: Programming for Performance, taught at University of Waterloo — has a [github repository](https://github.com/jzarnett/ece459), and [videos](https://www.youtube.com/c/JeffZarnett/videos) posted to Jeff Zarnett's channel
 

@@ -5,19 +5,17 @@ published: true
 ---
 
 - [Agile for Humans](https://www.youtube.com/c/AgileforHumans/videos) — the channel of Ryan Ripley and Todd Motto
-- Scrum Alliance [videos](https://resources.scrumalliance.org/?tn=Videos) and [webinars](https://resources.scrumalliance.org/?tn=Webinars)
+- Scrum Alliance [videos](https://resources.scrumalliance.org/?tn=Videos) and [webinars](https://resources.scrumalliance.org/?tn=Webinars). See also their [Vimeo channel](https://vimeo.com/scrumalliance?embedded=true&source=video_title&owner=56112061)
 - [Leading Agile](https://www.youtube.com/c/Leadingagile/videos)
 - [Age of Product](https://www.youtube.com/c/AgeofProduct/videos) — a youtube channel about Agile methodologies.
 - [Scrum Masters of the Universe youtube channel](https://www.youtube.com/c/ScrumMastersoftheUniverse/videos)
 - [Youtube channel of Actineo Consulting](https://www.youtube.com/c/ActineoConsultingLLP/videos), containing videos from different meetups on agile processes.
 - [Facilitation techniques for Scrum Events](https://www.scrum.org/facilitation-techniques-scrum-events), a pretty interesting article.
 - [Agile and Kanban Coaching Exchange channel](https://www.youtube.com/c/CoachingExchange/videos)
-- [Mob programming explained, with Amitai Schleier](https://youtu.be/eLLOOmS-7pY)
 - [Geoff Watts's channel _Inspect and Adapt_](https://www.youtube.com/c/InspectAdaptLtd/videos)
 - [Dave Farley's channel _Continuous Delivery_](https://www.youtube.com/c/ContinuousDelivery/videos)
 - [Agile to Agility](https://www.youtube.com/c/Agiletoagility/videos) (conversations with different famous figures)
 - [Nigel Baker's channel _Agile Bear_](https://www.youtube.com/c/nigelagilebear/videos)
-- [Nigel Baker and Chet Hendrickson discuss the 2020 update to the Scrum Guide](https://www.youtube.com/watch?v=I9WZTg8uaiw)
 - [Martin Hinshelwood‘s youtube channel _Naked Agility_](https://www.youtube.com/c/nakedAgilitywithMartinHinshelwood/videos) on scrum training
 - [Adventures with Agile](https://www.youtube.com/c/AdventureswithAgile/videos) — youtube channel of a Scrum Alliance - endorsed user group, containing videos of meetups
 - [Lean Agile Brighton](https://www.youtube.com/channel/UCGXZWLztVMFBgAx6zvyfZqw/videos) — videos from conferences and meetups
@@ -26,6 +24,13 @@ published: true
 - [Agile Online Summit](https://www.youtube.com/channel/UCWw427dFOOCK5pw7YxGod1w/videos)
 
 ## Scrum
+- [Scrum.org](https://www.scrum.org/) — arguably, the most authoritative source on Scrum
+- [Nigel Baker and Chet Hendrickson discuss the 2020 update to the Scrum Guide](https://www.youtube.com/watch?v=I9WZTg8uaiw)
+- [Scrum.inc](https://www.scruminc.com). This is Jeff Sutherland’s site, which is in a much worse state than Scrum.org. However, it still contains valuable resources such as Jeff Sutherland’s explanation of the framework (see the playlist [here](https://www.scruminc.com/scrumlab-open/)), and a somewhat more detailed overview starting from [this page](https://www.scruminc.com/scrum-framework/) (and then one needs to follow the links in the ScrumLab Open section)
+- [A Scrum Book](http://scrumbook.org/) — an effort by James Coplien, together with Jeff Sutherland et al., to write about Scrum in an analytical and academic sort of way.
+
+### History
+- [The New New Product Development Game by Hirotaka Takeuchi and Ikujiro Nonaka](https://hbr.org/1986/01/the-new-new-product-development-game) — an article in Harvard Business review in which the word “Scrum” appeared for the first time.
 
 ### Daily scrum
 - A good [episode](https://www.mountaingoatsoftware.com/agile/podcast/6-how-to-make-the-daily-scrum-more-effective-with-julie-chickering) of the Agile Mentors podcast, talking about the daily scrum
@@ -33,6 +38,10 @@ published: true
 
 ### Retrospectives
 - [Various ideas for retrospective format](https://easyretro.io/retrospective-ideas/) at EasyRetro
+
+### Mob programming
+- [Mob Programming explained, a talk by Amitai Schleier](https://youtu.be/eLLOOmS-7pY)
+- [Mob Programming 101, by Woody Zuill](https://www.youtube.com/watch?v=s4Eg-mnx9zg)
 
 ### Online courses
 - [Agile and Scrum in the Real World | Google Project Management Certificate](https://www.youtube.com/watch?v=1evfn3qTYGM)

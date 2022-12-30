@@ -23,7 +23,6 @@ main {
 
 a {
   text-decoration: none;
-  padding: 0.2rem;
 }
 
 a, a:visited:not([class]) {

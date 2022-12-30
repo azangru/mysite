@@ -11,8 +11,7 @@ published: true
 ## Free services
 - [free-for.dev](https://free-for.dev) — a curated list of services offering free tiers that can be useful for developers
 
-## Docke
-
+## Docker
 A reminder to myself about Docker Desktop alternatives:
 - [Minikube](https://www.youtube.com/watch?v=LGNEG-t96eE)
 - [Rancher](https://www.youtube.com/watch?v=bYVfCp9dRTE)

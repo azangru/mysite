@@ -3,6 +3,19 @@ title: "2022"
 layout: layouts/post.njk
 ---
 
+## December 31
+- [Scrum Interview Questions and Answers](https://www.youtube.com/playlist?list=PLWcvFkRbuunn534zhHAQ0pn0uJ2sCXgjo) — a playlist by what looks like an Indian company, iZenBridge Consultancy.
+
+Things worth researching related to Three.js:
+- An [example](https://github.com/mrdoob/three.js/blob/master/examples/webgl_loader_pdb.html) of use of the old PDBLoader for Three.js
+- Someone’s [attempt](https://github.com/JensKrumsieck/CIFLoader3/blob/master/CIFLoader.js) to create a similar CIF loader. Not sure what it does; most likely same as the PDB loader (i.e. only deals with atoms and bonds).
+- [glmol.js](https://github.com/biochem-fan/GLmol/blob/master/src/js/GLmol.js) — an old attempt to also represent protein molecules using the ir pdb data
+- [icn3d](https://github.com/ncbi/icn3d) — NCBI’s protein structure viewer, which uses Three.js; although its codebase is horrible.
+
+## December 30
+- Saw an [article](https://www.frontiersin.org/articles/10.3389/fmolb.2022.831740/full) on the NCBI 3d molecule viewer, ICn3D, which seems to be based on Three.js. Here’s a [link](https://github.com/ncbi/icn3d) to their repository. 
+- [Internet Censorship and Online Speech course playlist](https://www.youtube.com/playlist?list=PLpherdrLyny9vAH3GUofYRu4Ig8wY9Lho) — the course was authored by Nick Feamster at the University of Chicago.
+
 ## December 22
 - [Comprehensive Rust](https://google.github.io/comprehensive-rust/welcome.html) – notes for a 4-day course from a Googler on Rust and Android programming
 

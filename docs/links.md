@@ -26,6 +26,7 @@ Examples of overall good personal websites
 - https://korayer.de/ — Someone's minimalist website. The pages are tiny. Found via [1kb.club](https://1kb.club/)
 - https://www.aleksandrhovhannisyan.com/
 - https://pepelsbey.dev/ - Vadim Makeev's website
+- https://lynnandtonic.com/ — Lynn Fisher’s website. Much wow.
 
 https://github.com/iRaul/awesome-portfolios
 

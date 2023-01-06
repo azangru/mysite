@@ -12,7 +12,8 @@ published: true
 - [A list of WebGL links by Ivan Sanchez Ortega](https://ivan.sanchezortega.es/devel/2019/08/26/webgl-links.html)
 
 ## Courses
-- [CS307: Computer Graphics](https://cs.wellesley.edu/~cs307/index.html), taught using webgl and threejs
+- [CS307: Computer Graphics](https://cs.wellesley.edu/~cs307/index.html), taught using webgl and threejs.
+- [CISC 3620: Computer Graphics, Spring 2020](https://mr-pc.org/t/cisc3620/) — a somewhat more up-to-date version of that course
 - Interactive 3D graphics — a Udacity course from around 2013. Still, it might have its merits. Taught using webgl and Three.js. [Youtube playlist]((https://www.youtube.com/playlist?list=PLAwxTw4SYaPlaHwnoGxJE7NFhEWRCIyet)), [course materials](https://www.udacity.com/wiki/cs291), and a [repository](https://github.com/udacity/cs291).
 
 ## Video resources
@@ -31,5 +32,9 @@ published: true
 Youtube channels
 - [WebGL on ProgrammingTIL](https://www.youtube.com/playlist?list=PLPqKsyEGhUnaOdIFLKvdkXAQWD4DoXnFl)
 
-Libraries
+## Libraries
 - [TWGL](https://twgljs.org/) — a tiny WebGL helper library
+
+## Three.js resources
+- [Collection of examples from discourse.threejs.org](https://discourse.threejs.org/t/collection-of-examples-from-discourse-threejs-org/4315)
+- [Three.js discourse bookshelf](https://discourse.threejs.org/t/three-js-bookshelf/2468/5)

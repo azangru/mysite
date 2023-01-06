@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "eleventy",
-    "start": "eleventy --incremental --serve",
+    "start": "eleventy --ignore-initial --incremental --serve",
     "start-incremental": "eleventy --incremental --serve",
     "deploy": "npm run build && gh-pages -d public",
     "debug": "DEBUG=Eleventy* eleventy --incremental --serve"
@@ -13,14 +13,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@11ty/eleventy": "2.0.0-canary.23",
+    "@11ty/eleventy": "2.0.0-canary.25",
     "gh-pages": "4.0.0",
-    "luxon": "3.2.0"
+    "luxon": "3.2.1"
   },
   "devDependencies": {
     "@11ty/eleventy-plugin-rss": "1.2.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "4.2.0",
-    "eslint": "8.30.0",
+    "eslint": "8.31.0",
     "js-yaml": "4.1.0",
     "markdown-it": "13.0.1"
   }

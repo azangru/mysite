@@ -22,6 +22,8 @@ published: true
 - [Expert Agile Club](https://www.youtube.com/c/ExpertAgileClub/videos)
 - [Coaching Agile Journeys](https://www.youtube.com/channel/UCB7Qplmnr-FCAJaYHcmd5Qw/videos)
 - [Agile Online Summit](https://www.youtube.com/channel/UCWw427dFOOCK5pw7YxGod1w/videos)
+- [The Art of Agile Development Book Club](https://www.youtube.com/playlist?list=PLD-LK0HSm0Hoh7C88eGMjH89bE45bU1nY) — playlist of the author of the Art of Agile Development book, James Shore
+- [Miro](https://www.youtube.com/@MiroHQ/videos), the company behind the tool, has a youtube channel with various talks about work-related processes.
 
 ## Scrum
 - [Scrum.org](https://www.scrum.org/) — arguably, the most authoritative source on Scrum
@@ -55,3 +57,4 @@ published: true
 - Dave Thomas (Pragmatic Programmer)
 - Lachlan Heasman (Scrum PLOP)
 - Lyssa Adkins (Agile coaching)
+- Gunther Verheyen, see [the youtube channel](https://www.youtube.com/@GuntherVerheyen/videos), bevare the Dutch accent

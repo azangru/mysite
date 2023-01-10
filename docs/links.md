@@ -4,7 +4,7 @@ Examples of overall good personal websites
 - https://blog.scottnonnenberg.com/ (source: https://github.com/scottnonnenberg/blog)
 - https://mxb.at/ (very cool static site)
 - https://www.stefanjudis.com/ (good static site; built with Nuxt)
-- https://beta.vero.site/ (nice, clean static site made in Hugo; example of a nicely done Resume in Latex)
+- https://beta.vero.site/ (nice, clean static site made in Hugo; example of a nicely done resume in Latex)
 - https://davnicwil.com/cv (site with a good CV)
 - https://eyelidlessness.github.io (built using a preact-based static-site generator called Microsite)
 - https://joshcrain.io/notes/2021/eleventy-garmin-connect/
@@ -26,7 +26,9 @@ Examples of overall good personal websites
 - https://korayer.de/ — Someone's minimalist website. The pages are tiny. Found via [1kb.club](https://1kb.club/)
 - https://www.aleksandrhovhannisyan.com/
 - https://pepelsbey.dev/ - Vadim Makeev's website
+- https://arie.ls/ — Ariel Salminen’s website
 - https://lynnandtonic.com/ — Lynn Fisher’s website. Much wow.
+- https://garden.bradwoods.io — Brad Woods’ digital gardan. Also much wow.
 
 https://github.com/iRaul/awesome-portfolios
 

@@ -29,6 +29,9 @@ Examples of overall good personal websites
 - https://arie.ls/ — Ariel Salminen’s website
 - https://lynnandtonic.com/ — Lynn Fisher’s website. Much wow.
 - https://garden.bradwoods.io — Brad Woods’ digital gardan. Also much wow.
+- https://www.tempertemper.net/ — Martin Underhill‘s site (simple and clean design) ([source](https://github.com/tempertemper/www.tempertemper.net), built with Eleventy)
+- https://bholmes.dev — Benjamin Holms's website
+- https://codersblock.com — Will Boyd’s website
 
 https://github.com/iRaul/awesome-portfolios
 

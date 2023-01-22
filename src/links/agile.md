@@ -4,6 +4,8 @@ layout: layouts/post.njk
 published: true
 ---
 
+- [Scrum.org youtube channel](https://www.youtube.com/@ScrumOrg/videos)
+- [ProKanban youtube channel](https://www.youtube.com/@prokanban/videos)
 - [Agile for Humans](https://www.youtube.com/c/AgileforHumans/videos) — the channel of Ryan Ripley and Todd Motto
 - Scrum Alliance [videos](https://resources.scrumalliance.org/?tn=Videos) and [webinars](https://resources.scrumalliance.org/?tn=Webinars). See also their [Vimeo channel](https://vimeo.com/scrumalliance?embedded=true&source=video_title&owner=56112061)
 - [Leading Agile](https://www.youtube.com/c/Leadingagile/videos)

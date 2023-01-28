@@ -20,3 +20,6 @@ published: true
 - [Computer science](/links/cs_courses)
 - [Natural sciences](/links/science_courses)
 - [Humanities](/links/humanities)
+
+## External lists of links
+- [Free programming books](https://github.com/EbookFoundation/free-programming-books)

@@ -32,6 +32,7 @@ Examples of overall good personal websites
 - https://www.tempertemper.net/ — Martin Underhill‘s site (simple and clean design) ([source](https://github.com/tempertemper/www.tempertemper.net), built with Eleventy)
 - https://bholmes.dev — Benjamin Holms's website
 - https://codersblock.com — Will Boyd’s website
+- https://darn.es/ — David Darnes’s website. Smart guy; lead dev on Nord design system
 
 https://github.com/iRaul/awesome-portfolios
 

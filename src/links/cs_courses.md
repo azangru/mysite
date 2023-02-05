@@ -31,7 +31,13 @@ published: true
   - [A Course in Machine Learning](http://ciml.info/)
   - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
   - [Natural Language Processing, Jacob Eisenstein](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
-  
+
+## Machine learning
+- [Andrej Karpathy: Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
+- [Stanford CS221: Artificial Intelligence: Principles and Techniques | Autumn 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
+
+## Databases
+- [Intro to Database Systems, by Andy Pavlo](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
 
 ## Operating systems
 - [Advanced programming in the UNIX environment](https://stevens.netmeister.org/631/)

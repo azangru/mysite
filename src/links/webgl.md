@@ -14,7 +14,12 @@ published: true
 ## Courses
 - [CS307: Computer Graphics](https://cs.wellesley.edu/~cs307/index.html), taught using webgl and threejs.
 - [CISC 3620: Computer Graphics, Spring 2020](https://mr-pc.org/t/cisc3620/) — a somewhat more up-to-date version of that course
-- Interactive 3D graphics — a Udacity course from around 2013. Still, it might have its merits. Taught using webgl and Three.js. [Youtube playlist]((https://www.youtube.com/playlist?list=PLAwxTw4SYaPlaHwnoGxJE7NFhEWRCIyet)), [course materials](https://www.udacity.com/wiki/cs291), and a [repository](https://github.com/udacity/cs291).
+- [Introduction to Computer Graphics, Fall 2020](https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh) — recordings of live online lectures, School of Computing, University of Utah.
+- [Introduction to Computer Graphics, by Justin Solomon, Fall 2020](https://www.youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh) — MIT's CS 6.837 course. Too mathy for me.
+- [Computer Graphics (ECS175), UC Davis, by Ken Joy](https://www.youtube.com/playlist?list=PL_w_qWAQZtAZhtzPI5pkAtcUVgmzdAP8g)
+- Interactive 3D graphics — a Udacity course from around 2013. Still, it has its merits. Taught by the [legendary Eric Heines](https://erich.realtimerendering.com/) using webgl and Three.js. [Youtube playlist]((https://www.youtube.com/playlist?list=PLAwxTw4SYaPlaHwnoGxJE7NFhEWRCIyet)), [course materials](https://www.udacity.com/wiki/cs291), and a [repository](https://github.com/udacity/cs291).
+- [Interactive Computer Graphics - A Top-Down Approach with WebGL](https://www.cs.unm.edu/~angel/BOOK/INTERACTIVE_COMPUTER_GRAPHICS/SEVENTH_EDITION/) — has both a [github repository](https://github.com/esangel/WebGL), and [videos](https://www.cs.unm.edu/~angel/ONLINE_GRAPHICS/MPEGS/). Edward Angel is Professor Emeritus of Computer Science at University of New Mexico
+  - [An introduction to WebGL programming, by Ed Angel and Dave Shreiner, ACMSIGGRAPH University](https://www.youtube.com/watch?v=tgVLb6fOVVc)
 
 ## Video resources
 - [Scrolling images with WebGL and Three.js](https://www.youtube.com/watch?v=ivg603bYDk8) — Yuri Artiukh’s youtube channel is great in general

@@ -3,6 +3,9 @@ title: "2023"
 layout: layouts/post.njk
 ---
 
+## January 30
+- [Coursera course: Applied Calculus with Python](https://www.coursera.org/learn/applied-calculus-with-python)
+
 ## January 28
 - [List of Rust books, grouped by difficulty level](https://github.com/sger/RustBooks)
 

@@ -11,6 +11,7 @@ published: true
 - [General web development topics](/links/webdev)
 - [Web components](/links/web_components)
 - [WebGL](/links/webgl)
+- [Design systems](/links/design_systems)
 - [React](/links/react)
 - [Python](/links/python)
 - [Conferences on web development](/links/conferences)

@@ -1,5 +1,5 @@
 ---
-title: Links to resources on humanities
+title: Links to resources on the humanities
 layout: layouts/post.njk
 published: true
 ---
@@ -13,3 +13,6 @@ published: true
 
 ## History of the English literature
 - Ted Sherman, a very good English teacher, has a [youtube channel](https://www.youtube.com/channel/UCB_pokQ27mY3DGlGrSdNKKw/videos) with college-level lectures on the history of British literature as well as on the history of the English language
+
+## Philosophy
+- [John Searle — Philosophy of Mind](https://www.youtube.com/playlist?list=PL039MUyjHR1wfJpULVP1a1ZeCBmIHmhxt)

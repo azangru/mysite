@@ -42,5 +42,12 @@ published: true
 ## Operating systems
 - [Advanced programming in the UNIX environment](https://stevens.netmeister.org/631/)
 
+## Useful Khan Academy courses
+- [Linear Algebra](https://www.khanacademy.org/math/linear-algebra/)
+
 ## Textbooks
 - [OCaml programming](https://cs3110.github.io/textbook/cover.html) — a textbook for a functional programming course at Cornell
+
+## Meta-resources (curated lists of other resources)
+- [Open-source society university](https://github.com/ossu/computer-science) — a github repository with links to various free courses, roughly organised in a computer science curriculum
+- [Teach yourself computer science](https://teachyourselfcs.com/)

@@ -59,4 +59,9 @@ published: true
 - Dave Thomas (Pragmatic Programmer)
 - Lachlan Heasman (Scrum PLOP)
 - Lyssa Adkins (Agile coaching)
-- Gunther Verheyen, see [the youtube channel](https://www.youtube.com/@GuntherVerheyen/videos), bevare the Dutch accent
+- Gunther Verheyen, see [his youtube channel](https://www.youtube.com/@GuntherVerheyen/videos), bevare the Dutch accent
+- James Shore (co-author of Agile Fluency Model)
+- Diana Larsen (agile retrospectives; agile fluency model)
+
+## Other agilists
+- [John Coleman](https://www.youtube.com/@johncolemanagilitychef/videos)

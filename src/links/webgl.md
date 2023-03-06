@@ -33,6 +33,7 @@ published: true
 
 ## WebGPU
 - [WebGPU tutorial by Jack Xu on FreeCodeCamp](https://www.youtube.com/watch?v=KTFFdZSDiTU). See also his repository [WebGPU step by step](https://github.com/jack1232/WebGPU-Step-By-Step)
+- [WebGL workshop](https://github.com/stackgl/webgl-workshop) (part of Node school?)
 
 Youtube channels
 - [WebGL on ProgrammingTIL](https://www.youtube.com/playlist?list=PLPqKsyEGhUnaOdIFLKvdkXAQWD4DoXnFl)
@@ -43,3 +44,4 @@ Youtube channels
 ## Three.js resources
 - [Collection of examples from discourse.threejs.org](https://discourse.threejs.org/t/collection-of-examples-from-discourse-threejs-org/4315)
 - [Three.js discourse bookshelf](https://discourse.threejs.org/t/three-js-bookshelf/2468/5)
+- [Repo with examples from the book Learn Three.js, 4th ed.](https://github.com/PacktPublishing/Learn-Three.js-Fourth-edition)

@@ -8,6 +8,7 @@ published: true
 - [ProKanban youtube channel](https://www.youtube.com/@prokanban/videos)
 - [Agile for Humans](https://www.youtube.com/c/AgileforHumans/videos) — the channel of Ryan Ripley and Todd Motto
 - Scrum Alliance [videos](https://resources.scrumalliance.org/?tn=Videos) and [webinars](https://resources.scrumalliance.org/?tn=Webinars). See also their [Vimeo channel](https://vimeo.com/scrumalliance?embedded=true&source=video_title&owner=56112061)
+- [Experience Agile](https://www.youtube.com/@ExperienceAgile/videos)
 - [Leading Agile](https://www.youtube.com/c/Leadingagile/videos)
 - [Age of Product](https://www.youtube.com/c/AgeofProduct/videos) — a youtube channel about Agile methodologies.
 - [Scrum Masters of the Universe youtube channel](https://www.youtube.com/c/ScrumMastersoftheUniverse/videos)
@@ -26,6 +27,7 @@ published: true
 - [Agile Online Summit](https://www.youtube.com/channel/UCWw427dFOOCK5pw7YxGod1w/videos)
 - [The Art of Agile Development Book Club](https://www.youtube.com/playlist?list=PLD-LK0HSm0Hoh7C88eGMjH89bE45bU1nY) — playlist of the author of the Art of Agile Development book, James Shore
 - [Miro](https://www.youtube.com/@MiroHQ/videos), the company behind the tool, has a youtube channel with various talks about work-related processes.
+- [Washington DC Scrum User Group videos](https://www.youtube.com/@DCSUG/videos)
 
 ## Scrum
 - [Scrum.org](https://www.scrum.org/) — arguably, the most authoritative source on Scrum

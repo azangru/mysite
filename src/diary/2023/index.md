@@ -3,6 +3,30 @@ title: "2023"
 layout: layouts/post.njk
 ---
 
+## March 6
+- [interviewing.io](https://interviewing.io/) might have some interesting materials
+
+## March 5
+- [Quaternions and 3d rotation](https://eater.net/quaternions)
+
+## February 28
+- [A workshop on Node.js streams](https://github.com/lmammino/streams-workshop)
+- [Half stack conference, Shoreditch](https://www.youtube.com/playlist?list=PLBaO78llXHTzveybUs0nIK3NmQDhXNCs1)
+
+## February 27
+- [Reading list](https://github.com/studio24/reading-list) in web development by Studio 24
+
+## Februaru 14
+Examples using plain HTML, CSS, JS to show patterns
+- [Vanilla todo app repo](https://github.com/morris/vanilla-todo)
+- [Pure JS PWA](https://github.com/planeth44/pure-JS-PWA)
+
+## February 12
+- [Videos](https://www.youtube.com/playlist?list=PLeWf1pVncHmZIZFuhzETHDD-3KKmxiBdb) from the Full Stack Europe 2022 conference, including, notably, two talks by Bramus about CSS
+
+## February 10
+- [On routing in SPA, and accessibility](https://www.matuzo.at/blog/2023/single-page-applications-criticism/)
+
 ## January 30
 - [Coursera course: Applied Calculus with Python](https://www.coursera.org/learn/applied-calculus-with-python)
 

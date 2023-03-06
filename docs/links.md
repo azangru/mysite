@@ -33,6 +33,7 @@ Examples of overall good personal websites
 - https://bholmes.dev — Benjamin Holms's website
 - https://codersblock.com — Will Boyd’s website
 - https://darn.es/ — David Darnes’s website. Smart guy; lead dev on Nord design system
+- https://alexbilson.dev/resume/ — a cool way to write a resume
 
 https://github.com/iRaul/awesome-portfolios
 

@@ -3,6 +3,10 @@ title: "2023"
 layout: layouts/post.njk
 ---
 
+# March 12
+- [Online handbook for Dylan Beattie’s workshop Pure JavaScript Web Components](https://ursatile.github.io/jsweb)
+- [Online handbook for Dylan Beattie’s JavaScript ray-tracer workshop](https://ursatile.github.io/jsray)
+
 ## March 6
 - [interviewing.io](https://interviewing.io/) might have some interesting materials
 

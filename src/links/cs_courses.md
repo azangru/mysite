@@ -20,6 +20,11 @@ published: true
 ## Programming languages
 - ECE 459: Programming for Performance, taught at University of Waterloo — has a [github repository](https://github.com/jzarnett/ece459), and [videos](https://www.youtube.com/c/JeffZarnett/videos) posted to Jeff Zarnett's channel
 
+## Data Science
+- Principles and Techniques of Data Science, taught at UC Berkeley
+  - Sam Lau's (teacher's) youtube channel, with [playlists](https://www.youtube.com/@SamLau95/playlists) of lecture courses
+  - Data 100 [website](https://ds100.org/), with resources
+
 ## Natural language processing
 - CS224U: Natural Language Understanding, Stanford:
   - [Course page](https://web.stanford.edu/class/cs224u/index.html)

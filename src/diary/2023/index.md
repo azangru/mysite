@@ -3,7 +3,19 @@ title: "2023"
 layout: layouts/post.njk
 ---
 
-# March 12
+## April 6
+- [All Day Hey 2022, playlist of the conference talks](https://www.youtube.com/playlist?list=PLXvnOKZ69Xbao1cv0OTU0ePu66zSwCPRJ)
+
+## March 20
+- [Angular challenges](https://github.com/tomalaforge/angular-challenges)
+- [RxJS challenges (related to Angular)](https://github.com/AngularWave/rxjs-challenge)
+- [Easy Rust playlist](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
+- [Easy Rust, online book](https://dhghomon.github.io/easy_rust)
+
+## March 19
+- [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/00_about)
+
+## March 12
 - [Online handbook for Dylan Beattie’s workshop Pure JavaScript Web Components](https://ursatile.github.io/jsweb)
 - [Online handbook for Dylan Beattie’s JavaScript ray-tracer workshop](https://ursatile.github.io/jsray)
 

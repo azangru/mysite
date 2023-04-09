@@ -14,5 +14,9 @@ published: true
 ## History of the English literature
 - Ted Sherman, a very good English teacher, has a [youtube channel](https://www.youtube.com/channel/UCB_pokQ27mY3DGlGrSdNKKw/videos) with college-level lectures on the history of British literature as well as on the history of the English language
 
+## History of England
+- [Early Modern England with Keith E. Wrightson by Yale Courses](https://www.youtube.com/playlist?list=PL18B9F132DFD967A3)
+- [England's Reformations and their Legacies, by Gresham College](https://www.youtube.com/playlist?list=PLU3TaPgchJtRdvaY1Z8N7RlLwd_pT7OkM)
+
 ## Philosophy
 - [John Searle — Philosophy of Mind](https://www.youtube.com/playlist?list=PL039MUyjHR1wfJpULVP1a1ZeCBmIHmhxt)

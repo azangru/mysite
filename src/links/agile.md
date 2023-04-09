@@ -28,6 +28,7 @@ published: true
 - [The Art of Agile Development Book Club](https://www.youtube.com/playlist?list=PLD-LK0HSm0Hoh7C88eGMjH89bE45bU1nY) — playlist of the author of the Art of Agile Development book, James Shore
 - [Miro](https://www.youtube.com/@MiroHQ/videos), the company behind the tool, has a youtube channel with various talks about work-related processes.
 - [Washington DC Scrum User Group videos](https://www.youtube.com/@DCSUG/videos)
+- [Agile Uprising podcast videos](https://www.youtube.com/@AgileUprisingNetwork/videos)
 
 ## Scrum
 - [Scrum.org](https://www.scrum.org/) — arguably, the most authoritative source on Scrum

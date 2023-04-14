@@ -3,6 +3,14 @@ title: "2023"
 layout: layouts/post.njk
 ---
 
+## April 14
+- [Frontrunners 2023 conference playlist](https://www.youtube.com/playlist?list=PLeGxIOPLk9ELZl2gt05fBQwTkNnQcwwzS)
+- [Wasm IO 2023 conference playlist](https://www.youtube.com/playlist?list=PLP3xGl7Eb-4NtSX-wzOxUCjPsBcw2zrPA)
+- [CityJS 2023 playlist](https://www.youtube.com/playlist?list=PLYDCh9vbt8_LX0B350V5su-FZMsBenSMF)
+
+## April 10
+- [Introduction to Ray Tracing, by Rajesh Sharma](https://www.youtube.com/watch?v=3xMeKal2-Ws); see also the materials in the [github repo](https://github.com/rajeshsharma-ai/xarma-2021-RayTracingClass)
+
 ## April 6
 - [All Day Hey 2022, playlist of the conference talks](https://www.youtube.com/playlist?list=PLXvnOKZ69Xbao1cv0OTU0ePu66zSwCPRJ)
 

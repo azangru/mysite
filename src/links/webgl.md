@@ -26,6 +26,13 @@ published: true
 - [Interactive Computer Graphics - A Top-Down Approach with WebGL](https://www.cs.unm.edu/~angel/BOOK/INTERACTIVE_COMPUTER_GRAPHICS/SEVENTH_EDITION/) — has both a [github repository](https://github.com/esangel/WebGL), and [videos](https://www.cs.unm.edu/~angel/ONLINE_GRAPHICS/MPEGS/). Edward Angel is Professor Emeritus of Computer Science at University of New Mexico
 - [An introduction to WebGL programming, by Ed Angel and Dave Shreiner, ACMSIGGRAPH University](https://www.youtube.com/watch?v=tgVLb6fOVVc)
 - [Learn computer graphics using webgl](http://webgl.brown37.net/toc.html), by a Brown professor, from 2015
+- Introduction to Computer Graphics, Com S 336 course, from Iowa State University
+  - [Page of Steve Kautz](https://stevekautz.com/), who is teaching the course. Has links to the course material (see Com S 336)
+  - Several of his lectures available on youtube:
+    - [WebGL basics](https://youtu.be/PMwvougEwuw)
+    - [Euler Angles](https://youtu.be/YhlEW8W1tww)
+    - [How do textures, models, and girlfriends work?](https://www.youtube.com/watch?v=KwEuurLRG_Q)
+    - [Clipping](https://youtu.be/_jvzZh0jMk4)
 
 ## Video resources
 - [Scrolling images with WebGL and Three.js](https://www.youtube.com/watch?v=ivg603bYDk8) — Yuri Artiukh’s youtube channel is great in general
@@ -50,6 +57,7 @@ Youtube channels
 - [TWGL](https://twgljs.org/) — a tiny WebGL helper library
 
 ## Three.js resources
+- [Discover Three.js](https://discoverthreejs.com/) — an open-source book
 - [Collection of examples from discourse.threejs.org](https://discourse.threejs.org/t/collection-of-examples-from-discourse-threejs-org/4315)
 - [Three.js discourse bookshelf](https://discourse.threejs.org/t/three-js-bookshelf/2468/5)
 - [Repo with examples from the book Learn Three.js, 4th ed.](https://github.com/PacktPublishing/Learn-Three.js-Fourth-edition)

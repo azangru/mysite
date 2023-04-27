@@ -30,3 +30,6 @@ published: true
 
 ## General Math
 - [Coding Math channel](https://www.youtube.com/@codingmath/videos)
+
+## SQL
+- [Lost at SQL](https://lost-at-sql.therobinlord.com/) — a SQL learning game

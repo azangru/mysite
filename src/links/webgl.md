@@ -1,5 +1,5 @@
 ---
-title: Links to resources on WebGL
+title: Links to resources on WebGL and WebGPU
 layout: layouts/post.njk
 published: true
 ---
@@ -21,7 +21,6 @@ published: true
 - Computer graphics course at Carnegie-Mellon university
   - [Lecture playlist](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E)
   - [Course website](http://15462.courses.cs.cmu.edu/spring2023/home)
-- 
 - Interactive 3D graphics — a Udacity course from around 2013. Still, it has its merits. Taught by the [legendary Eric Heines](https://erich.realtimerendering.com/) using webgl and Three.js. [Youtube playlist]((https://www.youtube.com/playlist?list=PLAwxTw4SYaPlaHwnoGxJE7NFhEWRCIyet)), [course materials](https://www.udacity.com/wiki/cs291), and a [repository](https://github.com/udacity/cs291).
 - [Interactive Computer Graphics - A Top-Down Approach with WebGL](https://www.cs.unm.edu/~angel/BOOK/INTERACTIVE_COMPUTER_GRAPHICS/SEVENTH_EDITION/) — has both a [github repository](https://github.com/esangel/WebGL), and [videos](https://www.cs.unm.edu/~angel/ONLINE_GRAPHICS/MPEGS/). Edward Angel is Professor Emeritus of Computer Science at University of New Mexico
 - [An introduction to WebGL programming, by Ed Angel and Dave Shreiner, ACMSIGGRAPH University](https://www.youtube.com/watch?v=tgVLb6fOVVc)
@@ -33,6 +32,7 @@ published: true
     - [Euler Angles](https://youtu.be/YhlEW8W1tww)
     - [How do textures, models, and girlfriends work?](https://www.youtube.com/watch?v=KwEuurLRG_Q)
     - [Clipping](https://youtu.be/_jvzZh0jMk4)
+- [Introduction to Computer Graphics textbook by David Eck](https://math.hws.edu/graphicsbook/) — a textbook for an undergraduate course on the fundamentals of computer graphics, taught using webgl 2.0.
 
 ## Video resources
 - [Scrolling images with WebGL and Three.js](https://www.youtube.com/watch?v=ivg603bYDk8) — Yuri Artiukh’s youtube channel is great in general
@@ -45,10 +45,12 @@ published: true
 - Ryo Ikeda's sketches with webgl: [repositories](https://github.com/ikeryou?tab=repositories) and results that are published to `https://ikeryou.jp/sketch/:sketch_number` (e.g. https://ikeryou.jp/sketch/253)
 - [Codrops](https://tympanus.net/codrops) — creative front-end resources and inspiration for web professionals
 - [Repository](https://github.com/gnikoloff/practical-webgl-from-scratch-course) for Georgi Nikolov‘s awwwards course “Practical WebGL from scratch for web developers”
+- [WebGL workshop](https://github.com/stackgl/webgl-workshop) (part of Node school?)
 
 ## WebGPU
+- [WebGPU Fundamentals](https://webgpufundamentals.org/)
 - [WebGPU tutorial by Jack Xu on FreeCodeCamp](https://www.youtube.com/watch?v=KTFFdZSDiTU). See also his repository [WebGPU step by step](https://github.com/jack1232/WebGPU-Step-By-Step)
-- [WebGL workshop](https://github.com/stackgl/webgl-workshop) (part of Node school?)
+- [Learn WebGPU](https://eliemichel.github.io/LearnWebGPU/index.html) — uses a C++ wrapper, but hopefully should be understandable regardless.
 
 Youtube channels
 - [WebGL on ProgrammingTIL](https://www.youtube.com/playlist?list=PLPqKsyEGhUnaOdIFLKvdkXAQWD4DoXnFl)

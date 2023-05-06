@@ -12,6 +12,7 @@ published: true
 - [A list of WebGL links by Ivan Sanchez Ortega](https://ivan.sanchezortega.es/devel/2019/08/26/webgl-links.html)
 
 ## Courses
+- [An Interactive Introduction to Computer Graphics using WebGL][https://dl.acm.org/doi/10.1145/3532720.3535630], by Ed Angel and Dave Shreiner, at SIGGRAPH 2022
 - [CS307: Computer Graphics](https://cs.wellesley.edu/~cs307/index.html), taught using webgl and threejs.
 - [CISC 3620: Computer Graphics, Spring 2020](https://mr-pc.org/t/cisc3620/) — a somewhat more up-to-date version of that course
 - [Introduction to Computer Graphics, by Cem Yuksel, Fall 2020](https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh) — recordings of live online lectures, School of Computing, University of Utah.
@@ -49,6 +50,7 @@ published: true
 
 ## WebGPU
 - [WebGPU Fundamentals](https://webgpufundamentals.org/)
+- [Raw WebGPU tutorial](https://alain.xyz/blog/raw-webgpu)
 - [WebGPU tutorial by Jack Xu on FreeCodeCamp](https://www.youtube.com/watch?v=KTFFdZSDiTU). See also his repository [WebGPU step by step](https://github.com/jack1232/WebGPU-Step-By-Step)
 - [Learn WebGPU](https://eliemichel.github.io/LearnWebGPU/index.html) — uses a C++ wrapper, but hopefully should be understandable regardless.
 

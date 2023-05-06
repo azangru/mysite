@@ -3,6 +3,19 @@ title: "2023"
 layout: layouts/post.njk
 ---
 
+## May 4
+- [Someone’s blog post about WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu)
+
+## May 2
+Not that it’s been particularly useful — all lecture materials are behind a login wall — but there’s a [page](https://pages.graphics.cs.wisc.edu/559-sp23/posts/getting-started/) for computer graphics course taught at the University of Wisconsin, Madison. Although most of the materials are unavailable, there is the [books](https://pages.graphics.cs.wisc.edu/559-sp23/pages/books/) page with useful references; and a github org with e.g. [some shader demos](https://github.com/CS559/559-ShaderDemos-23).
+
+## May 1
+- [Progressively Enhancing a Table with a Web Component](https://www.raymondcamden.com/2023/03/14/progressively-enhancing-a-table-with-a-web-component), by Raymond Camden
+- [React Miami conference video](https://www.youtube.com/watch?v=mPPZ-NUnR-4Varianvar)
+
+## April 28
+- [Skewed](https://github.com/seflless/skewed) — someone's project for creating 3d svg shapes, such as boxes, is still simple enough to study ideas behind it.
+
 ## April 14
 - [Frontrunners 2023 conference playlist](https://www.youtube.com/playlist?list=PLeGxIOPLk9ELZl2gt05fBQwTkNnQcwwzS)
 - [Wasm IO 2023 conference playlist](https://www.youtube.com/playlist?list=PLP3xGl7Eb-4NtSX-wzOxUCjPsBcw2zrPA)

@@ -20,6 +20,10 @@ published: true
 ## Programming languages
 - ECE 459: Programming for Performance, taught at University of Waterloo — has a [github repository](https://github.com/jzarnett/ece459), and [videos](https://www.youtube.com/c/JeffZarnett/videos) posted to Jeff Zarnett's channel
 
+## Rust
+- [PSU CS 410P/510 – Rust Programming course by Portland State University (Spring 2021)](https://moodle.cs.pdx.edu/course/view.php?id=15). Materials published on https://github.com/pdx-cs-rust
+- [Programming in Rust course by University of Maryland (Fall 2021)](https://www.cs.umd.edu/class/fall2021/cmsc388Z/). Contains [assignments](https://github.com/cmsc388z/assignments)
+
 ## Data Science
 - Principles and Techniques of Data Science, taught at UC Berkeley
   - Sam Lau's (teacher's) youtube channel, with [playlists](https://www.youtube.com/@SamLau95/playlists) of lecture courses

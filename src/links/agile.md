@@ -66,6 +66,7 @@ published: true
 - Gunther Verheyen, see [his youtube channel](https://www.youtube.com/@GuntherVerheyen/videos), bevare the Dutch accent
 - James Shore (co-author of Agile Fluency Model)
 - Diana Larsen (agile retrospectives; agile fluency model)
+- Mike Cottmeyer (talks about agile transformation of organisations)
 
 ## Other agilists
 - [John Coleman](https://www.youtube.com/@johncolemanagilitychef/videos)

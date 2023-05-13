@@ -35,6 +35,8 @@ Examples of overall good personal websites
 - https://darn.es/ — David Darnes’s website. Smart guy; lead dev on Nord design system
 - https://alexbilson.dev/resume/ — a cool way to write a resume
 - https://mikematas.com/ — a very nice and clean portfolio; perhaps a bit too mobile-oriented
+- https://jonneal.dev/ — a nice resume site
+- https://practicaltypography.com/ — Butterick's Practical Typography; a beautiful site about typography
 
 https://github.com/iRaul/awesome-portfolios
 

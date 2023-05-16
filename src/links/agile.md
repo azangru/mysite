@@ -30,6 +30,7 @@ published: true
 - [Washington DC Scrum User Group videos](https://www.youtube.com/@DCSUG/videos)
 - [Agile Uprising podcast videos](https://www.youtube.com/@AgileUprisingNetwork/videos)
 - [Large-scale scrum channel](https://www.youtube.com/@LeSSWorks/videos)
+- [Sociocracy 3.0](https://www.youtube.com/@s3community/videos)
 
 ## Scrum
 - [Scrum.org](https://www.scrum.org/) — arguably, the most authoritative source on Scrum

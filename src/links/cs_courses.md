@@ -13,6 +13,7 @@ published: true
 - [Security Engineering](https://www.youtube.com/channel/UCRw25HVj1Rvl2XcEHdj4PKg) — a video series of lectures by professors at the University of Edinburgh.
 - [Stanford CS229: Machine Learning | Autumn 2018 playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [Georgia Tech's Specialization in Computing Systems](https://omscs.gatech.edu/specialization-computing-systems), with e.g. a [course on graduate algorithms](https://omscs.gatech.edu/cs-6515-intro-graduate-algorithms), which includes videos
+- [CS 61B Data Structures, Spring 2023](https://sp23.datastructur.es/) — sadly, taught in Java; but the reading materials are still interesting.
 
 ## Computer graphics
 - 6.837: Introduction to Computer Graphics (fall 2021) ([youtube playlist](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtqt2yL3KgKV-yn0NEPbRVi))

@@ -3,6 +3,12 @@ title: "2023"
 layout: layouts/post.njk
 ---
 
+## May 16
+- [Playlist with videos from Remix conference 2023](https://www.youtube.com/playlist?list=PLXoynULbYuEBSoANKVl4nKzBBae7DM3JK)
+
+## May 14
+- [The lies we tell ourselves using TypeScript](https://www.youtube.com/watch?v=qH_WsIZ23YU)
+
 ## May 4
 - [Someone’s blog post about WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu)
 

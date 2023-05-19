@@ -3,6 +3,9 @@ title: "2023"
 layout: layouts/post.njk
 ---
 
+## May 19
+- [Web GPU, the first triangle](https://www.willusher.io/graphics/2023/04/10/0-to-gltf-triangle) — a blog post
+
 ## May 16
 - [Playlist with videos from Remix conference 2023](https://www.youtube.com/playlist?list=PLXoynULbYuEBSoANKVl4nKzBBae7DM3JK)
 

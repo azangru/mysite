@@ -3,8 +3,29 @@ title: "2023"
 layout: layouts/post.njk
 ---
 
+## May 31
+- [Nordic JS, 2022, playlist](https://www.youtube.com/playlist?list=PLGP3VO5jDf8y7olqgp-BGh3XsphRrnZ7M)
+
+## May 30
+- [All Day Hey! 2023](https://www.youtube.com/playlist?list=PLXvnOKZ69XbYv46zLMgkb5OtHZkw1U2l0) — also see the site of the conference.
+
+## May 29
+- [Recommended books for PHP developers](https://old.reddit.com/r/PHP/comments/zehsc1/top_10_recommended_books_for_php_developers/) — from recent years, inclusive of PHP8.
+- [PHP 8 Objects, Patterns, and Practice: Mastering OO Enhancements, Design Patterns, and Essential Development Tools](https://www.amazon.co.uk/PHP-Objects-Patterns-Practice-Enhancements/dp/1484267907) also looks quite promising.
+- [HashRust blog](https://hashrust.com/blog/)
+
+## May 24
+- Some frontend technical interview challenges ([youtube playlist](https://www.youtube.com/playlist?list=PLMPdehpgoVM8G0C7sVm8fl7xL16mnlslM))
+
+## May 23
+- [Learn PHP the right way course](https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)
+
+## May 21
+- [React Miami 2023 playlist](https://www.youtube.com/playlist?list=PL02pdjMT4gWwIDHt4mzmzbiXU-7Sk1LN5)
+
 ## May 19
 - [Web GPU, the first triangle](https://www.willusher.io/graphics/2023/04/10/0-to-gltf-triangle) — a blog post
+- Reactathon [Day 1 stream](https://www.youtube.com/watch?v=gJaN9CnFqrI) and [Day 2 stream](https://www.youtube.com/watch?v=HOD9UQFbdgc)
 
 ## May 16
 - [Playlist with videos from Remix conference 2023](https://www.youtube.com/playlist?list=PLXoynULbYuEBSoANKVl4nKzBBae7DM3JK)

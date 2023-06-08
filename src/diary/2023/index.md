@@ -3,6 +3,15 @@ title: "2023"
 layout: layouts/post.njk
 ---
 
+## June 8
+- [CSS Day 2023 playlist](https://www.youtube.com/playlist?list=PLjnstNlepBvOG299LOrvMFJ8WreCDWWd4)
+- Turns out, there is a dedicated CS50 intro to python course ([link](https://cs50.harvard.edu/python/2022/))
+
+## June 5
+- Render ATL 2023
+  - [Stream 1](https://www.youtube.com/watch?v=uVh9WrFHZwY)
+  - [Stream June 2](https://www.youtube.com/watch?v=zxKyzlH_6qU)
+
 ## May 31
 - [Nordic JS, 2022, playlist](https://www.youtube.com/playlist?list=PLGP3VO5jDf8y7olqgp-BGh3XsphRrnZ7M)
 

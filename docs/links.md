@@ -37,6 +37,7 @@ Examples of overall good personal websites
 - https://mikematas.com/ — a very nice and clean portfolio; perhaps a bit too mobile-oriented
 - https://jonneal.dev/ — a nice resume site
 - https://practicaltypography.com/ — Butterick's Practical Typography; a beautiful site about typography
+- https://github.com/tomayac/blogccasion — Thomas Steiner’s (devrel at Google) Eleventy blog source
 
 https://github.com/iRaul/awesome-portfolios
 

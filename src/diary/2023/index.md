@@ -3,6 +3,9 @@ title: "2023"
 layout: layouts/post.njk
 ---
 
+## June 11
+- [A vanilla JS frontend](https://github.com/capyloon/nutria/tree/main/apps/settings) for a phone operating system.
+
 ## June 8
 - [CSS Day 2023 playlist](https://www.youtube.com/playlist?list=PLjnstNlepBvOG299LOrvMFJ8WreCDWWd4)
 - Turns out, there is a dedicated CS50 intro to python course ([link](https://cs50.harvard.edu/python/2022/))

@@ -5,6 +5,7 @@ layout: layouts/post.njk
 
 ## June 18
 - [Poor Man's Computer Science Bootcamp](https://github.com/Lesabotsy/bootcamp) — a git repository and a collection of links to various free courses.
+- [Battleship-Nodejs](https://github.com/proscrumdev/battleship-nodejs) — a case study code starter for Scrum.org's _Applying Professional Scrum for Software Development_ course
 
 ## June 15
 - [Effective Rust](https://www.lurklurk.org/effective-rust/cover.html)

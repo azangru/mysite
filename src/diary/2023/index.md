@@ -3,6 +3,9 @@ title: "2023"
 layout: layouts/post.njk
 ---
 
+## June 15
+- [Effective Rust](https://www.lurklurk.org/effective-rust/cover.html)
+
 ## June 11
 - [A vanilla JS frontend](https://github.com/capyloon/nutria/tree/main/apps/settings) for a phone operating system.
 

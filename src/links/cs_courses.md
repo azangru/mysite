@@ -25,6 +25,9 @@ published: true
 - [PSU CS 410P/510 – Rust Programming course by Portland State University (Spring 2021)](https://moodle.cs.pdx.edu/course/view.php?id=15). Materials published on https://github.com/pdx-cs-rust
 - [Programming in Rust course by University of Maryland (Fall 2021)](https://www.cs.umd.edu/class/fall2021/cmsc388Z/). Contains [assignments](https://github.com/cmsc388z/assignments)
 
+## Databases
+- [Database Systems, Fall 2022](https://15445.courses.cs.cmu.edu/fall2022/) — a course from Carnegie-Mellon University.
+
 ## Data Science
 - Principles and Techniques of Data Science, taught at UC Berkeley
   - Sam Lau's (teacher's) youtube channel, with [playlists](https://www.youtube.com/@SamLau95/playlists) of lecture courses

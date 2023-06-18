@@ -3,6 +3,9 @@ title: "2023"
 layout: layouts/post.njk
 ---
 
+## June 18
+- [Poor Man's Computer Science Bootcamp](https://github.com/Lesabotsy/bootcamp) — a git repository and a collection of links to various free courses.
+
 ## June 15
 - [Effective Rust](https://www.lurklurk.org/effective-rust/cover.html)
 

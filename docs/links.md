@@ -38,6 +38,7 @@ Examples of overall good personal websites
 - https://jonneal.dev/ — a nice resume site
 - https://practicaltypography.com/ — Butterick's Practical Typography; a beautiful site about typography
 - https://github.com/tomayac/blogccasion — Thomas Steiner’s (devrel at Google) Eleventy blog source
+- https://evanlh.com/posts/shortest_path_first_sdlc/ — a clean and pretty minimal website
 
 https://github.com/iRaul/awesome-portfolios
 

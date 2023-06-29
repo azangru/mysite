@@ -3,6 +3,29 @@ title: "2023"
 layout: layouts/post.njk
 ---
 
+## June 29
+- [A11y Weekly](https://a11yweekly.com/) — an interesting newsletter
+
+## June 26
+- Turns out, there is a [javascript version](https://sourceacademy.org/sicpjs/acknowledgements) of SICP course
+
+## June 23
+- [React Graph Gallery](https://www.react-graph-gallery.com/about) — lots of examples of visualizations done with d3 plus React
+- [Ngconf 2023 playlist](https://www.youtube.com/playlist?list=PLOETEcp3DkCqMskkFbReu882HzpqJet_J) (leaving this here in case they release any interesting talks)
+- Some [recommendations](https://nullprogram.com/blog/2023/06/22/) about productions of Shakespeare plays.
+
+## June 22
+- [3Dmol.js library](https://github.com/3dmol/3Dmol.js) looks interesting
+
+## June 21
+- [NDC Oslo 2023](https://www.youtube.com/playlist?list=PL03Lrmd9CiGep-YLPFkoLb_oxgTzS4GTX). There are a couple of talks with titles that look interesting — 1) Monorepo. How to do frontend faster, better, and safer; and 2) Deep Dive into Advanced Typescript
+
+## June 19
+- Video recording of JSconf India 2023
+  - [Track 1](https://www.youtube.com/watch?v=WteC5jpc9O8)
+  - [Track 2](https://www.youtube.com/watch?v=Rjv-4aT-_8c)
+- [GPU Programming: When, Why, and How](https://enccs.github.io/gpu-programming/)
+
 ## June 18
 - [Poor Man's Computer Science Bootcamp](https://github.com/Lesabotsy/bootcamp) — a git repository and a collection of links to various free courses.
 - [Battleship-Nodejs](https://github.com/proscrumdev/battleship-nodejs) — a case study code starter for Scrum.org's _Applying Professional Scrum for Software Development_ course

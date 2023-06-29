@@ -56,6 +56,9 @@ published: true
 ## Operating systems
 - [Advanced programming in the UNIX environment](https://stevens.netmeister.org/631/)
 
+## System tools
+- [CSE391, System and Software Tools, Spring 2023](https://courses.cs.washington.edu/courses/cse391/23sp/) — a basic course by the University of Washington about CLI tools in a Unix environment
+
 ## Useful Khan Academy courses
 - [Linear Algebra](https://www.khanacademy.org/math/linear-algebra/)
 

@@ -3,8 +3,12 @@ title: "2023"
 layout: layouts/post.njk
 ---
 
+## June 30
+- [PWA Starter Kit](https://github.com/johnthad/my-app) updated from Polymer to Lit (not an official Google project; but still)
+
 ## June 29
 - [A11y Weekly](https://a11yweekly.com/) — an interesting newsletter
+- [Tune the web](https://www.tunetheweb.com/)
 
 ## June 26
 - Turns out, there is a [javascript version](https://sourceacademy.org/sicpjs/acknowledgements) of SICP course

@@ -2,10 +2,10 @@
 layout: layouts/base.njk
 ---
 
-{% block styles %}
+{% html "styles" %}
 <link rel="preload" href="/assets/css/navigation.css" as="style">
 <link rel="stylesheet" href="{{ '/assets/css/post.css' | url }}">
-{% endblock %}
+{% endhtml %}
 
 <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
   <article>

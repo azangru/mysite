@@ -1,0 +1,45 @@
+.board {
+  display: grid;
+  grid-template-columns: [product-items] minmax(15ch, 30%) [sprint-backlog] 1fr;
+  border: 1px solid black;
+}
+
+.product-items {
+  border-right: 1px solid black;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  row-gap: 0.5rem;
+}
+
+.product-items .title,
+.sprint-backlog .title {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 0.6rem;
+}
+
+.product-items div:not(.title) {
+  padding: 0.6rem;
+  border: 1px solid black;
+  text-align: center;
+  background-color: rgba(28, 212, 225, 0.4);
+}
+
+.sprint-backlog {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 1rem;
+  align-items: flex-start;
+}
+
+.sprint-backlog .title {
+  width: 100%;
+}
+
+.sprint-backlog div:not(.title) {
+  padding: max(0.2rem, 3%);
+  background-color: yellow;
+  border: 1px solid rgb(195, 195, 23);
+}

@@ -9,8 +9,9 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&family=Inter&display=swap" rel="stylesheet">
     <link rel="preload" href="/assets/css/global.css" as="style">
-    {% block styles %}{% endblock %}
-    {% block scripts %}{% endblock %}
+
+    {% getBundle "html", "styles" %}
+    {% getBundle "html", "scripts" %}
     <!--
     <link rel="stylesheet" href="{{ '/assets/css/prism-base16-monokai.dark.css' | url }}">
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">

@@ -16,7 +16,7 @@ published: false
 ### Quotations
 “By the end of the Daily Scrum, every Development Team member should understand progress toward the Sprint Goal, the current plan for achieving it, and the likelihood of achieving it. In addition, team members should know what they plan to accomplish in the next 24 houes and how they will work together to accomplish it.”
 
-(From _Mastering Professional Scrum_, by Stephanie Ockerman and Simon Reindt)
+(From _Mastering Professional Scrum_, by Stephanie Ockerman and Simon Reindl)
 
 ### Checklist
 We have a Daily Scrum, and...
@@ -25,7 +25,7 @@ We have a Daily Scrum, and...
 - By the end of the Daily Scrum, the Development Team understands the progress made toward the Sprint Goal, any impediments blocking or slowing progress, and the plan for the next 24 hours.
 - The Daily Scrum is not simply a status update, but actively facilitates collaboration to help improve the ability of the team to deliver value.
 
-(from _Mastering Professional Scrum_, by Stephanie Ockerman and Simon Reindt)
+(from _Mastering Professional Scrum_, by Stephanie Ockerman and Simon Reindl)
 
 
 ## For sprint review

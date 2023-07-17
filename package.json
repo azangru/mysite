@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "eleventy",
-    "start": "eleventy --ignore-initial --incremental --serve",
+    "start": "eleventy --incremental --serve",
+    "ignore-initial": "eleventy --ignore-initial --incremental --serve",
     "start-incremental": "eleventy --incremental --serve",
     "deploy": "npm run build && gh-pages -d public",
     "debug": "DEBUG=Eleventy* eleventy --incremental --serve"
@@ -14,6 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-plugin-bundle": "^1.0.4",
     "gh-pages": "5.0.0",
     "luxon": "3.3.0"
   },

@@ -1,15 +1,20 @@
+const { EleventyRenderPlugin } = require("@11ty/eleventy");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
+const bundlerPlugin = require("@11ty/eleventy-plugin-bundle");
 const markdownIt = require("markdown-it");
 const yaml = require("js-yaml");
 const { DateTime } = require("luxon");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/assets');
+  eleventyConfig.addPassthroughCopy('src/blog/**/assets/*.*');
   eleventyConfig.setServerPassthroughCopyBehavior("copy"); // FIXME: this is temporary; should remove when the issue is fixed
 
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
+  eleventyConfig.addPlugin(bundlerPlugin);
+  eleventyConfig.addPlugin(EleventyRenderPlugin);
 
   // eleventyConfig.setDataDeepMerge(true);
 

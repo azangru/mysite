@@ -3,6 +3,21 @@ title: "2023"
 layout: layouts/post.njk
 ---
 
+## July 16
+- [Pixel Pioneers 2023 playlist](https://www.youtube.com/playlist?list=PLUjXef3rLwaqTdkcoCBBOWkJpPSWh4ka-)
+
+## July 14
+- [Angular University Github repos](https://github.com/angular-university). Might have something interesting.
+- [ReactNext playlist](https://www.youtube.com/playlist?list=PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn)
+
+## July 9
+- [Just normal web things, by Heather Buchel](https://heather-buchel.com/blog/2023/07/just-normal-web-things/)
+
+## July 6
+- [PHP UK conference](https://www.youtube.com/@phpukconference/videos)
+  - [Rust for PHP developers](https://www.youtube.com/watch?v=HfcfQiLhsV4&pp=ygUWcnVzdCBmb3IgcGhwIGRldmVsb3Blcg%3D%3D)
+- [PHPCon](https://www.youtube.com/user/PHPcon/videos)
+
 ## June 30
 - [PWA Starter Kit](https://github.com/johnthad/my-app) updated from Polymer to Lit (not an official Google project; but still)
 

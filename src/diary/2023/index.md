@@ -3,6 +3,19 @@ title: "2023"
 layout: layouts/post.njk
 ---
 
+## July 23
+- [Agile India 2023 playlist](https://www.youtube.com/playlist?list=PL9Z-JgiTsOYR704E1FqbKw0XNdSrheriR)
+
+## July 21
+- [Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
+
+## July 20
+- Luca Mezzalira on microfrontends
+  - A [talk](https://youtu.be/Wn1Cj7785i8)
+  - Blog articles — [one](https://aws.amazon.com/blogs/compute/server-side-rendering-micro-frontends-the-architecture/), [two](https://aws.amazon.com/blogs/compute/server-side-rendering-micro-frontends-ui-composer-and-service-discovery/)
+  - A [sample repository](https://github.com/aws-samples/ssr-micro-frontends/tree/main/SSR-catalog-example)
+- [Advanced Python Mastery](https://github.com/dabeaz-course/python-mastery) — a course by David Beazley.
+
 ## July 16
 - [Pixel Pioneers 2023 playlist](https://www.youtube.com/playlist?list=PLUjXef3rLwaqTdkcoCBBOWkJpPSWh4ka-)
 

@@ -8,6 +8,7 @@ published: true
 - [ProKanban youtube channel](https://www.youtube.com/@prokanban/videos)
 - [Agile for Humans](https://www.youtube.com/c/AgileforHumans/videos) — the channel of Ryan Ripley and Todd Motto
 - Scrum Alliance [videos](https://resources.scrumalliance.org/?tn=Videos) and [webinars](https://resources.scrumalliance.org/?tn=Webinars). See also their [Vimeo channel](https://vimeo.com/scrumalliance?embedded=true&source=video_title&owner=56112061)
+- Agile Alliance [videos](https://www.agilealliance.org/resources/videos/) and [webcasts](https://www.agilealliance.org/webcasts/)
 - [Experience Agile](https://www.youtube.com/ExperienceAgile/videos)
 - [Leading Agile](https://www.youtube.com/c/Leadingagile/videos)
 - [Age of Product](https://www.youtube.com/c/AgeofProduct/videos) — a youtube channel about Agile methodologies.
@@ -21,6 +22,7 @@ published: true
 - [Nigel Baker's channel _Agile Bear_](https://www.youtube.com/c/nigelagilebear/videos)
 - [Martin Hinshelwood‘s youtube channel _Naked Agility_](https://www.youtube.com/c/nakedAgilitywithMartinHinshelwood/videos) on scrum training
 - [Adventures with Agile](https://www.youtube.com/c/AdventureswithAgile/videos) — youtube channel of a Scrum Alliance - endorsed user group, containing videos of meetups
+- [The Central Ohio Agile Association (COHAA)](https://www.youtube.com/@COHAA/videos) — a lineup of interesting talks
 - [Lean Agile Brighton](https://www.youtube.com/channel/UCGXZWLztVMFBgAx6zvyfZqw/videos) — videos from conferences and meetups
 - [Expert Agile Club](https://www.youtube.com/c/ExpertAgileClub/videos)
 - [Coaching Agile Journeys](https://www.youtube.com/channel/UCB7Qplmnr-FCAJaYHcmd5Qw/videos)
@@ -32,6 +34,9 @@ published: true
 - [Large-scale scrum channel](https://www.youtube.com/@LeSSWorks/videos)
 - [Sociocracy 3.0](https://www.youtube.com/@s3community/videos)
 - [Crisp Agile Academy](https://www.youtube.com/@crispagileacademy/videos)
+- [Scrum@Scale](https://www.youtube.com/@ScrumAtScale/videos)
+- [Serious Scrum](https://www.youtube.com/@seriousscrum7314/videos)
+- [Agile Review](https://www.youtube.com/@AgileReview/videos)
 
 ## Scrum
 - [Scrum.org](https://www.scrum.org/) — arguably, the most authoritative source on Scrum

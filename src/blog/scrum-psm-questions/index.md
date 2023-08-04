@@ -70,42 +70,103 @@ Having said that, why is HR interested in that particular member of the team? Is
 
 <h2 class="question">
 <span>Question:</span>
+During one sprint review, a customer representative appreciated the feature; however, in the very next review, he/she expressed confusion about the value it is expected to create. This situation can be frustrating for the team. How would you handle it?
+</h2>
+
+This may either be a normal occasional occurrence, or be a symptom of some dysfunction. Why did the customer representative express favorable opinion about a feature one sprint review, and then changed her mind in the next one? Was she focused during the previous review? Did she consciously approve a feature, or mechanically and without thinking? Also, why did this feature get included into the sprint? Was the product backlog ordered appropriately? Is the product owner in sufficiently close contact with the customer?
+
+If this is a rare occurrence, I would advise looking at it from the bright side. Ideally, the Product Owner should be able to justify the value of each of the product backlog items; but if this is not the case, and if the customer representative is still unsure about the value of a feature, this might suggest that the feature indeed was not important enough, in which case it is fortunate that this has been caught early. Use this opportunity to inspect the Product Backlog together with the customer representative and confirm with them that they still believe that the items in the top of the backlog, which are likely to be taken into the next sprint, are valuable.
+
+Have a talk with the Product Owner about how the feature that the customer representative was confused about ended up in the sprint; and whether there is anything that can be done to prevent this from happening in the future. Perhaps the Product Owner has problems with prioritizing the backlog properly?
+
+
+<h2 class="question">
+<span>Question:</span>
+When commitment is not demonstrated in a member of the scrum team, how might this impact other scrum values necessary for achieving the sprint goal?
+</h2>
+
+To review: scrum values are focus, courage, commitment, openness, and respect. Scrum values were first outlined in Ken Schwaber’s and Michael Beedle’s book _Agile Software Development with Scrum_ in 2001, and added to the Scrum Guide in its 2016 revision (a good discussion of them, by Ken Schwaber and Jeff Sutherland, can be found in [this episode](https://www.youtube.com/watch?v=0hRZffDD1ec) of _Scrum Pulse_).
+
+One other Scrum value that is almost guaranteed to suffer in the absence of commitment, is this person's focus towards achieving the goal. A lack of commitment is also likely to put into question their respect towards the people who have set the goal. It is also possible that this team member will become less open about their work, and will lack courage to contribute towards its improvement.
+
+<h2 class="question">
+<span>Question:</span>
 During a Sprint, the Development Team realises an item it selected in the forecast is much more complex than estimated. With approval from the Product Owner the Development Team changes it for an item it thinks it can finish.
+</h2>
+
+My feeling is that there is nothing wrong in the described scenario. An undone item would not have brought any value to the product; therefore, the Product Owner, whose role it is to maximize product value, together with the team adapted to these newly arising circumstances by choosing a backlog item that the team expects to finish, thus increasing the value of the product.
+
+At the end of the sprint, the team will do well to discuss this development in a retrospective. Perhaps they will identify what has caused the overly optimistic forecast of the item; and will get better at recognizing complexity of work. However, practice shows that, because development work is complex, estimations are very frequently wrong, which is why the growing opinion is that we should stop doing estimates.
+
+<h2 class="question">
+<span>Question:</span>
+A Scrum Team implements a process improvement goal that is not in line with organisational policy and standards. They argue they are self-organising and should be able to break with the ‘old ways’ through small controlled experiments.
+</h2>
+
+While it is certainly true that a slow-moving organization may have outdated policies and standards in place that are better retired, it is also possible that the existing policies and standards in fact serve an important, though non-obvious, purpose and must be followed to the letter. For example, some of such standards may exist to ensure legal compliance of the company, in which case meeting them should in fact become part of the definition of done for product backlog items.
+
+Scrum Master needs to make sure that both he and the team undertsand the purpose of the policies and standards that the team suggests skipping.
+
+<h2 class="question">
+<span>Question:</span>
+The Product Owner is highly conservative over who gets access to the Product Backlog which is maintained in a personal spreadsheet. He argues that if anyone wants to have access to information about the Product Backlog they can talk to him directly or join in on scheduled Product Backlog refinement sessions.
+</h2>
+
+The behaviour of the Product Owner is in contradiction with the Scrum value of openness. The Product Backlog is one of the Scrum artifacts that should be visible both to the team and to stakeholders. Having access to the product backlog lets both team members and stakeholders know what work and in which order is planned for the product, and enables them to provide timely feedback if necessary.
+
+The Scrum Master should speak to the Product Owner to find out why this is happening. Is the product a secret?
+
+<h2 class="question">
+<span>Question:</span>
+A Development Team discusses that due to the absence of a Development Team member it no longer has all the skills required to deliver a working “Done” increment according to the definitions of “Done”. It wants to adjust the definitions of “Done”.
+</h2>
+
+The purpose of the Definition of Done is to serve as a test for whether a shippable Increment has been achieved. If the team wants to adjust the Definition of Done, inspect it with the team, and ask them to reflect on why it was the way it was, and whether the loosened Definition of Done will still meet the product requirements.
+
+The likely answer to this question in this scenario will be a no. Indeed, it follows from the description of the scenario that if the Development Team member were present, the team would work towards the old Definition of Done.
+
+This situation reveals a team dysfunction and opens up several courses of action. The dysfunction is that there is only one team member that can do a certain kind of work, and in the absence of that person, the team is blocked. The actions open to the team are to either learn what the now missing member was doing, or to find a replacement for that person, or both.
+
+<h2 class="question">
+<span>Question:</span>
+Just prior to the Sprint Review a Development Team member determines some aspects of a process deviate outside acceptable limits, and that the resulting product will be unacceptable.
+</h2>
+
+The findings of the Development Team member should be discussed during the Sprint Review. The Sprint Review is the event for inspecting both the outcome of the Sprint, and the current state of the product; and the discovery of a team member that due to some defects in the process the product will be unacceptable should be addressed collectively as quickly as possible.
+
+<h2 class="question">
+<span>Question:</span>
+During a Sprint Review, when the Development Team is answering questions about the increment, there is a discussion related to work on a specific Product Backlog Item that is not considered “Done” by some. The Development Team members that worked on the item are in disagreement. Some argue it is “Done”, others argue it is not.
+</h2>
+
+The dysfunction illustrated in this scenario is that the Scrum team does not have a clear shared understanding of the Definition of Done. This needs to be addressed quickly; one good place is the nearest Sprint Retrospective.
+
+There remains, however, the question how to facilitate the ongoing Sprint Review where team members are in disagreement about whether a certain backlog item is “done”. Ask the team members who argue that the item is not done to elaborate on why they think so; and ask the Product Owner if any of these concerns should be addressed immediately in the next Sprint.
+
+<h2 class="question">
+<span>Question:</span>
+The Product Owner doesn’t understand the estimate given by the Development Team regarding a Product Backlog item. The Product Owner is surprised to learn that the item is deemed very complex. The Product Owner refers to an earlier ‘similar’ Product Backlog item, which was not complex at all.
 </h2>
 
 
 
-- That's totally fine
-- Product Owner is responsible for maximizing the value
-
-## A Scrum Team implements a process improvement goal that is not in line with organisational policy and standards. They argue they are self-organising and should be able to break with the ‘old ways’ through small controlled experiments.
-
-- This is totally fine. In fact, this is great.
-- Does the team understand the purpose of the organisational policy and standards, and the consequence of breaking them?
-
-## The Product Owner is highly conservative over who gets access to the Product Backlog which is maintained in a personal spreadsheet. He argues that if anyone wants to have access to information about the Product Backlog they can talk to him directly or join in on scheduled Product Backlog refinement sessions.
-
-- No transparency ("openness")
-- Why is this happening?
-- The team does not have an input
-
-## A Development Team discusses that due to the absence of a Development Team member it no longer has all the skills required to deliver a working “Done” increment according to the definitions of “Done”. It wants to adjust the definitions of “Done”.
-
-- Hire a new team member, or acquire the skill?
-
-## Just prior to the Sprint Review a Development Team member determines some aspects of a process deviate outside acceptable limits, and that the resulting product will be unacceptable.
-
-- Inspect the product
-
-## During a Sprint Review, when the Development Team is answering questions about the increment, there is a discussion related to work on a specific Product Backlog Item that is not considered “Done” by some. The Development Team members that worked on the item are in disagreement. Some argue it is “Done”, others argue it is not.
-
-## The Product Owner doesn’t understand the estimate given by the Development Team regarding a Product Backlog item. The Product Owner is surprised to learn that the items is deemed very complex. The Product Owner refers to an earlier ‘similar’ Product Backlog item, which was not complex at all.
+- Product Owner does not do estimation
 
 ## Decisions to optimise value and control risk are made based on the perceived state of the artefacts. What events and practises can improve transparency over the artefacts? Explain why.
 
+
+
 ## What risk is introduced if not all Development Team members are present for the Daily Scrum?
+
+
 
 ## The Product Owner insists on participating in the Daily Scrum so as to keep informed of the status and progress of development.
 
+- Cool
+- Pigs and chickens?
+
 ## The Product Owner suggests to postpone the Sprint Planning as she hasn’t yet been able to process all the feedback from the Sprint Review into the Product Backlog. She argues it makes no sense to plan the Sprint if the Product Backlog isn’t in a transparent state.
 
+- Interesting
+- Backlog refinement?
+- Prioritize? Only important feedback needs to be urgent

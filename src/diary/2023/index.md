@@ -3,6 +3,24 @@ title: "2023"
 layout: layouts/post.njk
 ---
 
+## July 31
+- [Feynman’s Messenger Lectures](https://www.feynmanlectures.caltech.edu/messenger.html) with video recordings.
+
+## July 28
+- [LeadDev channel](https://www.youtube.com/@LeadDev/videos)
+- [Videos from Shift conference](https://www.youtube.com/@ShiftConference/videos)
+- [100 days of more or less modern CSS](https://www.matuzo.at/blog/2022/100-days-of-more-or-less-modern-css/)
+
+## July 27
+- [Movies App](https://tastejs.com/movies/index.html) — examples of a real-world app; might be worth a try. 
+
+## July 26
+- [Node best practices, 2023 edition](https://github.com/goldbergyoni/nodebestpractices)
+
+## July 25
+- Miriam Suzanne has started a show called _Winging It_ ([link to youtube channel](https://www.youtube.com/@wingingitoddbird))
+- [Refactor DX 2023 playlist](https://www.youtube.com/playlist?list=PLNoTOsTRYfvjiqZ8ttvNTxSH8KdfhCJAO)
+
 ## July 23
 - [Agile India 2023 playlist](https://www.youtube.com/playlist?list=PL9Z-JgiTsOYR704E1FqbKw0XNdSrheriR)
 

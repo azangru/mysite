@@ -3,6 +3,9 @@ title: "2023"
 layout: layouts/post.njk
 ---
 
+## August 28
+- A [thread](https://fediverse.zachleat.com/@nolan@toot.cafe/110964567290689456) on Mastodon about cli tools for updating dependencies. Mentions `npm-check-updates` and `npx taze`.
+
 ## August 27
 - [BeJS 2023 playlist](https://www.youtube.com/playlist?list=PL53Z0yyYnpWhtlmFjyX1cIlisuFvHv1JK)
 - [Scrum Alliance Certified Scrum Master Learning Objectives](https://www.scrumalliance.org/media/certifications/los/csm_learning_objectives_2022.pdf)

@@ -3,6 +3,20 @@ title: "2023"
 layout: layouts/post.njk
 ---
 
+## August 27
+- [BeJS 2023 playlist](https://www.youtube.com/playlist?list=PL53Z0yyYnpWhtlmFjyX1cIlisuFvHv1JK)
+- [Scrum Alliance Certified Scrum Master Learning Objectives](https://www.scrumalliance.org/media/certifications/los/csm_learning_objectives_2022.pdf)
+- [Scrum Alliance Advanced Certified Scrum Master Learning Objectives](https://www.scrumalliance.org/media/certifications/los/adv_csm_learning_objectives_2022.pdf)
+
+## August 25
+- [JSHeroes 2023 playlist](https://www.youtube.com/playlist?list=PLB9NqTp0uKrR8g9ImDK2HPcpuC7oW8wYe)
+
+## August 21
+- [Free books for Interface and UX designers](https://smart-interface-design-patterns.com/articles/interface-design-books/)
+
+## August 7
+- [Fantastic Learning Resources](https://matklad.github.io/2023/08/06/fantastic-learning-resources.html), and a [discussion](https://news.ycombinator.com/item?id=37034994) of this article on Hacker News
+
 ## July 31
 - [Feynman’s Messenger Lectures](https://www.feynmanlectures.caltech.edu/messenger.html) with video recordings.
 

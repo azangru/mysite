@@ -145,6 +145,20 @@ There remains, however, the question how to facilitate the ongoing Sprint Review
 
 <h2 class="question">
 <span>Question:</span>
+A Developer suggests that given Scrum is about being a lightweight framework that removing some Events would make it even lighter. How would you respond to this? What might the impact be if Events were removed from the framework?
+</h2>
+
+Scrum events are a way of empirical agile product management, which help the team improve collaboration both within itself and with business stakeholders, help the team stay focused on the goal, frequently inspect the product, plan their work, and improve their processes.
+
+If a developer suggests removing any of the events, first, I would be curious to know which events they would like to remove and why. Does the developer not receive any benefit from those events? Do they feel that these events are a waste of their time? Learning this may help reveal the dysfunctions about how the Scrum framework is implemented by this particular team.
+
+Secondly, I would raise this with the team during a Retrospective, trying to discover whether any other team members feel the same way about these events, and to understand the cause.
+
+I would coach the team about the purpose of each of the Scrum events, and help facilitate them in a way that makes them valuable. Merely removing them risks losing the opportunities for transparency, inspection, and adaptation. 
+
+
+<h2 class="question">
+<span>Question:</span>
 The Product Owner doesn’t understand the estimate given by the Development Team regarding a Product Backlog item. The Product Owner is surprised to learn that the item is deemed very complex. The Product Owner refers to an earlier ‘similar’ Product Backlog item, which was not complex at all.
 </h2>
 
@@ -170,3 +184,53 @@ The Product Owner doesn’t understand the estimate given by the Development Tea
 - Interesting
 - Backlog refinement?
 - Prioritize? Only important feedback needs to be urgent
+
+<h2 class="question">
+<span>Question:</span>
+You are the Scrum Master for two teams, the Tigers and the Lions. Both teams work on the same product, and have chosen to use velocity to aid their capacity planning. One morning, you walk into the office and overhear a conversation between the two project managers. They are discussing which Scrum team adds more value to the customer. They propose to use the average velocity of the Tigers and Lions over the past twelve months to make their decision. Questions: 1) What is velocity? 2) does an increased velocity lead to increased value for the customer? 3) What actions would you take?
+</h2>
+
+Velocity is a commonly used notion in the Agile space, and is used to mean the amount of work done per unit of time. In the context of Scrum that would be the amount of work done but the Scrum team per sprint. Velocity is not a core Scrum concept, and thus does not figure in the Scrum Guide.
+
+To calculate the "amount of work", it is common to count either the number of product backlog items completed over a sprint, or to translate the backlog items into a certain number of points according to some estimation technique.
+
+An increased velocity may or may not lead to increased value for the customer. It would result in an increased value if the velocity was calculated as the number of product backlog items per sprint, and the product backlog were porperly ordered, with the most valuable items at the top. However, it is much more common to see the velocity calculated as "story points", which relate more to the amount of work needed to be done rather than to the value resulting from the work.
+
+Velocity is very commonly gamed, which is why many practitioners advise against focusing too closely on it. Most importantly, if velocity is calculated in "story points", these should stay internal to the Scrum team and should by no means be used to compare teams against each other, because there is no standard against which they are calculated. I would try to explain this to the project managers.
+
+
+-----
+
+P.S.: the feedback from a failed PSM3 exam that someone posted on reddit:
+
+So I thought I was prepared..took and passed PSPO I, II, PSM I, II, etc.. I failed.. and I’m not sure I’m going to spend another $500. There were 35 questions. 10 or so we’re multiple choice. Result: Did Not Pass Score: 59.8% (91.5 points scored out of 153 maximum points)
+
+Feedback:
+
+Research the Scrum Guide on the importance of artifact commitments, specifically how they enhance transparency for their respective artifacts. https://www.scrum.org/resources/blog/scrum-guide-2020-update-commitments
+
+What is the Product Owner's role in managing the Sprint Backlog? Who is responsible for keeping the Developers on track during the Sprint?
+
+Research the concept of Product Value. How would you define value? Can value mean different things to the users, and to the organizations? In other words, are there different target audiences when it comes to value delivery?
+
+Consider who is responsible for deciding whether or not a Product Increment is done. What happens if the Increment or one of the PBIs as being part of the Increment, is not done? How would you deal with that? Who decides on how to deal with that? What are the boundaries/rules of Scrum when it comes to deciding when and what to release? Are there any limitations to when a Scrum Team can release a Product Increment? And if so, what would that mean?
+
+Research the concept of Business Agility. Why is it important to the Product Owner? What are the benefits of Business Agility to an organization, its Product Owners and the products/services they manage? In other words, consider what the value of Business Agility is.
+
+Research the concept of Product Value. How would you define value? Can value mean different things to the users, and to the organizations? In other words, are there different target audiences when it comes to value delivery?
+
+Research what type of actions might differ between the Scrum Master and the Product Owner when it comes to increasing transparency.
+
+Consider how a Product Backlog might be constructed to maximize transparency. What are some key characteristics of a Product Backlog? Does Product Backlog have any commitment? And what about the characteristics of its Product Backlog items?
+
+Consider which artifacts are impacted by the debt created when taking shortcuts and “not done” work. What does transparency mean in that case? What can the Scrum Team do to reinstate transparency?
+
+There are many techniques, ways, tools and templates for creating transparency and understanding of the product vision. Research such techniques that can be used for describing and communicating the product vision and what purpose they each serve. Can specific techniques be used to achieve specific goals? Such as creating the product vision, or communicating the product vision, or visualizing the product vision?
+
+Consider that innovation does not come for free. Organizations and Scrum Teams need to invest in order to gain innovation and to gain innovative capabilities. Research how a Product Owner can contribute to increasing the level of innovation. What could be measured, decided on or influenced by a Product Owner, to impact the level of innovation done in a Sprint?
+
+Consider what makes Scrum artifacts transparent and how you can use the Scrum Guide and your experience with Scrum to support theory with practical examples.
+
+If a Product Backlog is truly transparent, is there no benefit to be gained by a competitor that gets access to the backlog? If it provides no value to a competitor, what value is it providing to stakeholders?
+
+The Scrum.org Team

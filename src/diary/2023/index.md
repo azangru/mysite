@@ -3,6 +3,21 @@ title: "2023"
 layout: layouts/post.njk
 ---
 
+## September 3
+- The [open practice library](https://openpracticelibrary.com/), by Red Hat, is an interesting, if overwhelming, collection of practices in software development.
+
+## September 2
+- [Render ATL 2023 playlist](https://www.youtube.com/playlist?list=PLgSxmbPTCm0x165yiR2_UQw7Z7zx7b3kx) (to replace the earlier link to the stream)
+- [Infobip shift 2023 playlist](https://www.youtube.com/playlist?list=PLuAItjWV4peGrHsGeoEfqOZxeCvrMDJO4)
+
+## August 31
+- Front Conference Zurich (FRONT23) happening today and tomorrow. There are likely going to be videos — watch [this space](https://www.youtube.com/playlist?list=PL9r1NcXXuHk_PhXYz_BFI3xa7aNXFykVe).
+- Refactor DX 2023 [playlist](https://www.youtube.com/playlist?list=PLNoTOsTRYfvjiqZ8ttvNTxSH8KdfhCJAO)
+
+## August 30
+- [Dylan Beattie - It's So Shiny! A Pure JavaScript Ray-Tracer](https://www.youtube.com/watch?v=PNKlC3lk9Kg)
+- [Build Stuff 2022 playlist](https://www.youtube.com/playlist?list=PLJwLLHYvH0VAIac7UD6Epbibp3tBJWstb), which contains the above talk as well as some other interesting ones.
+
 ## August 28
 - A [thread](https://fediverse.zachleat.com/@nolan@toot.cafe/110964567290689456) on Mastodon about cli tools for updating dependencies. Mentions `npm-check-updates` and `npx taze`.
 

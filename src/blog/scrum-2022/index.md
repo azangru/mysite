@@ -83,7 +83,7 @@ Through daily scrums, we can better establish priorities for work during the spr
 ### Self management
 _“A scrum master is not a project manager. Project managers manage the project by scheduling work, tracking progress, coordinating and taking actions to get the project back on planned schedule. Scrum masters don’t do any of that.” (Bas Vodde, Craig Larman. Large-Scale Scrum)_
 
-According to theory, scrumm is a pull-based system as opposed to the push-based, when a project manager is pushing tasks to developers. With scrum, developers are free to pick the tasks from the sprint, according to their capacity, ability, or interest.
+According to the theory, scrum is a pull-based system as opposed to the push-based, when a project manager is pushing tasks to developers. With scrum, developers are free to pick the tasks from the sprint, according to their capacity, ability, or interest.
 
 ### Knowledge transfer
 Team members have a chance to work in different areas of the codebase; plus, there are regular code reviews of pull requests.

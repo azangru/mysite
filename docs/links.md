@@ -28,12 +28,11 @@ Examples of overall good personal websites
 - https://pepelsbey.dev/ - Vadim Makeev's website
 - https://arie.ls/ — Ariel Salminen’s website
 - https://lynnandtonic.com/ — Lynn Fisher’s website. Much wow.
-- https://garden.bradwoods.io — Brad Woods’ digital gardan. Also much wow.
+- https://garden.bradwoods.io — Brad Woods’ digital garden. Also much wow.
 - https://www.tempertemper.net/ — Martin Underhill‘s site (simple and clean design) ([source](https://github.com/tempertemper/www.tempertemper.net), built with Eleventy)
 - https://bholmes.dev — Benjamin Holms's website
 - https://codersblock.com — Will Boyd’s website
 - https://darn.es/ — David Darnes’s website. Smart guy; lead dev on Nord design system
-- https://alexbilson.dev/resume/ — a cool way to write a resume
 - https://mikematas.com/ — a very nice and clean portfolio; perhaps a bit too mobile-oriented
 - https://jonneal.dev/ — a nice resume site
 - https://practicaltypography.com/ — Butterick's Practical Typography; a beautiful site about typography
@@ -43,6 +42,11 @@ Examples of overall good personal websites
 - https://shikijs.github.io/twoslash — love the styles of the text and the background
 - https://robbowen.digital — a beautiful personal website
 - https://www.miriamsuzanne.com — Miriam Suzanne's website
+
+Resumes:
+- https://alexbilson.dev/resume/ — a cool way to write a resume
+- https://ephys.dev/resume/ — nice resume
+- https://jhey.dev/resume/resume.pdf — Jhey Thompkins's resume
 
 https://github.com/iRaul/awesome-portfolios
 

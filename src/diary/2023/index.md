@@ -3,6 +3,12 @@ title: "2023"
 layout: layouts/post.njk
 ---
 
+## September 6
+- [A repo with webassembly exercises](https://github.com/EmNudge/watlings)
+- [Wasm wat samples repository](https://github.com/eliben/wasm-wat-samples/)
+- [React Rally 2023 playlist](https://www.youtube.com/playlist?list=PLUD4kD-wL_zY816kEAp5n1Fwp0CL6wjl3)
+- [SeattleJS 2023 playlist](https://www.youtube.com/playlist?list=PLLiioAbFTbKMJMlJnhkiKy7IfsnsCVAb5)
+
 ## September 3
 - The [open practice library](https://openpracticelibrary.com/), by Red Hat, is an interesting, if overwhelming, collection of practices in software development.
 

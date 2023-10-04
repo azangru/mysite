@@ -3,6 +3,45 @@ title: "2023"
 layout: layouts/post.njk
 ---
 
+## October 4
+- [Typescript Congress 2023 playlist](https://www.youtube.com/playlist?list=PLfIM4SvaiIyxbmXFVOkib0BUo82rnkBzH)
+
+## October 2
+- [Franks laboratory](https://www.youtube.com/@Frankslaboratory/videos) — creative coding experiments, generative art & game development with vanilla JavaScript & HTML canvas
+
+## October 1
+- [Micro Frontends Conference 2023 playlist](https://www.youtube.com/playlist?list=PLQ9i8GS-LNXkJulBBvezBeOVeRJTF8TjY)
+
+## September 28
+- [Slides from Hidde de Vries’ talk about ARIA](https://talks.hiddedevries.nl/hDiDOG)
+
+## September 26
+- [State of the Browser 2023 conference playlist](https://www.youtube.com/playlist?list=PL_xTCNiMz8sB6IAerr2hhW-iBr5-uyHzQ)
+- [Beyond tellerand Düsseldorf 2023 playlist](https://www.youtube.com/playlist?list=PL8ZzmQWppBBv7I3d0lYfGze6avk6NdurI)
+- [Videos from London Web Performance Group](https://www.youtube.com/@ldnwebperf/videos) — from around 2020
+
+## September 25
+- [A youtube playlist about working with canvas 2d (for building games)](https://www.youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL)
+
+## September 24
+- Not to forget (because I have a couple of times) — there is a [recording](https://www.youtube.com/watch?v=qWxul4LovqE) of the Working with Workers workshop at PWA summit 2022.
+
+## September 23
+- [Inclusive Design 24 talks 2023 playlist](https://www.youtube.com/playlist?list=PLn7dsvRdQEfFfYUgq0wVLXlVN7yQUUWd-) — see also playlists for previous years.
+
+## September 22
+- [Learn Rust by building real-life applications](https://www.shuttle.rs/launchpad)
+
+## September 21
+- [Web Summer Camp 2022 playlist](https://www.youtube.com/playlist?list=PLsL1X_98-_XD9RQsdzHFGL1X6NuOthHE5)
+
+## September 19
+- [A CSS reset from Andy Bell](https://andy-bell.co.uk/a-more-modern-css-reset)
+
+## September 12
+- [Smashing Conf 2023 Freiburg playlist](https://www.youtube.com/playlist?list=PLxQqv_fazRs1W7oGj3X_Pjwijv3TXll7r)
+- [Smashing Conf 2023 San Francisco playlist](https://www.youtube.com/playlist?list=PLxQqv_fazRs1euwYI0DxHXAZRvhntOwPn)
+
 ## September 6
 - [A repo with webassembly exercises](https://github.com/EmNudge/watlings)
 - [Wasm wat samples repository](https://github.com/eliben/wasm-wat-samples/)

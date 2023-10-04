@@ -6,6 +6,7 @@ published: true
 
 ## Algorithms
 - [MIT Introduction to Algorithms course, Summer 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
+- [Steven Skiena's Analysis of Algorithms course, CSE 373 -- Fall 2020](https://www.youtube.com/playlist?list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx) and [site](https://www3.cs.stonybrook.edu/~skiena/373/videos/)
 - [Playlists of lecture courses on algorithms by Tim Roughgardern](https://www.youtube.com/channel/UCcH4Ga14Y4ELFKrEYM1vXCg/playlists)
 - [Advanced Data Structures](https://courses.csail.mit.edu/6.851/spring21/) — a Spring 2021 course by the MIT Computer Science and Artificial Intelligence Laboratory
 - [Harvard’s 2021 version of the intro to data science course](https://harvard-iacs.github.io/2021-CS109A/). Sadly, no video lectures.
@@ -29,6 +30,7 @@ published: true
 - [Database Systems, Fall 2022](https://15445.courses.cs.cmu.edu/fall2022/) — a course from Carnegie-Mellon University.
 
 ## Data Science
+- [Data Science Fundamentals, by Steven Skiena — CSE 519 -- Fall 2020](https://www.youtube.com/playlist?list=PLOtl7M3yp-DVODzTKX8JtXkm1EG3u2BsD) and [site](https://www3.cs.stonybrook.edu/~skiena/data-manual/lectures/)
 - Principles and Techniques of Data Science, taught at UC Berkeley
   - Sam Lau's (teacher's) youtube channel, with [playlists](https://www.youtube.com/@SamLau95/playlists) of lecture courses
   - Data 100 [website](https://ds100.org/), with resources

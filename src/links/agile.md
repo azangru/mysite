@@ -40,6 +40,7 @@ published: true
 - [Seattle Crafter Meetup](https://www.youtube.com/@seattlecraftermeetup/videos)
 - [Events of the Agile & Digital Communities in London](https://www.youtube.com/@welovemeetup/videos)
 - [Agile Cymru](https://www.youtube.com/@agilecymru1629/videos) — doesn't get updated often; but has some interesting videos
+- [Agile Indy](https://www.youtube.com/@AgileIndy/videos) — videos from a meetup in Indianapolis
 
 ## Scrum
 - [Scrum.org](https://www.scrum.org/) — arguably, the most authoritative source on Scrum

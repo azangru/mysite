@@ -25,6 +25,7 @@ published: true
 ## Rust
 - [PSU CS 410P/510 – Rust Programming course by Portland State University (Spring 2021)](https://moodle.cs.pdx.edu/course/view.php?id=15). Materials published on https://github.com/pdx-cs-rust
 - [Programming in Rust course by University of Maryland (Fall 2021)](https://www.cs.umd.edu/class/fall2021/cmsc388Z/). Contains [assignments](https://github.com/cmsc388z/assignments)
+- [Программирование на Rust (весна 2019); Computer Science Center; in Russian](https://www.youtube.com/playlist?list=PLlb7e2G7aSpTfhiECYNI2EZ1uAluUqE_e)
 
 ## Databases
 - [Database Systems, Fall 2022](https://15445.courses.cs.cmu.edu/fall2022/) — a course from Carnegie-Mellon University.

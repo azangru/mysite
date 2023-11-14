@@ -3,8 +3,57 @@ title: "2023"
 layout: layouts/post.njk
 ---
 
+## November 14
+- An [example](https://github.com/thespicyweb/dashboard-exercise-css-nouveau) of declarative shadow DOM usage as a component system in Eleventy. Plus a [writeup](https://www.spicyweb.dev/css-nouveau/1-vanilla-has-never-tasted-so-hot/10-final-exercise-building-a-business-app-ui/) about this.
+- An [example](https://github.com/FranciscoMendes10866/react-vite-ssr) of setting up React server-side rendering with Vite.
+- Another [example](https://github.com/PaulieScanlon/simple-react-ssr-vite-express) of setting up React server-side rendering with Vite.
+
+## November 12
+- [Effective Rust](https://effective-rust.com/)
+
+## November 11
+- [React-datasheet-grid repo](https://github.com/nick-keller/react-datasheet-grid) may have some interesting tricks for building tables in React
+- [Debugging tricks in the browser](https://alan.norbauer.com/articles/browser-debugging-tricks)
+
+## November 3
+- [English-language talks at Design Systems Week 2023 in the Netherlands](https://nldesignsystem.nl/events/design-systems-week-2023/en/program/)
+
+## October 27
+- [Interactive intro to shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders), a blog post
+
+## October 23
+- [CodeWord Conference 2023 playlist](https://www.youtube.com/playlist?list=PLZDPKYkCEQk0kxJlcFMMuXuEwoTK_dpGO)
+- [Repo: state management with Next.js](https://github.com/ProNextJS/state-management-tutorial) — showing examples of state management using context, redux, zustand, and jotai; and how it works with server components
+
+## October 22
+- [The Startup CTO's Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) — a git repo with source files
+
+## October 21
+- [SmashingConf Antwerp playlist](https://www.youtube.com/playlist?list=PLxQqv_fazRs2VyMhVP77TrbmPyPQgNzoc)
+
+## October 20
+- [Full Stack Europe](https://www.youtube.com/@FullStackEurope/videos) just had a 2023 conference. Videos might appear in youtube channel.
+- [React Advanced London](https://www.youtube.com/watch?v=hn_L56ypX1A) happening today
+
+## October 19
+- [Yet another Rust resource](https://yarr.fyi/) — a crash course that, according to the creator, aims to be "a 3-day training course aimed to help folks get proficient enough with Rust to pair with an experienced Rustacean"
+- [Code challenges, by CodeCrafters.io](https://github.com/codecrafters-io)
+  - E.g. [build your own bittorrent](https://github.com/codecrafters-io/build-your-own-bittorrent)
+
+## October 18
+- [NY Web Performance Meetup videos](https://www.youtube.com/@NYWebPerformance/videos)
+
+## October 15
+- [Videos of single-div drawing with CSS](https://www.youtube.com/@alvaromontoro/videos)
+
+## October 8
+- [Rust programming tutorial](https://www.youtube.com/playlist?list=PLDbRgZ0OOEpUkWDGqp91ODn0dk7LPBAUL)
+- [Programming in Rust, in Russian, by Alexei Kladov, Spring 2019](https://www.youtube.com/playlist?list=PLlb7e2G7aSpTfhiECYNI2EZ1uAluUqE_e)
+- [Rust 101 repository](https://github.com/tweedegolf/101-rs) - a github repository with exercises for a Rust course.
+
 ## October 4
 - [Typescript Congress 2023 playlist](https://www.youtube.com/playlist?list=PLfIM4SvaiIyxbmXFVOkib0BUo82rnkBzH)
+- [JS Day Ireland videos](https://www.youtube.com/@jsdayie6995/videos) — contains videos from 2023
 
 ## October 2
 - [Franks laboratory](https://www.youtube.com/@Frankslaboratory/videos) — creative coding experiments, generative art & game development with vanilla JavaScript & HTML canvas

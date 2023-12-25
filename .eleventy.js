@@ -27,7 +27,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
   eleventyConfig.addCollection('blogArticles', (collection) => {
-    const blogArticles = collection.getFilteredByGlob("src/blog/**/*.md")
+    const blogArticles = collection.getFilteredByGlob(["src/blog/**/*.md", "src/blog/**/*.njk"])
       .filter(article => article.data.published);
     blogArticles.sort((a, b) => {
       return b.data.page.date - a.data.page.date;

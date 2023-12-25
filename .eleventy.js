@@ -1,4 +1,7 @@
-const { EleventyRenderPlugin } = require("@11ty/eleventy");
+const {
+  EleventyRenderPlugin,
+  EleventyHtmlBasePlugin
+} = require("@11ty/eleventy");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const bundlerPlugin = require("@11ty/eleventy-plugin-bundle");
@@ -8,14 +11,13 @@ const { DateTime } = require("luxon");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/assets');
-  eleventyConfig.addPassthroughCopy('src/**/assets/**/*.*');
-  eleventyConfig.addPassthroughCopy('src/**/images/**/*.*');
   eleventyConfig.setServerPassthroughCopyBehavior("passthrough"); // FIXME: this is temporary; should remove when the issue is fixed
 
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(bundlerPlugin);
   eleventyConfig.addPlugin(EleventyRenderPlugin);
+  eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
 
   // eleventyConfig.setDataDeepMerge(true);
 
@@ -84,6 +86,9 @@ module.exports = function(eleventyConfig) {
       includes: "_includes",
       // data: "_data",
       output: "build"
-    }
+    },
+
+    // For deployment to github pages, will need to add a path prefix
+    // pathPrefix: '/mysite/'
   };
 };

@@ -1,6 +1,6 @@
 ---
 title: Scrum PSM questions and answers
-date: "2022-06-03"
+date: "2023-06-03"
 layout: layouts/post.njk
 published: true
 ---

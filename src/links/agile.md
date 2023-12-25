@@ -7,7 +7,7 @@ published: true
 - [Scrum.org youtube channel](https://www.youtube.com/@ScrumOrg/videos)
 - [ProKanban youtube channel](https://www.youtube.com/@prokanban/videos)
 - [Agile for Humans](https://www.youtube.com/c/AgileforHumans/videos) — the channel of Ryan Ripley and Todd Motto
-- Scrum Alliance [videos](https://resources.scrumalliance.org/?tn=Videos) and [webinars](https://resources.scrumalliance.org/?tn=Webinars). See also their [Vimeo channel](https://vimeo.com/scrumalliance?embedded=true&source=video_title&owner=56112061)
+- Scrum Alliance [videos](https://resources.scrumalliance.org/?tn=Videos) and [webinars](https://resources.scrumalliance.org/?tn=Webinars). See also their [youtube channel](https://www.youtube.com/@scrumalliance/videos) and [Vimeo channel](https://vimeo.com/scrumalliance?embedded=true&source=video_title&owner=56112061)
 - Agile Alliance [videos](https://www.agilealliance.org/resources/videos/) and [webcasts](https://www.agilealliance.org/webcasts/). Also, see their [Vimeo page](https://vimeo.com/agilealliance)
 - [Experience Agile](https://www.youtube.com/ExperienceAgile/videos)
 - [Leading Agile](https://www.youtube.com/c/Leadingagile/videos)
@@ -33,12 +33,12 @@ published: true
 - [Agile Uprising podcast videos](https://www.youtube.com/@AgileUprisingNetwork/videos)
 - [Large-scale scrum channel](https://www.youtube.com/@LeSSWorks/videos)
 - [Sociocracy 3.0](https://www.youtube.com/@s3community/videos)
-- [Crisp Agile Academy](https://www.youtube.com/@crispagileacademy/videos)
+- [Crisp Agile Academy](https://www.youtube.com/@crisp-academy/videos)
 - [Scrum@Scale](https://www.youtube.com/@ScrumAtScale/videos)
 - [Serious Scrum](https://www.youtube.com/@seriousscrum7314/videos)
 - [Agile Review](https://www.youtube.com/@AgileReview/videos)
 - [Seattle Crafter Meetup](https://www.youtube.com/@seattlecraftermeetup/videos)
-- [Events of the Agile & Digital Communities in London](https://www.youtube.com/@welovemeetup/videos)
+- [Events of the Agile & Digital Communities in London](https://www.youtube.com/@agilemeetup/videos)
 - [Agile Cymru](https://www.youtube.com/@agilecymru1629/videos) — doesn't get updated often; but has some interesting videos
 - [Agile Indy](https://www.youtube.com/@AgileIndy/videos) — videos from a meetup in Indianapolis
 
@@ -80,6 +80,7 @@ published: true
 - James Shore (co-author of Agile Fluency Model)
 - Diana Larsen (agile retrospectives; agile fluency model)
 - Mike Cottmeyer (talks about agile transformation of organisations)
+- Kurt Bittner (talks about evidence-based management and other things)
 
 ## Other agilists
 - [John Coleman](https://www.youtube.com/@johncolemanagilitychef/videos)

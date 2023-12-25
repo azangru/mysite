@@ -27,6 +27,9 @@ published: true
 - [Programming in Rust course by University of Maryland (Fall 2021)](https://www.cs.umd.edu/class/fall2021/cmsc388Z/). Contains [assignments](https://github.com/cmsc388z/assignments)
 - [Программирование на Rust (весна 2019); Computer Science Center; in Russian](https://www.youtube.com/playlist?list=PLlb7e2G7aSpTfhiECYNI2EZ1uAluUqE_e)
 
+## Functional programming
+- [15-150: Principles of Functional Programming](https://brandonspark.github.io/150/) — a course taught at Carnegie Mellon University in Summer 2023. Uses Standard ML.
+
 ## Databases
 - [Database Systems, Fall 2022](https://15445.courses.cs.cmu.edu/fall2022/) — a course from Carnegie-Mellon University.
 
@@ -66,6 +69,7 @@ published: true
 - [Linear Algebra](https://www.khanacademy.org/math/linear-algebra/)
 
 ## Textbooks
+- [Deep Learning: Foundation and Concepts](https://www.bishopbook.com) by Christopher Bishop and Hugh Bishop
 - [OCaml programming](https://cs3110.github.io/textbook/cover.html) — a textbook for a functional programming course at Cornell
 
 ## Meta-resources (curated lists of other resources)

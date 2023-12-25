@@ -3,6 +3,81 @@ title: "2023"
 layout: layouts/post.njk
 ---
 
+## December 20
+- [Revo.js 2023 talks playlist](https://www.youtube.com/playlist?list=PL701JjUqw62n3kKSg19n6T7EFHiBja6LU)
+- [Small examples for WebGL practice](https://www.html5gamedevs.com/topic/34115-lets-create-webgl-examples-for-practice)
+
+## December 19
+- [JavaScript: the first 20 years](https://dl.acm.org/doi/10.1145/3386327) — an open-access paper about the early history of JavaScript, published in 2020 and co-authored by its creator.
+- [When will it be done](https://www.youtube.com/watch?v=VTRqCMWK5L4) — a good talk by Prateek Singh at Scrum Masters of the Universe
+- [The Infantilization of Agile](https://www.youtube.com/watch?v=Svr3vWOvZK0) — a great conversation between Ryan Ripley and Chris Williams about how themed retrospectives are silly.
+- A [talk](https://www.youtube.com/watch?v=UIILiihawJc) about [React-RxJS library](https://github.com/re-rxjs/react-rxjs) (see the [docs](https://react-rxjs.org/)).
+
+## December 18
+- [border:none conference playlist](https://www.youtube.com/playlist?list=PL8ZzmQWppBBsPY2f9_iT0N9lcZG5jAhI9)
+
+## December 16
+- As suggested by someone on reddit, may try to replicate the intro animation at https://energy-park.co.uk
+- A reminder to myself that there is a [repo](https://github.com/type-challenges/type-challenges) with typescript type challenges
+
+## December 11
+- [UI typography book online](https://imperavi.com/books/ui-typography/)
+- [Normconf 2022](https://normconf.com/) — although it's focused on ML topics, some might be more general.
+- A [template](https://github.com/evertbouw/vite-template-redux-observable) for using redux observable, set up with Vite.
+
+## December 10
+- [ProkoTV](https://www.youtube.com/@ProkoTV/playlists) — a youtube channel with instructions on drawing
+- Books people recommend:
+  - Fun with a Pencil: How Everybody Can Easily Learn to Draw
+  - Drawing on the Right Side of the Brain
+  - Design for Hackers
+
+## December 9
+Advent calendars:
+- [Web performance calendar, 2023 edition](https://calendar.perfplanet.com/2023/)
+- [HTML advent calendar](https://www.htmhell.dev/adventcalendar/)
+- [Advent of technical writing](https://jamesg.blog/category/advent-of-technical-writing/)
+- [12 days of web](https://12daysofweb.dev/)
+Also of note:
+- [CSS wrap-up](https://developer.chrome.com/blog/css-wrapped-2023) — a huge blog post by Google
+
+## December 8
+- [Frank's Laboratory channel](https://www.youtube.com/@Frankslaboratory/videos) — videos about creative coding in canvas (see e.g. [this video](https://www.youtube.com/watch?v=UeZ1pTg_nMo))
+
+## December 3
+- [Let’s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/) — a blog post by Nolan Lawson
+- [Scrum Master Interview Questions, by Stefan Wolpers](https://coach-agile.com/wp-content/uploads/2022/10/73-Scrum-Master-Interview-Questions.pdf)
+
+## December 2
+- [Beyond Tellerand Berlin 2023 playlist](https://www.youtube.com/playlist?list=PL8ZzmQWppBBsyPJZyIaYy4uJKtDoNqFmE)
+- [Video channel of Jonathan Paulson](https://www.youtube.com/@jonathanpaulson5053/videos), where he posts his solutions to Advent of Code and similar puzzles
+- [Chris Biscardi's playlist of AdventOfCode in Rust](https://www.youtube.com/playlist?list=PLWtPciJ1UMuD3_8Pb-EqrFhkYpastR2cn)
+
+## November 27
+- [NodeConf EU 2023 playlist](https://www.youtube.com/playlist?list=PL0CdgOSSGlBYI7_e6Zs4kFSXL9LvOn8gM)
+- [Westbrook Johnson: Scaling Up and Down with Web Components | Codegarden 2023](https://www.youtube.com/watch?v=IAVSsiLbUB0)
+
+## November 24
+- [Performance.now 2023 playlist](https://www.youtube.com/playlist?list=PLjnstNlepBvNb93j0MICxh9ymBlq1It1D)
+- [WeyWeyWeb 2022 playlist](https://www.youtube.com/playlist?list=PLBjtswXLxZXb9VqEtyRsqZDwdoMdfYecX)
+- [VirtualPiano](https://github.com/sophiekoonin/virtualpiano) — a repo of a simple synthesizer implementation
+
+## November 23
+- [WebGPU codelab from Google](https://codelabs.developers.google.com/your-first-webgpu-app)
+
+## November 22
+- [A gist with a simple node + ts setup](https://gist.github.com/khalidx/1c670478427cc0691bda00a80208c8cc)
+
+## November 18
+- [Videos from Agile Online Summit 2023](https://www.youtube.com/@AgileOnlineSummit/videos)
+
+## November 15
+Several Microsoft courses, in github repositories:
+  - [ML for beginners](https://github.com/microsoft/ML-For-Beginners)
+  - [Data science for beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+  - [Generative AI for beginners](https://github.com/microsoft/generative-ai-for-beginners)
+- [Wasm by example](https://wasmbyexample.dev/home.en-us.html)
+
 ## November 14
 - An [example](https://github.com/thespicyweb/dashboard-exercise-css-nouveau) of declarative shadow DOM usage as a component system in Eleventy. Plus a [writeup](https://www.spicyweb.dev/css-nouveau/1-vanilla-has-never-tasted-so-hot/10-final-exercise-building-a-business-app-ui/) about this.
 - An [example](https://github.com/FranciscoMendes10866/react-vite-ssr) of setting up React server-side rendering with Vite.

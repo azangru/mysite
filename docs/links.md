@@ -41,7 +41,9 @@ Examples of overall good personal websites
 - https://daveon.design/about-dave-on-design.html — cool typography
 - https://shikijs.github.io/twoslash — love the styles of the text and the background
 - https://robbowen.digital — a beautiful personal website
+- https://eystein.no/portfolio — a nice portfolio page
 - https://www.miriamsuzanne.com — Miriam Suzanne's website
+- https://jacky.wtf/work — some interesting resume formatting
 
 Resumes:
 - https://alexbilson.dev/resume/ — a cool way to write a resume

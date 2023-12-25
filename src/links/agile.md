@@ -83,4 +83,4 @@ published: true
 - Kurt Bittner (talks about evidence-based management and other things)
 
 ## Other agilists
-- [John Coleman](https://www.youtube.com/@johncolemanagilitychef/videos)
+- [John Coleman](https://www.youtube.com/@xagility/videos)

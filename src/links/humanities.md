@@ -11,6 +11,9 @@ published: true
 ## English dialects
 - [BBC Voices](https://sounds.bl.uk/Accents-and-dialects/BBC-Voices) — a collection of recordings of British dialects
 
+## History of English
+- [Old English And Beowulf, MIT, Spring 2023](https://ocw.mit.edu/courses/21l-601j-old-english-and-beowulf-spring-2023/video_galleries/lecture-videos/)
+
 ## History of the English literature
 - Ted Sherman, a very good English teacher, has a [youtube channel](https://www.youtube.com/channel/UCB_pokQ27mY3DGlGrSdNKKw/videos) with college-level lectures on the history of British literature as well as on the history of the English language
 

@@ -1,5 +1,5 @@
 ---
-title: What I do not understand about the mRNA vaccines
+title: What I do not understand about mRNA vaccines
 date: "2023-09-03"
 layout: layouts/post.njk
 published: true
@@ -9,7 +9,7 @@ published: true
 <link href="./assets/styles.css" rel="stylesheet">
 {% endhtml %}
 
-There was a time, during the Covid pandemic, when the media were educating their audiences about the nature and the mechanism of action of different vaccines being developed against covid. I remember numerous infographics in the papers; but I did not save them then; and they are hard to locate now. At least my google-fu isn’t strong enough. I managed to find a couple of different ones, which will illustrate my point. [One]([Link](https://www.nytimes.com/interactive/2020/health/pfizer-biontech-covid-19-vaccine.html)) was produced by the _New York Times’_ graphics department; and the [other](https://www.bbc.co.uk/news/world-europe-54902056) was published by the BBC and is attributed to _Nature_.
+There was a time, during the Covid pandemic, when the media were educating their audiences about the nature and the mechanism of action of different new vaccines against covid. I remember seeing various infographics in the papers; but I did not save them then; and they are hard to locate now. At least my google-fu isn’t strong enough. Still, I managed to find a couple, which will illustrate my point. [One]([Link](https://www.nytimes.com/interactive/2020/health/pfizer-biontech-covid-19-vaccine.html)) was produced by the _New York Times’_ graphics department; and the [other](https://www.bbc.co.uk/news/world-europe-54902056) was published by the BBC, with an attribution to _Nature_.
 
 ## The Infographics
 
@@ -65,7 +65,7 @@ Figure 7. Killer T cells (center) activated by antigen-presenting cells (top) de
 </figure>
 
 
-### From the BBC
+### 2. From the BBC
 
 
 <figure>

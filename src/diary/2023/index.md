@@ -3,6 +3,27 @@ title: "2023"
 layout: layouts/post.njk
 ---
 
+## December 30
+- [Neetcode.io](https://neetcode.io) has resources for learning data structures and algorithms.
+
+## December 29
+- [Nordstrom Innovation Lab creates an iPad app in one week, through an agile approach](https://www.youtube.com/watch?v=2NFH3VC6LNs)
+- [UX specialists's critique of Lean UX](https://www.youtube.com/watch?v=5w_Qy-8cczE)
+
+## December 28
+- [Basics of WebGPU tutorial by Jack Xu](https://www.youtube.com/watch?v=KTFFdZSDiTU). The language is pretty awful; but the content may be interesting.
+
+## December 27
+- [Page explaining Cynefin](https://thecynefin.co/about-us/about-cynefin-framework/), with a video by Dave Snowden
+- [Can the Sprint Backlog change during a Sprint](https://www.youtube.com/watch?v=xR7aONNqUOc), by Ryan Ripley and Todd Miller
+
+## December 26
+- [Questions for a new technology, by Kellan Elliott-McCrea](https://kellanem.com/notes/new-tech)
+
+## December 25
+- [NodeConf EU 2023 playlist](https://www.youtube.com/playlist?list=PL0CdgOSSGlBYI7_e6Zs4kFSXL9LvOn8gM)
+- [Codrops](https://tympanus.net/codrops/) — front-end news; much about three.js, and webgl, and stuff
+
 ## December 20
 - [Revo.js 2023 talks playlist](https://www.youtube.com/playlist?list=PL701JjUqw62n3kKSg19n6T7EFHiBja6LU)
 - [Small examples for WebGL practice](https://www.html5gamedevs.com/topic/34115-lets-create-webgl-examples-for-practice)

@@ -11,7 +11,32 @@ const { DateTime } = require("luxon");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/assets');
-  eleventyConfig.setServerPassthroughCopyBehavior("passthrough"); // FIXME: this is temporary; should remove when the issue is fixed
+
+  /**
+   * For the Blog section
+   * 1. Flatten the year directory and its immediate subdirectory in the url
+   * /blog/2018/foo/index.html --> /blog/2018-foo/index
+   */
+  eleventyConfig.addFilter('blogPermalink', function (filePath = '') {
+    const withoutFileName = filePath.split('/').slice(0, -1).join('/');
+    const yearRegex = /([0-9]{4})\//;
+
+    return withoutFileName.replace(yearRegex, "$1-");
+  });
+  eleventyConfig.addPassthroughCopy('src/blog', {
+    filter: ['**/*.!(md|njk|html|json)'],
+    rename: (filePath) => {
+      const fn = eleventyConfig.getFilter('blogPermalink');
+      const fileName = filePath.split('/').pop();
+      if (!fileName) {
+        return filePath;
+      }
+      const targetDir = fn(filePath);
+      return `${targetDir}/${fileName}`;
+    }
+  });
+
+  // eleventyConfig.setServerPassthroughCopyBehavior("passthrough"); // FIXME: this is temporary; should remove when the issue is fixed
 
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
@@ -27,7 +52,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
   eleventyConfig.addCollection('blogArticles', (collection) => {
-    const blogArticles = collection.getFilteredByGlob(["src/blog/**/*.md", "src/blog/**/*.njk"])
+    const blogArticles = collection.getFilteredByGlob(["src/blog/**/index.md", "src/blog/**/index.njk"])
       .filter(article => article.data.published);
     blogArticles.sort((a, b) => {
       return b.data.page.date - a.data.page.date;

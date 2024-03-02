@@ -37,6 +37,7 @@ published: true
     - [How do textures, models, and girlfriends work?](https://www.youtube.com/watch?v=KwEuurLRG_Q)
     - [Clipping](https://youtu.be/_jvzZh0jMk4)
 - [Introduction to Computer Graphics textbook by David Eck](https://math.hws.edu/graphicsbook/) — a textbook for an undergraduate course on the fundamentals of computer graphics, taught using webgl 2.0.
+- [MIT course on computer graphics, 2012 (assignments might be worth checking out)](https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/pages/lecture-notes/)
 
 ## Video resources
 - [Scrolling images with WebGL and Three.js](https://www.youtube.com/watch?v=ivg603bYDk8) — Yuri Artiukh’s youtube channel is great in general
@@ -50,12 +51,14 @@ published: true
 - [Codrops](https://tympanus.net/codrops) — creative front-end resources and inspiration for web professionals
 - [Repository](https://github.com/gnikoloff/practical-webgl-from-scratch-course) for Georgi Nikolov‘s awwwards course “Practical WebGL from scratch for web developers”
 - [WebGL workshop](https://github.com/stackgl/webgl-workshop) (part of Node school?)
+- [WebGL Academy](http://www.webglacademy.com/)
 
 ## WebGPU
 - [WebGPU Fundamentals](https://webgpufundamentals.org/)
 - [Raw WebGPU tutorial](https://alain.xyz/blog/raw-webgpu)
 - [WebGPU tutorial by Jack Xu on FreeCodeCamp](https://www.youtube.com/watch?v=KTFFdZSDiTU). See also his repository [WebGPU step by step](https://github.com/jack1232/WebGPU-Step-By-Step)
 - [Learn WebGPU](https://eliemichel.github.io/LearnWebGPU/index.html) — uses a C++ wrapper, but hopefully should be understandable regardless.
+- [WebGPU for beginners](https://www.youtube.com/playlist?list=PLn3eTxaOtL2Ns3wkxdyS3CiqkJuwQdZzn)
 
 Youtube channels
 - [WebGL on ProgrammingTIL](https://www.youtube.com/playlist?list=PLPqKsyEGhUnaOdIFLKvdkXAQWD4DoXnFl)

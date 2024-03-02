@@ -43,12 +43,16 @@ Examples of overall good personal websites
 - https://robbowen.digital — a beautiful personal website
 - https://eystein.no/portfolio — a nice portfolio page
 - https://www.miriamsuzanne.com — Miriam Suzanne's website
+- https://github.com/mirisuzanne/mia/ — Eleventy source of Miriam Suzanne's website
+- https://github.com/maxboeck/mxb — Eleventy source of Max Boeck's website
 - https://jacky.wtf/work — some interesting resume formatting
+- https://github.com/knowler/knowler.dev — a personal site built with Deno
 
 Resumes:
 - https://alexbilson.dev/resume/ — a cool way to write a resume
 - https://ephys.dev/resume/ — nice resume
 - https://jhey.dev/resume/resume.pdf — Jhey Thompkins's resume
+- https://gaultier.github.io/resume/resume — a good example of a developer's resume
 
 https://github.com/iRaul/awesome-portfolios
 
@@ -60,3 +64,6 @@ Interesting Eleventy starter projects
 - https://github.com/maxboeck/eleventastic
 - https://github.com/deviousdodo/elevenpack - using webpack with webpack manifest
 - https://github.com/google/eleventy-high-performance-blog - by Google
+
+Astro examples
+- https://github.com/kizu/kizu-blog — possibly has solved the problem that I had with urls

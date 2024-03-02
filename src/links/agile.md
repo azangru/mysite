@@ -41,6 +41,7 @@ published: true
 - [Events of the Agile & Digital Communities in London](https://www.youtube.com/@agilemeetup/videos)
 - [Agile Cymru](https://www.youtube.com/@agilecymru1629/videos) — doesn't get updated often; but has some interesting videos
 - [Agile Indy](https://www.youtube.com/@AgileIndy/videos) — videos from a meetup in Indianapolis
+- [Agile Tuesday](https://www.youtube.com/@agiletuesday/videos) - talks, including from Dave Snowden, Debbie Levitt, or FAST authors
 
 ## Scrum
 - [Scrum.org](https://www.scrum.org/) — arguably, the most authoritative source on Scrum
@@ -81,6 +82,9 @@ published: true
 - Diana Larsen (agile retrospectives; agile fluency model)
 - Mike Cottmeyer (talks about agile transformation of organisations)
 - Kurt Bittner (talks about evidence-based management and other things)
+- Jeff Patton (youtube has his talks about product management)
+- Steve Porter (scrum.org; one of the writers of exam questions)
+- Daniel Mezick (open-space agility)
 
 ## Other agilists
 - [John Coleman](https://www.youtube.com/@xagility/videos)

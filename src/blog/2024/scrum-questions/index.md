@@ -5,7 +5,6 @@ layout: layouts/post.njk
 published: false
 ---
 
-
 ## Example test questions from [International Scrum Institute](https://www.scrum-institute.org/Example_Scrum_Certification_Test_Questions.php)
 
 ### Scrum Master questions
@@ -412,3 +411,11 @@ As a Scrum Developer, how should you respond to this proposal?
 Your Scrum team is working on a project to develop a new feature for an existing product. During a Sprint, the Product Owner, David, receives new information from stakeholders that requires a significant change to one of the user stories in the Sprint backlog. This change will likely impact the team's ability to meet the Sprint goal.
 
 As a Scrum Developer, how should you handle this situation?
+
+
+
+## Questions of my own
+
+A Scrum team is about to plan their next sprint. Over the course of the current sprint, the Scrum Master has analysed several items at the top of the product backlog, and created Jira tickets with detailed description of tasks that he thinks the team might take into the next sprint. Shortly before the Sprint Planning, the Product Owner has a meeting with the Scrum Master, inspects the Jira tickets that the Scrum Master has created, and agrees that they look like reasonable things to work on next. When the sprint planning starts, the team gets together, inspects the Jira tickets that the Product Owner and the Scrum Master present to them; read their descriptions; and give them an estimate in story points. The Scrum Master notices that one of the tasks, has received what he feels is too many story points, and suggests that it is too large to go in the current sprint and is better left until the next sprint one. The team agrees. The rest of the Jira tickets go into the sprint. The Scrum Master clicks on the "Start a new sprint" button, and the sprint begins. This concludes the meeting.
+
+Identify potential problems in the described scenario, and suggest improvements.

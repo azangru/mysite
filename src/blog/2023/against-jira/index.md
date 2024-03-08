@@ -6,12 +6,12 @@ published: true
 ---
 
 {% html "styles" %}
-<link href="styles.css" rel="stylesheet">
+<link href="/assets/for-blog/2023/against-jira/styles.css" rel="stylesheet">
 {% endhtml %}
 
 It is fashionable, among scrum advocates, to vocally dislike Jira. For a long time, this surprized me. I could not imagine what flaws they saw in it — apart from being slow, of course. Slowness goes without saying.
 
-<img src="img.avif">
+<img src="/assets/for-blog/2023/against-jira/img.avif">
 
 The first clue came from Nigel Baker. In one of his interviews, he groaned, “has Jira finally learnt how to assign several people to a ticket”? Indeed, if you think about it, there is no reason why a ticket (a task? a sticky? that thing) should be assigned to only one developer, when some tasks by their nature need to be done collectively, and when some teams prefer to work in groups through pair or mob programming.
 

@@ -47,6 +47,7 @@ Examples of overall good personal websites
 - https://github.com/maxboeck/mxb — Eleventy source of Max Boeck's website
 - https://jacky.wtf/work — some interesting resume formatting
 - https://github.com/knowler/knowler.dev — a personal site built with Deno
+- https://anhvn.com/posts/2024/my-eleventy-site-setup — very good
 
 Resumes:
 - https://alexbilson.dev/resume/ — a cool way to write a resume
@@ -55,6 +56,9 @@ Resumes:
 - https://gaultier.github.io/resume/resume — a good example of a developer's resume
 
 https://github.com/iRaul/awesome-portfolios
+
+Fun stuff:
+- https://getcoleman.com/ — web site of a copywriter
 
 Fonts to examine:
 - Merriweather: https://fonts.google.com/specimen/Merriweather

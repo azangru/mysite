@@ -6,7 +6,7 @@ published: true
 ---
 
 {% html "styles" %}
-<link href="./assets/styles.css" rel="stylesheet">
+<link href="/assets/for-blog/2023/mrna-covid-vaccine/styles.css" rel="stylesheet">
 {% endhtml %}
 
 There was a time, during the Covid pandemic, when the media were educating their audiences about the nature and the mechanism of action of different new vaccines against covid. I remember seeing various infographics in the papers; but I did not save them then; and they are hard to locate now. At least my google-fu isn’t strong enough. Still, I managed to find a couple, which will illustrate my point. [One]([Link](https://www.nytimes.com/interactive/2020/health/pfizer-biontech-covid-19-vaccine.html)) was produced by the _New York Times’_ graphics department; and the [other](https://www.bbc.co.uk/news/world-europe-54902056) was published by the BBC, with an attribution to _Nature_.
@@ -16,49 +16,49 @@ There was a time, during the Covid pandemic, when the media were educating their
 ### 1. From the New York Times
 
 <figure>
-<img src="./assets/images/nytimes/coronavirus.png" class="nytimes-image">
+<img src="/assets/for-blog/2023/mrna-covid-vaccine/images/nytimes/coronavirus.png" class="nytimes-image">
 <figcaption>
 Figure 1. The coronavirus. The surface of the virus is covered with the spike protein. The arrow shows the spike protein gene.
 </figcaption>
 </figure>
 
 <figure>
-<img src="./assets/images/nytimes/lipid-nanoparticle.png" class="nytimes-image">
+<img src="/assets/for-blog/2023/mrna-covid-vaccine/images/nytimes/lipid-nanoparticle.png" class="nytimes-image">
 <figcaption>
 Figure 2. A lipid nanoparticle containing the mRNA that encodes the spike protein.
 </figcaption>
 </figure>
 
 <figure>
-<img src="./assets/images/nytimes/entering-cell.png" class="nytimes-image">
+<img src="/assets/for-blog/2023/mrna-covid-vaccine/images/nytimes/entering-cell.png" class="nytimes-image">
 <figcaption>
 Figure 3. Vaccine particles enter the cell. Vaccine mRNA is translated in the cell cytoplasm into the spike protein (three spike subunits combine into a full protein). The spike protein and its fragments are then exposed on the cell surface.
 </figcaption>
 </figure>
 
 <figure>
-<img src="./assets/images/nytimes/spotting-intruder.png" class="nytimes-image">
+<img src="/assets/for-blog/2023/mrna-covid-vaccine/images/nytimes/spotting-intruder.png" class="nytimes-image">
 <figcaption>
 Figure 4. Debris from dead cells is consumed by antigen-presenting cells (top), which present spike protein fragments to helper T cells (bottom).
 </figcaption>
 </figure>
 
 <figure>
-<img src="./assets/images/nytimes/making-antibodies.png" class="nytimes-image">
+<img src="/assets/for-blog/2023/mrna-covid-vaccine/images/nytimes/making-antibodies.png" class="nytimes-image">
 <figcaption>
 Figure 5. B cells (center) encounter the spike protein on the surface of vaccinated cells (right) or floating frely in the intercellular fluid; and are activated by helper T cells (top) to produce antibodies.
 </figcaption>
 </figure>
 
 <figure>
-<img src="./assets/images/nytimes/stopping-virus.png" class="nytimes-image">
+<img src="/assets/for-blog/2023/mrna-covid-vaccine/images/nytimes/stopping-virus.png" class="nytimes-image">
 <figcaption>
 Figure 6. Antibodies latch onto coronavirus spikes, mark the virus for destruction and prevent infection by blocking the spikes from attaching to other cells.
 </figcaption>
 </figure>
 
 <figure>
-<img src="./assets/images/nytimes/killing-infected-cells.png" class="nytimes-image">
+<img src="/assets/for-blog/2023/mrna-covid-vaccine/images/nytimes/killing-infected-cells.png" class="nytimes-image">
 <figcaption>
 Figure 7. Killer T cells (center) activated by antigen-presenting cells (top) destroy coronavirus-infected cells that display spike protein fragments on their surface.
 </figcaption>
@@ -69,7 +69,7 @@ Figure 7. Killer T cells (center) activated by antigen-presenting cells (top) de
 
 
 <figure>
-<img src="./assets/images/bbc/covid-vaccine.webp" class="bbc-image">
+<img src="/assets/for-blog/2023/mrna-covid-vaccine/images/bbc/covid-vaccine.webp" class="bbc-image">
 </figure>
 
 

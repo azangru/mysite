@@ -1,7 +1,22 @@
 ---
-title: "2023"
+title: "2024"
 layout: layouts/post.njk
 ---
+
+## March 8
+- [Richard Feldman's Rust intro workshop](https://github.com/rtfeldman/rust-1.51-workshop)
+
+## March 7
+- [Eloquent Javascript book got updated to version 4 (2024)](https://eloquentjavascript.net)
+
+## March 5
+- [Motion tricks](https://www.motiontricks.com/) — articles on svg animation
+
+## March 4
+- [CSS for printing to paper](https://voussoir.net/writing/css_for_printing)
+
+## March 3
+- [UVCanvas](https://uvcanvas.com/) — an open-source library with some pretty webgl canvas graphics
 
 ## February 24
 - [The Nature of Code](https://natureofcode.com/)

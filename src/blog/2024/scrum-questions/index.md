@@ -413,6 +413,41 @@ Your Scrum team is working on a project to develop a new feature for an existing
 As a Scrum Developer, how should you handle this situation?
 
 
+==========
+
+
+## Miscellaneous questions
+
+
+Your company wants you to help them form new teams for an enhancement initiative for an existing product. The product has an extensive architecture, and is comprised of different components and layers (for example, database, backend, frontend). Describe different ways Scrum Teams can be structured for this initiative. What are the advantages and disadvantages of each.
+
+
+The Product Owned has approached you, the Scrum Master, seeking clarification on a sentence from the Scrum Guide: "The Product Owner is accountable for maximizing the value of the product resulting from the work of the Scrum Team." Can you provide an example that illustrates the meaning of this sentence?
+
+Transparent increments are required by the Product Owner to evaluate progress towards goals. How does the lack of transparency and incomplete increments affect the Product Owner's ability to assess progress towards goal? In case the Scrum Team does not possess the necessary skills or tooling to create "done" increments, what techniques can be implemented to ensure maximum transparency?
+
+You are a Scrum Master in an engineering department that has many Scrum Teams working on various products. The engineering director tells you that you need to increase the velocity of one of the Scrum Teams as its performance is lower than the other teams. As a Scrum Master, how do you respond?
+
+
+Scrum is built on empirical process control theory, and transparency is essential to ensure the accuracy of the artifacts. Specifically, the Product Backlog must be transparent. What steps can be taken to ensure that the Product Backlog is transparent? How can it be constructed in a way that maximizes transparency, and how should it be made available to ensure that transparency is maintained? Furthermore, if a competitor were to view an organization with a transparent Product Backlog, would they be able to use it to their advantage? If not, why not?
+
+What aspects of Scrum enable a Scrum Team to self-manage? Describe how each of them helps.
+
+Can you provide two examples of behaviors that Scrum Teams display when they are self-managing?
+
+Halfway through the Sprint, the Product Owner comes to you asking for advice. He is worried that the Developers will not be able to finish the most critical items in the Sprint Backlog. The Developers had estimated those items would take half of the Sprint; yet halfway through the Sprint, they have not started on them yet. You have been the Scrum Master on the team, and the Developers have never failed to deliver an increment or meet the Sprint Goal. How would you respond to the Product Owner?
+
+Why is it helpful for a Product Owner to have a Product Vision? Describe the relationship between the Product Vision and Sprint Goal.
+
+
+You are a Scrum Master working with a Scrum Team. The Developers constantly complain that requirements are not clear enough. The Product Owner claims she is too busy to provide extra clarity. What should you do?
+Courtesy of Simon Kneafsey
+
+
+
+
+
+
 
 ## Questions of my own
 

@@ -23,20 +23,20 @@ module.exports = function(eleventyConfig) {
 
     return withoutFileName.replace(yearRegex, "$1-");
   });
-  eleventyConfig.addPassthroughCopy('src/blog', {
-    filter: ['**/*.!(md|njk|html|json)'],
-    rename: (filePath) => {
-      const fn = eleventyConfig.getFilter('blogPermalink');
-      const fileName = filePath.split('/').pop();
-      if (!fileName) {
-        return filePath;
-      }
-      const targetDir = fn(filePath);
-      return `${targetDir}/${fileName}`;
-    }
-  });
+  // eleventyConfig.addPassthroughCopy('src/blog', {
+  //   filter: ['**/*.!(md|njk|html|json)'],
+  //   rename: (filePath) => {
+  //     const fn = eleventyConfig.getFilter('blogPermalink');
+  //     const fileName = filePath.split('/').pop();
+  //     if (!fileName) {
+  //       return filePath;
+  //     }
+  //     const targetDir = fn(filePath);
+  //     return `${targetDir}/${fileName}`;
+  //   }
+  // });
 
-  // eleventyConfig.setServerPassthroughCopyBehavior("passthrough"); // FIXME: this is temporary; should remove when the issue is fixed
+  eleventyConfig.setServerPassthroughCopyBehavior("passthrough"); // FIXME: this is temporary; should remove when the issue is fixed
 
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);

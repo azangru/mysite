@@ -1,5 +1,6 @@
 :root {
   --content-width: 960px;
+  --color-black: #113654; /* just some not-quite-black black, whatever (https://ianstormtaylor.com/design-tip-never-use-black/) */
 }
 
 * {
@@ -9,6 +10,10 @@
 html, body {
   margin: 0;
   height: 100%;
+}
+
+body {
+  color: var(--color-black);
 }
 
 main {

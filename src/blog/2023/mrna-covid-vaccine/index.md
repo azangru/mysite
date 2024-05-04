@@ -18,49 +18,49 @@ There was a time, during the Covid pandemic, when the media were educating their
 <figure>
 <img src="/assets/for-blog/2023/mrna-covid-vaccine/images/nytimes/coronavirus.png" class="nytimes-image">
 <figcaption>
-Figure 1. The coronavirus. The surface of the virus is covered with the spike protein. The arrow shows the spike protein gene.
+  <strong>Figure 1.</strong> The coronavirus. The surface of the virus is covered with the spike protein. The arrow shows the spike protein gene.
 </figcaption>
 </figure>
 
 <figure>
 <img src="/assets/for-blog/2023/mrna-covid-vaccine/images/nytimes/lipid-nanoparticle.png" class="nytimes-image">
 <figcaption>
-Figure 2. A lipid nanoparticle containing the mRNA that encodes the spike protein.
+  <strong>Figure 2.</strong> A lipid nanoparticle containing the mRNA that encodes the spike protein.
 </figcaption>
 </figure>
 
 <figure>
 <img src="/assets/for-blog/2023/mrna-covid-vaccine/images/nytimes/entering-cell.png" class="nytimes-image">
 <figcaption>
-Figure 3. Vaccine particles enter the cell. Vaccine mRNA is translated in the cell cytoplasm into the spike protein (three spike subunits combine into a full protein). The spike protein and its fragments are then exposed on the cell surface.
+  <strong>Figure 3.</strong> Vaccine particles enter the cell. Vaccine mRNA is translated in the cell cytoplasm into the spike protein (three spike subunits combine into a full protein). The spike protein and its fragments are then exposed on the cell surface.
 </figcaption>
 </figure>
 
 <figure>
 <img src="/assets/for-blog/2023/mrna-covid-vaccine/images/nytimes/spotting-intruder.png" class="nytimes-image">
 <figcaption>
-Figure 4. Debris from dead cells is consumed by antigen-presenting cells (top), which present spike protein fragments to helper T cells (bottom).
+  <strong>Figure 4.</strong> Debris from dead cells is consumed by antigen-presenting cells (top), which present spike protein fragments to helper T cells (bottom).
 </figcaption>
 </figure>
 
 <figure>
 <img src="/assets/for-blog/2023/mrna-covid-vaccine/images/nytimes/making-antibodies.png" class="nytimes-image">
 <figcaption>
-Figure 5. B cells (center) encounter the spike protein on the surface of vaccinated cells (right) or floating frely in the intercellular fluid; and are activated by helper T cells (top) to produce antibodies.
+  <strong>Figure 5.</strong> B cells (center) encounter the spike protein on the surface of vaccinated cells (right) or floating frely in the intercellular fluid; and are activated by helper T cells (top) to produce antibodies.
 </figcaption>
 </figure>
 
 <figure>
 <img src="/assets/for-blog/2023/mrna-covid-vaccine/images/nytimes/stopping-virus.png" class="nytimes-image">
 <figcaption>
-Figure 6. Antibodies latch onto coronavirus spikes, mark the virus for destruction and prevent infection by blocking the spikes from attaching to other cells.
+  <strong>Figure 6.</strong> Antibodies latch onto coronavirus spikes, mark the virus for destruction and prevent infection by blocking the spikes from attaching to other cells.
 </figcaption>
 </figure>
 
 <figure>
 <img src="/assets/for-blog/2023/mrna-covid-vaccine/images/nytimes/killing-infected-cells.png" class="nytimes-image">
 <figcaption>
-Figure 7. Killer T cells (center) activated by antigen-presenting cells (top) destroy coronavirus-infected cells that display spike protein fragments on their surface.
+  <strong>Figure 7.</strong> Killer T cells (center) activated by antigen-presenting cells (top) destroy coronavirus-infected cells that display spike protein fragments on their surface.
 </figcaption>
 </figure>
 

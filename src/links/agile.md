@@ -66,6 +66,11 @@ published: true
 ### Online courses
 - [Agile and Scrum in the Real World | Google Project Management Certificate](https://www.youtube.com/watch?v=1evfn3qTYGM)
 
+### PSM 3 materials
+- Michael Lloyd
+  - [Introducing his course](https://www.youtube.com/watch?v=lPWbJXnBx34&t=977s)
+  - [Lean Coffee with Simon Reindl](https://www.youtube.com/watch?v=4PRgGrs4wrU)
+
 
 ## Notable People
 - James Coplien
@@ -85,6 +90,7 @@ published: true
 - Jeff Patton (youtube has his talks about product management)
 - Steve Porter (scrum.org; one of the writers of exam questions)
 - Daniel Mezick (open-space agility)
+- David Pereira (an awesome and very pragmatic product owner)
 
 ## Other agilists
-- [John Coleman](https://www.youtube.com/@xagility/videos)
+- [John Coleman](https://www.youtube.com/@agilityisland/videos), creator of Kanplexity

@@ -20,6 +20,11 @@ published: true
 - 6.837: Introduction to Computer Graphics (fall 2021) ([youtube playlist](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtqt2yL3KgKV-yn0NEPbRVi))
 - Computer Graphics, Keenan Crane as taught at CMU in 2020 — [youtube playlist](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) and a [website](http://15462.courses.cs.cmu.edu/fall2023/home) with learning materials
 
+### The Nature of Code
+- [The Nature of Code](https://natureofcode.com/)
+- [The Nature of Code playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM)
+- [The Coding Train videos](https://www.youtube.com/@TheCodingTrain/videos)
+
 ## Programming languages
 - ECE 459: Programming for Performance, taught at University of Waterloo — has a [github repository](https://github.com/jzarnett/ece459), and [videos](https://www.youtube.com/c/JeffZarnett/videos) posted to Jeff Zarnett's channel
 

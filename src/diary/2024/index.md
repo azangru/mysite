@@ -3,6 +3,93 @@ title: "2024"
 layout: layouts/post.njk
 ---
 
+## May 3
+- [CSS text box trim examples](https://github.com/jantimon/text-box-trim-examples) — a github repo for a proposed CSS property that removes white space around text.
+
+## May 2
+- [How to solve it (with raycasting)](https://alicegg.tech//2024/05/01/how-to-solve-it.html) — an explanation of a raycasting approach.
+
+## May 1
+- [If View Transitions and Scroll-Driven Animations had a baby… — a talk by Bramus van Damme](https://www.youtube.com/watch?v=a6ZN9jM-1K4)
+
+## April 27
+- [Frontendeval.com](https://frontendeval.com/) has a list with some front-end challenges.
+
+## April 26
+- [Free 3d textures and models](https://www.sharetextures.com/)
+
+## April 23
+- [GPU Compute in the Browser at the Speed of Native: WebGPU Marching Cubes](https://www.willusher.io/graphics/2024/04/22/webgpu-marching-cubes)
+
+## April 21
+- [Jeff Sutherland's elevator pitch of scrum](https://www.youtube.com/watch?v=NvdQeepHYfM)
+- [Scrum.inc's presentation of scrum patterns, 2014](https://www.scruminc.com/wp-content/uploads/2014/11/Patterns1.pdf)
+- [John Coleman's article on LinkedIn about fake scrum](https://www.linkedin.com/pulse/im-tired-fake-scrum-john-coleman)
+
+## April 19
+- [Python talks by David Beazley; said to be very good](https://www.dabeaz.com/tutorials.html)
+
+## April 15
+- [Coding interview university, a github repo](https://github.com/jwasham/coding-interview-university)
+
+## April 13
+- [Epic Web Conf Live, morning sessions](https://www.youtube.com/watch?v=Q0fwzlwTLWk)
+- [Epic Web Conf Live, afternoon sessions](https://www.youtube.com/watch?v=8117-JmjgOA)
+- [Jon Gjengset's youtube channel with streams about advanced Rust programming](https://www.youtube.com/@jonhoo/videos)
+- [Learn Rust with Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html)
+
+## April 12
+- [Comprehensive Rust](https://google.github.io/comprehensive-rust/index.html) — I've logged it before; this is a reminder about this resource
+- [Repo for Let's Get Rusy bootcamp](https://github.com/letsgetrusty/bootcamp/tree/master)
+- [RxJS from scratch workshop](https://www.youtube.com/watch?v=NJ9Wwotjx_Y)
+- [Some of the best free fonts](https://clearleft.com/thinking/some-of-the-best-free-fonts) — a blog article. Someone on Mastodon also added the [Literata](https://www.type-together.com/literata-font) font to the list.
+
+## April 11
+- [Idiosyncrasies of an HTML parser — a book](https://htmlparser.info/)
+
+## April 6
+- [Detect if an element can scroll, using scroll-driven animations](https://www.bram.us/2023/09/16/solved-by-css-scroll-driven-animations-detect-if-an-element-can-scroll-or-not)
+- [Playlists of several DevRelCon conferences](https://www.youtube.com/@DevRel/playlists). Not sure if they are interesting.
+
+## April 5
+- [CityJS London 2024 playlist](https://www.youtube.com/playlist?list=PLYDCh9vbt8_KaDRpHB4mC6JlGhKFNg0T0)
+
+## March 31
+- [WebGL2 - creating a 2D Game Engine playlist](https://www.youtube.com/playlist?list=PLNZ8kyDrNalYItoRFzIy11JzDtuyuSRuu) - contains some explanations about matrices
+
+## March 29
+- [An rxjs course from 3 years ago](https://rxjs-course.dev/course)
+
+## March 28
+- [City JS Singapore video playlist](https://www.youtube.com/playlist?list=PLYDCh9vbt8_KaDRpHB4mC6JlGhKFNg0T0)
+- [City JS London 2024 video playlist](https://www.youtube.com/playlist?list=PLYDCh9vbt8_KaDRpHB4mC6JlGhKFNg0T0)
+- [Search results for rxjs in Grafana repository](https://github.com/search?q=repo%3Agrafana%2Fgrafana%20rxjs&type=code) — Grafana uses rxjs in a react-based codebase
+
+## March 25
+- [Video of creating a 3d portfolio website with Three.js and react-three-fiber](https://www.youtube.com/watch?v=FkowOdMjvYo)
+
+## March 24
+- [BBC repo with software engineering technical assessments](https://github.com/bbc/software-engineering-technical-assessments)
+
+## March 19
+- [wolsey.com](https://www.wolsey.com/) — an example of a website with decent accessibility; it uses dialogs properly
+- [Okay, Color Spaces](https://ericportis.com/posts/2024/okay-color-spaces/)
+- [News App repo](https://github.com/PortableStudios/news-app) — a starter for a tech test at Portable Studios. Plus a [youtube video by Portable](https://www.youtube.com/watch?v=1vix3U1P5xk) about applying to tech jobs
+
+## March 18
+- [Aria authoring practices guide](https://www.w3.org/WAI/ARIA/apg/)
+- [Companion repo for the book Fullstack Web Components](https://github.com/readymade-ui/fullstack-web-components)
+
+## March 15
+Worth checking out:
+- Some videos from past events get uploaded to the [youtube channel of Front Conference Zurich](https://www.youtube.com/@FrontZurich/videos)
+- The Smashing Magazine youtube channel has some new videos, including Vitaly Friedman's [workshop on designing search UX](https://www.youtube.com/watch?v=OSihRRirLVk)
+
+## March 14
+- [SeattleJS Conf 2023 playlist](https://www.youtube.com/playlist?list=PLLiioAbFTbKMJMlJnhkiKy7IfsnsCVAb5)
+- [Applied Accessibility: Practical Tips for Building More Accessible Front-Ends by Sara Soueidan](https://www.youtube.com/watch?v=are7ZZgA86I)
+- [A formula for responsive font size](https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/)
+
 ## March 8
 - [Richard Feldman's Rust intro workshop](https://github.com/rtfeldman/rust-1.51-workshop)
 

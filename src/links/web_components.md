@@ -10,3 +10,4 @@ published: true
 
 ## Design systems and libraries
 - [PatternFly elements](https://patternflyelements.org/) — UI components based on PatternFly design
+- [Material Web](https://material-web.dev/) — Lit-based web components implementing Material design (see the [github repo](https://github.com/material-components/material-web))

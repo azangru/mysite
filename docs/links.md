@@ -47,7 +47,12 @@ Examples of overall good personal websites
 - https://github.com/maxboeck/mxb — Eleventy source of Max Boeck's website
 - https://jacky.wtf/work — some interesting resume formatting
 - https://github.com/knowler/knowler.dev — a personal site built with Deno
+- https://www.ellyloel.com/ — an Eleventy website 
 - https://anhvn.com/posts/2024/my-eleventy-site-setup — very good
+- https://github.com/remy/remysharp.com/tree/main — Remy Sharp's custom-made blog (static site)
+- https://github.com/lynnandtonic/twitter.lynnandtonic.com - Lynn Fisher's Twitter archive with Eleventy
+- https://github.com/jmduke/site — An Eleventy site of Justin Duke. Built with Eleventy. Has different types of content, including the microblog-y one.
+- https://github.com/chrisburnell/chrisburnell.com - Another Eleventy site with several categories of entries, and multiple small entries 
 
 Resumes:
 - https://alexbilson.dev/resume/ — a cool way to write a resume

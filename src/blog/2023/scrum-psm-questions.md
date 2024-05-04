@@ -6,7 +6,7 @@ published: true
 ---
 
 {% html "styles" %}
-<link href="./assets/styles.css" rel="stylesheet">
+<link href="/assets/for-blog/2023/scrum-psm-questions/styles.css" rel="stylesheet">
 {% endhtml %}
 
 

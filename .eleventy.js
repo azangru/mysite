@@ -14,27 +14,16 @@ module.exports = function(eleventyConfig) {
 
   /**
    * For the Blog section
-   * 1. Flatten the year directory and its immediate subdirectory in the url
-   * /blog/2018/foo/index.html --> /blog/2018-foo/index
+   * 1. Combine the year directory with blog file name in the url
+   * /blog/2018/foo.md --> /blog/2018-foo/index.html
    */
   eleventyConfig.addFilter('blogPermalink', function (filePath = '') {
-    const withoutFileName = filePath.split('/').slice(0, -1).join('/');
+    console.log(filePath);
+
     const yearRegex = /([0-9]{4})\//;
 
-    return withoutFileName.replace(yearRegex, "$1-");
+    return filePath.replace(yearRegex, "$1-");
   });
-  // eleventyConfig.addPassthroughCopy('src/blog', {
-  //   filter: ['**/*.!(md|njk|html|json)'],
-  //   rename: (filePath) => {
-  //     const fn = eleventyConfig.getFilter('blogPermalink');
-  //     const fileName = filePath.split('/').pop();
-  //     if (!fileName) {
-  //       return filePath;
-  //     }
-  //     const targetDir = fn(filePath);
-  //     return `${targetDir}/${fileName}`;
-  //   }
-  // });
 
   eleventyConfig.setServerPassthroughCopyBehavior("passthrough"); // FIXME: this is temporary; should remove when the issue is fixed
 

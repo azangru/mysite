@@ -53,6 +53,7 @@ Examples of overall good personal websites
 - https://github.com/lynnandtonic/twitter.lynnandtonic.com - Lynn Fisher's Twitter archive with Eleventy
 - https://github.com/jmduke/site — An Eleventy site of Justin Duke. Built with Eleventy. Has different types of content, including the microblog-y one.
 - https://github.com/chrisburnell/chrisburnell.com - Another Eleventy site with several categories of entries, and multiple small entries 
+- https://github.com/aarongustafson/aaron-gustafson.com — An Eleventy site with different categories and lots of files
 
 Resumes:
 - https://alexbilson.dev/resume/ — a cool way to write a resume

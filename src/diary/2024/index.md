@@ -3,6 +3,18 @@ title: "2024"
 layout: layouts/post.njk
 ---
 
+## May 7
+- [Running an architecture kata session](https://youtu.be/NbHkpSkWvTc?si=urcVIzUugr2p9s0p)
+
+## May 6
+- [Casey Muratori's youtube channel](https://www.youtube.com/@MollyRocket/videos)
+- JSWorld youtube channel has [published](https://www.youtube.com/@JSWORLDConference/videos) videos from React Miami conference (although they haven't yet been collected into a playlist)
+- [Videos of talks from Node Congress 2024](https://portal.gitnation.org/events/node-congress-2024)
+- [Videos of talks from DevOps.js Conf 2024](https://portal.gitnation.org/events/devopsjs-conf-2023)
+- A free online [book](https://pomax.github.io/bezierinfo/) on Bezier curves
+- [An online webrtc video tutorial](https://www.youtube.com/watch?v=QsH8FL0952k) (is it good? I do not know) 
+- Bramus's [course](https://www.youtube.com/playlist?list=PLNYkxOF6rcICM3ttukz9x5LCNOHfWBVnn) _Unleash the power of scroll-driven animations_
+
 ## May 3
 - [CSS text box trim examples](https://github.com/jantimon/text-box-trim-examples) — a github repo for a proposed CSS property that removes white space around text.
 

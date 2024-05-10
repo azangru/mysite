@@ -3,6 +3,9 @@ title: "2024"
 layout: layouts/post.njk
 ---
 
+## May 10
+- [Livestream of Eleventy conference](https://www.youtube.com/watch?v=iLxJ6PtuF9M)
+
 ## May 7
 - [Running an architecture kata session](https://youtu.be/NbHkpSkWvTc?si=urcVIzUugr2p9s0p)
 

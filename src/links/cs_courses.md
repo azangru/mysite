@@ -4,6 +4,9 @@ layout: layouts/post.njk
 published: true
 ---
 
+## CS intro
+- [MIT 6.100L: Introduction To CS And Programming Using Python, 2022](https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB)
+
 ## Algorithms
 - [MIT Introduction to Algorithms course, Summer 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 - [Steven Skiena's Analysis of Algorithms course, CSE 373 -- Fall 2020](https://www.youtube.com/playlist?list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx) and [site](https://www3.cs.stonybrook.edu/~skiena/373/videos/)
@@ -56,6 +59,7 @@ published: true
   - [A Course in Machine Learning](http://ciml.info/)
   - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
   - [Natural Language Processing, Jacob Eisenstein](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+- [CS388: Natural Language Processing, University of Texas](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html)
 
 ## Machine learning
 - [Andrej Karpathy: Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)

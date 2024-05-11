@@ -3,6 +3,12 @@ title: "2024"
 layout: layouts/post.njk
 ---
 
+## May 11
+- [WPT Learning Session (by web components community group)](https://www.youtube.com/watch?v=lPZtWDWHuZg)
+Open-source projects based on Lit:
+- [Home Assistant](https://github.com/home-assistant/frontend)
+- [webcomponents.org](https://github.com/webcomponents/webcomponents.org)
+
 ## May 10
 - [Livestream of Eleventy conference](https://www.youtube.com/watch?v=iLxJ6PtuF9M)
 

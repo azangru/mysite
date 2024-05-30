@@ -3,11 +3,25 @@ title: "2024"
 layout: layouts/post.njk
 ---
 
+## May 29
+- [CSS Container Queries in Practice](https://www.youtube.com/watch?v=Ci2DLDQYup0) — a very good video, by Miriam Suzanne, about CSS container queries.
+
+## May 23
+- [Devworld 2024 playlist](https://www.youtube.com/playlist?list=PL02pdjMT4gWxU9dXX6uDIVLFAAuXc7D3I)
+
+## May 17
+- [100 exercises to learn Rust](https://github.com/mainmatter/100-exercises-to-learn-rust/tree/main) repo
+
+## May 16
+- ReactConf 2024
+- Google IO, 2024
+
 ## May 11
 - [WPT Learning Session (by web components community group)](https://www.youtube.com/watch?v=lPZtWDWHuZg)
 Open-source projects based on Lit:
 - [Home Assistant](https://github.com/home-assistant/frontend)
 - [webcomponents.org](https://github.com/webcomponents/webcomponents.org)
+- An [example](https://lit.dev/playground/#gist=9991a45aff1837497f970168942a0e70) of what something simple based on lit-html and signals, without lit-element, could look like
 
 ## May 10
 - [Livestream of Eleventy conference](https://www.youtube.com/watch?v=iLxJ6PtuF9M)

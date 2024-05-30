@@ -43,11 +43,13 @@ Examples of overall good personal websites
 - https://robbowen.digital — a beautiful personal website
 - https://eystein.no/portfolio — a nice portfolio page
 - https://www.miriamsuzanne.com — Miriam Suzanne's website
+- https://github.com/oddbird/oddleventy/tree/main — Site of Oddbird (Miriam Suzanne's company), made with Eleventy
 - https://github.com/mirisuzanne/mia/ — Eleventy source of Miriam Suzanne's website
 - https://github.com/maxboeck/mxb — Eleventy source of Max Boeck's website
 - https://jacky.wtf/work — some interesting resume formatting
 - https://github.com/knowler/knowler.dev — a personal site built with Deno
-- https://www.ellyloel.com/ — an Eleventy website 
+- https://blakewatson.com — an Eleventy website; can't see source code; but still good for inspiration 
+- https://www.ellyloel.com/ — an Eleventy website
 - https://anhvn.com/posts/2024/my-eleventy-site-setup — very good
 - https://github.com/remy/remysharp.com/tree/main — Remy Sharp's custom-made blog (static site)
 - https://github.com/lynnandtonic/twitter.lynnandtonic.com - Lynn Fisher's Twitter archive with Eleventy
@@ -55,6 +57,7 @@ Examples of overall good personal websites
 - https://github.com/chrisburnell/chrisburnell.com - Another Eleventy site with several categories of entries, and multiple small entries 
 - https://github.com/aarongustafson/aaron-gustafson.com — An Eleventy site with different categories and lots of files
 - https://github.com/chriskirknielsen/dotcom-2024 — An Eleventy site. Markdown files for pages neatly tucked in a dedicated directory in src/content/pages
+- https://github.com/rknightuk/rknight.me - An Eleventy site with different groups of posts, including multiple small ones (e.g. "links")
 
 Resumes:
 - https://alexbilson.dev/resume/ — a cool way to write a resume

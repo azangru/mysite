@@ -78,6 +78,7 @@ Interesting Eleventy starter projects
 - https://github.com/maxboeck/eleventastic
 - https://github.com/deviousdodo/elevenpack - using webpack with webpack manifest
 - https://github.com/google/eleventy-high-performance-blog - by Google
+- https://github.com/madrilene/eleventy-excellent — uses esbuild for bundling
 
 Astro examples
 - https://github.com/kizu/kizu-blog — possibly has solved the problem that I had with urls

@@ -3,6 +3,38 @@ title: "2024"
 layout: layouts/post.njk
 ---
 
+## June 22
+- [Database school playlist](https://www.youtube.com/playlist?list=PLI72dgeNJtzqElnNB6sQoAn2R-F3Vqm15) — talks about SQLite.
+
+## June 21
+- [Lea Verou's article Inline conditionals in CSS, now](https://lea.verou.me/blog/2024/css-conditionals-now/)
+
+## June 17
+- [Cracking the Facebook Coding Interview, the approach](https://www.youtube.com/watch?v=wCl9kvQGHPI)
+- [Cracking the Facebook Coding Interview, problem walkthrough, by Gayle McDowell](https://www.youtube.com/watch?v=4UWDyJq8jZg)
+- [Meta careers, with example code problems](https://www.metacareers.com/profile/trial/?chooseView=Hello+World) — need to sign up though
+
+## June 16
+- [Web Fundamentals Curriculum, by Alex Russell](https://github.com/slightlyoff/web-fundamentals-curriculum)
+- [Middlesbrough Front End 2023 playlist](https://www.youtube.com/playlist?list=PLGbVdvLzBpbgUhSzOMM82VykjFA_aklLZ)
+
+## June 14
+- [JSHeroes 2024 playlist](https://www.youtube.com/playlist?list=PLB9NqTp0uKrTlXRJq38MxzWp1T5hmp8Hw)
+
+## June 10
+- [StackOverflow example of using gradient as canvas2d stroke style](https://stackoverflow.com/a/61122944/3925302)
+
+## June 9
+- [Interactive playground](https://firtman.github.io/projs/) and [slides](https://firtman.github.io/projs/slides.pdf) for Maximiliano Firtman’s course Professional JS: Features You Need to Know
+- [GreatFrontEnd.com](https://www.greatfrontend.com/) — a website with front-end interview questions; most of them paywalled; but system design questions are interesting
+
+## June 8
+- [Ryan Florence's talk Mind the Gap](https://www.youtube.com/live/1g5ruM-16_Y?t=7656s) at Big Sky Dev Con 2024
+- [Sam Selikoff's talk High Floor, High Ceiling](https://www.youtube.com/live/uVKSmR_hBMs?t=5736s) at Big Sky Dev Con 2024
+
+## June 7
+- [CSS Day 2024 playlist](https://www.youtube.com/playlist?list=PLjnstNlepBvO0-I7iwqpkOY_fwAop6Pl-) (currently paywalled on youtube; but hopefully they will lift the wall as they did with other conferences)
+
 ## May 29
 - [CSS Container Queries in Practice](https://www.youtube.com/watch?v=Ci2DLDQYup0) — a very good video, by Miriam Suzanne, about CSS container queries.
 

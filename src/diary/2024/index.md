@@ -3,6 +3,68 @@ title: "2024"
 layout: layouts/post.njk
 ---
 
+## July 24
+- [Roadmap for learning web components](https://learn-wcs.com/)
+
+## July 23
+- [Demystifying the Backend Engineering interview process](https://monzo.com/blog/2022/03/23/demystifying-the-backend-engineering-interview-process) — an article by Monzo
+- [Styled rectangles in WebGPU](https://tchayen.com/thousands-styled-rectangles-in-120fps-on-gpu)
+
+## July 22
+- [Legend state](https://github.com/LegendApp/legend-state) — an interesting state management library based on observables
+
+## July 21
+- A blog [article](https://dgerrells.com/blog/how-not-to-use-box-shadows) about box shadows
+
+## July 18
+- Someone's [youtube channel](https://www.youtube.com/@3Angle_/videos) with a lot of webGPU content
+
+## July 17
+- [Future Frontend 2024 playlist](https://www.youtube.com/playlist?list=PLKGgD1M40S4icv0bsHGriGw8pI9YjDZtk)
+- [JSNation 2024 playlist](https://www.youtube.com/playlist?list=PLfIM4SvaiIyzvcxO9PqHfqw_kkjHBQxFk)
+- [Micro Frontends conference 2024](https://www.youtube.com/playlist?list=PLQ9i8GS-LNXk2uLpVXV484lk20FDKpnAX)
+
+
+## July 14
+- [Rust training](https://github.com/ferrous-systems/rust-training) — learning materials for the Rust Training courses by Ferrous Systems
+- [Rust exercises repo](https://github.com/ferrous-systems/rust-exercises) by Ferrous Systems
+
+## July 12
+- Reminder to self: gov.uk's guideline [Building a resilient frontend using progressive enhancement](https://www.gov.uk/service-manual/technology/using-progressive-enhancement).
+
+## July 11
+- [All day Hey Leeds, 2024 playlist](https://www.youtube.com/playlist?list=PLXvnOKZ69XbaRM3jyCTF0v8amEnnFUGKq)
+- [DotJS 2024 conference playlist](https://www.youtube.com/playlist?list=PLMW8Xq7bXrG7fOUOLJQw9I7ygJCbue9zO)
+
+## July 8
+- [How fast is javascript? Simulating 20,000,000 particles](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles) — a blog post, discussing web workers, shared array buffers, and other stuff.
+
+## July 3
+- [Generative AI for beginners](https://github.com/microsoft/generative-ai-for-beginners) repo by Microsoft
+
+## June 28
+- [Youtube playlist of a video course on Scribus](https://www.youtube.com/playlist?list=PLTZhWSINdiMyCfMCnduux0_t0EJyN85CX)
+
+## June 27
+- [Dysfunction Mapping workshop Miro template, by Michael Lloyd](https://miro.com/app/board/uXjVNuNr15g=/)
+- [Dysfunction Map Miro template, by Michael Lloyd](https://miro.com/app/board/uXjVNtXHRZo=/)
+- [Flow charts with CSS anchor positioning](https://coryrylan.com/blog/flow-charts-with-css-anchor-positioning)
+- [Frontend Nation 2024 playlist](https://www.youtube.com/playlist?list=PLxddmVXxb3HuuKuxT-RdgBRxDNPRpem95)
+
+## June 26
+- A bunch of old books on English grammar in Internet Archive:
+  - [The American Grammar, 1831](https://archive.org/details/americangrammar00brow/page/n3/mode/2up?view=theater)
+  - [The Grammar of the English Language by Oliver Pierce, 1839](https://archive.org/details/grammarofenglis00peir/page/n5/mode/2up)
+  - [A Comprehensive English Grammar, by Charles Gauss, 1890](https://archive.org/details/comprehensiveeng00gaus/page/n5/mode/2up)
+  - [A Practical Grammar, by Stephen Watkins Clark, 1847](https://archive.org/details/practicalgrammar01clar/page/n9/mode/2up)
+  - [Higher Lessons in English, by Alonzo Reed and Brainerd Kellogg, 1880](https://archive.org/details/higherlessonsin09kellgoog/page/n18/mode/2up)
+
+## June 23
+- CascadiaJS 2024 recordings
+  - [Day 1 livestream](https://www.youtube.com/watch?v=HfsNGyDQtJ4)
+  - [Day 2 livestream](https://www.youtube.com/watch?v=o2VQXBI_yk8)
+- [LinkedIn Learning](https://github.com/LinkedInLearning) projects on github
+
 ## June 22
 - [Database school playlist](https://www.youtube.com/playlist?list=PLI72dgeNJtzqElnNB6sQoAn2R-F3Vqm15) — talks about SQLite.
 

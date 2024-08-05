@@ -3,6 +3,25 @@ title: "2024"
 layout: layouts/post.njk
 ---
 
+## August 5
+- [WebGPU unleashed](https://shi-yan.github.io/webgpuunleashed)
+
+## August 4
+- Coaching cards for agile practices on [Ivar Jacobson's website](https://www.ivarjacobson.com/free-agile-coaching-cards)
+
+## August 3
+- A coding challenge in RxJS and Angular
+  - [Video description](https://www.youtube.com/watch?v=DrOXD_8KJMQ)
+  - [Repo](https://github.com/TracyAaW/pangram) (switch to commit before the solution)
+
+## August 2
+- [Chaarts](https://ffoodd.github.io/chaarts/) — a fantastic project showcasing charts that are built as accessible html tables, with no javascript involved. 
+- [Charlotte Dann's blog](https://charlottedann.com/blog). Built with Next.js; but has very decent performance. Has interesting technical articles.
+- [Patterns for Memory Efficient DOM Manipulation with Modern Vanilla JavaScript](https://frontendmasters.com/blog/patterns-for-memory-efficient-dom-manipulation/) — a blog post on Frontend Masters about techniques for DOM manipulation.
+
+## July 30
+- [JSDoc as an alternative TypeScript syntax](https://alexharri.com/blog/jsdoc-as-an-alternative-typescript-syntax) — seems like a good blog post
+
 ## July 24
 - [Roadmap for learning web components](https://learn-wcs.com/)
 

@@ -11,6 +11,9 @@ published: true
 - [The book of shaders](https://thebookofshaders.com/)
 - [A list of WebGL links by Ivan Sanchez Ortega](https://ivan.sanchezortega.es/devel/2019/08/26/webgl-links.html)
 
+## Blog posts
+- [Colour correction with WebGL](https://tsev.dev/posts/2020-06-19-colour-correction-with-webgl/)
+
 ## Books on computer graphics
 - [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/)
 

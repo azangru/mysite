@@ -41,6 +41,7 @@ published: true
 
 ## Databases
 - [Database Systems, Fall 2022](https://15445.courses.cs.cmu.edu/fall2022/) — a course from Carnegie-Mellon University.
+- [Introduction to Databases](https://www.youtube.com/@stanforddbclass4747/videos) — a course by Jennifer Widom from the Stanford University
 
 ## Data Science
 - [Data Science Fundamentals, by Steven Skiena — CSE 519 -- Fall 2020](https://www.youtube.com/playlist?list=PLOtl7M3yp-DVODzTKX8JtXkm1EG3u2BsD) and [site](https://www3.cs.stonybrook.edu/~skiena/data-manual/lectures/)

@@ -3,6 +3,20 @@ title: "2024"
 layout: layouts/post.njk
 ---
 
+## August 28
+- [Agile In Their Own Words: The Problem With Agile & Scrum](https://github.com/rayfrankenstein/AITOW) — a github repo with a curated list of negative developer comments about Agile and Scrum on social media
+- [PHP for beginners](https://laracasts.com/series/php-for-beginners-2023-edition) — a free PHP course on Laracasts
+
+## August 20
+- Rob Eisenberg's [article](https://tympanus.net/codrops/2024/08/20/server-first-web-components-with-dsd-htmx-and-islands/) on using web components with declarative shadow DOM (and handlebars on the server side). He also provides a [demo repo](https://github.com/EisenbergEffect/server-first-web-components) 
+
+## August 13
+- Bramus on animation-composition: [link](https://www.bram.us/2023/12/18/the-mysterious-case-of-using-css-animation-composition-accumulate-on-a-scale-transform/)
+- Tips to improve web page load times: [link](https://github.com/GuillaumeRossolini/il)
+- Turing school curriculum
+  - [frontend](https://frontend.turing.edu/)
+  - [backend](https://backend.turing.edu/)
+
 ## August 5
 - [WebGPU unleashed](https://shi-yan.github.io/webgpuunleashed)
 

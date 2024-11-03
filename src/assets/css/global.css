@@ -50,6 +50,7 @@ ul li {
 
   h1 {
     font-size: calc(1rem * 2.625);
+    line-height: 1.2;
   }
 
   h2 {

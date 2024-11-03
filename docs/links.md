@@ -60,7 +60,12 @@ Examples of overall good personal websites
 - https://github.com/rknightuk/rknight.me - An Eleventy site with different groups of posts, including multiple small ones (e.g. "links")
 - https://github.com/brandur/sorg — someone's go-based blog, with lots of small, tweet-like articles
 - https://fossheim.io/ — a good-looking Eleventy website (source [might](https://github.com/sarahfossheim/fossheim-io) be here, or might not be)
+- https://github.com/robinrendle/robinrendle.com — Robin Rendle's website (contains a section of small "notes")
 - https://www.annekesinnema.nl/en — a good-looking homepage
+- https://www.abeautifulsite.net/ — Cory LaVisca's site
+- https://adrianroselli.com/ — Adrial Roselli's site
+- https://gwern.net — Gwern Branwen
+- https://www.jonashietala.se/ — a nice static site
 
 Resumes:
 - https://alexbilson.dev/resume/ — a cool way to write a resume
@@ -68,6 +73,7 @@ Resumes:
 - https://jhey.dev/resume/resume.pdf — Jhey Thompkins's resume
 - https://gaultier.github.io/resume/resume — a good example of a developer's resume
 - https://www.frankiedintino.com/ — a site with a good example of a developer's resume
+- https://read.cv/keithamus — a reasonably sounding resume
 
 https://github.com/iRaul/awesome-portfolios
 

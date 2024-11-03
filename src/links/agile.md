@@ -43,6 +43,7 @@ published: true
 - [Agile Indy](https://www.youtube.com/@AgileIndy/videos) — videos from a meetup in Indianapolis
 - [Agile Tuesday](https://www.youtube.com/@agiletuesday/videos) - talks, including from Dave Snowden, Debbie Levitt, or FAST authors
 - [Agile Boston](https://www.youtube.com/@AgileBoston/videos)
+- [ScalingTech Podcast](https://www.youtube.com/@scalingtechpodcast/videos)
 
 ## Scrum
 - [Scrum.org](https://www.scrum.org/) — arguably, the most authoritative source on Scrum

@@ -24,3 +24,5 @@ published: true
 
 ## Philosophy
 - [John Searle — Philosophy of Mind](https://www.youtube.com/playlist?list=PL039MUyjHR1wfJpULVP1a1ZeCBmIHmhxt)
+- [Arthur Holmes: A History of Philosophy](https://www.youtube.com/playlist?list=PL9GwT4_YRZdBf9nIUHs0zjrnUVl-KBNSM) - a series of lectures, Wheaton College
+- [History of Philosophy, by Leonard Peikoff](https://www.youtube.com/playlist?list=PLqsoWxJ-qmMuYO4AKp7NZ_qBy6gaj3cUv) - a perspective of an objectivist

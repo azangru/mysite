@@ -3,6 +3,83 @@ title: "2024"
 layout: layouts/post.njk
 ---
 
+## November 1
+- [Total Typescript repositories](https://github.com/orgs/total-typescript/repositories) — have a lot of exercises
+
+## October 27
+- [Playlist of Robert Sedgewick's introductory course Computer Science - An interdisciplinary approach](https://www.youtube.com/playlist?list=PLlGXNwjYhXYyEReAh8M4vIGNulIzNHzMY)
+- [Playlist: Robert Sedgewick - From Analysis of Algorithms to Analytic Combinatorics](https://www.youtube.com/playlist?list=PL_yXYfVk0xG5dSoajm7QTf_bViySbyCy7)
+
+## October 26
+- [Repo for NextJS 15 Filter list demo app shown at NexjConf 2024](https://github.com/aurorascharff/next15-filterlist)
+
+## October 25
+- [Redirecting DOM events](https://www.growingwiththeweb.com/2016/07/redirecting-dom-events.html)
+- [A PR in Bluesky](https://github.com/bluesky-social/social-app/pull/5623) demonstrating how they handle react state using reducers
+
+## October 21
+- [Guide to the Software Engineering Body of Knowledge](https://ieeecs-media.computer.org/media/education/swebok/swebok-v4.pdf)
+
+## October 16
+- [Reactive State with Signals in Lit](https://justinfagnani.com/2024/10/09/reactive-state-with-signals-in-lit/) by Justin Fagnani, describing the integration of signals with Lit, with examples.
+- [Design Systems Week 2024 playlist](https://www.youtube.com/playlist?list=PLnAxFMscDU3G9cq5nUvrRss8VIhGzAZGF)
+- [Beyond Tellerand 2024 Dusseldorf playlist](https://www.youtube.com/playlist?list=PL8ZzmQWppBBuOjGNoZ-SIbm54mv1qlEl1)
+
+## October 15
+- [Web Browser Engineering](https://browser.engineering/index.html)
+- See [Payload CMS source code](https://github.com/payloadcms/payload) for examples of end-to-end testing
+
+## October 11
+- [Frontmania 2023 playlist](https://www.youtube.com/playlist?list=PLTHK4cyxq1zZ-siuEIqqeXQPpfetdiMvE).
+And notice that there has just been a Frontmania 2024 conference; hope they will create a playlist soon.
+- [UtahJS 2024 playlist](https://www.youtube.com/playlist?list=PLuVqdWOQ-PNm-Vhb2pAFtmBsDJcjIfkN6)
+
+## October 10
+- Worth exploring: the videos about the typescript Effect library (family of libraries?) [link](https://www.youtube.com/@effect-ts/videos)
+
+## October 9
+- [Why? Common patterns found on the web and how they are harmful for accessibility](https://www.youtube.com/watch?v=xQ5U9atBfJw) – Melanie Sumner’s talk at EmberFest 2024
+
+## October 8
+- [State of the browser, 2024](https://www.youtube.com/watch?v=SmxRWR-bZT8)
+  - Also, individual videos from that conference have been published
+    on the [London Web Standards channel](https://www.youtube.com/@londonwebstandards8403/videos)
+
+## October 4
+- ViteConf 2024
+  - [Stream first part](https://www.youtube.com/watch?v=mWK3Y_1kmaM)
+  - [Stream second part](https://www.youtube.com/watch?v=BHkoqiWjNg0)
+- [GraphQLConf 2024 playlist](https://www.youtube.com/playlist?list=PLP1igyLx8foEO0qsyk3IFn1peYSVGDBFA)
+
+## September 30
+- [SmashingConf Freiburg 2024 playlist](https://www.youtube.com/playlist?list=PLxQqv_fazRs0rIE7gveqPD_9-aeam9qho)
+- [UtahJS Conf 2023 playlist](https://www.youtube.com/playlist?list=PLuVqdWOQ-PNkycu0J9SIS20ETG5D7Jhrx)
+- [Inclusive Design 24 playlist](https://www.youtube.com/playlist?list=PLn7dsvRdQEfFompoGO_CE5z-_HjEdgVit)
+
+## September 29
+- Article on Gov.uk: [Building a robust frontend using progressive enhancement](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
+- [Lee Robinson's Vim for React Developers course](https://github.com/leerob/vim-for-react-devs) as a github repo
+- [Reflexive Store](https://gitlab.com/norabytes/typescript/-/tree/main/libs/reflexive-store) — an rxjs-based library for state management. Not sure if good idea though.
+
+## September 26
+- [React SSR starter](https://github.com/htdangkhoa/react-ssr-starter) — an interesting repo showing how to set up a server-side-rendered React app (i.e. has a webpack config for the server and a config for the client; with HMR enabled)
+- [React-router Hono server](https://github.com/rphlmr/react-router-hono-server) - another interesting repo with Vite used inside Hono
+
+## September 19
+- [Frontend Nation 2024](https://www.youtube.com/playlist?list=PLxddmVXxb3HuuKuxT-RdgBRxDNPRpem95)
+
+## September 7
+- React Universe Conference
+  - [Day 1](https://www.youtube.com/watch?v=b48Lax2-jOQ)
+  - [Day 2](https://www.youtube.com/watch?v=pfeTPSai6vc)
+
+## September 4
+- [React Rally 2024 playlist](https://www.youtube.com/playlist?list=PLUD4kD-wL_zaD72RykW3VcjMgZsCkWsKN)
+- [CascadiaJS 2024 playlist](https://www.youtube.com/playlist?list=PLLiioAbFTbKPi9SkDhtppEGDPI31GGZyj)
+
+## September 3
+- [Github repos](https://github.com/rainerhahnekamp?tab=repositories) of an Angular trainer Rainer Hahnekamp
+
 ## August 28
 - [Agile In Their Own Words: The Problem With Agile & Scrum](https://github.com/rayfrankenstein/AITOW) — a github repo with a curated list of negative developer comments about Agile and Scrum on social media
 - [PHP for beginners](https://laracasts.com/series/php-for-beginners-2023-edition) — a free PHP course on Laracasts

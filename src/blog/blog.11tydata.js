@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   layout: "layouts/post.njk",
   permalink(data) {
     return `${this.blogPermalink(data.page.filePathStem)}/`;

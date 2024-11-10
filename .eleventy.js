@@ -1,15 +1,15 @@
-const {
+import {
   EleventyRenderPlugin,
   EleventyHtmlBasePlugin
-} = require("@11ty/eleventy");
-const pluginRss = require("@11ty/eleventy-plugin-rss");
-const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
-const bundlerPlugin = require("@11ty/eleventy-plugin-bundle");
-const markdownIt = require("markdown-it");
-const yaml = require("js-yaml");
-const { DateTime } = require("luxon");
+} from '@11ty/eleventy';
+import pluginRss from '@11ty/eleventy-plugin-rss';
+import pluginSyntaxHighlight from '@11ty/eleventy-plugin-syntaxhighlight';
+import bundlerPlugin from '@11ty/eleventy-plugin-bundle';
+import markdownIt from 'markdown-it';
+import yaml from 'js-yaml';
+import { DateTime } from 'luxon';
 
-module.exports = function(eleventyConfig) {
+export default function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/assets');
 
   /**
@@ -41,7 +41,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
   eleventyConfig.addCollection('blogArticles', (collection) => {
-    const blogArticles = collection.getFilteredByGlob(["src/blog/**/index.md", "src/blog/**/index.njk"])
+    const blogArticles = collection.getFilteredByGlob(["src/blog/**/*.md", "src/blog/**/*.njk"])
       .filter(article => article.data.published);
     blogArticles.sort((a, b) => {
       return b.data.page.date - a.data.page.date;

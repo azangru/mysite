@@ -2,7 +2,6 @@ Examples of overall good personal websites
 - https://dbushell.com — great website
 - https://medium.springboard.com/the-essential-guide-to-a-stellar-design-portfolio-1913df89ada7
 - https://blog.scottnonnenberg.com/ (source: https://github.com/scottnonnenberg/blog)
-- https://mxb.at/ (very cool static site)
 - https://www.stefanjudis.com/ (good static site; built with Nuxt)
 - https://beta.vero.site/ (nice, clean static site made in Hugo; example of a nicely done resume in Latex)
 - https://davnicwil.com/cv (site with a good CV)
@@ -63,9 +62,13 @@ Examples of overall good personal websites
 - https://github.com/robinrendle/robinrendle.com — Robin Rendle's website (contains a section of small "notes")
 - https://www.annekesinnema.nl/en — a good-looking homepage
 - https://www.abeautifulsite.net/ — Cory LaVisca's site
-- https://adrianroselli.com/ — Adrial Roselli's site
+- https://adrianroselli.com/ — Adrial Roselli's site. Lots of stuff about accessibility
+-
 - https://gwern.net — Gwern Branwen
 - https://www.jonashietala.se/ — a nice static site
+- https://muan.co/ — a Jekyll site, with lots and lots of notes (a microblog)
+- https://github.com/bobmonsour/11tybundle.dev — repo of a site, with pages templates in their own directory
+- https://mxb.dev — good static site, built with Eleventy; source at https://github.com/maxboeck/mxb; eleventy config at https://github.com/maxboeck/mxb/blob/main/eleventy.config.js; uses Vite for assets; collocates assets with posts
 
 Resumes:
 - https://alexbilson.dev/resume/ — a cool way to write a resume

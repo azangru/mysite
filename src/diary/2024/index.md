@@ -3,6 +3,15 @@ title: "2024"
 layout: layouts/post.njk
 ---
 
+## November 10
+- [A Github issue](https://github.com/vitejs/vite-plugin-react/issues/222) that discusses how to use Vite SSR plugin with React, including both the `renderToPipeableStream` api and React Refresh for hot module replacement
+
+## November 8
+- [React Brussels 2024 playlist](https://www.youtube.com/playlist?list=PL53Z0yyYnpWimQ0U75woee2zNUIFsiDC3)
+
+## November 6
+- [ViteConf 2024 playlist](https://www.youtube.com/playlist?list=PLqGQbXn_GDmnObDzgjUF4Krsfl6OUKxtp)
+
 ## November 1
 - [Total Typescript repositories](https://github.com/orgs/total-typescript/repositories) — have a lot of exercises
 

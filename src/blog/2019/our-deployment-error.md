@@ -19,7 +19,7 @@ The truth turned out to be more convoluted than what I initially suspected. Here
 
 **Pre-conditions.** Webpack is configured to save static files with a content hash added to their names (to bust server-side caching or browser caching of static files), and also to use Workbox (a library for simple setting up of service worker, from Google):
 
-```javascript
+```js
 const WorkboxPlugin = require('workbox-webpack-plugin');
 
 new WorkboxPlugin.GenerateSW({
@@ -69,7 +69,9 @@ new WorkboxPlugin.GenerateSW({
 })
 ```
 This should prevent the situation when the user receives obsolete index.html from cache with a link to the outdated webpack runtime file from the previous build.
+
 2. Perhaps do not use the `skipWaiting` option? This should keep the newly arrived service worker waiting until the user refreshes the page again; so there won’t be a situation when part of the static files came from the cache, and then the cache, with the rest of the files, got busted.  
+
 3. Do not store static files in docker image. Develop a scalable strategy for storing static files from multiple previous builds (by either copying them in a volume that is mounted by containers, or uploading them to a CDN).
 
 **P.S.:** A related problem is [discussed](https://spectrum.chat/react/general/how-to-handle-deployments-with-webpack-code-splitting~16dc5f85-0b4b-4eee-8693-066d82dcdc7f) on Spectrum.

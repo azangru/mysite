@@ -93,8 +93,7 @@ published: true
 - Steve Porter (scrum.org; one of the writers of exam questions)
 - Daniel Mezick (open-space agility)
 - Roman Pichler (product ownership)
-- Jeff Patton (product ownership)
 - David Pereira (an awesome and very pragmatic product owner)
 
 ## Other agilists
-- [John Coleman](https://www.youtube.com/@agilityisland/videos), creator of Kanplexity
+- [John Coleman](https://www.youtube.com/@agilityisland/videos), co-author of the Kanban guide, creator of something called Kanplexity

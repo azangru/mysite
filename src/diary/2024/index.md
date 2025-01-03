@@ -3,6 +3,54 @@ title: "2024"
 layout: layouts/post.njk
 ---
 
+## December 31
+- [Github repositories by Golan Levin](https://github.com/golanlevin/). The [exercises](https://github.com/golanlevin/exercises) (solutions to exercises from 'Code as Creative Medium') look especially interesting.
+
+## December 24
+- A BBC [repo](https://github.com/bbc/software-engineering-technical-assessments) for software engineering technical assessments
+
+## December 15
+- [Videos](https://www.youtube.com/@martinrue/videos) of someone solving Advent of Code in typescript. I might want to check those out to compare my solutions or if I get stuck.
+- Someone's [repo](https://github.com/pedroapfilho/ws-worker-observable/) in which he receives data over web sockets, uses a web worker to crunch the numbers, and uses rxjs to set up communication between the worker and the main thread.
+
+## December 5
+- A seriously impressive Advent of Code [repo](https://github.com/salt-die/Advent-of-Code/tree/main), with visualizations.
+
+## December 2
+- [We Love Speed 2024 playlist](https://www.youtube.com/playlist?list=PLqQ-opbi5cUMsaz1bZDIwDmzrAciSPKiW) — a conference in France; but some of the talks are in English
+
+## November 30
+- [An Infinite Canvas tutorial](https://infinitecanvas.cc/) — a very good tutorial on rendering in HTML canvas, using webGL or webGPU
+- [WebGPU waveform](https://github.com/mrkev/webgpu-waveform) — someone's project, in which he rendered waveforms with webGPU. Might be worth checking out the code of the shaders.
+
+## November 26
+- [Engineering Guidebook](https://crukorg.github.io/engineering-guidebook/docs/best_practices/frontend/choosing_your_stack) by Cancer Research UK. Not great; not terrible; has some useful ideas.
+- [Guides by CloudFour](https://github.com/cloudfour/guides) — conventions, processes, and notes at Cloud Four; the CSS guide is particularly interesting.
+
+## November 25
+- [The nine Node pillars](https://www.platformatichq.com/node-principles) — 9 Principles for Doing Node.js Right in Enterprise Environments
+- [close-with-grace](https://github.com/mcollina/close-with-grace/tree/main) — a library for gracefully shutting down a Node server
+
+## November 23
+- [A CSS hack](https://goulet.dev/posts/tooltip-with-popover-anchor-positioning/) for correctly displaying the tooltip arrow if the tooltip uses a popover and anchor position with fallback positions
+- [Melanie Sumner's slides from a talk on accessibility at EmberFest 2024](https://noti.st/melsumner/7dgask#sx3iDJV)
+
+## November 22
+- [Awesome anchor positioning](https://github.com/oddbird/awesome-anchor-positioning) — OddBird's repo with links about CSS anchor positioning
+
+## November 16
+- Rob Eisenberg's [demo app](https://github.com/EisenbergEffect/server-first-web-components) showing server-first web components with DSD, HTMX, and islands
+
+## November 15
+- [Examples](https://nerdy.dev/have-a-dialog) of using the `dialog` component
+
+## November 14
+- Practical UI/UX Workshop, related to Google IO 2024, by Adam Argyle, which focuses on modern CSS features, such as scroll-driven animations, transitions, popovers, and container queries: [video](https://www.youtube.com/watch?v=oXSFwix7eR8) and [code](https://github.com/google/io-connect-2024-ui-workshop)
+- [Tip for getting scrollbar width in CSS](https://front-end.social/@css/113481298134604096)
+
+## November 12
+- [Beyond Tellerrand Berlin 2024 playlist](https://www.youtube.com/playlist?list=PL8ZzmQWppBBsEacfT8SuzoW6FfA-Mh02D)
+
 ## November 10
 - [A Github issue](https://github.com/vitejs/vite-plugin-react/issues/222) that discusses how to use Vite SSR plugin with React, including both the `renderToPipeableStream` api and React Refresh for hot module replacement
 

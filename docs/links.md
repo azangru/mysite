@@ -23,7 +23,7 @@ Examples of overall good personal websites
 - https://jacobian.org/ — website of a guy who co-created Django
 - https://someantics.dev/ — Ben Myer's website; pretty good
 - https://korayer.de/ — Someone's minimalist website. The pages are tiny. Found via [1kb.club](https://1kb.club/)
-- https://www.aleksandrhovhannisyan.com/
+- https://www.aleksandrhovhannisyan.com/ - source at https://github.com/AleksandrHovhannisyan/aleksandrhovhannisyan.com. Uses per-post directories with images
 - https://pepelsbey.dev/ - Vadim Makeev's website
 - https://arie.ls/ — Ariel Salminen’s website
 - https://lynnandtonic.com/ — Lynn Fisher’s website. Much wow.
@@ -69,6 +69,9 @@ Examples of overall good personal websites
 - https://muan.co/ — a Jekyll site, with lots and lots of notes (a microblog)
 - https://github.com/bobmonsour/11tybundle.dev — repo of a site, with pages templates in their own directory
 - https://mxb.dev — good static site, built with Eleventy; source at https://github.com/maxboeck/mxb; eleventy config at https://github.com/maxboeck/mxb/blob/main/eleventy.config.js; uses Vite for assets; collocates assets with posts
+- https://andrewwalpole.com/ — a decent-looking website
+- https://latex.vercel.app — example of page styled to look almost like LaTex
+- https://livres.louvre.fr — books as websites, published by the Louvre
 
 Resumes:
 - https://alexbilson.dev/resume/ — a cool way to write a resume

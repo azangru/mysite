@@ -41,6 +41,8 @@ published: true
     - [Clipping](https://youtu.be/_jvzZh0jMk4)
 - [Introduction to Computer Graphics textbook by David Eck](https://math.hws.edu/graphicsbook/) — a textbook for an undergraduate course on the fundamentals of computer graphics, taught using webgl 2.0.
 - [MIT course on computer graphics, 2012 (assignments might be worth checking out)](https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/pages/lecture-notes/)
+- [Rendering and shading](https://people.computing.clemson.edu/~ekp/courses/dpa8090/) by Eric Patterson, at School of Computing, Clemson University
+- [GPU programming and architecture](https://cis5650-fall-2024.github.io/syllabus/) (university of Pennsylvania). See some assignments on github, e.g. [here](https://github.com/CIS5650-Fall-2024/Project5-WebGPU-Gaussian-Splat-Viewer)
 
 ## Video resources
 - [Scrolling images with WebGL and Three.js](https://www.youtube.com/watch?v=ivg603bYDk8) — Yuri Artiukh’s youtube channel is great in general

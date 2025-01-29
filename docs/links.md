@@ -63,7 +63,6 @@ Examples of overall good personal websites
 - https://www.annekesinnema.nl/en — a good-looking homepage
 - https://www.abeautifulsite.net/ — Cory LaVisca's site
 - https://adrianroselli.com/ — Adrial Roselli's site. Lots of stuff about accessibility
--
 - https://gwern.net — Gwern Branwen
 - https://www.jonashietala.se/ — a nice static site
 - https://muan.co/ — a Jekyll site, with lots and lots of notes (a microblog)
@@ -80,6 +79,7 @@ Resumes:
 - https://gaultier.github.io/resume/resume — a good example of a developer's resume
 - https://www.frankiedintino.com/ — a site with a good example of a developer's resume
 - https://read.cv/keithamus — a reasonably sounding resume
+- https://www.romaglushko.com/cv/software-engineer - a not bad resume (in terms of both style and formatting)
 
 https://github.com/iRaul/awesome-portfolios
 

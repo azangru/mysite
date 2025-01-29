@@ -3,6 +3,12 @@ title: "2025"
 layout: layouts/post.njk
 ---
 
+## January 27
+- [React-workshop repository](https://github.com/ReactTraining/react-workshop) by the ReactTraining company, with exercises.I
+
+## January 9
+- [Github repo](https://github.com/michiganrobotics/rob101) with assignments for a course on computational algebra. Web page for the course: https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/
+
 ## January 7
 - A [cookie api](https://fullystacked.net/cookiestore-api/) that is a modern asynchronous alternative to document.cookie.
 

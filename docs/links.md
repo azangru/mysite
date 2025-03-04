@@ -67,10 +67,15 @@ Examples of overall good personal websites
 - https://www.jonashietala.se/ — a nice static site
 - https://muan.co/ — a Jekyll site, with lots and lots of notes (a microblog)
 - https://github.com/bobmonsour/11tybundle.dev — repo of a site, with pages templates in their own directory
+- https://github.com/dgp1130/blog/tree/main - Eleventy blog of a Googler, with a fairly complex setup; not sure why
 - https://mxb.dev — good static site, built with Eleventy; source at https://github.com/maxboeck/mxb; eleventy config at https://github.com/maxboeck/mxb/blob/main/eleventy.config.js; uses Vite for assets; collocates assets with posts
 - https://andrewwalpole.com/ — a decent-looking website
 - https://latex.vercel.app — example of page styled to look almost like LaTex
 - https://livres.louvre.fr — books as websites, published by the Louvre
+- https://martijnhols.nl/blog - decent-looking blog, although in Next.js
+
+Good sites of web agencies:
+- https://fictivekin.com
 
 Resumes:
 - https://alexbilson.dev/resume/ — a cool way to write a resume
@@ -80,6 +85,7 @@ Resumes:
 - https://www.frankiedintino.com/ — a site with a good example of a developer's resume
 - https://read.cv/keithamus — a reasonably sounding resume
 - https://www.romaglushko.com/cv/software-engineer - a not bad resume (in terms of both style and formatting)
+- https://cdn.masto.host/frontendsocial/media_attachments/files/114/008/887/365/000/258/original/85bea22fbc69b47d.png - a decent example of a one-page resume
 
 https://github.com/iRaul/awesome-portfolios
 

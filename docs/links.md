@@ -73,6 +73,7 @@ Examples of overall good personal websites
 - https://latex.vercel.app — example of page styled to look almost like LaTex
 - https://livres.louvre.fr — books as websites, published by the Louvre
 - https://martijnhols.nl/blog - decent-looking blog, although in Next.js
+- https://vale.rocks/micros/20250304-0825 - has a concept of 'micros' for microblog entries
 
 Good sites of web agencies:
 - https://fictivekin.com

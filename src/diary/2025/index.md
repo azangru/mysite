@@ -3,6 +3,30 @@ title: "2025"
 layout: layouts/post.njk
 ---
 
+## March 21
+- A [page](https://www.scrumalliance.org/dashboard/resources) with trainer and coach resources from Scrum Alliance
+- [Repo](https://github.com/stevekinney/full-stack-typescript/tree/main) for Steve Kinney's Full Stack Typescript course
+
+## March 16
+Interesting talks from JSWorld 2025:
+  - [Web fragments](https://www.youtube.com/live/5mn3EpWCcJs?t=9369s), and a [repo](https://github.com/web-fragments/web-fragments)
+  - Some [updates](https://www.youtube.com/live/5mn3EpWCcJs?t=26422s) on Playwright
+
+## March 13
+- [Github repo of a video editing app made with Lit](https://github.com/cartesiancs/nugget-app)
+
+## March 9
+- [Github repo for web scraping techniques workshop presented on March 8th 2025](https://github.com/simonw/nicar-2025-scraping/)
+
+## March 7
+- [Brandon Sanderson's writing lectures](https://www.youtube.com/playlist?list=PLSH_xM-KC3ZvzkfVo_Dls0B5GiE2oMcLY)
+
+## March 5
+- Solana Developer Bootcamp 2024 (blockchain and full-stack web3 development)
+  - [Projects 1-9](https://www.youtube.com/watch?v=amAq-WHAFs8)
+  - [Projects 10-13](https://www.youtube.com/watch?v=HOdYZSe1uhE)
+  - Related github repository: https://github.com/solana-developers/developer-bootcamp-2024
+
 ## February 28
 - [Agile Lean Ireland playlist](https://www.youtube.com/playlist?list=PL0VdbCfR5r2kAx_cXzPUmRJAMK2MG76o7)
 

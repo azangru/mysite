@@ -32,6 +32,7 @@ Examples of overall good personal websites
 - https://bholmes.dev — Benjamin Holms's website
 - https://codersblock.com — Will Boyd’s website
 - https://darn.es/ — David Darnes’s website. Smart guy; lead dev on Nord design system
+- https://arielsalminen.com/ — designer of Nord design system
 - https://mikematas.com/ — a very nice and clean portfolio; perhaps a bit too mobile-oriented
 - https://jonneal.dev/ — a nice resume site
 - https://practicaltypography.com/ — Butterick's Practical Typography; a beautiful site about typography
@@ -74,6 +75,7 @@ Examples of overall good personal websites
 - https://livres.louvre.fr — books as websites, published by the Louvre
 - https://martijnhols.nl/blog - decent-looking blog, although in Next.js
 - https://vale.rocks/micros/20250304-0825 - has a concept of 'micros' for microblog entries
+- https://stillness.digital - cool styles; made with eleventy; [source](https://github.com/xdesro/stillness)
 
 Good sites of web agencies:
 - https://fictivekin.com

@@ -3,14 +3,58 @@ title: "2025"
 layout: layouts/post.njk
 ---
 
+## April 25
+- Gov.uk has a [repository of RFCs](https://github.com/alphagov/govuk-rfcs/blob/main/rfc-128-continuous-deployment.md)
+  - [Continuous deployment](https://github.com/alphagov/govuk-rfcs/blob/main/rfc-128-continuous-deployment.md)
+
+## April 19
+- [Writing JavaScript Views the Hard Way](https://github.com/matthewp/views-the-hard-way/)
+
+## April 15
+- [Playlist of dotJS 2025 conference talks](https://www.youtube.com/playlist?list=PLMW8Xq7bXrG5WtvuO728_t6fmKpwgotDC)
+- [Talks](https://www.youtube.com/@PerformanceObserver/videos) from the PerformanceObserver meetup
+
+## April 9
+Food for thought: react dev tools are using canvas 2d to render their rectangles, and are doing this very smoothly (see Profiler -> Timeline).
+Possible sources to investigate:
+- Search react repo for the function name "handleInteraction" ([link](https://github.com/search?q=repo%3Afacebook%2Freact%20handleInteraction&type=code))
+- Geometry helper functions ([link](https://github.com/facebook/react/blob/8da36d0508e83dd342ddbb98cb18f0606fd4045b/packages/react-devtools-timeline/src/view-base/geometry.js))
+
+## April 7
+- Adam Argyle’s [talk CSS Can We Do That](https://www.youtube.com/watch?v=we2wmGKDyhY) at Smashing Meets, and the [interactive slides with demos](https://smashing-meets-rad-css.netlify.app/)
+
+## April 4
+- [React Paris 2025 playlist](https://www.youtube.com/playlist?list=PL53Z0yyYnpWitP8Zv01TSEQmKLvuRh_Dj)
+- [Frontrunners 2024 playlist](https://www.youtube.com/playlist?list=PLeGxIOPLk9EKm9m_tCONpLqfRRRBlWXKG)
+
+## April 3
+- A rust programming [course](https://fitech101.aalto.fi/programming-languages/rust/) with exercises
+- Learning rust in 2024 - [collection of links](https://github.com/pretzelhammer/rust-blog/blob/master/posts/learning-rust-in-2024.md#100-exercises-to-learn-rust)
+
+## April 2
+- A [brief video](https://www.youtube.com/watch?v=SOWx0vhoEGI) about setting up a monorepo. Includes nx and pnpm.
+
+## March 27
+- Maximiliano Firtman's [repository](https://github.com/firtman/go-vanillajs/tree/live) for his course on building a web app with go and vanilla js
+
+## March 23
+- [18F Methods](https://guides.18f.gov/methods/) — description of user research techniques used by 18F
+- [Untools](https://untools.co/) — 'tools for better thinking', or techniques for decision-making
+- A couple of decent React project starters
+  - [Epic Stack](https://github.com/epicweb-dev/epic-stack) by Kent C. Dodds et al.
+  - [French House Stack](https://github.com/janhesters/french-house-stack)
+- Someone’s interesting cs50 project as a game — [repo](https://github.com/Applefrittr/bust-a-move/)
+- [Slice viewer](https://github.com/vangelov/slice-viewer) — someone’s repo for an app for viewing medical scans
+
 ## March 21
 - A [page](https://www.scrumalliance.org/dashboard/resources) with trainer and coach resources from Scrum Alliance
 - [Repo](https://github.com/stevekinney/full-stack-typescript/tree/main) for Steve Kinney's Full Stack Typescript course
 
 ## March 16
-Interesting talks from JSWorld 2025:
+- Interesting talks from JSWorld 2025:
   - [Web fragments](https://www.youtube.com/live/5mn3EpWCcJs?t=9369s), and a [repo](https://github.com/web-fragments/web-fragments)
   - Some [updates](https://www.youtube.com/live/5mn3EpWCcJs?t=26422s) on Playwright
+- [NPM workspaces and overrides talk](https://www.youtube.com/watch?v=LJaLwlS0mj4)
 
 ## March 13
 - [Github repo of a video editing app made with Lit](https://github.com/cartesiancs/nugget-app)

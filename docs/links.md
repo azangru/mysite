@@ -76,6 +76,7 @@ Examples of overall good personal websites
 - https://martijnhols.nl/blog - decent-looking blog, although in Next.js
 - https://vale.rocks/micros/20250304-0825 - has a concept of 'micros' for microblog entries
 - https://stillness.digital - cool styles; made with eleventy; [source](https://github.com/xdesro/stillness)
+- https://github.com/robinrendle/robinrendle.com — made with eleventy; has a notes section
 
 Good sites of web agencies:
 - https://fictivekin.com

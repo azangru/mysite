@@ -3,6 +3,33 @@ title: "2025"
 layout: layouts/post.njk
 ---
 
+## June 12
+- [100 exercises to learn Rust](https://github.com/mainmatter/100-exercises-to-learn-rust), plus the accompanying [website](https://rust-exercises.com/)
+
+## June 10
+- [WWDC 25 talk about WebGPU](https://developer.apple.com/videos/play/wwdc2025/236/)
+  - [Link to HuggingFace transformers.js](https://huggingface.co/docs/transformers.js/index)
+  - [Link to webgpu examples](https://webgpu.github.io/webgpu-samples/)
+
+## June 2
+- A [repo](https://github.com/anthropics/courses/) with some courses about LLMs by Anthropic
+  - [This one](https://github.com/anthropics/courses/tree/master/real_world_prompting) about prompting might be interesting
+
+## May 28
+- [Pixel Pioneers playlists](https://www.youtube.com/@pixel-pioneers/playlists) — playlists of a front-end conference
+
+## May 19
+- [Monitoring Node.js: key metrics to track](https://last9.io/blog/node-js-key-metrics/) — a blog post.
+
+## May 17
+- Some suggestions from the internet on learning rust:
+  - [Learning Rust in 2024 blog post](https://github.com/pretzelhammer/rust-blog/blob/master/posts/learning-rust-in-2024.md)
+  - [Crust of Rust playlist](https://www.youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa)
+  - [Rust by example](https://doc.rust-lang.org/rust-by-example/)
+
+## April 30
+- [James Shore TDD Lunch and Learn playlist](https://www.youtube.com/playlist?list=PLD-LK0HSm0Hpp-OspFpZ32uY766YntGVQ)
+
 ## April 25
 - Gov.uk has a [repository of RFCs](https://github.com/alphagov/govuk-rfcs/blob/main/rfc-128-continuous-deployment.md)
   - [Continuous deployment](https://github.com/alphagov/govuk-rfcs/blob/main/rfc-128-continuous-deployment.md)

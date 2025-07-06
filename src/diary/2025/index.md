@@ -3,6 +3,17 @@ title: "2025"
 layout: layouts/post.njk
 ---
 
+## June 23
+- [Repo for Matteo Collina's workshop on Node streams](https://github.com/mcollina/streams-training/)
+
+## June 20
+- [Modern Web weekly](https://modernwebweekly.substack.com/archive?sort=new) — archive of a Substack newsletter about the modern web capabilities. Pretty good.
+
+## June 18
+- [Essence of linear algebra playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Matteo Collina's masterclass Unlocking Node's Power: a Journay into Fastify and Beyond](https://www.youtube.com/watch?v=x3SG71Ut2tA)
+
+
 ## June 12
 - [100 exercises to learn Rust](https://github.com/mainmatter/100-exercises-to-learn-rust), plus the accompanying [website](https://rust-exercises.com/)
 

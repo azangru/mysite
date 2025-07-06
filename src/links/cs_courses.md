@@ -9,6 +9,7 @@ published: true
 
 ## Algorithms
 - [MIT Introduction to Algorithms course, Summer 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
+- [MIT Design and Analysis of Algorithms, Spring 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
 - [Steven Skiena's Analysis of Algorithms course, CSE 373 -- Fall 2020](https://www.youtube.com/playlist?list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx) and [site](https://www3.cs.stonybrook.edu/~skiena/373/videos/)
 - [Playlists of lecture courses on algorithms by Tim Roughgardern](https://www.youtube.com/channel/UCcH4Ga14Y4ELFKrEYM1vXCg/playlists)
 - [Advanced Data Structures](https://courses.csail.mit.edu/6.851/spring21/) — a Spring 2021 course by the MIT Computer Science and Artificial Intelligence Laboratory
@@ -56,6 +57,7 @@ published: true
 - [CS224N, Natural Language Processing with Deep Learning, Stanford]
   - [Course page](https://web.stanford.edu/class/cs224n/)
   - [Youtube playlist](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+  - [Spring 2024 lectures playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D)
 - [Computational Linguistics, University of Maryland, github repo](https://github.com/hal3/cl1f19umd#course-project) — contains syllabus of the course and links to other resources, including:
   - [A Course in Machine Learning](http://ciml.info/)
   - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
@@ -64,8 +66,13 @@ published: true
 
 ## Machine learning
 - [Andrej Karpathy: Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
+- [Machine Learning course by Andrew Ng - Stanford CS229, 2018 playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+- [Deep Learning course by Andrew Ng - Stanford CS230, 2018 playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 - [Stanford CS221: Artificial Intelligence: Principles and Techniques | Autumn 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
 - [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+
+## LLMs
+- [Stanford CS336 - Language Modelling from Scratch](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
 
 ## Databases
 - [Intro to Database Systems, by Andy Pavlo](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
@@ -75,6 +82,9 @@ published: true
 
 ## System tools
 - [CSE391, System and Software Tools, Spring 2023](https://courses.cs.washington.edu/courses/cse391/23sp/) — a basic course by the University of Washington about CLI tools in a Unix environment
+
+## Other topics
+- [Parallel computing, Stanford CS149, 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp)
 
 ## Useful Khan Academy courses
 - [Linear Algebra](https://www.khanacademy.org/math/linear-algebra/)

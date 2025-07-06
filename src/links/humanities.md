@@ -21,6 +21,11 @@ published: true
 ## History of the English literature
 - Ted Sherman, a very good English teacher, has a [youtube channel](https://www.youtube.com/channel/UCB_pokQ27mY3DGlGrSdNKKw/videos) with college-level lectures on the history of British literature as well as on the history of the English language
 
+## Bible
+- The Bible and English Literature, by Northrop Frye
+  - [Part 1](https://www.youtube.com/watch?v=n0LZy4PAqlo)
+  - [Part 2](https://www.youtube.com/watch?v=v4Swyk_ZRy8)
+
 ## Chaucer
 - [Harvard Geoffrey Chaucer Website](https://chaucer.fas.harvard.edu/) - a general course on Chaucer
 - [Chaucer Metapage](https://chaucermetapage.org/) - has audio recordings of various Chaucer poems

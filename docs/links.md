@@ -77,6 +77,7 @@ Examples of overall good personal websites
 - https://vale.rocks/micros/20250304-0825 - has a concept of 'micros' for microblog entries
 - https://stillness.digital - cool styles; made with eleventy; [source](https://github.com/xdesro/stillness)
 - https://github.com/robinrendle/robinrendle.com — made with eleventy; has a notes section
+- https://manuelmoreale.com — a very tastefully designed, minimalist site
 
 Good sites of web agencies:
 - https://fictivekin.com

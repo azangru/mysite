@@ -3,6 +3,22 @@ title: "2025"
 layout: layouts/post.njk
 ---
 
+### August 20
+- SPDY streams (on youtube, by Henri Helvetica) might be worth watching
+
+### August 13
+- [JS Heroes 2025 playlist](https://www.youtube.com/playlist?list=PLB9NqTp0uKrSiuRQQBdaSo2wfDkAI7Eg8)
+
+## August 3
+- [How not to make a resume in React](https://ericwbailey.website/published/how-to-not-make-a-resume-in-react/), by Eric Bailey
+- [Eleventy resume builder](https://github.com/maxboeck/resume), by Max Boeck
+- [Michael Engen's resume in Eleventy](https://michaelengen.com/posts/my-eleventy-resume/), producing the following [output](https://michaelengen.com/resume/)
+
+## July 21
+- [React Miami 2025 playlist](https://www.youtube.com/playlist?list=PL4mWVugy3a2il28mbeNmyjJDoHOvw4JTK)
+- [Accessibility Talks channel](https://www.youtube.com/@AccessibilityTalks/videos)
+- [Chromatic Live Sessions](https://www.youtube.com/@chromaticui/videos) — primarily Storybook-themed, but have interesting information about accessibility
+
 ## June 23
 - [Repo for Matteo Collina's workshop on Node streams](https://github.com/mcollina/streams-training/)
 

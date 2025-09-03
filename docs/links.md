@@ -78,6 +78,8 @@ Examples of overall good personal websites
 - https://stillness.digital - cool styles; made with eleventy; [source](https://github.com/xdesro/stillness)
 - https://github.com/robinrendle/robinrendle.com — made with eleventy; has a notes section
 - https://manuelmoreale.com — a very tastefully designed, minimalist site
+- https://aaadaaam.com — a very well-designed site, though no source available
+- https://notes.jim-nielsen.com — good example of own microblog
 
 Good sites of web agencies:
 - https://fictivekin.com

@@ -22,5 +22,6 @@ published: true
 - [Addressing Abiogenesis and Common Misconceptions](https://www.youtube.com/playlist?list=PLILWudw_84t2THBvJZFyuLA0qvxwrIBDr), by Dr. James Tour
 
 ## Mathematics
+- [The College Prep School](https://www.youtube.com/@thecollegeprepschool4486/playlists) — contains math courses that should have been learnt at high school
 - [Introduction to Number Theory, UC Berkeley](https://www.youtube.com/playlist?list=PL8yHsr3EFj53L8sMbzIhhXSAOpuZ1Fov8)
 - [Gilbert Strang lectures on Linear Algebra (MIT)](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)

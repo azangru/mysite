@@ -10,6 +10,7 @@ published: true
 ## English phonetics
 - [Linguistics 341 — Introduction to Phonetics](https://www.youtube.com/watch?v=3sXT3hXn0Uk) — a solid college-level course on phonetics
 - [English Phonetics archive](https://www.youtube.com/channel/UCcJXeI2pEwT9IHYVlUXnURw/videos) — worth checking out early talks; especially by John Wells. Also, check out [recordings of English accents and dialects](https://www.phon.ucl.ac.uk/home/wells/accentsanddialects/) from the audio cassette accompanying John Wells's _Accents of English_ book
+- [International Dialects of English Archive](https://www.dialectsarchive.com)
 - [Page listing online courses and turorials](https://www.internationalphoneticassociation.org/content/online-phonetics-courses-and-tutorials) of the International Phonetic association site. Most linked sites are old; but this one, [Australian linguistics](https://australianlinguistics.com/), seems to have good materials on phonetics.
 
 ## English dialects

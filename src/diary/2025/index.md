@@ -3,10 +3,13 @@ title: "2025"
 layout: layouts/post.njk
 ---
 
-### August 20
+## September 10
+- [Repository of materials of VIB-SIB Machine Learning and AI Summer School](https://github.com/vib-tcp/ml-summerschool-2025)
+
+## August 20
 - SPDY streams (on youtube, by Henri Helvetica) might be worth watching
 
-### August 13
+## August 13
 - [JS Heroes 2025 playlist](https://www.youtube.com/playlist?list=PLB9NqTp0uKrSiuRQQBdaSo2wfDkAI7Eg8)
 
 ## August 3

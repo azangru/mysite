@@ -11,6 +11,7 @@ published: true
 - [MIT Introduction to Algorithms course, Summer 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 - [MIT Design and Analysis of Algorithms, Spring 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
 - [Steven Skiena's Analysis of Algorithms course, CSE 373 -- Fall 2020](https://www.youtube.com/playlist?list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx) and [site](https://www3.cs.stonybrook.edu/~skiena/373/videos/)
+- [Steven Skiena's Analysis of Algorithms — Fall 2021](https://www.youtube.com/playlist?list=PLOtl7M3yp-DXbHTFe_w9zFPXeau28CDao)
 - [Playlists of lecture courses on algorithms by Tim Roughgardern](https://www.youtube.com/channel/UCcH4Ga14Y4ELFKrEYM1vXCg/playlists)
 - [Advanced Data Structures](https://courses.csail.mit.edu/6.851/spring21/) — a Spring 2021 course by the MIT Computer Science and Artificial Intelligence Laboratory
 - [Harvard’s 2021 version of the intro to data science course](https://harvard-iacs.github.io/2021-CS109A/). Sadly, no video lectures.

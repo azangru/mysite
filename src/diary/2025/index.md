@@ -3,6 +3,36 @@ title: "2025"
 layout: layouts/post.njk
 ---
 
+## November 3
+- A director of engineering at Dropbox [gives a talk](https://www.youtube.com/watch?v=kDSlIn3cmv0) Interviewing in the AI Era: A Product Engineer’s Guide to Getting Hired at JSConf Mexico 2025
+- Jack Herrington's example of data fetching with React 19.2 and transitions. [Video](https://www.youtube.com/watch?v=KI4gjUrOfOs) and [github repo](https://github.com/jherr/react-19-2-async).
+
+## October 16
+- Materials from Miriam Suzanne's workshop at SmashingConf 2025
+  - [Site and links](https://workshops.oddbird.net/smashing25/)
+  - [Slides from various talks](https://slides.oddbird.net/)
+
+## October 15
+- [Remix Jam 2025 conference)[https://www.youtube.com/watch?v=xt_iEOn2a6Y]
+- [ReactConf 2025](https://www.youtube.com/watch?v=zyVRg2QR6LA)
+- [Cascadia JS 2025](https://www.youtube.com/playlist?list=PLLiioAbFTbKP4JVMijrNRRrNccfauPko8)
+- [SmashingConf Freiburg 2025](https://www.youtube.com/playlist?list=PLxQqv_fazRs0ABZkCETZvseeKqmFBDr_w)
+
+## October 5
+- [Stanford CS230: Deep Learning, Autumn 2025](https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X)
+- [CS 10-601 Machine Learning course by Carnegie-Mellon university, fall 2017](https://www.youtube.com/playlist?list=PL7k0r4t5c10-g7CWCnHfZOAxLaiNinChk)
+
+## October 4
+- [React Universe conference, 2025](https://www.youtube.com/playlist?list=PLZ3MwD-soTTGHD999pxTX1r_6JORpOr0C)
+- [Commit Your Code conference, 2025](https://www.youtube.com/playlist?list=PL2IJSbMPQuiMYQi5gqOvbFwFiry2fFSkW)
+
+## September 17
+- [New CSS features — a list compiled by Adam Argyle](https://nerdy.dev/cascading-secret-sauce)
+
+## September 14
+- [Video lectures on English of A-levels](https://www.youtube.com/@paulheselton230/videos), by Paul Heselton, Queen Elizabeth Sixth Form College (QE), Darlington
+- [Cambridge International AS & A Level English Language — examples of past papers](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-english-language-9093/past-papers/)
+
 ## September 10
 - [Repository of materials of VIB-SIB Machine Learning and AI Summer School](https://github.com/vib-tcp/ml-summerschool-2025)
 

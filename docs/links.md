@@ -80,6 +80,7 @@ Examples of overall good personal websites
 - https://manuelmoreale.com — a very tastefully designed, minimalist site
 - https://aaadaaam.com — a very well-designed site, though no source available
 - https://notes.jim-nielsen.com — good example of own microblog
+- https://markboulton.co.uk — a very good example of a static site; has a journal section with weeknotes
 
 Good sites of web agencies:
 - https://fictivekin.com

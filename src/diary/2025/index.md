@@ -3,6 +3,9 @@ title: "2025"
 layout: layouts/post.njk
 ---
 
+## November 12
+- [Playlist of the 2025 edition of Inclusive Design 24](https://www.youtube.com/playlist?list=PLn7dsvRdQEfFTeoA8kZcsASPbYi2rf4C0)
+
 ## November 3
 - A director of engineering at Dropbox [gives a talk](https://www.youtube.com/watch?v=kDSlIn3cmv0) Interviewing in the AI Era: A Product Engineer’s Guide to Getting Hired at JSConf Mexico 2025
 - Jack Herrington's example of data fetching with React 19.2 and transitions. [Video](https://www.youtube.com/watch?v=KI4gjUrOfOs) and [github repo](https://github.com/jherr/react-19-2-async).

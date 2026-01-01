@@ -20,6 +20,7 @@ published: true
 - [Stanford CS229: Machine Learning | Autumn 2018 playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [Georgia Tech's Specialization in Computing Systems](https://omscs.gatech.edu/specialization-computing-systems), with e.g. a [course on graduate algorithms](https://omscs.gatech.edu/cs-6515-intro-graduate-algorithms), which includes videos
 - [CS 61B Data Structures, Spring 2023](https://sp23.datastructur.es/) — sadly, taught in Java; but the reading materials are still interesting.
+  - [Spring 2025 update to CS 61B Data Structures course](https://sp25.datastructur.es/)
 
 ## Computer graphics
 - 6.837: Introduction to Computer Graphics (fall 2021) ([youtube playlist](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtqt2yL3KgKV-yn0NEPbRVi))
@@ -64,6 +65,8 @@ published: true
   - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
   - [Natural Language Processing, Jacob Eisenstein](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 - [CS388: Natural Language Processing, University of Texas](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html)
+- [CS124: From Languages to Information, by Dan Jurafsky, Stanford University](https://www.youtube.com/watch?v=808M7q8QX0E&list=PLaZQkZp6WhWyvdiP49JG-rjyTPck_hvEu)
+- A book [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/), by Dan Jurafsky and James H. Martin
 
 ## Machine learning
 - [Andrej Karpathy: Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
@@ -73,7 +76,7 @@ published: true
 - [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 
 ## LLMs
-- [Stanford CS336 - Language Modelling from Scratch](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
+- [Stanford CS336 - Language Modelling from Scratch, 2025](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
 
 ## Databases
 - [Intro to Database Systems, by Andy Pavlo](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)

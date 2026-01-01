@@ -3,6 +3,19 @@ title: "2025"
 layout: layouts/post.njk
 ---
 
+## December 31
+- Hmm; apparently, apart from Advent of Code, there is also the [Everybody Codes](https://everybody.codes/) event, which happens every day in November
+
+## December 30
+- [Playlist](https://www.youtube.com/playlist?list=PLx1xVy6IVM3ebPYr8qOy4v1rN_QvRKkG1) of unedited videos for the CS50 2D (game development) course.
+- There is a github organization [games50](https://github.com/games50), which has source code for the games discussed in the course
+
+## December 26
+- [How to reproduce this book with Latex - A self-contained tutorial on writing mathematical notes](https://github.com/BenjaminGor/Latex_Notes_Tutorial)
+
+## December 18
+- [Playlist of NordicJS 2025 conference](https://www.youtube.com/playlist?list=PLGP3VO5jDf8zbWz3M_2rbLlcDOL6clXHz)
+
 ## November 12
 - [Playlist of the 2025 edition of Inclusive Design 24](https://www.youtube.com/playlist?list=PLn7dsvRdQEfFTeoA8kZcsASPbYi2rf4C0)
 

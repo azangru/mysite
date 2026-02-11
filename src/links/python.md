@@ -18,6 +18,7 @@
 ## Machine Learning / AI
 - [Build a Large Language Model (from scratch)](https://www.youtube.com/playlist?list=PLTKMiZHVd_2IIEsoJrWACkIxLRdfMlw11)
 - [CS188 - Artificial Intelligence, lecture course, from UC Berkeley](https://inst.eecs.berkeley.edu/~cs188/fa25/)
+  - [Youtube playlist from 2024](https://www.youtube.com/playlist?list=PLp8QV47qJEg67UTShQ4er4RYQ3rOeDKxv)
 
 Various data structures and algorithms implemented in python
 - https://github.com/keon/algorithms

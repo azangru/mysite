@@ -64,7 +64,8 @@ Examples of overall good personal websites
 - https://www.annekesinnema.nl/en — a good-looking homepage
 - https://www.abeautifulsite.net/ — Cory LaVisca's site
 - https://adrianroselli.com/ — Adrial Roselli's site. Lots of stuff about accessibility
-- https://gwern.net — Gwern Branwen
+- https://gwern.net — Gwern Branwen; a heavily interlinked 'second-brain' kind of site
+- http://bactra.org – a site with an interesting idea of 'notebooks'
 - https://www.jonashietala.se/ — a nice static site
 - https://muan.co/ — a Jekyll site, with lots and lots of notes (a microblog)
 - https://github.com/bobmonsour/11tybundle.dev — repo of a site, with pages templates in their own directory
@@ -81,6 +82,7 @@ Examples of overall good personal websites
 - https://aaadaaam.com — a very well-designed site, though no source available
 - https://notes.jim-nielsen.com — good example of own microblog
 - https://markboulton.co.uk — a very good example of a static site; has a journal section with weeknotes
+- https://www.kooslooijesteijn.net/blog/how-i-do-web-design - personal site of Koos Looijesteijn; this page contains his design principles
 
 Good sites of web agencies:
 - https://fictivekin.com

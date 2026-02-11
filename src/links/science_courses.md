@@ -14,6 +14,7 @@ published: true
 - Lecture courses by Walter Lewin
   - [MIT Physics I — Classical Mechanics](https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e)
   - [MIT Physics II: Electricity and Magnetism](https://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
+- [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
 
 ## Statistics
 - [MIT Statistics for Applications](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
@@ -25,3 +26,6 @@ published: true
 - [The College Prep School](https://www.youtube.com/@thecollegeprepschool4486/playlists) — contains math courses that should have been learnt at high school
 - [Introduction to Number Theory, UC Berkeley](https://www.youtube.com/playlist?list=PL8yHsr3EFj53L8sMbzIhhXSAOpuZ1Fov8)
 - [Gilbert Strang lectures on Linear Algebra (MIT)](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
+
+## Biology
+- [UC Berkeley - Biology 1B](https://www.youtube.com/playlist?list=PLAvN9Mc52FKG3AHBA56I2ZP31a5Jz7lIq)

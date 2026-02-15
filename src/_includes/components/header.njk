@@ -1,0 +1,30 @@
+<header>
+
+  <nav>
+    <ul>
+      <li>
+        {% if page.url == '/links/' %}
+          <span>
+            Links
+          </span>
+        {% else %}
+          <a href="/links/">
+            Links
+          </a>
+        {% endif %}
+      </li>
+      <li>
+        {% if page.url == '/about/' %}
+          <span>
+            About
+          </span>
+        {% else %}
+          <a href="/about/">
+            About
+          </a>
+        {% endif %}
+      </li>
+    </ul>
+  </nav>
+
+</header>

@@ -1,6 +1,6 @@
 import {
   EleventyRenderPlugin,
-  EleventyHtmlBasePlugin
+  HtmlBasePlugin
 } from '@11ty/eleventy';
 import pluginRss from '@11ty/eleventy-plugin-rss';
 import pluginSyntaxHighlight from '@11ty/eleventy-plugin-syntaxhighlight';
@@ -18,8 +18,6 @@ export default function(eleventyConfig) {
    * /blog/2018/foo.md --> /blog/2018-foo/index.html
    */
   eleventyConfig.addFilter('blogPermalink', function (filePath = '') {
-    console.log(filePath);
-
     const yearRegex = /([0-9]{4})\//;
 
     return filePath.replace(yearRegex, "$1-");
@@ -31,7 +29,7 @@ export default function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(bundlerPlugin);
   eleventyConfig.addPlugin(EleventyRenderPlugin);
-  eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
+  eleventyConfig.addPlugin(HtmlBasePlugin);
 
   // eleventyConfig.setDataDeepMerge(true);
 
@@ -103,6 +101,6 @@ export default function(eleventyConfig) {
     },
 
     // For deployment to github pages, will need to add a path prefix
-    // pathPrefix: '/mysite/'
+    pathPrefix: '/mysite/'
   };
 };

@@ -1,5 +1,5 @@
 ---
-title: Links to resources on web components
+title: Web components
 layout: layouts/post.njk
 published: true
 ---

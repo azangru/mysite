@@ -1,5 +1,5 @@
 ---
-title: Links to resources on natural sciences
+title: Science courses
 layout: layouts/post.njk
 published: true
 ---

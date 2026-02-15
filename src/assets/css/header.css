@@ -1,0 +1,16 @@
+header {
+  /* same width as the main block */
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: 0.4rem 1rem;
+}
+
+header nav ul {
+  display: flex;
+  column-gap: 0.4rem;
+  justify-content: end;
+}
+
+header nav li {
+  list-style-type: none;
+}

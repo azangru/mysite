@@ -1,5 +1,5 @@
 ---
-title: Links to resources on web development
+title: Web development
 layout: layouts/post.njk
 published: true
 ---

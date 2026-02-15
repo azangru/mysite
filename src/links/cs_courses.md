@@ -69,8 +69,11 @@ published: true
 ## Machine learning
 - [Andrej Karpathy: Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 - [Machine Learning course by Andrew Ng - Stanford CS229, 2018 playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
-- [Deep Learning course by Andrew Ng - Stanford CS230, 2018 playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
+- Stanford CS230 — Deep Learning course by Andrew Ng
+  - [Autumn 2025 playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X)
+  - [2018 playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 - [Stanford CS221: Artificial Intelligence: Principles and Techniques | Autumn 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
+- [Deep Learning: MIT OpenCourseware, 2024](https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/video_galleries/lecture-videos)
 - [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 
 ## LLMs

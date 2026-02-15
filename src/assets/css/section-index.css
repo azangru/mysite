@@ -2,5 +2,5 @@
 
 main {
   max-width: var(--content-width);
-  margin: 90px auto;
+  margin: 0 auto;
 }

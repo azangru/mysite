@@ -9,7 +9,7 @@ published: true
 <link href="/assets/for-blog/2023/mrna-covid-vaccine/styles.css" rel="stylesheet">
 {% endhtml %}
 
-There was a time, during the Covid pandemic, when the media were educating their audiences about the nature and the mechanism of action of different new vaccines against covid. I remember seeing various infographics in the papers; but I did not save them then; and they are hard to locate now. At least my google-fu isn’t strong enough. Still, I managed to find a couple, which will illustrate my point. [One]([Link](https://www.nytimes.com/interactive/2020/health/pfizer-biontech-covid-19-vaccine.html)) was produced by the _New York Times’_ graphics department; and the [other](https://www.bbc.co.uk/news/world-europe-54902056) was published by the BBC, with an attribution to _Nature_.
+There was a time, during the Covid pandemic, when the media were educating their audiences about the nature and the mechanism of action of different new vaccines against covid. I remember seeing various infographics in the papers, but did not save them then, and they are hard to locate now. At least my google-fu isn’t strong enough to find them. I did manage to find a couple though, which will illustrate my point. [One]([Link](https://www.nytimes.com/interactive/2020/health/pfizer-biontech-covid-19-vaccine.html)) was produced by the _New York Times’_ graphics department; and the [other](https://www.bbc.co.uk/news/world-europe-54902056) was published by the BBC, with an attribution to _Nature_.
 
 ## The Infographics
 
@@ -73,11 +73,11 @@ There was a time, during the Covid pandemic, when the media were educating their
 </figure>
 
 
-## What is not shown, and what leaves me confused
+## What leaves me confused
 
 The infographics are in perfect correspondence with our understanding of basic immunology. However, here are at least some of the questions that these images are glosisng over.
 
-1. Which cells are going to express the spike protein after the vaccination? The lipid nanoparticles do not have any targeting mechanism, which should mean that they are likely to merge with the membrane of any cell they are going to come in contact with. How can we be sure then that the mRNA will remain only within the site of the injection? Also, does the injection technique matter? Does it matter how close to a vessel a needle might get in a given patient?
+1. Which cells are going to express the spike protein after the vaccination? The lipid nanoparticles do not have any targeting mechanism, which should mean that they are likely to merge with the membrane of any cell they are going to come in contact with. How can we be sure then that the mRNA will remain only within the site of the injection? Also, does the injection technique (such as aspiration before the injection) matter? Does it matter how close to a vessel a needle might get in a given patient?
 2. What happens to the cells that start producing the spike protein? Surely since the spike is a foreign protein, they should be recognised by the immune system and destroyed. How safe is this, especially considering that there is no way of predicting which cells are going to take up the mRNA?
 3. If cells that produce the spike protein are hunted down and destroyed by the immune system, how risky is it that this may trigger an autoimmune reaction? Is the myocarditis that has been reported after the vaccination due to an autoimmune reaction, or to the uptake of mRNA-containing lipid nanoparticles by heart cells?
 4. Is the spike protein itself that is produced by the transfected cells harmful? There have been suggestions that it is toxic to endothelial cells.

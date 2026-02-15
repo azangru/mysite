@@ -1,16 +1,14 @@
 ---
-title: Collection of links to different resources
-layout: layouts/post.njk
-published: true
+title: Links
+layout: layouts/section-index.njk
 ---
 
-## Agile software development
-- [Agile software development](/links/agile)
+# Links
 
 ## Web development (and programming in general)
 - [General web development topics](/links/webdev)
 - [Web components](/links/web_components)
-- [WebGL](/links/webgl)
+- [Computer graphics, webGL, webGPU](/links/webgl)
 - [Design systems](/links/design_systems)
 - [React](/links/react)
 - [Python](/links/python)
@@ -21,6 +19,9 @@ published: true
 - [Computer science](/links/cs_courses)
 - [Natural sciences](/links/science_courses)
 - [Humanities](/links/humanities)
+
+## Agile software development
+- [Agile software development](/links/agile)
 
 ## External lists of links
 - [Free programming books](https://github.com/EbookFoundation/free-programming-books)

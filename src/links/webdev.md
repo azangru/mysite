@@ -19,11 +19,9 @@ published: true
 - [Keyframers channel](https://www.youtube.com/@keyframers)
 
 ## RxJS
+- A [playlist](https://www.youtube.com/playlist?list=PLJBWPTwg7fuNKFg5BRXKTvDrEi-45YzSE) of several videos in which Ben Lesh explains the purpose and real-world use cases of the most common RxJS operators. Tracy Lee is a huge distraction, but Ben does an admirable job.
 - [RxJS Chat with Ben Lesh, July 2021](https://youtu.be/eCikPOuiZkA)
 - [RxJS Chat with Ben Lesh, December 2021](https://www.youtube.com/watch?v=IX86lE-skeQ)
-- Pluralsight seems to have opened the ng-conf workshop on RxJS with Aaron Frost and Mike Brocchi
-  - [Day 1](https://app.pluralsight.com/course-player?clipId=606bd763-e4dc-4207-83d7-9511a29b2af0)
-  - [Day 2](https://app.pluralsight.com/course-player?clipId=827c3c84-bf17-4b0d-800c-4ac2569eb172)
 
 ## General Interest
 - [Developer Diary playlist](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBykcJ7bvTpqU7vt-oey72J) on the Google Chrome Developers channel (I am particularly interested in Paul Lewis’s experience of building the Chrome Dev Summit site)

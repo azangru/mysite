@@ -14,6 +14,7 @@ html, body {
 
 body {
   color: var(--color-black);
+  background-color: #FCFAF3;
 }
 
 main {
@@ -21,11 +22,16 @@ main {
 }
 
 a {
-  text-decoration: none;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 a, a:visited:not([class]) {
-  color: blue;
+  color: var(--color-black);
 }
 
 ul {
@@ -50,11 +56,12 @@ ul li {
 
   h1 {
     font-size: calc(1rem * 2.625);
-    line-height: 1.2;
+    line-height: 1.1;
   }
 
   h2 {
     font-size: calc(1rem * 1.875);
+    line-height: 1.2;
   }
 
   h3 {

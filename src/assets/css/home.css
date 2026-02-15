@@ -6,21 +6,26 @@ main {
   padding-top: min(10vh, 60px);
 }
 
-h1, h2 {
-  color: #606060;
+h1 {
+  font-size: 5rem;
+  /* font-size: clamp(30px, 12vw, 50px); */
+  line-height: 1;
   margin: 0;
+  font-family: 'Inter', sans-serif;
+  text-align: center;
 }
 
-h1 {
-  font-size: clamp(30px, 12vw, 50px);
-  font-family: 'Inter', sans-serif;
+.occupation {
+  font-size: 2rem;
+  text-align: center  ;
 }
 
 nav {
   display: flex;
-  flex-direction: column;
+  justify-content: center;
+  margin-top: min(2rem, 20vh);
 }
 
-.headingLine {
-  display: block;
+nav ul {
+  width: fit-content;
 }

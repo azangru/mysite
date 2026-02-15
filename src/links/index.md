@@ -5,7 +5,9 @@ layout: layouts/section-index.njk
 
 # Links
 
-## Web development (and programming in general)
+Below are links to resources that I liked, and thought I might want to return to again.
+
+## Web development
 - [General web development topics](/links/webdev)
 - [Web components](/links/web_components)
 - [Computer graphics, webGL, webGPU](/links/webgl)

@@ -8,7 +8,7 @@ Hi!
 
 My name is Andrey, and this website is my little personal space on the Internet.
 
-I work as a web developer — frontend, mostly. Earlier in my development career, I used to be guilty of easily falling for the hype, and getting excited by such words as _react, graphql, purescript, reasonml, rxjs,_ or _functional programming_. These days, I am more interested in a deeper understanding of the primitives of the web platform; and my interest is piqued by such words as _html, css, browser apis, web workers,_ or _web components_. Javascript and typescript remain my programming languages of choice.
+I work as a web developer — frontend, mostly. Earlier in my development career, I would easily fall for the hype and get excited by such words as _react, graphql, purescript, reasonml, rxjs,_ or _functional programming_. These days, I am more interested in a deeper understanding of the primitives of the web platform; and my interest is piqued by such words as _html, css, browser apis, web workers,_ or _web components_. Javascript and typescript remain my programming languages of choice.
 
 Now for a whirlwind tour around the site. For me, it serves the purpose of social media, only without the “social” part. The [diary](/diary/) section is something of a microblog (and tends to morph into a collection of useful links found during the day that I would like to be reminded about), while the [blog](/blog/) section takes care of lengthier scrivenings. No mechanism is provided for leaving comments. Hello Web 1.0, my old friend!
 

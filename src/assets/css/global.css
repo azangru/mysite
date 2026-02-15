@@ -57,11 +57,13 @@ ul li {
   h1 {
     font-size: calc(1rem * 2.625);
     line-height: 1.1;
+    margin-bottom: 0.6rem;
   }
-
+  
   h2 {
     font-size: calc(1rem * 1.875);
-    line-height: 1.2;
+    line-height: 1.1;
+    margin-bottom: 0.5rem;
   }
 
   h3 {

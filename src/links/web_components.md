@@ -5,9 +5,5 @@ published: true
 ---
 
 ## Guides and tutorials
+- [HTML with Superpowers](https://htmlwithsuperpowers.netlify.app/) — the site for a workshop by Dave Rupert, given to FrontendMasters
 - [webcomponents.guide](https://webcomponents.guide/) (see, for example, a [tutorial](https://webcomponents.guide/tutorials/mastodon-toot-embed/) on how to create a Mastodon toot embed)
-
-
-## Design systems and libraries
-- [PatternFly elements](https://patternflyelements.org/) — UI components based on PatternFly design
-- [Material Web](https://material-web.dev/) — Lit-based web components implementing Material design (see the [github repo](https://github.com/material-components/material-web))

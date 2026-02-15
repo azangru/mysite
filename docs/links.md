@@ -11,7 +11,7 @@ Examples of overall good personal websites
 - https://acko.net/ — just beautiful!
 - https://tink.uk/ — a very nice accessible web site
 - https://cloudfour.com/thinks/— a site of a design studio, as a PWA, with interesting blog articles
-- https://www.abeautifulsite.net/ — a simple and beautiful site indeed
+- https://www.abeautifulsite.net/ — a simple and beautiful site indeed, by Cory LaVisca
 - https://www.tempertemper.net/ - great site
 - https://www.kizu.ru/ — Roman Komarov's blog. Fantastic in multiple ways
 - https://simonhearne.com/ — Simon Hearne's blog. Incredibly fast, all about performance
@@ -62,7 +62,6 @@ Examples of overall good personal websites
 - https://fossheim.io/ — a good-looking Eleventy website (source [might](https://github.com/sarahfossheim/fossheim-io) be here, or might not be)
 - https://github.com/robinrendle/robinrendle.com — Robin Rendle's website (contains a section of small "notes")
 - https://www.annekesinnema.nl/en — a good-looking homepage
-- https://www.abeautifulsite.net/ — Cory LaVisca's site
 - https://adrianroselli.com/ — Adrial Roselli's site. Lots of stuff about accessibility
 - https://gwern.net — Gwern Branwen; a heavily interlinked 'second-brain' kind of site
 - http://bactra.org – a site with an interesting idea of 'notebooks'

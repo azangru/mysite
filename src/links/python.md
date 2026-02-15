@@ -1,3 +1,9 @@
+---
+title: Python links
+layout: layouts/post.njk
+published: true
+---
+
 ## Intro
 - CS50 intro to python course ([link](https://cs50.harvard.edu/python/2022/))
 - CS50 AI: https://cs50.harvard.edu/ai
@@ -22,7 +28,7 @@
 - [Human-centered AI, Stanford University, Fall 2025, has Peter Norvig as instructor](https://docs.google.com/document/d/1BhVhXSw0ayuHNhl4iH2R4-GnujiNKx1m67zSimjxXoM/edit?tab=t.0)
   - [Youtube playlist of the course](https://www.youtube.com/playlist?list=PLsAJkAEcPmvNcv6joFMqKskvm9gNNwj7J)
 
-Various data structures and algorithms implemented in python
+## Data structures and algorithms implemented in python
 - https://github.com/keon/algorithms
 
 ## Yandex (in Russian)

@@ -1,5 +1,5 @@
 ---
-title: Links to resources on WebGL and WebGPU
+title: Computer graphics, WebGL and WebGPU
 layout: layouts/post.njk
 published: true
 ---
@@ -65,8 +65,9 @@ published: true
 - [Learn WebGPU](https://eliemichel.github.io/LearnWebGPU/index.html) — uses a C++ wrapper, but hopefully should be understandable regardless.
 - [WebGPU for beginners](https://www.youtube.com/playlist?list=PLn3eTxaOtL2Ns3wkxdyS3CiqkJuwQdZzn)
 
-Youtube channels
+## Youtube channels
 - [WebGL on ProgrammingTIL](https://www.youtube.com/playlist?list=PLPqKsyEGhUnaOdIFLKvdkXAQWD4DoXnFl)
+- [Yuri Artiukh’s youtube channel](https://www.youtube.com/@akella_/featured)
 
 ## Libraries
 - [TWGL](https://twgljs.org/) — a tiny WebGL helper library

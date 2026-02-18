@@ -62,6 +62,7 @@ published: true
 - [WebGPU Fundamentals](https://webgpufundamentals.org/)
 - [Raw WebGPU tutorial](https://alain.xyz/blog/raw-webgpu)
 - [WebGPU tutorial by Jack Xu on FreeCodeCamp](https://www.youtube.com/watch?v=KTFFdZSDiTU). See also his repository [WebGPU step by step](https://github.com/jack1232/WebGPU-Step-By-Step)
+- [WebGPU Graphics Programming Steb-by-Step playlist (by the same Jack Xu)](https://www.youtube.com/playlist?list=PL_UrKDEhALdKh0118flOjuAnVIGKFUJXN)
 - [Learn WebGPU](https://eliemichel.github.io/LearnWebGPU/index.html) — uses a C++ wrapper, but hopefully should be understandable regardless.
 - [WebGPU for beginners](https://www.youtube.com/playlist?list=PLn3eTxaOtL2Ns3wkxdyS3CiqkJuwQdZzn)
 

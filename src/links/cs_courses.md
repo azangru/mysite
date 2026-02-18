@@ -17,8 +17,11 @@ published: true
 - [Harvard’s 2021 version of the intro to data science course](https://harvard-iacs.github.io/2021-CS109A/). Sadly, no video lectures.
 - [Jeff Erickson's algorithms book](https://jeffe.cs.illinois.edu/teaching/algorithms/). His [web page](http://jeffe.cs.illinois.edu/) contains links to his courses at the University of Illinois, including a course on algorithms and on computational geometry.
 - [Security Engineering](https://www.youtube.com/channel/UCRw25HVj1Rvl2XcEHdj4PKg) — a video series of lectures by professors at the University of Edinburgh.
-- [Stanford CS229: Machine Learning | Autumn 2018 playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+- Stanford CS229: Machine Learning
+  - [Autumn 2018 playlist (course taught by Andrew Ng)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+  - [Spring 2022 playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy)
 - [Georgia Tech's Specialization in Computing Systems](https://omscs.gatech.edu/specialization-computing-systems), with e.g. a [course on graduate algorithms](https://omscs.gatech.edu/cs-6515-intro-graduate-algorithms), which includes videos
+  - [A youtube playlist of course lectures, which must have been copied from Udacity](https://www.youtube.com/playlist?list=PLJ3qxo98eOh__18rzQTUg-w7D40oo6JI3)
 - [CS 61B Data Structures, Spring 2023](https://sp23.datastructur.es/) — sadly, taught in Java; but the reading materials are still interesting.
   - [Spring 2025 update to CS 61B Data Structures course](https://sp25.datastructur.es/)
 

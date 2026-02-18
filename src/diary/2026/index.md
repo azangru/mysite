@@ -3,6 +3,11 @@ title: "2026"
 layout: layouts/post.njk
 ---
 
+## February 17
+- [Playlist about using Effect.ts, by Lucas Barake](https://www.youtube.com/playlist?list=PL5ZPhvj6gjVurycyKDdXm4U1xGyjjLCNP)
+
+## February 16
+- [Michael Hladky's talk "Operate heavily dynamic UI’s with RxJS"](https://www.youtube.com/watch?v=JIfxMHqU5xk), and an accompanying [repo](https://github.com/BioPhoton/rxjs-operating-heavily-dynamic-uis/) with exercises
 
 ## February 13
 - [Talks about the web platform at FOSDEM 2026](https://fosdem.org/2026/schedule/track/browser-and-web-platform/)

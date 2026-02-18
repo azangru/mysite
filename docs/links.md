@@ -82,6 +82,7 @@ Examples of overall good personal websites
 - https://notes.jim-nielsen.com — good example of own microblog
 - https://markboulton.co.uk — a very good example of a static site; has a journal section with weeknotes
 - https://www.kooslooijesteijn.net/blog/how-i-do-web-design - personal site of Koos Looijesteijn; this page contains his design principles
+- https://www.fromjason.xyz – a decent site, made with Eleventy
 
 Good sites of web agencies:
 - https://fictivekin.com

@@ -84,6 +84,12 @@ Examples of overall good personal websites
 - https://www.kooslooijesteijn.net/blog/how-i-do-web-design - personal site of Koos Looijesteijn; this page contains his design principles
 - https://www.fromjason.xyz – a decent site, made with Eleventy
 
+
+
+- https://cpojer.net - website of Cristoph Pojer/Nakazawa. Is it good? I am not sure
+
+
+
 Good sites of web agencies:
 - https://fictivekin.com
 

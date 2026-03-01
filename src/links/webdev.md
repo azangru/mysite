@@ -17,6 +17,11 @@ published: true
 ## CSS
 - [Keyframers channel](https://www.youtube.com/@keyframers)
 
+## CSS people
+- Adam Argyle ([nerdy.dev](https://nerdy.dev/))
+- Jhey Tompkins (look him up on youtube)
+- Alvaro Montoro ([youtube playlist](https://www.youtube.com/@alvaromontoro/videos))
+
 ## RxJS
 - A [playlist](https://www.youtube.com/playlist?list=PLJBWPTwg7fuNKFg5BRXKTvDrEi-45YzSE) of several videos in which Ben Lesh explains the purpose and real-world use cases of the most common RxJS operators. Tracy Lee is a huge distraction, but Ben does an admirable job.
 - [RxJS Chat with Ben Lesh, July 2021](https://youtu.be/eCikPOuiZkA)
@@ -24,6 +29,9 @@ published: true
 
 ## General Math
 - [Coding Math channel](https://www.youtube.com/@codingmath/videos)
+
+## Projects to learn from
+- MDN's new frontend — [the github repo](https://github.com/mdn/fred/)
 
 ## SQL
 - [Lost at SQL](https://lost-at-sql.therobinlord.com/) — a SQL learning game

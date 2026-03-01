@@ -28,6 +28,13 @@ published: true
   - [Youtube playlist from 2024](https://www.youtube.com/playlist?list=PLp8QV47qJEg67UTShQ4er4RYQ3rOeDKxv)
 - [Human-centered AI, Stanford University, Fall 2025, has Peter Norvig as instructor](https://docs.google.com/document/d/1BhVhXSw0ayuHNhl4iH2R4-GnujiNKx1m67zSimjxXoM/edit?tab=t.0)
   - [Youtube playlist of the course](https://www.youtube.com/playlist?list=PLsAJkAEcPmvNcv6joFMqKskvm9gNNwj7J)
+- [Statistics and machine learning for life sciences - Github repo with several lessons, by Swiss Institute of Bioinformatics](https://github.com/sib-swiss/statistics-and-machine-learning-training/)
+- Kaggle Learn Courses
+  - [Intro to machine learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+  - [Intermediate machine learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+- [Machine Learning and AI with Python, a HarvardX course on EdX](https://www.edx.org/learn/machine-learning/harvard-university-machine-learning-and-ai-with-python)
+- [Data Science: Building Machine Learning Models, a HarvardX course on EdX](https://www.edx.org/learn/machine-learning/harvard-university-data-science-machine-learning)
+- [Agentic AI, taught by Andrew Ng at deeplearning.ai](https://www.deeplearning.ai/courses/agentic-ai/)
 
 ## Data structures and algorithms implemented in python
 - https://github.com/keon/algorithms

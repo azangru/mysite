@@ -2,7 +2,7 @@
 title: Scrum PSM questions and answers
 date: "2023-06-03"
 layout: layouts/post.njk
-published: true
+published: false
 ---
 
 {% html "styles" %}

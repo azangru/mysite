@@ -2,7 +2,7 @@
 title: Scrum in my team, 2022
 date: "2022-06-03"
 layout: layouts/post.njk
-published: true
+published: false
 ---
 
 In August 2020, when work had gone remote, members of our team got a chance to take a 2-day professional scrum master level 1 training with a scrum.org trainer Andy Hiles. Since then, we have been trying to integrate the scrum framework into the way we work. Here's an overview of how it's been going.

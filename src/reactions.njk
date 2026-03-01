@@ -1,0 +1,24 @@
+---
+layout: layouts/section-index.njk
+eleventyExcludeFromCollections: true
+eleventyImport:
+  collections: ["reactions"]
+---
+
+<main>
+
+  <h1>Reactions</h1>
+
+  <ul>
+    {% for page in collections.reactions %}
+      <div>
+        <h2>
+          {{ page.data.date | readableDate }}
+        </h2>
+        {{ page.content | safe }}
+      </div>
+    {% endfor %}
+  </ul>
+
+
+</main>

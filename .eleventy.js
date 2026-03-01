@@ -23,7 +23,10 @@ export default function(eleventyConfig) {
     return filePath.replace(yearRegex, "$1-");
   });
 
-  eleventyConfig.setServerPassthroughCopyBehavior("passthrough"); // FIXME: this is temporary; should remove when the issue is fixed
+  eleventyConfig.addFilter('reactionPermalink', function (page) {
+    const permalink = `reactions/${page.fileSlug}/`;
+    return permalink;
+  });
 
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
@@ -31,12 +34,8 @@ export default function(eleventyConfig) {
   eleventyConfig.addPlugin(EleventyRenderPlugin);
   eleventyConfig.addPlugin(HtmlBasePlugin);
 
-  // eleventyConfig.setDataDeepMerge(true);
-
   eleventyConfig.addDataExtension("yml", yaml.load);
   eleventyConfig.addDataExtension("yaml", yaml.load);
-
-  eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
   eleventyConfig.addCollection('blogArticles', (collection) => {
     const blogArticles = collection.getFilteredByGlob(["src/blog/**/*.md", "src/blog/**/*.njk"])
@@ -47,16 +46,19 @@ export default function(eleventyConfig) {
     return blogArticles;
   });
 
-  eleventyConfig.addCollection('diary', (collection) => {
-    const diaryEntries = collection.getFilteredByGlob("src/diary/**/*.md");
-    diaryEntries.sort((a, b) => {
-      return b.data.title - a.data.title;
+  eleventyConfig.addCollection('reactions', (collection) => {
+    const entries = collection.getFilteredByGlob("src/reactions/**/*.md");
+    entries.sort((a, b) => {
+      return b.fileSlug.localeCompare(a.fileSlug);
     });
-    return diaryEntries;
+    return entries;
   });
 
   eleventyConfig.addFilter("readableDate", dateStr => {
-    return DateTime.fromFormat(dateStr, 'yyyy-MM-dd').toFormat("dd LLL yyyy");
+    const date = new Date(dateStr);
+    return new Intl.DateTimeFormat("en-US").format(date);
+    // console.log('READABLE DATE!', dateStr);
+    // return DateTime.fromFormat(dateStr, 'yyyy-MM-dd').toFormat("dd LLL yyyy");
   });
   //
   // // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
@@ -76,6 +78,7 @@ export default function(eleventyConfig) {
   /* Markdown Overrides */
   let markdownLibrary = markdownIt({
     html: true,
+    typographer: true,
     // breaks: true,
     // linkify: true
   });

@@ -7,7 +7,6 @@ import pluginSyntaxHighlight from '@11ty/eleventy-plugin-syntaxhighlight';
 import bundlerPlugin from '@11ty/eleventy-plugin-bundle';
 import markdownIt from 'markdown-it';
 import yaml from 'js-yaml';
-import { DateTime } from 'luxon';
 
 export default function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/assets');
@@ -56,15 +55,14 @@ export default function(eleventyConfig) {
 
   eleventyConfig.addFilter("readableDate", dateStr => {
     const date = new Date(dateStr);
-    return new Intl.DateTimeFormat("en-US").format(date);
-    // console.log('READABLE DATE!', dateStr);
-    // return DateTime.fromFormat(dateStr, 'yyyy-MM-dd').toFormat("dd LLL yyyy");
+    const formatter = new Intl.DateTimeFormat('en-US', {
+      year: 'numeric', month: '2-digit', day: '2-digit'
+    });
+    const parts = formatter.formatToParts(date);
+    const { year, month, day } = Object.fromEntries(parts.map(p => [p.type, p.value]));
+    return `${year}-${month}-${day}`;
   });
-  //
-  // // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
-  // eleventyConfig.addFilter('htmlDateString', (dateObj) => {
-  //   return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
-  // });
+
 
   // Get the first `n` elements of a collection.
   eleventyConfig.addFilter("head", (array, n) => {

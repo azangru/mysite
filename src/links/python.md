@@ -10,6 +10,7 @@ published: true
 
 ## Numpy and Pandas
 - [100 Numpy Exercises](https://jovian.ai/aakashns/100-numpy-exercises)
+- [101 Pandas exercises for data analysis](https://machinelearningplus.com/python/101-pandas-exercises-python-interactive)
 - https://github.com/rougier/numpy-100
 - https://github.com/ajcr/100-pandas-puzzles
 - https://github.com/guipsamora/pandas_exercises
@@ -35,6 +36,8 @@ published: true
 - [Machine Learning and AI with Python, a HarvardX course on EdX](https://www.edx.org/learn/machine-learning/harvard-university-machine-learning-and-ai-with-python)
 - [Data Science: Building Machine Learning Models, a HarvardX course on EdX](https://www.edx.org/learn/machine-learning/harvard-university-data-science-machine-learning)
 - [Agentic AI, taught by Andrew Ng at deeplearning.ai](https://www.deeplearning.ai/courses/agentic-ai/)
+- [Introduction to Modern AI, by Zico Kolter, taught at Carnegie Mellon University](https://modernaicourse.org/)
+- [EPFL Machine Learning Course CS-433, Fall 2025](https://github.com/epfml/ML_course)
 
 ## Data structures and algorithms implemented in python
 - https://github.com/keon/algorithms

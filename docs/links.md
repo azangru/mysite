@@ -87,7 +87,12 @@ Examples of overall good personal websites
 
 
 - https://cpojer.net - website of Cristoph Pojer/Nakazawa. Is it good? I am not sure
+- https://robbowen.digital - Robb Owen; kinda good I suppose?
 
+
+Styling
+- Tufte CSS: https://edwardtufte.github.io/tufte-css/
+  - Font: ET-Book - https://github.com/edwardtufte/et-book
 
 
 Good sites of web agencies:

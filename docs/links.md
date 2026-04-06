@@ -25,14 +25,13 @@ Examples of overall good personal websites
 - https://korayer.de/ — Someone's minimalist website. The pages are tiny. Found via [1kb.club](https://1kb.club/)
 - https://www.aleksandrhovhannisyan.com/ - source at https://github.com/AleksandrHovhannisyan/aleksandrhovhannisyan.com. Uses per-post directories with images
 - https://pepelsbey.dev/ - Vadim Makeev's website
-- https://arie.ls/ — Ariel Salminen’s website
 - https://lynnandtonic.com/ — Lynn Fisher’s website. Much wow.
 - https://garden.bradwoods.io — Brad Woods’ digital garden. Also much wow.
 - https://www.tempertemper.net/ — Martin Underhill‘s site (simple and clean design) ([source](https://github.com/tempertemper/www.tempertemper.net), built with Eleventy)
 - https://bholmes.dev — Benjamin Holms's website
 - https://codersblock.com — Will Boyd’s website
 - https://darn.es/ — David Darnes’s website. Smart guy; lead dev on Nord design system
-- https://arielsalminen.com/ — designer of Nord design system
+- https://arielsalminen.com/ — Ariel Salminen, designer of Nord design system
 - https://mikematas.com/ — a very nice and clean portfolio; perhaps a bit too mobile-oriented
 - https://jonneal.dev/ — a nice resume site
 - https://practicaltypography.com/ — Butterick's Practical Typography; a beautiful site about typography
@@ -83,6 +82,7 @@ Examples of overall good personal websites
 - https://markboulton.co.uk — a very good example of a static site; has a journal section with weeknotes
 - https://www.kooslooijesteijn.net/blog/how-i-do-web-design - personal site of Koos Looijesteijn; this page contains his design principles
 - https://www.fromjason.xyz – a decent site, made with Eleventy
+- https://matthiasott.com/ – a decent site
 
 
 

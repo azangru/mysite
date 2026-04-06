@@ -38,6 +38,14 @@ Below is a list of mature design systems / pattern libraries, most of which are 
 - Has a dedicated package for web components (`packages/web-components`)
 - Has thorough documentation of the design system
 
+## Sanoma learning
+- [Documentation site](https://sanomalearning.design/) and the [repo](https://github.com/sl-design-system/components)
+- Very high quality
+- Made with web components, using Lit
+- Uses typescript
+- Every component is a small package
+- Uses custom documentation site built with Eleventy
+
 ## Quiet
 - A component library built by the creator of Shoelace
 - The author quickly regretted open-sourcing it (probably expected it to be monetized), and closed it

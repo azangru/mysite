@@ -3,6 +3,26 @@ title: "2026"
 layout: layouts/post.njk
 ---
 
+## April 4
+- [NullGraph](https://github.com/Vikas593-cloud/NullGraph) — someone's simple webGPU engine
+
+## April 1
+- [a 10-minute video about design concepts](https://www.youtube.com/watch?v=EcbgbKtOELY)
+- [Design-Pattern Guidelines: Study Guide](https://www.nngroup.com/articles/design-pattern-guidelines), from Norman-Nielsen Group
+
+## March 30
+- A [repo](https://github.com/aaron-he-zhu/seo-geo-claude-skills) of Claude skills in SEO. While I don't have much use for Claude, the skills might be interesting in their description of SEO practices.
+
+## March 29
+- Neovim 0.12 is out, and there is a [guide to vim.pack](https://echasnovski.com/blog/2026-03-13-a-guide-to-vim-pack.html)
+- [Pretext](https://github.com/chenglou/pretext) - a typescript library that can do measurements on multi-line text
+
+## March 27
+- A bit of bureaucracy. UK government's [civil service behaviours](https://www.gov.uk/government/publications/success-profiles/)
+
+## March 26
+- [Microsoft's Rust training materials](https://github.com/microsoft/RustTraining)
+
 ## March 22
 - [Talks from LeSS conference Amsterdam 2025](https://www.youtube.com/playlist?list=PLZyJGq3lQY5rSKXNLH9tup3aLUReCp2J9)
 

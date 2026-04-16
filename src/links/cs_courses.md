@@ -80,9 +80,12 @@ published: true
   - [Autumn 2019 playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
 - [Deep Learning: MIT OpenCourseware, 2024](https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/video_galleries/lecture-videos)
 - [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+- [Stanford CME296 Diffusion & Large Vision Models | Spring 2026](https://www.youtube.com/watch?v=tr-CUpw--ck)
 
 ## LLMs
-- [Stanford CS336 - Language Modelling from Scratch, 2025](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
+- Stanford CS336 - Language Modelling from Scratch
+  - [2026 playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV)
+  - [2025 playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
 
 ## Databases
 - [Intro to Database Systems, by Andy Pavlo](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)

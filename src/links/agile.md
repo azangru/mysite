@@ -44,6 +44,7 @@ published: true
 - [Agile Tuesday](https://www.youtube.com/@agiletuesday/videos) - talks, including from Dave Snowden, Debbie Levitt, or FAST authors
 - [Agile Boston](https://www.youtube.com/@AgileBoston/videos)
 - [ScalingTech Podcast](https://www.youtube.com/@scalingtechpodcast/videos)
+- [Agile Yorkshire](https://www.youtube.com/@NewRedo/playlists)
 
 ## Scrum
 - [Scrum.org](https://www.scrum.org/) — arguably, the most authoritative source on Scrum

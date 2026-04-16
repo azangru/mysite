@@ -3,6 +3,15 @@ title: "2026"
 layout: layouts/post.njk
 ---
 
+## April 16
+A [website](https://aschmann.net/AmEng/) of North American dialects has links to the chapters of the Atlas of North American English hosted by the University of Pennsylvania (although UPenn doesn't show direct links to them). [Here](https://www.ling.upenn.edu/phonoatlas/ANAE_ToC.pdf) is the table of contents. [Chapter 2](https://www.ling.upenn.edu/phono_atlas/Atlas_chapters/Ch02_2nd.rev.pdf) describes the vowel system. To open any other chapter, replace the chapter number in the url with one between 01 and 23.
+
+## April 15
+The Broken Promises workshop, by Matteo Collina and James Snell
+  - [Recording of a 1.75-hour workshop at OpenJS Foundation, June 2020](https://www.youtube.com/watch?v=yRyfr1Qcf34&)
+  - [Recording of a 30-minute talk, just by James Snell](https://www.youtube.com/watch?v=XV-u_Ow47s0)
+  - [github repository](https://github.com/nearform/promises-workshop)
+
 ## April 4
 - [NullGraph](https://github.com/Vikas593-cloud/NullGraph) — someone's simple webGPU engine
 

@@ -24,6 +24,8 @@ published: true
   - [A youtube playlist of course lectures, which must have been copied from Udacity](https://www.youtube.com/playlist?list=PLJ3qxo98eOh__18rzQTUg-w7D40oo6JI3)
 - [CS 61B Data Structures, Spring 2023](https://sp23.datastructur.es/) — sadly, taught in Java; but the reading materials are still interesting.
   - [Spring 2025 update to CS 61B Data Structures course](https://sp25.datastructur.es/)
+  - [Various lectures on algorithms and data structures by Sebastian Wild. Might be on a hard side; but contain a playlist of algorithms used in bioinformatics](https://www.youtube.com/@SebastianWildLectures/playlists)
+
 
 ## Computer graphics
 - 6.837: Introduction to Computer Graphics (fall 2021) ([youtube playlist](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtqt2yL3KgKV-yn0NEPbRVi))

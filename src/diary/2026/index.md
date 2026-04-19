@@ -3,6 +3,9 @@ title: "2026"
 layout: layouts/post.njk
 ---
 
+## April 19
+Example of using IndexedDB for caching data (graphql data in this example) in IndexedDB.
+
 ## April 16
 A [website](https://aschmann.net/AmEng/) of North American dialects has links to the chapters of the Atlas of North American English hosted by the University of Pennsylvania (although UPenn doesn't show direct links to them). [Here](https://www.ling.upenn.edu/phonoatlas/ANAE_ToC.pdf) is the table of contents. [Chapter 2](https://www.ling.upenn.edu/phono_atlas/Atlas_chapters/Ch02_2nd.rev.pdf) describes the vowel system. To open any other chapter, replace the chapter number in the url with one between 01 and 23.
 

@@ -83,6 +83,7 @@ Examples of overall good personal websites
 - https://www.kooslooijesteijn.net/blog/how-i-do-web-design - personal site of Koos Looijesteijn; this page contains his design principles
 - https://www.fromjason.xyz – a decent site, made with Eleventy
 - https://matthiasott.com/ – a decent site
+- https://gbbns.co/ — website by a designer / fe engineer; very well done
 
 
 

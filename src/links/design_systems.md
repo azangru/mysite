@@ -85,3 +85,8 @@ Below is a list of mature design systems / pattern libraries, most of which are 
 - Developed by VMWare
 - [Storybook](https://storybook.core.clarity.design/)
 - Has a pretty strong distinction between tokens/layout/components
+
+## Lightning Design System 2
+- [Documentation site](https://www.lightningdesignsystem.com/) and a [github repo](https://github.com/salesforce-ux/design-system)
+- Has very good examples in the documentation (see e.g. the Foundations section)
+- Does NOT use web components (is built in React)

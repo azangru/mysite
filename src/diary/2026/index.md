@@ -3,6 +3,12 @@ title: "2026"
 layout: layouts/post.njk
 ---
 
+## April 25
+People say [Hello Interview System Design in a Hurry](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction) might be a good resource.
+
+## April 22
+In [this commit](https://github.com/epicweb-dev/epicshop/commit/f56a759f31b802766b597742b99a4c3592442f4b#diff-d13818966834ec96d11a338e670b32ccb76708df6f41c129127be40c54456d5a), Kent C. Dodds added an "offline video" capability to his "epicshop" standalone application. With it, video files are downloaded to the disk. While the download happens over the locally running Node server and not via the browser (which is what I would be more interested in), it still might have some interesting ideas.
+
 ## April 19
 Example of using IndexedDB for caching data (graphql data in this example) in IndexedDB.
 

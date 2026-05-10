@@ -5,7 +5,7 @@ layout: layouts/section-index.njk
 
 # Links
 
-Below are links to resources that I liked, and thought I might want to return to again.
+This is a very eclectic collection of links to resources that I liked, and thought I might want to return to again. I expect it to grow.
 
 ## Web development
 - [General web development topics](/links/webdev)

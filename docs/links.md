@@ -84,6 +84,7 @@ Examples of overall good personal websites
 - https://www.fromjason.xyz – a decent site, made with Eleventy
 - https://matthiasott.com/ – a decent site
 - https://gbbns.co/ — website by a designer / fe engineer; very well done
+- https://danmall.com/posts/what-is-a-design-system/ — a blog page by Dan Mall, a designer
 
 
 

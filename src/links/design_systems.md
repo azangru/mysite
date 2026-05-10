@@ -15,9 +15,9 @@ Below is a list of mature design systems / pattern libraries, most of which are 
 - Uses typescript
 - Has a custom-made documentation/demo site, built with Eleventy
 - Seems to use 'subpath imports' in package.json
-  - Example: https://github.com/RedHat-UX/red-hat-design-system/blob/da05c0d48a706128625d0370fc8fa8baaae1353e/package.json#L20-L26
-  - Node docs: https://nodejs.org/api/packages.html#subpath-imports
-  - A blog article discussing this: https://webpro.nl/articles/using-subpath-imports-and-path-aliases
+  - [Example](https://github.com/RedHat-UX/red-hat-design-system/blob/da05c0d48a706128625d0370fc8fa8baaae1353e/package.json#L20-L26)
+  - [Node docs](https://nodejs.org/api/packages.html#subpath-imports)
+  - [A blog article discussing this](https://webpro.nl/articles/using-subpath-imports-and-path-aliases)
 
 ## Shoelace (rebranded as WebAwesome)
 - [Shoelace documentation site](https://shoelace.style/); [WebAwesome documentation site](https://webawesome.com/); [repository](https://github.com/shoelace-style/webawesome)
@@ -90,3 +90,4 @@ Below is a list of mature design systems / pattern libraries, most of which are 
 - [Documentation site](https://www.lightningdesignsystem.com/) and a [github repo](https://github.com/salesforce-ux/design-system)
 - Has very good examples in the documentation (see e.g. the Foundations section)
 - Does NOT use web components (is built in React)
+- Has design tokens in yaml files

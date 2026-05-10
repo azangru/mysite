@@ -26,6 +26,9 @@ published: true
   - [Spring 2025 update to CS 61B Data Structures course](https://sp25.datastructur.es/)
   - [Various lectures on algorithms and data structures by Sebastian Wild. Might be on a hard side; but contain a playlist of algorithms used in bioinformatics](https://www.youtube.com/@SebastianWildLectures/playlists)
 
+## Web development
+- [CST 2120 - Web Applications and Databases - youtube playlist](https://www.youtube.com/playlist?list=PLQbUxXl36NPju2zCrphcoki5XqUIGPWZU) - 2nd-year undergraduate course at Middlesex University, London
+- [CST 3130 - Advanced Web Development with Big Data - youtube playlist](https://www.youtube.com/playlist?list=PLQbUxXl36NPhmdnB19GUlenWyuxcHSz2i) -  3rd-year undergraduate course at Middlesex University, London
 
 ## Computer graphics
 - 6.837: Introduction to Computer Graphics (fall 2021) ([youtube playlist](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtqt2yL3KgKV-yn0NEPbRVi))
@@ -38,6 +41,9 @@ published: true
 - ECE 459: Programming for Performance, taught at University of Waterloo — has a [github repository](https://github.com/jzarnett/ece459), and [videos](https://www.youtube.com/c/JeffZarnett/videos) posted to Jeff Zarnett's channel
 
 ## Rust
+- CS 110L: Safety in Systems Programming: a course fron Standord.
+  - [Spring 2020](https://reberhardt.com/cs110l/spring-2020/) — has links to videos (which are also listed in [this playlist](https://www.youtube.com/playlist?list=PLa24RbCI3sXtsSesfv3dmxRUa32XP1dQ2)). Sadly, not all lectures have been recorded
+  - [Winter 2022](https://web.stanford.edu/class/cs110l/) - updated, but no published videos
 - [PSU CS 410P/510 – Rust Programming course by Portland State University (Spring 2021)](https://moodle.cs.pdx.edu/course/view.php?id=15). Materials published on https://github.com/pdx-cs-rust
 - [Programming in Rust course by University of Maryland (Fall 2021)](https://www.cs.umd.edu/class/fall2021/cmsc388Z/). Contains [assignments](https://github.com/cmsc388z/assignments)
 - [Программирование на Rust (весна 2019); Computer Science Center; in Russian](https://www.youtube.com/playlist?list=PLlb7e2G7aSpTfhiECYNI2EZ1uAluUqE_e)

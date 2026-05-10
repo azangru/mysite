@@ -12,10 +12,8 @@ published: true
 - [English Phonetics archive](https://www.youtube.com/channel/UCcJXeI2pEwT9IHYVlUXnURw/videos) — worth checking out early talks; especially by John Wells. Also, check out [recordings of English accents and dialects](https://www.phon.ucl.ac.uk/home/wells/accentsanddialects/) from the audio cassette accompanying John Wells's _Accents of English_ book
 - [International Dialects of English Archive](https://www.dialectsarchive.com)
 - [Page listing online courses and turorials](https://www.internationalphoneticassociation.org/content/online-phonetics-courses-and-tutorials) of the International Phonetic association site. Most linked sites are old; but this one, [Australian linguistics](https://australianlinguistics.com/), seems to have good materials on phonetics.
-- [Geoff Lindsey’s youtube channel of Dr ](https://www.youtube.com/@DrGeoffLindsey)
-
-## English dialects
-- [BBC Voices](https://sounds.bl.uk/Accents-and-dialects/BBC-Voices) — a collection of recordings of British dialects
+- [Geoff Lindsey’s youtube channel](https://www.youtube.com/@DrGeoffLindsey)
+- [BBC Voices](https://sounds.bl.uk/Accents-and-dialects/BBC-Voices) — a collection of recordings of British dialects hosted by the British Library. Sadly, no longer available since late 2023, when the British Library got infected with ransomware, and had to rebuild their web resources from scratch. It is unclear whether the sounds archive will come back online. 
 
 ## History of English
 - [History of the English Language, University of Konstanz, Sprint 2019](https://www.youtube.com/playlist?list=PLUj-3pwbaDzPsiXWCQDr0_pwMAYG-iGpe) — Although the university is in Germany, the professor is English

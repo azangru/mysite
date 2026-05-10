@@ -45,6 +45,8 @@ published: true
 - [Agile Boston](https://www.youtube.com/@AgileBoston/videos)
 - [ScalingTech Podcast](https://www.youtube.com/@scalingtechpodcast/videos)
 - [Agile Yorkshire](https://www.youtube.com/@NewRedo/playlists)
+- [Agile Meets Architecture](https://www.youtube.com/@ama_conf/videos) conference talks
+- [LESS's youtube channel](https://www.youtube.com/@LeSSWorks/videos), now called _Simplifying Orgs for Adaptiveness and Resilience._ Contains talks from several LESS conferences
 
 ## Scrum
 - [Scrum.org](https://www.scrum.org/) — arguably, the most authoritative source on Scrum

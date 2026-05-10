@@ -68,7 +68,7 @@ It failed miserably. Perhaps because of the way I was phrasing my questions, it 
 
 This did not work. I am still unsure whether the LLM was hallucinating (aka bullshitting), or there is still something salvageable in its approach.
 
-By some miracle, I eventually came across an example that got me on what might possibly be the right track. Livejournal being the crap that it is, I cannot render my test svg snippet in this post; but the markup that seems to achieve what I am after is this:
+By some miracle, I eventually came across an example that got me on what might possibly be the right track. Here it is:
 
 ```xml
 <svg viewBox="0 0 900 400"

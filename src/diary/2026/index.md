@@ -3,6 +3,15 @@ title: "2026"
 layout: layouts/post.njk
 ---
 
+## May 11
+- A [youtube channel](https://www.youtube.com/@Radu/videos) with some canvas2D videos
+- A [playlist](https://www.youtube.com/playlist?list=PLgfazUq5bSszf2gul0a_w5go_-zxofJWY) with some lectures from a data visualisation course. Not particularly interesting
+- A [youtube channel](https://www.youtube.com/@SteveGriffith-Prof3ssorSt3v3/playlists) of a professor in Web Design at Algonquin College in Ottawa, Canada
+
+## May 10
+- The old Shopify's Polaris design system (the one written in React) has a good example of a table with a sticky left column. There is also a nice touch in that the column acquires a thin right border when it is stuck, to more clearly separate it from other columns. [Link](https://polaris-react.shopify.com/patterns/resource-index-layout)
+- By the way, the new implementation of the Shopify design system, with web components, has a table implemented with web components ([link](https://shopify.dev/docs/api/app-home/web-components/layout-and-structure/table)). It seems to be accessible
+
 ## April 25
 People say [Hello Interview System Design in a Hurry](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction) might be a good resource.
 

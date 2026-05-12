@@ -37,6 +37,10 @@ published: true
   - [the book](https://natureofcode.com/)
   - [the playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM)
 
+
+## Data analysis
+- [Channel of Alan Jenn, a lecturer at UC Davis, with recordings of lectures on Applied Data Analysis course](https://www.youtube.com/@alanjenn3988/videos)
+
 ## Programming languages
 - ECE 459: Programming for Performance, taught at University of Waterloo — has a [github repository](https://github.com/jzarnett/ece459), and [videos](https://www.youtube.com/c/JeffZarnett/videos) posted to Jeff Zarnett's channel
 

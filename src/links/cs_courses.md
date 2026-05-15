@@ -93,6 +93,7 @@ published: true
 - [Deep Learning: MIT OpenCourseware, 2024](https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/video_galleries/lecture-videos)
 - [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [Stanford CME296 Diffusion & Large Vision Models | Spring 2026](https://www.youtube.com/watch?v=tr-CUpw--ck)
+- [Deep Learning: CS 182, Spring 2021](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A) - UC Berkeley
 
 ## LLMs
 - Stanford CS336 - Language Modelling from Scratch
@@ -104,6 +105,7 @@ published: true
 
 ## Operating systems
 - [Advanced programming in the UNIX environment](https://stevens.netmeister.org/631/)
+- [CS 162: Operating Systems and Systems Programming playlist](CS 162: Operating Systems and Systems), by UC Berkeley, 2020
 
 ## System tools
 - [CSE391, System and Software Tools, Spring 2023](https://courses.cs.washington.edu/courses/cse391/23sp/) — a basic course by the University of Washington about CLI tools in a Unix environment

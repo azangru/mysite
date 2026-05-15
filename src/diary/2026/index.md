@@ -3,6 +3,15 @@ title: "2026"
 layout: layouts/post.njk
 ---
 
+## May 15
+Several coding challenges I found on github:
+- [challenge-buyer-router](https://github.com/davidguttman/challenge-buyer-router) — node
+- [nodejs-examples-initiative-challenge](https://github.com/davidguttman/nodejs-examples-initiative-challenge) — node
+- [challenge-git](https://github.com/davidguttman/challenge-git) — a git rebase
+
+## May 12
+- [Playlists of Pixel Pioneers conferences](https://www.youtube.com/@pixel-pioneers/playlists)
+
 ## May 11
 - A [youtube channel](https://www.youtube.com/@Radu/videos) with some canvas2D videos
 - A [playlist](https://www.youtube.com/playlist?list=PLgfazUq5bSszf2gul0a_w5go_-zxofJWY) with some lectures from a data visualisation course. Not particularly interesting

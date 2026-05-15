@@ -3,17 +3,13 @@
   --color-black: #113654; /* just some not-quite-black black, whatever (https://ianstormtaylor.com/design-tip-never-use-black/) */
 }
 
-* {
-  box-sizing: border-box;
-}
-
 html, body {
   margin: 0;
 }
 
 body {
   color: var(--color-black);
-  background-color: #FCFAF3;
+  background-color: #fcfaf3;
 }
 
 main {

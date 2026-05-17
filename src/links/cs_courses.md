@@ -113,6 +113,9 @@ published: true
 ## Other topics
 - [Parallel computing, Stanford CS149, 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp)
 
+## UI design
+- [Human-Computer Interaction, Fall 2020 playlist](https://www.youtube.com/playlist?list=PLAuiGdPEdw0j6VNxfbY-FNlbAjlWIVNnO) — a course by University of Vermont, CS228; delivered by Josh Bongard; not particularly great, but still...
+
 ## Useful Khan Academy courses
 - [Linear Algebra](https://www.khanacademy.org/math/linear-algebra/)
 

@@ -183,11 +183,11 @@ Point is, this is all doable, but it sucks. The react team even introduced a `us
 
 
 ## The whole "you might not need an effect" thing
-React hooks were introduced at ReactConf 2018 in October 2018. The new React docs came online in Spring 2023, according to internet memory. And the new docs contained an article titled _You might not need an effect,_ which described a number of patterns for which effects were inadvisable.
+React hooks were introduced at ReactConf 2018 in October 2018. The new React docs came online in Spring 2023, according to internet memory. During this five-year interim period, there was very little official guidance on how to write, or not to write, the new function components; so all of us transitioning from class components must have built their own mental models mapping class components patterns onto the function components. And then, the new docs came out with an article _You might not need an effect,_ which described a number of patterns for which effects were inadvisable.
 
 One of such patterns, which is quite common in my code, is updating the state when the props change.
 
-I could have sworn that in 2018, when the hooks came out, the message about `useEffect` was that it is a better replacement for the `componentDidMount` and `componentDidUpdate` lifecycle methods. And before, if we needed to update the state on props change, we did so in those two lifecycle methods; so I thought it only reasonable that we will continue doing so in `useEffect`. What the docs say now is that if such a need arises, the state should be updated right in the main render function. The example from the docs goes like this:
+I could have sworn that in 2018, with the introduction of hooks, the message about `useEffect` was that it was a more powerful combo of `componentDidMount` and `componentDidUpdate` lifecycle methods. And with class components, if we needed to update the state upon a prop change, we did so in those two lifecycle methods; so it seemed only reasonable that we would continue doing so in `useEffect`. The docs, however, sternly discourage such use. They now say that, if such a need arises, the state should be updated right in the main render function. The example from the docs goes like this:
 
 ```tsx
 function List({ items }) {
@@ -330,16 +330,16 @@ Which still raises the question of what to do if you want to avoid running `crea
 Isn't all this just so much more cumbersome than what we had with the simple `componentDidMount` lifecycle method?
 
 
-## Prohibition on reading from refs during render
+## Reading from or writing to refs during render
 
-I've already mentioned this rule. I discovered it very late into writing react with hooks; so I've managed to violate it quite a lot. As refs were advertised in 2018, I took them to mean a way to store values that do not need the component to update. They appeared to be a perfect replacement for class fields, where you could store any data you need.
+I've already mentioned that the docs firmly forbid reading from the refs or writing to the refs during render. I discovered it very late into writing react with hooks; so I've managed to violate this rule quite a lot. As refs were advertised in 2018, I took them to be a way for storing values that do not need the component to update. They seemed to be a direct replacement for class fields, where you could store any data you need.
 
-As it turned out, they were not a perfect replacement.
+As it turned out, they were not such a replacement.
 
 You are free to read a class property during render; but you are not supposed to read from a ref. You are not supposed to return `ref.current` from a hook. You are only supopsed to read from a ref in a callback function, or during that funny "initialization" clause.
 
-## And for what?
+## All this, for what?
 
 So many rules! So many deviations from regular javascript programming! And for what? One hilariously ironic selling point for hooks was that developers (mostly beginners) were getting confused by the `this` keyword in class components; but isn't the mental overhead of the hooks much more confusing? Another, much more practical selling point, was that they helped avoid duplicated logic by moving `componentDidMount` and `componentDidUpdate` into a single `useEffect` hook with explicit dependencies; though, given how developers are now discouraged from `useEffect`, one might wonder what that fuss was all about.
 
-I keep thinking about this every time I write code with `Lit`, which has class-based components that feel like a breath of fresh air compared to react hooks.
+I keep thinking about this every time I write code with `Lit` and find that, although it stayed with the class model, I do not find it hard to write it. In fact, it feels easier, more intuitive, less surprising than react hooks, with barely any exceptions that need committing to memory.

@@ -47,6 +47,7 @@ published: true
 - [Agile Yorkshire](https://www.youtube.com/@NewRedo/playlists)
 - [Agile Meets Architecture](https://www.youtube.com/@ama_conf/videos) conference talks
 - [LESS's youtube channel](https://www.youtube.com/@LeSSWorks/videos), now called _Simplifying Orgs for Adaptiveness and Resilience._ Contains talks from several LESS conferences
+- [Agile by Example youtube channel](https://www.youtube.com/@AgileByExample/videos)
 
 ## Scrum
 - [Scrum.org](https://www.scrum.org/) — arguably, the most authoritative source on Scrum

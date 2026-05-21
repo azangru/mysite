@@ -4,6 +4,9 @@ layout: layouts/post.njk
 published: true
 ---
 
+## Courses
+- [The Missing Semester of Your CS Education, 2026 playlist](https://www.youtube.com/playlist?list=PLyzOVJj3bHQunmnnTXrNbZnBaCA-ieK4L) — a course at MIT
+
 ## Vim
 - [A frontend developer‘s dev setup](https://youtu.be/gMcGb55bsaE) interesting mostly because of the vim config.
 - Playlist [Neovim from scratch](https://www.youtube.com/playlist?list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ) and the associated [repo](https://github.com/LunarVim/Neovim-from-scratch)

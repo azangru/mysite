@@ -3,6 +3,12 @@ title: "2026"
 layout: layouts/post.njk
 ---
 
+## May 18
+Matteo Collina gives an introductory Node.js workshop (How to Node.js)
+- [Part 1](https://www.youtube.com/watch?v=MQr9-7V_RoY)
+- [Part 2](https://www.youtube.com/watch?v=lt7qcf0z6qI)
+- [Repository they work from](https://github.com/davidmarkclements/whistle-stop-workshop/)
+
 ## May 17
 Good talks from a recent SmashingConf Amsterdam (2026) ([playlist](https://www.youtube.com/playlist?list=PLxQqv_fazRs3DxmzZfKXagFMBV4QJu-5K))
 - [Smart Layout Patterns with Modern CSS](https://www.youtube.com/watch?v=4IBXIFe2CKA)

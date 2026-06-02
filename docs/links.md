@@ -109,6 +109,7 @@ Resumes:
 - https://read.cv/keithamus — a reasonably sounding resume
 - https://www.romaglushko.com/cv/software-engineer - a not bad resume (in terms of both style and formatting)
 - https://cdn.masto.host/frontendsocial/media_attachments/files/114/008/887/365/000/258/original/85bea22fbc69b47d.png - a decent example of a one-page resume
+- https://github.com/abuseofnotation/abuseofnotation.github.io
 
 https://github.com/iRaul/awesome-portfolios
 

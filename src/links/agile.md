@@ -54,6 +54,7 @@ published: true
 - [Nigel Baker and Chet Hendrickson discuss the 2020 update to the Scrum Guide](https://www.youtube.com/watch?v=I9WZTg8uaiw)
 - [Scrum.inc](https://www.scruminc.com). This is Jeff Sutherland’s site, which is in a much worse state than Scrum.org. However, it still contains valuable resources such as Jeff Sutherland’s explanation of the framework (see the playlist [here](https://www.scruminc.com/scrumlab-open/)), and a somewhat more detailed overview starting from [this page](https://www.scruminc.com/scrum-framework/) (and then one needs to follow the links in the ScrumLab Open section)
 - [A Scrum Book](http://scrumbook.org/) — an effort by James Coplien, together with Jeff Sutherland et al., to write about Scrum in an analytical and academic sort of way.
+- [Scrum 101 playlist](https://www.youtube.com/playlist?list=PL8g6psFkuAKPagwlAfRRawCuC_mAk-oLP) by the Scrum Facilitators channel — an introduction to the framework.
 
 ### History
 - [The New New Product Development Game by Hirotaka Takeuchi and Ikujiro Nonaka](https://hbr.org/1986/01/the-new-new-product-development-game) — an article in Harvard Business review in which the word “Scrum” appeared for the first time.
@@ -98,6 +99,7 @@ published: true
 - Daniel Mezick (open-space agility)
 - Roman Pichler (product ownership)
 - David Pereira (an awesome and very pragmatic product owner)
+- Dave Sharrock (product ownership)
 
 ## Other agilists
 - [John Coleman](https://www.youtube.com/@agilityisland/videos), co-author of the Kanban guide, creator of something called Kanplexity

@@ -91,3 +91,7 @@ Below is a list of mature design systems / pattern libraries, most of which are 
 - Has very good examples in the documentation (see e.g. the Foundations section)
 - Does NOT use web components (is built in React)
 - Has design tokens in yaml files
+
+## Atlassian Design System
+- [Documentation site](https://atlassian.design)
+- The design system is quite detailed, with description of components, tokens, foundations, etc.

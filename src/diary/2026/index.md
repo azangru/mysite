@@ -3,6 +3,30 @@ title: "2026"
 layout: layouts/post.njk
 ---
 
+## June 01
+- The [repo](https://github.com/ahegazy0/linux-basics-for-hackers-notes) of Linux basics for hackers notes. It also includes the book
+
+## May 29
+Someone created a web framework based on rxjs observables, which is lighter than cycle.js. [Repo](https://github.com/WorldMaker/butterfloat)
+
+## May 26
+Someone's [repo](https://github.com/ToniR7/express-typescript-starter) with an express/typescript starter
+
+## May 22
+Several BBC tech assessment repos:
+- https://github.com/bbc/software-engineering-technical-assessments - various technical assessments (languages, specialisms)
+- https://github.com/bbc/home-datacap-technical
+- https://github.com/bbc/ce-tech-test-kata
+- https://github.com/bbc/ce-p-tech-test/
+- https://github.com/bbc/ce-tech-test
+
+Also from the BBC: a practice coding exercise for the Step into Tech group:
+- https://github.com/bbc/step-into-tech-practice-exercise
+
+An interesting repository collecting LeetCode questions allegedly asked in interviews at different companies:
+- https://github.com/snehasishroy/leetcode-companywise-interview-questions
+
+
 ## May 18
 Matteo Collina gives an introductory Node.js workshop (How to Node.js)
 - [Part 1](https://www.youtube.com/watch?v=MQr9-7V_RoY)

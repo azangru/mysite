@@ -3,6 +3,10 @@ title: "2026"
 layout: layouts/post.njk
 ---
 
+## June 02
+- [Someone's list of "typescript tips everyone should know"](https://github.com/AllThingsSmitty/typescript-tips-everyone-should-know)
+- A [youtube channel](https://www.youtube.com/@headlessheadhunter) where a recruiter reviews tech resumes.
+
 ## June 01
 - The [repo](https://github.com/ahegazy0/linux-basics-for-hackers-notes) of Linux basics for hackers notes. It also includes the book
 

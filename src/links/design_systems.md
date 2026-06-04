@@ -95,3 +95,7 @@ Below is a list of mature design systems / pattern libraries, most of which are 
 ## Atlassian Design System
 - [Documentation site](https://atlassian.design)
 - The design system is quite detailed, with description of components, tokens, foundations, etc.
+
+## J.P. Morgan's Salt Design System
+- [Documentation site](https://www.saltdesignsystem.com/salt/getting-started) and [github repo](https://github.com/jpmorganchase/salt-ds)
+- The design system is made in react

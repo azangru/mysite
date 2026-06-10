@@ -3,6 +3,9 @@ title: "2026"
 layout: layouts/post.njk
 ---
 
+## June 10
+- Someone [writes](https://olliewilliams.xyz/blog/streaming-html/) about browser apis for HTML streaming
+
 ## June 02
 - [Someone's list of "typescript tips everyone should know"](https://github.com/AllThingsSmitty/typescript-tips-everyone-should-know)
 - A [youtube channel](https://www.youtube.com/@headlessheadhunter) where a recruiter reviews tech resumes.

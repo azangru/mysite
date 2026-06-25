@@ -3,6 +3,22 @@ title: "2026"
 layout: layouts/post.njk
 ---
 
+## June 25
+- Someone's [repo](https://github.com/Automedon/ultimate-leetcode-patterns) with links to Leetcode problems, grouped by topics.
+
+## June 23
+- Someone is writing a book on Node. It looks suspicious (could be LLMs, who knows); but at the same time, it isn't outright bad. Links: [website](https://www.thenodebook.com/), [github repo](https://github.com/ishtms/nodebook).
+
+## June 22
+- An [implementation](https://github.com/sanity-io/react-rx/blob/current/src/useObservable.ts) of a useObservable hook that uses useSyncExternalStore
+
+## June 12
+- [Some officially free chapters](https://drive.google.com/drive/folders/1AdUu4jh6DGwmCxfgnDQEMWWyo6_whPHJ) of Beyond Cracking the coding interview
+- The company that participated in the writing of the book, interviewing.io, has made the problems from the book freely available, although they are login-walled. [Link](https://start.interviewing.io/beyond-ctci/all-problems/technical-topics)
+
+## June 11
+- An [article](https://www.toptal.com/developers/react/rxjs-react-state-management) about using RxJS for state management; surprisingly good
+
 ## June 10
 - Someone [writes](https://olliewilliams.xyz/blog/streaming-html/) about browser apis for HTML streaming
 

@@ -3,6 +3,9 @@ title: "2026"
 layout: layouts/post.njk
 ---
 
+## June 26
+- Google devrels wrote down a [set of skills](https://github.com/GoogleChrome/modern-web-guidance-src) files capturing best practices of web development. Good for humans as well as for machines.
+
 ## June 25
 - Someone's [repo](https://github.com/Automedon/ultimate-leetcode-patterns) with links to Leetcode problems, grouped by topics.
 

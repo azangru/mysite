@@ -3,6 +3,9 @@ title: "2026"
 layout: layouts/post.njk
 ---
 
+## June 29
+- [A repo](https://github.com/interviewstreet/hiring-agent), by HackerRank, containing code for AI agent that scores resumes. Might be interesting as an insight into what is considered important.
+
 ## June 26
 - Google devrels wrote down a [set of skills](https://github.com/GoogleChrome/modern-web-guidance-src) files capturing best practices of web development. Good for humans as well as for machines.
 

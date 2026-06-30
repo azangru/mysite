@@ -3,6 +3,34 @@ title: "2026"
 layout: layouts/post.njk
 ---
 
+## June 30
+Saw on Artemy Lebedev's studio website the following technical assignment for candidates for the position of front-end intern. The text is in Russian:
+
+```
+Нужно разработать компонент автоформы на Vue 3, который строит форму на основе переданной JSON-схемы.
+Компонент должен динамически генерировать форму по переданному JSON-объекту. Форма должна поддерживать основные типы полей:
+— текстовое поле (text, email, password);
+— выпадающий список (select);
+— чекбокс (checkbox).
+Необходимо реализовать минимальную валидацию (например, required, minLength, pattern), введенные пользователем данные должны реактивно появляться в переданном объекте.
+Пример JSON-схемы:
+{
+"fields": [
+{ "type": "text", "label": "Имя", "model": "name", "required": true },
+{ "type": "email", "label": "Email", "model": "email", "required": true },
+{ "type": "password", "label": "Пароль", "model": "password", "required": true, "minLength": 6 },
+{ "type": "select", "label": "Роль", "model": "role", "options": ["Админ", "Пользователь"], "required": true },
+{ "type": "checkbox", "label": "Согласен с условиями", "model": "terms", "required": true }
+]
+}
+Пример структуры компонента:
+<FormGenerator :schema="formSchema" v-model="formData" />
+Пользовательский интерфейс предлагается реализовать самостоятельно или использовать готовые библиотеки компонентов.
+Результат: ссылка на архив или репозиторий + инструкция по запуску. Ответы принимаются до 16 ноября 23:59:59.
+Это письмо отправлено роботом. Студия не имеет возможности вступать в переговоры о сроках и условиях выполнения тестовых заданий.
+```
+
+
 ## June 29
 - [A repo](https://github.com/interviewstreet/hiring-agent), by HackerRank, containing code for AI agent that scores resumes. Might be interesting as an insight into what is considered important.
 

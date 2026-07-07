@@ -3,6 +3,13 @@ title: "2026"
 layout: layouts/post.njk
 ---
 
+## July 3
+- [Youtube playlist](https://www.youtube.com/playlist?list=PLKGgD1M40S4jYyNy0baFgSgdZ-W7a11eU) of FutureFrontend 2026 conference 
+- [OpenLeetCode](https://github.com/therepanic/openleetcode) contains a list of test data for the problems
+
+## July 2
+- A reddit [message](https://www.reddit.com/r/LowLevelDesign/comments/1ujfvhd/amazon_low_level_design_interview_questions_asked/) with a list of "low-level design" questions
+
 ## June 30
 Saw on Artemy Lebedev's studio website the following technical assignment for candidates for the position of front-end intern. The text is in Russian:
 

@@ -29,3 +29,4 @@ published: true
 
 ## Biology
 - [UC Berkeley - Biology 1B](https://www.youtube.com/playlist?list=PLAvN9Mc52FKG3AHBA56I2ZP31a5Jz7lIq)
+- [Human Behavioral Biology](https://www.youtube.com/playlist?list=PLzxlKUNNLxmEvjCSUAurMReJBZxaLdD1_) by Robert Sapolsky, at Stanford School of Humanities and Sciences, 2026

@@ -3,6 +3,9 @@ title: "2026"
 layout: layouts/post.njk
 ---
 
+## July 17
+- I have discovered [a site listing indieweb events](https://events.indieweb.org/)
+
 ## July 3
 - [Youtube playlist](https://www.youtube.com/playlist?list=PLKGgD1M40S4jYyNy0baFgSgdZ-W7a11eU) of FutureFrontend 2026 conference 
 - [OpenLeetCode](https://github.com/therepanic/openleetcode) contains a list of test data for the problems

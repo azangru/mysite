@@ -21,6 +21,11 @@ published: true
 
 ## History of the English literature
 - Ted Sherman, a very good English teacher, has a [youtube channel](https://www.youtube.com/channel/UCB_pokQ27mY3DGlGrSdNKKw/videos) with college-level lectures on the history of British literature as well as on the history of the English language
+- [Masterpieces of British Literature to the Eighteenth Century](https://www.youtube.com/playlist?list=PLKkZIp6qDGfTikOKgt6WGC3iWeK3ta-vh) by John McNamara, University of Houston; recorded some time in early 2000s
+- [American Literature I: Beginnings to Civil War](https://www.youtube.com/playlist?list=PLKkZIp6qDGfSbCalU5NKlcBbnGR38Jabu), by Cyrus Patell, New York University, recorded some time in early 2000s
+- [Contemporary American Literature](https://www.youtube.com/playlist?list=PLcWAPGREP_3HxT6P0zrz-4GgK1hDlxDxh), by John Pistelli, 2021
+- [The American Novel Since 1945](https://www.youtube.com/playlist?list=PLE33BCD966FF96F23), a Yale course by Amy Hungerford; recorder in early 2000s
+- [Old English in Context](https://podcasts.ox.ac.uk/keywords/old-english), by Stuart Lee, 2007
 
 ## Bible
 - The Bible and English Literature, by Northrop Frye
@@ -33,6 +38,7 @@ published: true
 
 ## Shakespeare
 - [Shakespeare After All: The Later Plays](https://www.youtube.com/playlist?list=PLaLOVNqqD-2HhqQG1BxUaQr0GpG8oN0DV) — a lecture course from Harvard
+- [Not Shakespeare: Elizabethan and Jacobean Popular Theatre](https://podcasts.ox.ac.uk/series/not-shakespeare-elizabethan-and-jacobean-popular-theatre), by Emma Smith, Oxford, 2009
 
 ## English as a Foreign Language
 - [English with Cambridge youtube channel](https://www.youtube.com/@cambridgeenglishtv/videos) – has examples of C2-level speaking tests
@@ -50,3 +56,9 @@ published: true
 - [John Searle — Philosophy of Mind](https://www.youtube.com/playlist?list=PL039MUyjHR1wfJpULVP1a1ZeCBmIHmhxt)
 - [Arthur Holmes: A History of Philosophy](https://www.youtube.com/playlist?list=PL9GwT4_YRZdBf9nIUHs0zjrnUVl-KBNSM) - a series of lectures, Wheaton College
 - [History of Philosophy, by Leonard Peikoff](https://www.youtube.com/playlist?list=PLqsoWxJ-qmMuYO4AKp7NZ_qBy6gaj3cUv) - a perspective of an objectivist
+
+
+
+## Honorable mentions
+- Recordings of Allen Ginsberg's lectures at the Naropa University
+  - [Expansive poetics](http://archives.naropa.edu/digital/collection/p16621coll1/search/searchterm/expansive) – has quite a lot on the Russian poetry

@@ -118,6 +118,9 @@ published: true
 ## UI design
 - [Human-Computer Interaction, Fall 2020 playlist](https://www.youtube.com/playlist?list=PLAuiGdPEdw0j6VNxfbY-FNlbAjlWIVNnO) — a course by University of Vermont, CS228; delivered by Josh Bongard; not particularly great, but still...
 
+## Blockchain
+- [Blockchain and the Design of Financial Systems, MIT, Spring 2025](https://ocw.mit.edu/courses/14-129-blockchain-and-the-design-of-financial-systems-spring-2025/video_galleries/video-lectures/)
+
 ## Useful Khan Academy courses
 - [Linear Algebra](https://www.khanacademy.org/math/linear-algebra/)
 

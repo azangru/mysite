@@ -3,6 +3,13 @@ title: "2026"
 layout: layouts/post.njk
 ---
 
+## July 27
+- [React Miami 2026 playlist](https://www.youtube.com/playlist?list=PL4mWVugy3a2iP7kcP83Z59IgG5MbYBtYF)
+
+## July 23
+- [Playlist from CascadiaJS conference 2026](https://www.youtube.com/playlist?list=PLLiioAbFTbKP3F7TnwsIN_-FVAiuBSSoy)
+- [Craft conference 2025](https://www.youtube.com/playlist?list=PLcTa2e7_ENN-IoAnI0ra3pPAp1H2Q1pM7)
+
 ## July 17
 - I have discovered [a site listing indieweb events](https://events.indieweb.org/)
 

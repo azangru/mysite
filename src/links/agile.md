@@ -49,6 +49,7 @@ published: true
 - [LESS's youtube channel](https://www.youtube.com/@LeSSWorks/videos), now called _Simplifying Orgs for Adaptiveness and Resilience._ Contains talks from several LESS conferences
 - [Agile by Example youtube channel](https://www.youtube.com/@AgileByExample/videos)
 - [The Complexity Lounge youtube channel](https://www.youtube.com/@ComplexityLounge) — videos by the Cynefin people
+- [The Agile for Agilists podcast](https://www.youtube.com/@agileforagilists)
 
 ## Scrum
 - [Scrum.org](https://www.scrum.org/) — arguably, the most authoritative source on Scrum

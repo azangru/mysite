@@ -48,6 +48,7 @@ published: true
 - CS 110L: Safety in Systems Programming: a course fron Standord.
   - [Spring 2020](https://reberhardt.com/cs110l/spring-2020/) — has links to videos (which are also listed in [this playlist](https://www.youtube.com/playlist?list=PLa24RbCI3sXtsSesfv3dmxRUa32XP1dQ2)). Sadly, not all lectures have been recorded
   - [Winter 2022](https://web.stanford.edu/class/cs110l/) - updated, but no published videos
+- COMP6991 - Solving Modern Programming Problems with Rust, taught at UNSW Sydney - [lectures recorded in 2023](https://www.youtube.com/@zackologlu7018/streams), [handbook for the course](https://www.handbook.unsw.edu.au/undergraduate/courses/2023/COMP6991), and [lecture materials on github](https://github.com/COMP6991UNSW/lec-materials)
 - [PSU CS 410P/510 – Rust Programming course by Portland State University (Spring 2021)](https://moodle.cs.pdx.edu/course/view.php?id=15). Materials published on https://github.com/pdx-cs-rust
 - [Programming in Rust course by University of Maryland (Fall 2021)](https://www.cs.umd.edu/class/fall2021/cmsc388Z/). Contains [assignments](https://github.com/cmsc388z/assignments)
 - [Программирование на Rust (весна 2019); Computer Science Center; in Russian](https://www.youtube.com/playlist?list=PLlb7e2G7aSpTfhiECYNI2EZ1uAluUqE_e)
@@ -111,6 +112,7 @@ published: true
 - [CSE391, System and Software Tools, Spring 2023](https://courses.cs.washington.edu/courses/cse391/23sp/) — a basic course by the University of Washington about CLI tools in a Unix environment
 
 ## Other topics
+- [Great Ideas in Computer Architecture, UC Berkeley, 2020, CS61C](https://www.youtube.com/playlist?list=PL0j-r-omG7i0-mnsxN5T4UcVS1Di0isqf)
 - [Parallel computing, Stanford CS149, 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp)
 
 ## UI design

@@ -24,8 +24,10 @@ published: true
 
 ## Mathematics
 - [The College Prep School](https://www.youtube.com/@thecollegeprepschool4486/playlists) — contains math courses that should have been learnt at high school
+- ["Professor Leonard" youtube channel](https://www.youtube.com/@ProfessorLeonard/courses) — contains math lectures aimed at different levels
 - [Calculus 1, from a course at Santa Clara University, 2001](https://www.youtube.com/playlist?list=PLShth7hrtLHNo7887erDzTZhYkwyohJL0)
 - [Introduction to Number Theory, UC Berkeley](https://www.youtube.com/playlist?list=PL8yHsr3EFj53L8sMbzIhhXSAOpuZ1Fov8)
+- [MIT 18.01 Single Variable Calculus, Fall 2006](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1)
 - [Gilbert Strang lectures on Linear Algebra (MIT)](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
 
 ## Biology

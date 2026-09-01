@@ -87,7 +87,7 @@ Examples of overall good personal websites
 - https://danmall.com/posts/what-is-a-design-system/ — a blog page by Dan Mall, a designer
 - https://michellebarker.co.uk/ - a website of Michelle Barker; love the minimalism
 - https://danq.me/ — a very cool, very fast website, although not a static one
-
+- marginalia.nu - an interesting example of a website where the author writes for himself rather than for readers (example: https://www.marginalia.nu/misc/self-interest/)
 
 - https://cpojer.net - website of Cristoph Pojer/Nakazawa. Is it good? I am not sure
 - https://robbowen.digital - Robb Owen; kinda good I suppose?

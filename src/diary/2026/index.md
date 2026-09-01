@@ -3,6 +3,18 @@ title: "2026"
 layout: layouts/post.njk
 ---
 
+## September 1
+- Online materials for Harvard's CS51 course:
+  - [The website](https://cs51.io)
+  - [Some videos](https://www.youtube.com/playlist?list=PLxA7uoRZbzXlW0XjbtuWow6PmPHe4vU7p)
+  - [The book](https://book.cs51.io/pdfs/abstraction.pdf)
+
+## August 5
+- Someone has shared a [link](https://github.com/rshono/rshono) to a minimal React server components setup, with Hono and Rspack.
+
+## August 1
+- Someone's [blog post](https://yoavik.com/posts/canvas-path-animation) about drawing shapes in canvas based on svg
+
 ## July 27
 - [React Miami 2026 playlist](https://www.youtube.com/playlist?list=PL4mWVugy3a2iP7kcP83Z59IgG5MbYBtYF)
 

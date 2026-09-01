@@ -30,6 +30,9 @@ published: true
 - [CST 2120 - Web Applications and Databases - youtube playlist](https://www.youtube.com/playlist?list=PLQbUxXl36NPju2zCrphcoki5XqUIGPWZU) - 2nd-year undergraduate course at Middlesex University, London
 - [CST 3130 - Advanced Web Development with Big Data - youtube playlist](https://www.youtube.com/playlist?list=PLQbUxXl36NPhmdnB19GUlenWyuxcHSz2i) -  3rd-year undergraduate course at Middlesex University, London
 
+## Mathematics
+- [Mathematics for Computer Science, MIT, 2024](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024)
+
 ## Computer graphics
 - 6.837: Introduction to Computer Graphics (fall 2021) ([youtube playlist](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtqt2yL3KgKV-yn0NEPbRVi))
 - Computer Graphics, Keenan Crane as taught at CMU in 2020 — [youtube playlist](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) and a [website](http://15462.courses.cs.cmu.edu/fall2023/home) with learning materials

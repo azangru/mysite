@@ -3,6 +3,20 @@ title: "2026"
 layout: layouts/post.njk
 ---
 
+## September 11
+- As a reminder to myself: there's an [interesting article](https://pierre.computer/writing/on-rendering-diffs) on how someone is approaching the rendering of diffs with a virtualized view. The article shows the approach to be capable of renderig diffs as large as the million lines' Bun rewrite from Zig to Rust [link to demo](https://diffshub.com/oven-sh/bun/pull/30412)
+
+## September 8
+- An interesting resource: a [free design bootcamp](https://baselinehq.com)
+
+## September 6
+- Online resources about OCaml
+  - [CS 3110 Data Structures and Functional Programming at Cornell University](https://cs3110.github.io/textbook/cover.html) – has links to videos.
+  - [Learn Programming with OCaml](https://usr.lmf.cnrs.fr/lpo) – reportedly, a very good book on the subject
+
+## September 4
+- [CityJS 2026 conference playlist](https://www.youtube.com/playlist?list=PLYDCh9vbt8_KLsFjnFnskuy9yHDD8c7cd)
+
 ## September 1
 - Online materials for Harvard's CS51 course:
   - [The website](https://cs51.io)

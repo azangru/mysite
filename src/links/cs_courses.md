@@ -103,6 +103,7 @@ published: true
 - Stanford CS336 - Language Modelling from Scratch
   - [2026 playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV)
   - [2025 playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
+- Stanford CME295 - Transformers and Large Language Models (Autumn 2025) - [playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy)
 
 ## Databases
 - [Intro to Database Systems, by Andy Pavlo](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)

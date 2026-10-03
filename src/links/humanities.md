@@ -6,6 +6,7 @@ published: true
 
 ## General courses
 - [An introduction to English linguistics](https://www.youtube.com/playlist?list=PLKgdsSsfw-fYCJ90tLikJRbXvl74g6FUw), by Martin Hilpert (he has a non-native accent, though not too heavy)
+- [MIT 24.900 Introduction to Linguistics, Spring 2022](https://www.youtube.com/playlist?list=PLUl4u3cNGP63BZGNOqrF2qf_yxOjuG35j)
 
 ## English phonetics
 - [Linguistics 341 — Introduction to Phonetics](https://www.youtube.com/watch?v=3sXT3hXn0Uk) — a solid college-level course on phonetics
@@ -22,6 +23,9 @@ published: true
 ## History of the English literature
 - Ted Sherman, a very good English teacher, has a [youtube channel](https://www.youtube.com/channel/UCB_pokQ27mY3DGlGrSdNKKw/videos) with college-level lectures on the history of British literature as well as on the history of the English language
 - [Masterpieces of British Literature to the Eighteenth Century](https://www.youtube.com/playlist?list=PLKkZIp6qDGfTikOKgt6WGC3iWeK3ta-vh) by John McNamara, University of Houston; recorded some time in early 2000s
+- [English 2105 -- British Literature: Beginnings to 1700](https://www.youtube.com/playlist?list=PLVnV4NOfHN4UIaU6Kr5E2i8lUFhY2gTX1) — a core course in the English Undergraduate Program at the University of Ottawa; summer 2020
+- [Introduction to literary studies](https://www.youtube.com/playlist?list=PLbj9TGSJCXPPCcihfH3JObj9oeCiiX-Ri)
+- [Literary Theory: A Historical Survey by Christoph Reinfandt](https://www.youtube.com/playlist?list=PLcG-JMs8pzKs)
 - [American Literature I: Beginnings to Civil War](https://www.youtube.com/playlist?list=PLKkZIp6qDGfSbCalU5NKlcBbnGR38Jabu), by Cyrus Patell, New York University, recorded some time in early 2000s
 - [Contemporary American Literature](https://www.youtube.com/playlist?list=PLcWAPGREP_3HxT6P0zrz-4GgK1hDlxDxh), by John Pistelli, 2021
 - [The American Novel Since 1945](https://www.youtube.com/playlist?list=PLE33BCD966FF96F23), a Yale course by Amy Hungerford; recorder in early 2000s

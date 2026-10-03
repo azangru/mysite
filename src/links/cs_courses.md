@@ -31,7 +31,7 @@ published: true
 - [CST 3130 - Advanced Web Development with Big Data - youtube playlist](https://www.youtube.com/playlist?list=PLQbUxXl36NPhmdnB19GUlenWyuxcHSz2i) -  3rd-year undergraduate course at Middlesex University, London
 
 ## Mathematics
-- [Mathematics for Computer Science, MIT, 2024](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024)
+- [Mathematics for Computer Science, MIT, 2024](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024), [playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP61VNvICqk2HXJTonnKgAc9d)
 
 ## Computer graphics
 - 6.837: Introduction to Computer Graphics (fall 2021) ([youtube playlist](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtqt2yL3KgKV-yn0NEPbRVi))

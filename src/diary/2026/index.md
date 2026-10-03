@@ -3,6 +3,17 @@ title: "2026"
 layout: layouts/post.njk
 ---
 
+## September 30
+- Youtube has reminded me of the recorded lectures of Lawrence McEnerney.
+  - There is a text _[Writing in College](https://rebelsky.cs.grinnell.edu/Courses/Tutorial/2020F/files/writing-in-college.pdf)_ by McEnerney and  Joseph M. Williams, which is directed at new college students, and teaches them to write better at college level.
+
+## September 21
+- [Modern web types](https://philipwalton.com/articles/modern-web-types/), a typescript library built for features supported by just one browser; by Philip Walton.
+
+## September 20
+- [A github repo with design engineering skills by Emil Kowalski](https://github.com/emilkowalski/skills/blob/main/skills/emil-design-eng/SKILL.md)
+- Some practice javascript questions: https://www.practice-pad.app/questions
+
 ## September 11
 - As a reminder to myself: there's an [interesting article](https://pierre.computer/writing/on-rendering-diffs) on how someone is approaching the rendering of diffs with a virtualized view. The article shows the approach to be capable of renderig diffs as large as the million lines' Bun rewrite from Zig to Rust [link to demo](https://diffshub.com/oven-sh/bun/pull/30412)
 

@@ -3,6 +3,9 @@ title: "2026"
 layout: layouts/post.njk
 ---
 
+## October 6
+- A cool color-contrast checking tool from Clearleft: [this hue shall pass](https://thishueshallpass.clearleft.com/)
+
 ## September 30
 - Youtube has reminded me of the recorded lectures of Lawrence McEnerney.
   - There is a text _[Writing in College](https://rebelsky.cs.grinnell.edu/Courses/Tutorial/2020F/files/writing-in-college.pdf)_ by McEnerney and  Joseph M. Williams, which is directed at new college students, and teaches them to write better at college level.

@@ -15,6 +15,7 @@ published: true
 - [Page listing online courses and turorials](https://www.internationalphoneticassociation.org/content/online-phonetics-courses-and-tutorials) of the International Phonetic association site. Most linked sites are old; but this one, [Australian linguistics](https://australianlinguistics.com/), seems to have good materials on phonetics.
 - [Geoff Lindsey’s youtube channel](https://www.youtube.com/@DrGeoffLindsey)
 - [BBC Voices](https://sounds.bl.uk/Accents-and-dialects/BBC-Voices) — a collection of recordings of British dialects hosted by the British Library. Sadly, no longer available since late 2023, when the British Library got infected with ransomware, and had to rebuild their web resources from scratch. It is unclear whether the sounds archive will come back online. 
+- [A channel of Stephen Winters, a professor in linguistics at University of Calgary](https://www.youtube.com/watch?v=EQ_n1LzuZuc) — contains a lot of videos on phonetics, although they are not systematized
 
 ## History of English
 - [History of the English Language, University of Konstanz, Sprint 2019](https://www.youtube.com/playlist?list=PLUj-3pwbaDzPsiXWCQDr0_pwMAYG-iGpe) — Although the university is in Germany, the professor is English
@@ -30,6 +31,7 @@ published: true
 - [Contemporary American Literature](https://www.youtube.com/playlist?list=PLcWAPGREP_3HxT6P0zrz-4GgK1hDlxDxh), by John Pistelli, 2021
 - [The American Novel Since 1945](https://www.youtube.com/playlist?list=PLE33BCD966FF96F23), a Yale course by Amy Hungerford; recorder in early 2000s
 - [Old English in Context](https://podcasts.ox.ac.uk/keywords/old-english), by Stuart Lee, 2007
+- [The Literature Channel](https://www.youtube.com/@theliteraturechannel9755/playlists) — contains playlists with different literature courses
 
 ## Bible
 - The Bible and English Literature, by Northrop Frye

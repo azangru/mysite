@@ -3,6 +3,19 @@ title: "2026"
 layout: layouts/post.njk
 ---
 
+## October 31
+- A [coding challenge](https://github.com/hmcts/dts-developer-challenge) from HMCTS Digital and Technology Services
+
+## October 17
+- Surma's actor model for UI:
+  - [actor-boilerplate at PolymerLabs](https://github.com/PolymerLabs/actor-boilerplate)
+  - [actor-helpers at PolymerLabs](https://github.com/PolymerLabs/actor-helpers)
+  - [Clooney library](https://github.com/GoogleChromeLabs/clooney)
+
+## October 16
+- These [coding challenges](https://thecodingtrain.com/challenges) might be interesting
+- [Virtual scroller research](https://github.com/WICG/virtual-scroller) from the web incubator community group
+
 ## October 6
 - A cool color-contrast checking tool from Clearleft: [this hue shall pass](https://thishueshallpass.clearleft.com/)
 

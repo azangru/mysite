@@ -3,6 +3,15 @@ title: "2026"
 layout: layouts/post.njk
 ---
 
+## November 10
+- [Playlist of the HelloStavanger 2026 conference](https://www.youtube.com/playlist?list=PLCH701MSjZeQ). Brecht De Ruyte's [talk](https://www.youtube.com/watch?v=_ju_zRVtKDo) on modern CSS capabilities was especially interesting.
+
+## November 4
+- [DotJS 2026 playlist](https://www.youtube.com/playlist?list=PLAW8Dc4Z3CGI)
+
+## November 2
+- [GenomeSpy](https://github.com/genome-spy/genome-spy) — a genome visualisation tool, built using webgl, clearly with help of ai
+
 ## October 31
 - A [coding challenge](https://github.com/hmcts/dts-developer-challenge) from HMCTS Digital and Technology Services
 

@@ -3,6 +3,9 @@ title: "2026"
 layout: layouts/post.njk
 ---
 
+## November 15
+- Jerome Hardaway created a [repo](https://github.com/Vets-Who-Code/ai-era-job-kit) with a "portfolio-first job search kit". I'm not sure it's any good; but saving this regardless.
+
 ## November 12
 - A [Socratic tutor](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md) skill by Jane Street
 
